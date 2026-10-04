@@ -165,20 +165,20 @@ export const prophets = [
     "pname": "Dhul-Kifl (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=dawud",
+    "aria": "Read the story of Dawud",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M16 8c8 0 8 10 2 14l-2 12\"/><path d=\"M32 8c-8 0-8 10-2 14l2 12\"/><path d=\"M18 15h12M17 21h14M17 27h14\"/><path d=\"M13 40h22\"/>",
     "pnum": "XVII",
     "pname": "Dawud (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=sulayman",
+    "aria": "Read the story of Sulayman",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<circle cx=\"24\" cy=\"30\" r=\"9\"/><path d=\"M24 21l-4-9h8z\"/>",
     "pnum": "XVIII",

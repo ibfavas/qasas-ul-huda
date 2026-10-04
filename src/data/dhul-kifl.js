@@ -222,9 +222,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=dawud",
+      "label": "Next chapter: XVII",
+      "title": "Dawud (AS): The Possessor of Strength",
       "arrow": "next"
     }
   ]
