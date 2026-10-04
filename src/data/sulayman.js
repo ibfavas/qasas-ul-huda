@@ -590,9 +590,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=ilyas",
+      "label": "Next chapter: XIX",
+      "title": "Ilyas (AS): One of the Messengers",
       "arrow": "next"
     }
   ]
