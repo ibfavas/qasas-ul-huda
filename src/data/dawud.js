@@ -247,7 +247,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains that the iron was made so soft for Dawud (AS) that he did not need to heat it in the fire or beat it with a hammer; he could twist it in his hands like a thread. He records that Dawud (AS) was the first person ever to make chain mail, before which men wore plated armour, and that the command to balance the rings means not to make the rivets so loose that the rings shake, nor so tight that they cannot move, but just right. This is commentary, not revelation.",
+          "text": "Ibn Kathir explains that the iron was made so soft for Dawud (AS) that he did not need to heat it in the fire or beat it with a hammer; he could twist it in his hands like a thread. He records that Dawud (AS) was the first person ever to make chain mail, before which men wore plated armour, and that the command to balance the rings means not to make the rivets so loose that the rings shake, nor so tight that they cannot move, but just right.",
           "href": "https://quran.com/34:11/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 34:11 &middot; quran.com"
         }
@@ -439,7 +439,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir records the two rulings this way, explaining what Allah praised in the case. Dawud (AS) ruled that the owner of the crop should keep the sheep. Sulayman (AS) ruled that the field should be handed to the owner of the sheep, to tend it until it grew back as it was, while the sheep were handed to the owner of the crop, to benefit from them until the field was restored; then each man&rsquo;s property would be returned to him. Allah praised Sulayman (AS) for the understanding given to him, and He did not condemn Dawud (AS); to both of them He gave judgement and knowledge. This is commentary, not revelation.",
+          "text": "Ibn Kathir records the two rulings this way, explaining what Allah praised in the case. Dawud (AS) ruled that the owner of the crop should keep the sheep. Sulayman (AS) ruled that the field should be handed to the owner of the sheep, to tend it until it grew back as it was, while the sheep were handed to the owner of the crop, to benefit from them until the field was restored; then each man&rsquo;s property would be returned to him. Allah praised Sulayman (AS) for the understanding given to him, and He did not condemn Dawud (AS); to both of them He gave judgement and knowledge.",
           "href": "https://quran.com/21:79/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 21:79 &middot; quran.com"
         }

@@ -113,7 +113,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir relates that the trials struck Ayyub (AS) in his wealth, his children and his health, until nothing of this world was left to him but his wife, who stayed devoted to him and served people to earn his food. Through it all, he writes, Ayyub (AS) had the utmost patience, and turned his emptied heart to the remembrance and praise of Allah, saying: &ldquo;O Lord, You gave me wealth and children, and there was no one standing at my door complaining of some wrong I had done to him.&rdquo; This is commentary, not revelation.",
+          "text": "Ibn Kathir relates that the trials struck Ayyub (AS) in his wealth, his children and his health, until nothing of this world was left to him but his wife, who stayed devoted to him and served people to earn his food. Through it all, he writes, Ayyub (AS) had the utmost patience, and turned his emptied heart to the remembrance and praise of Allah, saying: &ldquo;O Lord, You gave me wealth and children, and there was no one standing at my door complaining of some wrong I had done to him.&rdquo;",
           "href": "https://quran.com/21:83/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 21:83-84 &middot; quran.com"
         }
@@ -207,7 +207,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains that during his illness Ayyub (AS) had sworn that if Allah healed him he would strike his wife a hundred blows over something she had done, and that once he was healed, her devoted service could not be repaid with a beating. So Allah showed him the way out: a bundle of grass with a hundred stems, struck once, fulfilling the oath without breaking it. He adds that the restoration came in return for his patience, steadfastness, humility and constant turning to Allah, a reminder to people of understanding that the consequence of patience is a solution and a way out. This is commentary, not revelation.",
+          "text": "Ibn Kathir explains that during his illness Ayyub (AS) had sworn that if Allah healed him he would strike his wife a hundred blows over something she had done, and that once he was healed, her devoted service could not be repaid with a beating. So Allah showed him the way out: a bundle of grass with a hundred stems, struck once, fulfilling the oath without breaking it. He adds that the restoration came in return for his patience, steadfastness, humility and constant turning to Allah, a reminder to people of understanding that the consequence of patience is a solution and a way out.",
           "href": "https://quran.com/38:41/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 38:41-44 &middot; quran.com"
         }

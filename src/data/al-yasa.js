@@ -103,7 +103,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir (Abridged), commenting on this passage of Surah Al-An'am, gathers the whole noble list into one description: they are those to whom Allah gave the Book, the judgement and prophethood, bestowing these bounties on them as a mercy for the servants and a kindness to creation. Al-Yasa (AS) is named inside that gathering, and the commentary adds no story of him beyond the company the verse itself places him in. This is commentary, not revelation.",
+          "text": "Ibn Kathir (Abridged), commenting on this passage of Surah Al-An'am, gathers the whole noble list into one description: they are those to whom Allah gave the Book, the judgement and prophethood, bestowing these bounties on them as a mercy for the servants and a kindness to creation. Al-Yasa (AS) is named inside that gathering, and the commentary adds no story of him beyond the company the verse itself places him in.",
           "href": "https://quran.com/6:86/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 6:86 &middot; quran.com"
         },
@@ -133,7 +133,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir (Abridged), on the verse of remembrance in Surah Sad, explains the rank named there: they are among those who have been elected and chosen, and they are the best and the chosen ones. It is in this sense that Al-Yasa (AS) is remembered among the elect, by the testimony of the verse and the agreement of its commentary. This is commentary, not revelation.",
+          "text": "Ibn Kathir (Abridged), on the verse of remembrance in Surah Sad, explains the rank named there: they are among those who have been elected and chosen, and they are the best and the chosen ones. It is in this sense that Al-Yasa (AS) is remembered among the elect, by the testimony of the verse and the agreement of its commentary.",
           "href": "https://quran.com/38:48/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 38:48 &middot; quran.com"
         },

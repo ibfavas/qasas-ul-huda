@@ -194,7 +194,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On Lut (AS)&rsquo;s plea &ldquo;these are my daughters,&rdquo; Ibn Kathir presents the mainstream reading of Mujahid and Qatadah: he meant the women of his nation, for every prophet is like a father to his nation. This is commentary, not revelation, and it guards against misreading the verse.",
+          "text": "On Lut (AS)&rsquo;s plea &ldquo;these are my daughters,&rdquo; Ibn Kathir presents the mainstream reading of Mujahid and Qatadah: he meant the women of his nation, for every prophet is like a father to his nation. It guards against misreading the verse.",
           "href": "https://quran.com/11:77/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 11:77-78 &middot; quran.com"
         }

@@ -208,7 +208,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;I only complain of my suffering and my grief to Allah,&rdquo; Qatadah and other scholars note that Ya&lsquo;qub (AS) suppressed his sorrow and complained to no created being. And on &ldquo;I know from Allah that which you do not know,&rdquo; Ibn Abbas explains: the vision Yusuf (AS) saw is truthful, and Allah will certainly make it come true. Grief held privately; hope placed in Allah alone. This is commentary, not revelation.",
+          "text": "On &ldquo;I only complain of my suffering and my grief to Allah,&rdquo; Qatadah and other scholars note that Ya&lsquo;qub (AS) suppressed his sorrow and complained to no created being. And on &ldquo;I know from Allah that which you do not know,&rdquo; Ibn Abbas explains: the vision Yusuf (AS) saw is truthful, and Allah will certainly make it come true. Grief held privately; hope placed in Allah alone.",
           "href": "https://quran.com/12:86/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 12:86-87 &middot; quran.com"
         }
@@ -295,7 +295,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;die not except as Muslims,&rdquo; Ibn Kathir notes these prophets loved the words of submission so deeply that they preserved them until the hour of death and enjoined their children to hold to them after. Ya&lsquo;qub (AS)&rsquo;s final counsel was not a new instruction but the lifelong creed, handed down at the last hour. This is commentary, not revelation.",
+          "text": "On &ldquo;die not except as Muslims,&rdquo; Ibn Kathir notes these prophets loved the words of submission so deeply that they preserved them until the hour of death and enjoined their children to hold to them after. Ya&lsquo;qub (AS)&rsquo;s final counsel was not a new instruction but the lifelong creed, handed down at the last hour.",
           "href": "https://quran.com/2:132/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 2:132 &middot; quran.com"
         }

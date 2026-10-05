@@ -350,7 +350,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains that in granting Harun (AS), Allah answered the request Musa (AS) had made for his brother and made Harun (AS) a prophet as well, out of His mercy. He points to that same request, that Harun (AS) be sent with Musa (AS) as a helper to confirm him, and to the answer that was given to Musa (AS). This is commentary, not revelation.",
+          "text": "Ibn Kathir explains that in granting Harun (AS), Allah answered the request Musa (AS) had made for his brother and made Harun (AS) a prophet as well, out of His mercy. He points to that same request, that Harun (AS) be sent with Musa (AS) as a helper to confirm him, and to the answer that was given to Musa (AS).",
           "href": "https://quran.com/19:53/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 19:53 &middot; quran.com"
         }

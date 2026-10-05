@@ -107,7 +107,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir (Abridged) treats this passage in the company of the account of patience under trial that precedes it, and it offers no story, lineage, people, or deeds for Dhul-Kifl (AS). Its silence matches the brevity of the verse itself, which names him among the patient and the righteous and says no more. This is commentary, not revelation.",
+          "text": "Ibn Kathir (Abridged) treats this passage in the company of the account of patience under trial that precedes it, and it offers no story, lineage, people, or deeds for Dhul-Kifl (AS). Its silence matches the brevity of the verse itself, which names him among the patient and the righteous and says no more.",
           "href": "https://quran.com/21:85/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 21:85 &middot; quran.com"
         },

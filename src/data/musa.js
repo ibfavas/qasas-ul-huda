@@ -496,7 +496,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir records the commentators on the parting: the divided sea stood like mighty mountains, and Ibn Abbas said it split into twelve paths, one for each tribe, the water raised like walls between them, while Allah sent the wind over the seabed to make it dry for the crossing. This is commentary, not revelation.",
+          "text": "Ibn Kathir records the commentators on the parting: the divided sea stood like mighty mountains, and Ibn Abbas said it split into twelve paths, one for each tribe, the water raised like walls between them, while Allah sent the wind over the seabed to make it dry for the crossing.",
           "href": "https://quran.com/26:63/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 26:63 &middot; quran.com"
         },
@@ -631,7 +631,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir identifies this servant as Al-Khidr, as the authentic hadiths indicate: a man given mercy from Allah and knowledge taught directly from His presence, knowledge that Musa (AS) had not been granted. It was to learn from him that Musa (AS) travelled to the junction of the two seas. This is commentary, not revelation.",
+          "text": "Ibn Kathir identifies this servant as Al-Khidr, as the authentic hadiths indicate: a man given mercy from Allah and knowledge taught directly from His presence, knowledge that Musa (AS) had not been granted. It was to learn from him that Musa (AS) travelled to the junction of the two seas.",
           "href": "https://quran.com/18:65/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 18:65 &middot; quran.com"
         },

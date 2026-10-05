@@ -98,7 +98,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;do not deprive people of their due,&rdquo; Ibn Kathir explains: do not shortchange them. Give as you take, and take as you give: full measure when you deliver, and no grasping for more when you receive. This is commentary, not revelation.",
+          "text": "On &ldquo;do not deprive people of their due,&rdquo; Ibn Kathir explains: do not shortchange them. Give as you take, and take as you give: full measure when you deliver, and no grasping for more when you receive.",
           "href": "https://quran.com/26:183/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 26:183-184 &middot; quran.com"
         },
@@ -169,7 +169,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;I do not intend to differ from you in that which I have forbidden you,&rdquo; Qatadah explains: he is saying, I do not forbid you a thing while I do it myself. And on &ldquo;I only intend reform as much as I am able,&rdquo; Ibn Kathir explains that in all he commanded and forbade, Shuayb (AS) sought only to set his people&rsquo;s affairs right, as much as he was able, and that success in it comes from Allah alone, upon whom he relied and to whom he returned. This is commentary, not revelation.",
+          "text": "On &ldquo;I do not intend to differ from you in that which I have forbidden you,&rdquo; Qatadah explains: he is saying, I do not forbid you a thing while I do it myself. And on &ldquo;I only intend reform as much as I am able,&rdquo; Ibn Kathir explains that in all he commanded and forbade, Shuayb (AS) sought only to set his people&rsquo;s affairs right, as much as he was able, and that success in it comes from Allah alone, upon whom he relied and to whom he returned.",
           "href": "https://quran.com/11:88/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 11:88 &middot; quran.com"
         }

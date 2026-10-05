@@ -108,7 +108,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;Iram, of the pillars,&rdquo; Ibn Kathir records that &lsquo;Ad were the mightiest people of their time in physique and power, living in houses raised on firm pillars. He prefers the view that &ldquo;the like of which were never created in the land&rdquo; refers to the tribe&rsquo;s unmatched strength itself, calling the pillars-only reading weak. And Hud (AS) reminded them to spend that strength in obedience to the Lord who gave it. This is commentary, not revelation.",
+          "text": "On &ldquo;Iram, of the pillars,&rdquo; Ibn Kathir records that &lsquo;Ad were the mightiest people of their time in physique and power, living in houses raised on firm pillars. He prefers the view that &ldquo;the like of which were never created in the land&rdquo; refers to the tribe&rsquo;s unmatched strength itself, calling the pillars-only reading weak. And Hud (AS) reminded them to spend that strength in obedience to the Lord who gave it.",
           "href": "https://quran.com/89:7/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 89:7-8 &middot; quran.com"
         }

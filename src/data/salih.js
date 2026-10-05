@@ -134,7 +134,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir details the arrangement: the she-camel drank from her well one day and left it for Thamud the next, and on her drinking days they milked her and filled their containers from her milk. He places Thamud after &lsquo;Ad, dwelling at Al-Hijr between the Hijaz and Ash-Sham, where the Prophet (ﷺ) would later pass on the way to Tabuk. This is commentary, not revelation.",
+          "text": "Ibn Kathir details the arrangement: the she-camel drank from her well one day and left it for Thamud the next, and on her drinking days they milked her and filled their containers from her milk. He places Thamud after &lsquo;Ad, dwelling at Al-Hijr between the Hijaz and Ash-Sham, where the Prophet (ﷺ) would later pass on the way to Tabuk.",
           "href": "https://quran.com/7:73/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 7:73 &middot; quran.com"
         }

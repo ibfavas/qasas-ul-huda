@@ -125,7 +125,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains that when the Quran says Sulayman (AS) inherited Dawud (AS), it means inheritance in kingship and prophethood, not in wealth. If wealth were meant, Sulayman (AS) would not have been singled out from the other sons of Dawud (AS), for the wealth of the prophets is not inherited; what they leave behind is charity. What Sulayman (AS) inherited was the kingdom and the prophethood of his father. This is commentary, not revelation.",
+          "text": "Ibn Kathir explains that when the Quran says Sulayman (AS) inherited Dawud (AS), it means inheritance in kingship and prophethood, not in wealth. If wealth were meant, Sulayman (AS) would not have been singled out from the other sons of Dawud (AS), for the wealth of the prophets is not inherited; what they leave behind is charity. What Sulayman (AS) inherited was the kingdom and the prophethood of his father.",
           "href": "https://quran.com/27:16/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 27:16 &middot; quran.com"
         }
@@ -504,7 +504,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir tells how Sulayman (AS) remained leaning on his stick, which was his staff, for a long time, nearly a year, while the jinn continued in the hard labour they were subjected to. A creature of the earth ate through the stick until it weakened and he fell to the ground, and then it became clear that he had died long before, and clear to jinn and men alike that the jinn do not know the unseen. This is commentary, not revelation.",
+          "text": "Ibn Kathir tells how Sulayman (AS) remained leaning on his stick, which was his staff, for a long time, nearly a year, while the jinn continued in the hard labour they were subjected to. A creature of the earth ate through the stick until it weakened and he fell to the ground, and then it became clear that he had died long before, and clear to jinn and men alike that the jinn do not know the unseen.",
           "href": "https://quran.com/34:14/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 34:14 &middot; quran.com"
         }

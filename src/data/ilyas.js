@@ -79,7 +79,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir (Abridged) records that Ibn Abbas, Mujahid, Ikrimah, Qatadah and As-Suddi understood the word Ba'l to mean a lord, and he also records the report that it was the name of an idol worshipped by the people of Ba'labak, a city to the west of Damascus. On the denial that follows, he explains that they will be brought forth for the punishment on the Day of Reckoning, and that the ones excepted are those who worshipped Allah alone. This is commentary, not revelation.",
+          "text": "Ibn Kathir (Abridged) records that Ibn Abbas, Mujahid, Ikrimah, Qatadah and As-Suddi understood the word Ba'l to mean a lord, and he also records the report that it was the name of an idol worshipped by the people of Ba'labak, a city to the west of Damascus. On the denial that follows, he explains that they will be brought forth for the punishment on the Day of Reckoning, and that the ones excepted are those who worshipped Allah alone.",
           "href": "https://quran.com/37:123/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 37:123 &middot; quran.com"
         },

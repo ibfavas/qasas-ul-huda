@@ -116,7 +116,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains the details the Quran leaves unstated: the ship had been filled with cargo, it was being pounded by waves until those aboard feared drowning, and they drew lots so that one man would be thrown overboard to lighten it. He records that Allah sent a great fish, which swallowed Yunus (AS) without cutting his flesh or breaking his bones. This is commentary, not revelation.",
+          "text": "Ibn Kathir explains the details the Quran leaves unstated: the ship had been filled with cargo, it was being pounded by waves until those aboard feared drowning, and they drew lots so that one man would be thrown overboard to lighten it. He records that Allah sent a great fish, which swallowed Yunus (AS) without cutting his flesh or breaking his bones.",
           "href": "https://quran.com/37:141/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 37:141 &middot; quran.com"
         },
@@ -153,7 +153,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir records the explanation given by Ibn Mas'ud, Ibn Abbas and others: the darknesses were the darkness of the belly of the fish, the darkness of the sea and the darkness of the night. This is commentary, not revelation.",
+          "text": "Ibn Kathir records the explanation given by Ibn Mas'ud, Ibn Abbas and others: the darknesses were the darkness of the belly of the fish, the darkness of the sea and the darkness of the night.",
           "href": "https://quran.com/21:87/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 21:87 &middot; quran.com"
         },
@@ -321,7 +321,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains that no other town believed in its entirety in time for its belief to benefit it, and he records that between Musa (AS) and Yunus (AS) there was no nation that believed as a whole except the people of Yunus (AS). This is commentary, not revelation.",
+          "text": "Ibn Kathir explains that no other town believed in its entirety in time for its belief to benefit it, and he records that between Musa (AS) and Yunus (AS) there was no nation that believed as a whole except the people of Yunus (AS).",
           "href": "https://quran.com/10:98/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 10:98 &middot; quran.com"
         },
