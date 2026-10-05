@@ -224,9 +224,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=yunus",
+      "label": "Next chapter: XXI",
+      "title": "Yunus (AS): The Call in the Darknesses",
       "arrow": "next"
     }
   ]

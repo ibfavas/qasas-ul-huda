@@ -1,2 +1,5 @@
 node_modules/
 dist/
+media-generation-*.json
+media-generation-*.webp
+notes/

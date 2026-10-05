@@ -20,6 +20,7 @@ import { chapter as dawud } from './dawud.js';
 import { chapter as sulayman } from './sulayman.js';
 import { chapter as ilyas } from './ilyas.js';
 import { chapter as alYasa } from './al-yasa.js';
+import { chapter as yunus } from './yunus.js';
 
 export const chapters = {
   adam,
@@ -42,6 +43,7 @@ export const chapters = {
   sulayman,
   ilyas,
   'al-yasa': alYasa,
+  yunus,
 };
 
-export const chapterOrder = ['adam', 'idris', 'nuh', 'hud', 'salih', 'ibrahim', 'lut', 'ismail', 'ishaq', 'yaqub', 'yusuf', 'ayyub', 'shuayb', 'musa', 'harun', 'dhul-kifl', 'dawud', 'sulayman', 'ilyas', 'al-yasa'];
+export const chapterOrder = ['adam', 'idris', 'nuh', 'hud', 'salih', 'ibrahim', 'lut', 'ismail', 'ishaq', 'yaqub', 'yusuf', 'ayyub', 'shuayb', 'musa', 'harun', 'dhul-kifl', 'dawud', 'sulayman', 'ilyas', 'al-yasa', 'yunus'];
