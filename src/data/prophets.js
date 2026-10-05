@@ -215,20 +215,20 @@ export const prophets = [
     "pname": "Yunus (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=zakariya",
+    "aria": "Read the story of Zakariya",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M14 40V22l10-10 10 10v18\"/><path d=\"M14 40h20\"/><path d=\"M20 40v-8a4 4 0 0 1 8 0v8\"/>",
     "pnum": "XXII",
     "pname": "Zakariya (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=yahya",
+    "aria": "Read the story of Yahya",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M24 40V18\"/><path d=\"M24 26c-6 0-10-4-10-10 6 0 10 4 10 10z\"/><path d=\"M24 22c6 0 10-4 10-10-6 0-10 4-10 10z\"/>",
     "pnum": "XXIII",

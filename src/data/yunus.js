@@ -449,9 +449,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=zakariya",
+      "label": "Next chapter: XXII",
+      "title": "Zakariya (AS): The Call Made in Secret",
       "arrow": "next"
     }
   ]
