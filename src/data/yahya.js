@@ -339,9 +339,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=isa",
+      "label": "Next chapter: XXIV",
+      "title": "Isa (AS): The Word of Truth",
       "arrow": "next"
     }
   ]

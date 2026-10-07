@@ -235,10 +235,10 @@ export const prophets = [
     "pname": "Yahya (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=isa",
+    "aria": "Read the story of Isa",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M8 22h32v4a16 8 0 0 1-32 0z\"/><path d=\"M13 22c0-6 4-9 4-9M35 22c0-6-4-9-4-9\"/>",
     "pnum": "XXIV",
