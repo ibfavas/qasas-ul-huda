@@ -1,11 +1,7 @@
 /* yahya chapter data: Yahya (AS), Chapter XXIII.
-   Follows the locked Adam chapter template: scene-by-scene storybook,
-   verse panels (Arabic + Saheeh International), labeled commentary
-   panels, lessons, verse-grounded quiz, and a sources note.
-   The Quran gives Yahya (AS) announcements and descriptions rather than
-   a narrative; this chapter says only what those passages say, and no
-   more. Arabic and translation strings were copied from the Quran.com
-   API (Uthmani text, Saheeh International resource 20). */
+   Story format: prose scenes written for young readers, following the
+   classical telling of the story. No verse or hadith panels, no sources
+   note card, by the site owner's instruction. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XXIII",
@@ -16,319 +12,174 @@ export const chapter = {
     "caption": "“And peace be upon him the day he was born and the day he dies and the day he is raised alive.” (Quran 19:15)"
   },
   "railLabels": [
-    "The Name No One Had Worn Before",
-    "Take the Scripture with Determination",
-    "Affection from Us",
-    "Dutiful to His Parents",
-    "Honorable, Chaste, a Prophet",
-    "Peace on the Three Days",
-    "Of the Righteous"
+    "The Child Who Never Played",
+    "He Wept, and Made a City Weep",
+    "The Cousin From the Cradle",
+    "A Prophet's Price"
   ],
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: The Name No One Had Worn Before",
-      "title": "The Name No One Had Worn Before",
+      "ariaLabel": "Scene 1: The Child Who Never Played",
+      "title": "The Child Who Never Played",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 7"
+          "html": "Scene 1 of 4"
         },
         {
           "t": "h2",
-          "html": "The Name No One Had Worn Before"
+          "html": "The Child Who Never Played"
         },
         {
           "t": "p",
-          "cls": "dropcap",
-          "html": "Before Yahya (AS) drew breath, his name had already been spoken by his Lord. The tidings came to his father in the prayer chamber, and the child they announced did not carry a family name or a grandfather's name. He carried a name with no history in the world: We have not assigned to any before this name."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 19:7",
-          "arabic": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا",
-          "translation": "[He was told],<sup foot_note=196721>1</sup> \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\"",
-          "citation": "Surah 19 &middot; Verse 7 &middot; Saheeh International"
+          "html": "Yahya was announced before he existed, and named before he was born: O Zakariyah, good news of a boy whose name will be Yahya, a name We have not given anyone before. He arrived in the arms of a father near a century old, and he grew up, the reports agree, unlike every other child in the neighbourhood. Where the other children chased games, Yahya (AS) chased knowledge. Where they tormented animals, he fed them, sharing his own food with the creatures and sometimes leaving himself with nothing but leaves and fruit from the trees.",
+          "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "He is the answer to an old man's secret prayer, and he arrives in the record the way he arrived in his father's life: named by heaven before he was known on earth."
+          "html": "Allah's command to him came while he was still a boy: O Yahya, hold firmly to the Book. And We gave him wisdom while yet a child, and tenderness from Us, and purity, and he was righteous, and dutiful to his parents, and he was not an arrogant tyrant. It is worth pausing over that inventory, because heaven does not compose such lists carelessly. Tenderness: the scholars explain the word as a mother's kind of mercy, implanted by Allah in a man's chest. Purity: a soul absolved and sincere. Wisdom: judgment granted in childhood rather than old age, an authority on the scripture of Musa (AS) while other boys were still learning it. He never married; his chastity is part of his Quranic description, a master, chaste, and a prophet from among the righteous. And Allah crowned the portrait with a greeting spoken over only two cradles in all of history: Peace be upon him the day he was born, and the day he dies, and the day he is raised alive."
         }
       ]
     },
     {
       "id": "scene-2",
-      "ariaLabel": "Scene 2: Take the Scripture with Determination",
-      "title": "Take the Scripture with Determination",
+      "ariaLabel": "Scene 2: He Wept, and Made a City Weep",
+      "title": "He Wept, and Made a City Weep",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 7"
+          "html": "Scene 2 of 4"
         },
         {
           "t": "h2",
-          "html": "Take the Scripture with Determination"
+          "html": "He Wept, and Made a City Weep"
         },
         {
           "t": "p",
-          "cls": "dropcap",
-          "html": "The Quran does not linger over his birth or his boyhood games. It moves from his naming to his commissioning in a single stride, and the first words addressed to him are a command: take the Scripture with determination. Then, almost in the same breath, the astonishment: the judgement was given to him while he was still a boy."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 19:12",
-          "arabic": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ بِقُوَّةٍ ۖ وَءَاتَيْنَـٰهُ ٱلْحُكْمَ صَبِيًّا",
-          "translation": "[Allāh said], \"O John, take the Scripture [i.e., adhere to it] with determination.\" And We gave him judgement [while yet] a boy",
-          "citation": "Surah 19 &middot; Verse 12 &middot; Saheeh International"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir explains the command as learning the Book with strength, with zeal and studious effort, and he explains the judgement given to a boy as understanding, knowledge, fortitude, diligence and zeal for good and the pursuit of good, granted to him while he was young.",
-          "href": "https://quran.com/19:12/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 19:12 &middot; quran.com"
+          "html": "Yahya (AS) found his peace in the open country. He slept in fields and caves, spent his nights in prayer and tears, and passed wild animals who left him to his Lord. The accounts tell of a heart so tender that weeping marked his cheeks, and of a father searching for his son for three days before finding him resting in a grave he had dug for himself. My son, I have been looking for you, and here you are, dwelling in a grave, weeping. Yahya (AS) answered: O father, did you not teach me that between Paradise and Hell lies only a short span, and it is crossed only on the tears of those who weep? And old Zakariyah (AS) said: Weep then, my son, and the two of them wept together.",
+          "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Other children grow into their duties slowly, by years. Yahya (AS) received his as a boy, and the Quran presents the small shoulders carrying the Scripture as part of the favour shown to his parents' prayers."
+          "html": "That softness was his preaching style too. Yahya (AS) called his people to worship Allah alone, counselled them, warned them against disobedience, and urged them to repent, and his words went into them like rain into dry earth: the accounts say his listeners wept without embarrassment, every time, in love and reverence for Allah. It is a strange kind of power, the kind that carries no sword and commands no army. A prophet whose tears were his pulpit, whose dinner company was animals because he feared what mixing with crowds would do to his heart, and whose whole public ministry can be summarised as a tender man begging his generation, through tears, to come back to Allah before the span between Paradise and Hell had to be crossed the hard way."
         }
       ]
     },
     {
       "id": "scene-3",
-      "ariaLabel": "Scene 3: Affection from Us",
-      "title": "Affection from Us",
+      "ariaLabel": "Scene 3: The Cousin From the Cradle",
+      "title": "The Cousin From the Cradle",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 7"
+          "html": "Scene 3 of 4"
         },
         {
           "t": "h2",
-          "html": "Affection from Us"
+          "html": "The Cousin From the Cradle"
         },
         {
           "t": "p",
-          "cls": "dropcap",
-          "html": "Commanded to strength, he was clothed in softness. Allah says that upon the judgement He placed affection from Himself, and purity, and that Yahya (AS) was one who feared Allah. The boy with the firm grip on the Book had a tenderness to match it, and the Quran says plainly where both came from: from Us."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 19:13",
-          "arabic": "وَحَنَانًا مِّن لَّدُنَّا وَزَكَوٰةً ۖ وَكَانَ تَقِيًّا",
-          "translation": "And affection from Us and purity, and he was fearing of Allāh",
-          "citation": "Surah 19 &middot; Verse 13 &middot; Saheeh International"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir records that the affection (hanan) given to Yahya (AS) was compassion and tenderness towards others, and Mujahid explained it as gentleness from his Lord upon him.",
-          "href": "https://quran.com/19:13/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 19:13 &middot; quran.com"
+          "html": "His mission had a destination, and the angels announced it at his conception: he would be confirming a Word from Allah. The Word was his cousin. The historians say Maryam's mother and Yahya's mother were sisters, which made Yahya (AS) and Isa (AS) cousins, the forerunner and the Messiah, born months apart into the same small blessed family. The Quran draws them with parallel pens. Where Yahya (AS) is dutiful to his parents, Isa (AS) speaks from the cradle as dutiful to his mother, for he had no father. Where heaven pronounces peace on Yahya (AS) the day he was born, the day he dies, and the day he is raised, Isa (AS) pronounces the same threefold peace over himself. Protections at birth, at death and at resurrection: the scholars read them as safety from Satan's touch, from the trials of the grave, and from the terror of the Rising.",
+          "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Strength in the Scripture and softness towards people are rarely given together to the young. In Yahya (AS), the Quran joins them in a single verse."
+          "html": "The two cousins would meet once more, in circumstances no earthly family reunion could match. On the night of the Journey, when Muhammad ﷺ ascended through the heavens, he was greeted in the second heaven by Yahya (AS) and Isa (AS) together, and the cousins welcomed him with words every prophet in this book would envy: You are welcomed, O brother and a Prophet."
         }
       ]
     },
     {
       "id": "scene-4",
-      "ariaLabel": "Scene 4: Dutiful to His Parents",
-      "title": "Dutiful to His Parents",
+      "ariaLabel": "Scene 4: A Prophet's Price",
+      "title": "A Prophet's Price",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 7"
+          "html": "Scene 4 of 4"
         },
         {
           "t": "h2",
-          "html": "Dutiful to His Parents"
+          "html": "A Prophet's Price"
         },
         {
           "t": "p",
-          "cls": "dropcap",
-          "html": "And there is one more place his gentleness was spent before all others: at home. The son the old couple received in their whiteness grew up dutiful to the pair who had waited a lifetime for him, and the Quran defines the duty by what it was not. He was no tyrant over them, and no disobedient son."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 19:14",
-          "arabic": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا",
-          "translation": "And dutiful to his parents, and he was not a disobedient tyrant.",
-          "citation": "Surah 19 &middot; Verse 14 &middot; Saheeh International"
+          "html": "The end came as it had come for so many prophets of Israel, at the intersection of truth and a throne. The ruler Herod planned a marriage the Torah forbade, to his own niece, and the court's scholars obligingly blessed it. Yahya (AS), who had never trimmed a message for an audience in his life, condemned the marriage publicly as unlawful, across the land. It cost him the court's ear and won him its hatred, and the bride's family found their instrument in a palace feast, a dance, and a king's drunken oath to grant any wish. The wish, coached by her mother, was the head of Yahya (AS), because he had defiled their honour throughout the land. Herod, besotted and trapped by his own promise, complied. The prophet was seized and executed, and his head was carried in to a delighted court.",
+          "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The heir Zakariya (AS) prayed for, one who would inherit and be pleasing to his Lord, is shown in the end pleasing Him in the oldest way there is: kindness to father and mother."
-        }
-      ]
-    },
-    {
-      "id": "scene-5",
-      "ariaLabel": "Scene 5: Honorable, Chaste, a Prophet",
-      "title": "Honorable, Chaste, a Prophet",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 5 of 7"
-        },
-        {
-          "t": "h2",
-          "html": "Honorable, Chaste, a Prophet"
-        },
-        {
-          "t": "p",
-          "cls": "dropcap",
-          "html": "Before his birth the angels had already described him to his father, and the description is a portrait in four strokes. He would confirm a word from Allah. He would be honourable among men. He would be abstaining, holding himself back from what other men run after. And he would be a prophet, from among the righteous."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 3:39",
-          "arabic": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ",
-          "translation": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allāh gives you good tidings of John, confirming a word<sup foot_note=196050>1</sup> from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\"",
-          "citation": "Surah 3 &middot; Verse 39 &middot; Saheeh International"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir records that Ibn Abbas, Al-Hasan, Qatadah, Ikrimah, Mujahid and others explained “confirming a word from Allah” as believing in Isa (AS), the son of Maryam, and that “honorable” was explained as the noble, wise and pious man.",
-          "href": "https://quran.com/3:39/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 3:39 &middot; quran.com"
-        },
-        {
-          "t": "p",
-          "html": "Every line of the portrait was drawn before the sitter was born. The Quran then spends its verses on the boy showing that the portrait was accurate."
-        }
-      ]
-    },
-    {
-      "id": "scene-6",
-      "ariaLabel": "Scene 6: Peace on the Three Days",
-      "title": "Peace on the Three Days",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 6 of 7"
-        },
-        {
-          "t": "h2",
-          "html": "Peace on the Three Days"
-        },
-        {
-          "t": "p",
-          "cls": "dropcap",
-          "html": "Then the passage over Yahya (AS) closes with a greeting that covers his whole existence. Peace on him the day he was born, peace on him the day he dies, and peace on him the day he is raised alive. Childhood, death and resurrection, each of the three doorways of a human life, and over every one of them the same word stands guard."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 19:15",
-          "arabic": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
-          "translation": "And peace be upon him the day he was born and the day he dies and the day he is raised alive.",
-          "citation": "Surah 19 &middot; Verse 15 &middot; Saheeh International"
-        },
-        {
-          "t": "p",
-          "html": "The Quran does not narrate the death it greets. It does not show us the end of his life on earth, and this chapter will not invent what it leaves untold. What revelation sets down is the peace, spoken by Allah over all three days, and that is where it leaves him."
-        }
-      ]
-    },
-    {
-      "id": "scene-7",
-      "ariaLabel": "Scene 7: Of the Righteous",
-      "title": "Of the Righteous",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 7 of 7"
-        },
-        {
-          "t": "h2",
-          "html": "Of the Righteous"
-        },
-        {
-          "t": "p",
-          "cls": "dropcap",
-          "html": "In the roll of the righteous in Surah Al-An'am, the son stands where the tidings promised he would stand: in the company of prophets. His father's name comes just before his, and after his come Isa (AS) and Ilyas (AS), and over the whole company the verdict is one."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 6:85",
-          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
-          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
-          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
-        },
-        {
-          "t": "p",
-          "html": "All were of the righteous. The boy whose name had no bearer before him takes his place among them, and the short, luminous record the Quran keeps of him closes the way it opened: with peace. Peace be upon Yahya (AS)."
+          "html": "The Quran does not narrate his death; it had already pronounced his epitaph before he was born. Peace be upon him the day he was born, and the day he dies, and the day he is raised alive. The peace held. A court can schedule a prophet's execution; it cannot schedule his disgrace, and Yahya (AS) died as he had lived, unbent by the most powerful men of his country and folded into the protection of his Lord on all three of the days that matter. His father had prayed for an heir who would inherit the call and be pleasing to Allah. Heaven's answer was a boy who was wise before he was grown, tender before he was strong, and killed before he was old, without surrendering one word of the message. Some answers to prayer are short. None of them are small."
         }
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Maryam (19:7, 12-15), Surah Aal-e-Imran (3:39) and Surah Al-An'am (6:85), with three labeled panels from Tafsir Ibn Kathir (on 19:12, 19:13 and 3:39), clearly marked as commentary, not revelation. These passages are what the Quran tells of Yahya (AS), and this chapter says no more than they say.</p>\n      ",
   "lessons": [
-    "<strong>Named by Allah before he was born.</strong> Yahya (AS) carried a name assigned to no one before him, chosen by his Lord before his parents held him. (Quran 19:7)",
-    "<strong>Take the Scripture with determination.</strong> His first command was to hold the Book with strength, and the judgement to carry it was given to him while he was still a boy. (Quran 19:12)",
-    "<strong>Strength with softness.</strong> With the firm grip on the Scripture came affection from Allah and purity, and a heart that feared Him. (Quran 19:13)",
-    "<strong>Dutiful, never a tyrant.</strong> The heir of an old couple's prayers was dutiful to his parents and was not a disobedient tyrant. (Quran 19:14)",
-    "<strong>Peace over all three days.</strong> Birth, death and resurrection are each greeted with peace over Yahya (AS), spoken by Allah Himself. (Quran 19:15)"
+    "<strong>Tenderness is a strength heaven gives.</strong> Yahya's (AS) compassion was not a personality trait he happened to have; it was a gift Allah named first. Soft hearts and firm messages are not opposites.",
+    "<strong>Hold the Book with strength, from whatever age you are.</strong> Wisdom was granted to a child who preferred knowledge to games. Youth is not an excuse in Allah's accounting, and never was.",
+    "<strong>Truth does not take instructions from courts.</strong> Yahya (AS) condemned one unlawful marriage of one king, knowing Israel's history with prophets, and did not lower his voice. Integrity is priced in exactly such moments."
   ],
   "quiz": [
     {
-      "q": "What was unusual about the name Yahya (AS)?",
+      "q": "What was special about the name Yahya?",
       "options": [
-        "It was a king's name",
-        "Allah had assigned it to no one before",
-        "It was his father's name"
+        "It was his grandfather's name",
+        "Allah gave it before his birth, to no one before him",
+        "It means 'king of Israel'"
       ],
       "answer": 1,
-      "ref": "Quran 19:7"
+      "ref": "Story of Yahya (AS)"
     },
     {
-      "q": "What was Yahya (AS) commanded to do with the Scripture?",
+      "q": "What did Allah grant Yahya (AS) while he was still a child?",
       "options": [
-        "Take it with determination",
-        "Copy it for the people",
-        "Carry it to another land"
-      ],
-      "answer": 0,
-      "ref": "Quran 19:12"
-    },
-    {
-      "q": "At what age was judgement given to Yahya (AS)?",
-      "options": [
-        "In old age",
-        "While he was yet a boy",
-        "After his father's death"
+        "A kingdom",
+        "Wisdom, tenderness and purity",
+        "Command of an army"
       ],
       "answer": 1,
-      "ref": "Quran 19:12"
+      "ref": "Story of Yahya (AS)"
     },
     {
-      "q": "What did Allah give Yahya (AS) along with purity?",
+      "q": "What three days does the Quran pronounce peace over Yahya (AS)?",
       "options": [
-        "Wealth",
-        "Affection from Us",
-        "A kingdom"
+        "Birth, marriage and death",
+        "The day he was born, the day he dies, and the day he is raised alive",
+        "The days of his three journeys"
       ],
       "answer": 1,
-      "ref": "Quran 19:13"
+      "ref": "Story of Yahya (AS)"
     },
     {
-      "q": "How is Yahya (AS) described in relation to his parents?",
+      "q": "What was Yahya's (AS) announced mission regarding Isa (AS)?",
       "options": [
-        "Dutiful to them, and not a disobedient tyrant",
-        "Distant from them",
-        "Raised away from them"
+        "To oppose him",
+        "To confirm a Word from Allah, as his forerunner and cousin",
+        "To write his gospel"
       ],
-      "answer": 0,
-      "ref": "Quran 19:14"
+      "answer": 1,
+      "ref": "Story of Yahya (AS)"
     },
     {
-      "q": "Over which three days is peace pronounced on Yahya (AS)?",
+      "q": "Where did Zakariyah (AS) find his son after searching for three days?",
       "options": [
-        "His birth, his death, and the day he is raised alive",
-        "His birth, his marriage, and his death",
-        "His childhood, his prophethood, and his old age"
+        "On a mountain peak",
+        "Resting and weeping in a grave he had dug himself",
+        "Preaching in the market"
       ],
-      "answer": 0,
-      "ref": "Quran 19:15"
+      "answer": 1,
+      "ref": "Story of Yahya (AS)"
+    },
+    {
+      "q": "Why was Yahya (AS) executed?",
+      "options": [
+        "He refused to pay taxes",
+        "He publicly condemned the ruler's unlawful marriage, and the court demanded his head",
+        "He led a rebellion"
+      ],
+      "answer": 1,
+      "ref": "Story of Yahya (AS)"
     }
   ],
   "prevNext": [

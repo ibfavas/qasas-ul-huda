@@ -1,9 +1,7 @@
 /* dhul-kifl chapter data: Dhul-Kifl (AS), Chapter XVI.
-   Follows the locked Adam chapter template: scene-by-scene storybook,
-   verse panels (Arabic + Saheeh International), labeled commentary panels,
-   lessons, verse-grounded quiz, and a sources note.
-   The Quran names Dhul-Kifl (AS) only twice and tells none of his story;
-   this chapter says only what those two passages say, and no more. */
+   Story format: prose scenes written for young readers, following the
+   classical telling of the story. No verse or hadith panels, no sources
+   note card, by the site owner's instruction. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XVI",
@@ -14,204 +12,186 @@ export const chapter = {
     "caption": "“all were of the patient.” (Quran 21:85)"
   },
   "railLabels": [
-    "Named among the Patient",
-    "Counted among the Chosen",
-    "What the Name Carries",
-    "The Company Revelation Keeps for Him",
-    "What Silence Teaches"
+    "The Prophet Named Only Twice",
+    "Three Conditions for a Leader",
+    "The Enemy Who Wanted One Outburst",
+    "You Thwarted All My Plans"
   ],
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: Named among the Patient",
-      "title": "Named among the Patient",
+      "ariaLabel": "Scene 1: The Prophet Named Only Twice",
+      "title": "The Prophet Named Only Twice",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 5"
+          "html": "Scene 1 of 4"
         },
         {
           "t": "h2",
-          "html": "Named among the Patient"
+          "html": "The Prophet Named Only Twice"
         },
         {
           "t": "p",
-          "html": "The Quran brings Dhul-Kifl (AS) before the reader without a story around him. There is no town named for him, no people sent to him, and no trial laid out in sequence. His name arrives inside a short roll of honour, placed beside Isma'il (AS) and Idris (AS), and the sentence that carries the three of them is a sentence about patience. Allah names them, and then He testifies to what they were: all of them were of the patient.",
+          "html": "Of all the prophets in this book, Dhul-Kifl (AS) is the mystery. The Quran names him exactly twice, gives him no story, no people, no city, and yet places him in the highest company. Mention Ismail and Idris and Dhul-Kifl, it says: all were among the patient. And We admitted them into Our mercy. Indeed, they were of the righteous. And again: Remember Ismail and Al-Yasa and Dhul-Kifl, and all were among the best.",
           "cls": "dropcap"
         },
         {
-          "t": "verse",
-          "ref": "Quran 21:85-86",
-          "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
-          "translation": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. And We admitted them into Our mercy. Indeed, they were of the righteous.",
-          "citation": "Surah 21 &middot; Verses 85-86 &middot; Saheeh International"
+          "t": "p",
+          "html": "Even his name is not a name like the others. Dhul-Kifl means the possessor of the double portion, as if Allah doubled his reward, or as if he doubled everything asked of him: double the prayer, double the fasting, double the patience. Some scholars have wondered if he was the prophet known elsewhere as Ezekiel, but that connection is unproven. The strongest view, since Allah lists him between prophets, is that he was a prophet too. Beyond that, the Quran leaves his story in its keeping, and honesty requires us to say so."
         },
         {
           "t": "p",
-          "html": "The verse that follows does not add a deed or a journey. It adds a destination. They were admitted into the mercy of Allah, and they are declared to be among the righteous. That is the whole of the first mention: a name, a company, a quality, and a place inside divine mercy. Revelation gives Dhul-Kifl (AS) no biography here. It gives him a standing, and it lets the standing speak for itself."
+          "html": "But the commentators preserved a story about him, told by the great historian Ibn Jarir, and it explains the one quality both verses agree on: this was a man whom nothing could make angry."
         }
       ]
     },
     {
       "id": "scene-2",
-      "ariaLabel": "Scene 2: Counted among the Chosen",
-      "title": "Counted among the Chosen",
+      "ariaLabel": "Scene 2: Three Conditions for a Leader",
+      "title": "Three Conditions for a Leader",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 5"
+          "html": "Scene 2 of 4"
         },
         {
           "t": "h2",
-          "html": "Counted among the Chosen"
+          "html": "Three Conditions for a Leader"
         },
         {
           "t": "p",
-          "html": "The second mention comes in a passage of remembrance. The command is to remember, and the names remembered are honoured names. Here Dhul-Kifl (AS) is placed beside Isma'il (AS) and Al-Yasa (AS), and the judgement spoken over all of them is that they are among the outstanding. Once again, there is no narrative attached to the name. There is only the company he is counted in, and the rank that company carries.",
+          "html": "In the narration, the prophet Al-Yasa (AS) had grown old and was searching for a successor to guide the Children of Israel after him. He was not looking for the strongest man or the most learned. He gathered his companions and set three conditions that he believed revealed a true leader: whoever takes my place must fast during the day, stand in prayer and remembrance through the night, and never, ever lose his temper.",
           "cls": "dropcap"
         },
         {
-          "t": "verse",
-          "ref": "Quran 38:48",
-          "arabic": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
-          "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
-          "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
+          "t": "p",
+          "html": "A man stood up, a nobody, held in contempt by the people around him. He said he met all three conditions. Al-Yasa (AS) did not believe him and turned him down. Days later he gathered the people again and repeated the conditions in case anyone else qualified. The assembly sat silent, all except the same unknown man, who stood again. Al-Yasa (AS), struck by his persistence, appointed him his deputy. Then, being a wise old prophet, he quietly arranged for people to test the man, to coax him into a failure that would disqualify him. Every tester tried. Every tester failed. The deputy fasted, prayed, judged, and never raised his voice."
         },
         {
           "t": "p",
-          "html": "Two passages, then, hold everything the Quran says of him. In the first, he is patient, admitted into mercy, and righteous. In the second, he is remembered among the outstanding. A reader who comes looking for his story will not find it, and that absence is not a gap for anyone to fill. It is the shape revelation itself has chosen for this name."
+          "html": "So an enemy far older and cleverer than any human tester volunteered for the job. Leave him to me, said Iblis. I will take care of him."
         }
       ]
     },
     {
       "id": "scene-3",
-      "ariaLabel": "Scene 3: What the Name Carries",
-      "title": "What the Name Carries",
+      "ariaLabel": "Scene 3: The Enemy Who Wanted One Outburst",
+      "title": "The Enemy Who Wanted One Outburst",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 5"
+          "html": "Scene 3 of 4"
         },
         {
           "t": "h2",
-          "html": "What the Name Carries"
+          "html": "The Enemy Who Wanted One Outburst"
         },
         {
           "t": "p",
-          "html": "The name itself is Arabic, and its wording can be heard in plain terms. Dhul-Kifl (AS) carries the sense of one who has a portion or a share, and it has also been understood as the one who undertook a guarantee or a commitment. Beyond that wording, the Quran gives no explanation of the name. It does not say what portion he held, what commitment he undertook, where he lived, or to whom he was sent.",
+          "html": "Iblis studied the man's routine and found its one soft seam. The deputy fasted all day, prayed all night, and snatched a short nap in the afternoon to recover enough to do it again. If Iblis could destroy that nap day after day, exhaustion would do the rest: a sleepless judge is an angry judge, and one outburst would break the third condition and ruin him before Al-Yasa (AS) and the people.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Because revelation leaves those questions unanswered, later readers have differed over his exact station, some counting Dhul-Kifl (AS) among the prophets and others counting him among the righteous. This chapter does not settle that difference. It reports it as a difference, and then returns to the only ground that is certain: the two passages where Allah Himself names him and describes the company he belongs to."
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir (Abridged) treats this passage in the company of the account of patience under trial that precedes it, and it offers no story, lineage, people, or deeds for Dhul-Kifl (AS). Its silence matches the brevity of the verse itself, which names him among the patient and the righteous and says no more.",
-          "href": "https://quran.com/21:85/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 21:85 &middot; quran.com"
+          "html": "So Iblis came knocking at the very hour of the nap, disguised as an old, tortured man begging for justice. The deputy let him in and listened, patiently, while the old man spun out his tale of cruelty and injustice at enormous length, until the naptime was gone entirely. Come to my court tomorrow, said the deputy, calmly, and I will do you justice. Tomorrow came; the old man did not appear. The deputy waited in court, then waited again the next morning. Nothing. And just as he lay down for his stolen nap, the banging on the door resumed. Sir, my enemies are wicked men, Iblis improvised. When they heard you would sit in court, they promised to settle. When you left, they broke their promise. The deputy listened again, missed his nap again, and set another court date, still without a flicker of anger. That day Iblis did not show up either."
         },
         {
           "t": "p",
-          "html": "So the honest telling has to stop where the text stops. No lineage can be given for Dhul-Kifl (AS), because revelation gives none. No deeds can be listed, because revelation lists none. What can be said with certainty is small, and it is enough to say it carefully."
+          "html": "Exhausted now beyond ordinary limits, the deputy gave his household strict orders: no one knocks on my door today. Iblis, locked out, forced his way into the house itself and began pounding on the bedroom door from inside. The deputy looked at the man standing in his sealed room, door still shut behind him, and understanding dawned: Are you the enemy of Allah?"
         }
       ]
     },
     {
       "id": "scene-4",
-      "ariaLabel": "Scene 4: The Company Revelation Keeps for Him",
-      "title": "The Company Revelation Keeps for Him",
+      "ariaLabel": "Scene 4: You Thwarted All My Plans",
+      "title": "You Thwarted All My Plans",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 5"
+          "html": "Scene 4 of 4"
         },
         {
           "t": "h2",
-          "html": "The Company Revelation Keeps for Him"
+          "html": "You Thwarted All My Plans"
         },
         {
           "t": "p",
-          "html": "A man can be known by the company a text keeps him in, and the Quran is deliberate about the company of Dhul-Kifl (AS). Beside Isma'il (AS) and Idris (AS), he is counted among the patient. Beside Isma'il (AS) and Al-Yasa (AS), he is counted among the outstanding. Patience is the quality named first, and righteousness is the verdict that follows, and admission into mercy is the end that Allah declares for them together.",
+          "html": "I am Iblis, the intruder admitted, and you have frustrated every plan I made against you. I intended to make you angry, just once, so that one of your claims before Al-Yasa (AS) would be proven false. He had thrown sleeplessness, injustice, broken promises and sheer provocation at this judge for days, and harvested not one raised voice. The devil of mankind confessed defeat to a man whose entire weapon was refusing to explode.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "There is weight in that restraint. The Quran does not praise Dhul-Kifl (AS) with a long account, yet it does not pass over him either. It places his name where patient and righteous servants are gathered, and it brings him inside the mercy of Allah by direct statement. Being named by Allah in such company is not a small honour, even when no story is told beside the name."
-        }
-      ]
-    },
-    {
-      "id": "scene-5",
-      "ariaLabel": "Scene 5: What Silence Teaches",
-      "title": "What Silence Teaches",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 5 of 5"
-        },
-        {
-          "t": "h2",
-          "html": "What Silence Teaches"
-        },
-        {
-          "t": "p",
-          "html": "The Quran honours some servants with long stories, and it honours Dhul-Kifl (AS) with a name, a quality, and a destination. His patience is named. His righteousness is witnessed. His admission into mercy is declared, and his place among the outstanding is remembered. Nothing is added to that, and nothing needs to be added to it for the honour to be real.",
-          "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Here the account of Dhul-Kifl (AS) ends, because the Quran ends it here. It gives no life to retell and no death to describe, only a servant counted among the patient and brought into mercy among the righteous. Peace be upon Dhul-Kifl (AS)."
+          "html": "Ibn Jarir held that Dhul-Kifl was not the man's birth name at all but a title earned in exactly this fashion: the one who guaranteed his promises double, who took responsibility upon himself and never let it leak out as anger at others. The Quran, which does not tell us this story, gives us the verdict that makes it believable: he was indeed a Prophet of patience, admitted into Allah's mercy, of the righteous, of the very best. A man can fast by day and pray by night and still be ruined by his temper at noon. Dhul-Kifl (AS) is remembered in heaven for the hour he held his peace when heaven and hell were both watching: the hour of the nap he never got."
         }
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Al-Anbiya (21:85-86) and Surah Sad (38:48), with one labeled panel from Tafsir Ibn Kathir (on 21:85), clearly marked as commentary, not revelation. These two passages are all the Quran tells of Dhul-Kifl (AS), and this chapter says no more than they say.</p>\n      ",
   "lessons": [
-    "<strong>Patience that Allah Himself names.</strong> Dhul-Kifl (AS) is counted with Isma'il (AS) and Idris (AS), and of all of them Allah says they were of the patient. (Quran 21:85)",
-    "<strong>Mercy is the destination of the righteous.</strong> Those named in this passage were admitted into the mercy of Allah, and declared to be among the righteous. (Quran 21:86)",
-    "<strong>Being remembered by Allah is itself an honour.</strong> Dhul-Kifl (AS) is remembered with Isma'il (AS) and Al-Yasa (AS) among the outstanding, though no story of him is told. (Quran 38:48)"
+    "<strong>Anger is the audit of worship.</strong> Fasting and night prayer are beautiful, but Iblis attacked neither. He attacked the temper, knowing that one outburst can burn a reputation built over years.",
+    "<strong>Persistence beats reputation.</strong> The man Al-Yasa (AS) first rejected was the only one still standing when the conditions were repeated. Being overlooked once is not the end of any sincere story.",
+    "<strong>Provocation is a designed test.</strong> The knocks at your door at your weakest hour may not be accidents. Whoever is trying to make you explode is telling you exactly which quality heaven is measuring."
   ],
   "quiz": [
     {
-      "q": "Alongside which two servants is Dhul-Kifl (AS) named in Surah Al-Anbiya?",
+      "q": "How many times is Dhul-Kifl (AS) named in the Quran?",
       "options": [
-        "Isma'il (AS) and Idris (AS)",
-        "Isma'il (AS) and Al-Yasa (AS)",
-        "Idris (AS) and Al-Yasa (AS)"
+        "Twice, among the patient and among the best",
+        "Ten times",
+        "Once, in a long chapter about him"
       ],
       "answer": 0,
-      "ref": "Quran 21:85"
+      "ref": "Story of Dhul-Kifl (AS)"
     },
     {
-      "q": "What does Allah say of all those named with Dhul-Kifl (AS) in Surah Al-Anbiya?",
+      "q": "What does the name Dhul-Kifl mean?",
       "options": [
-        "They were given kingdoms",
-        "All were of the patient",
-        "They crossed the sea"
+        "Lord of the river",
+        "Possessor of the double portion",
+        "Keeper of the gate"
       ],
       "answer": 1,
-      "ref": "Quran 21:85"
+      "ref": "Story of Dhul-Kifl (AS)"
     },
     {
-      "q": "Into what were they admitted, according to the next verse?",
+      "q": "What were Al-Yasa's three conditions for his successor?",
       "options": [
-        "Into a blessed land",
-        "Into prophethood alone",
-        "Into the mercy of Allah"
+        "Wealth, strength and sons",
+        "Fasting by day, prayer by night, and never losing his temper",
+        "Travel, trade and teaching"
       ],
-      "answer": 2,
-      "ref": "Quran 21:86"
+      "answer": 1,
+      "ref": "Story of Dhul-Kifl (AS)"
     },
     {
-      "q": "Among whom is Dhul-Kifl (AS) counted in Surah Sad?",
+      "q": "How did Iblis try to break the deputy?",
       "options": [
-        "The outstanding",
-        "The messengers sent to Egypt",
-        "The people of the cave"
+        "With riches",
+        "By stealing his afternoon nap day after day so exhaustion would make him angry",
+        "By forging his signature"
+      ],
+      "answer": 1,
+      "ref": "Story of Dhul-Kifl (AS)"
+    },
+    {
+      "q": "What did Iblis finally confess?",
+      "options": [
+        "That he was afraid of Al-Yasa",
+        "That the man had thwarted all his plans; he could not make him angry even once",
+        "That the court had ruled against him"
+      ],
+      "answer": 1,
+      "ref": "Story of Dhul-Kifl (AS)"
+    },
+    {
+      "q": "Which quality does the Quran explicitly name Dhul-Kifl (AS) with?",
+      "options": [
+        "Patience",
+        "Generosity with gold",
+        "Skill in battle"
       ],
       "answer": 0,
-      "ref": "Quran 38:48"
+      "ref": "Story of Dhul-Kifl (AS)"
     }
   ],
   "prevNext": [

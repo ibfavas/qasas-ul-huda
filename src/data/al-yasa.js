@@ -1,9 +1,7 @@
 /* al-yasa chapter data: Al-Yasa (AS), Chapter XX.
-   Follows the locked Adam chapter template: scene-by-scene storybook,
-   verse panels (Arabic + Saheeh International), labeled commentary panels,
-   lessons, verse-grounded quiz, and a sources note.
-   The Quran names Al-Yasa (AS) only twice and tells none of his story;
-   this chapter says only what those two passages say, and no more. */
+   Story format: prose scenes written for young readers, following the
+   classical telling of the story. No verse or hadith panels, no sources
+   note card, by the site owner's instruction. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XX",
@@ -14,206 +12,143 @@ export const chapter = {
     "caption": "“...and all [of them] We preferred over the worlds.” (Quran 6:86)"
   },
   "railLabels": [
-    "Preferred above the Worlds",
-    "Remembered among the Elect",
-    "A Servant without a Recorded Story",
-    "The Company Revelation Keeps for Him",
-    "What His Two Mentions Teach"
+    "Remembered Among the Best",
+    "The Successor Who Stayed",
+    "What Righteousness Actually Is"
   ],
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: Preferred above the Worlds",
-      "title": "Preferred above the Worlds",
+      "ariaLabel": "Scene 1: Remembered Among the Best",
+      "title": "Remembered Among the Best",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 5"
+          "html": "Scene 1 of 3"
         },
         {
           "t": "h2",
-          "html": "Preferred above the Worlds"
+          "html": "Remembered Among the Best"
         },
         {
           "t": "p",
-          "html": "Al-Yasa (AS) enters the Quran the way a name enters a roll of honour: briefly, and in exalted company. He is named in Surah Al-An'am among the guided servants of Allah, and the sentence that carries his name carries a rank with it. With Isma'il (AS) and Yunus (AS) and Lut (AS), he is one of those whom Allah preferred over the worlds.",
+          "html": "If Ilyas (AS) is a mystery, his successor is a whisper. Al-Yasa (AS), known in English as Elisha, is named only twice in the entire Quran, and both times in honour rolls rather than stories. In Surah Al-An'am, Allah groups him with Ismail (AS), Yunus (AS) and Lut (AS) and seals the line: each one We favoured above the worlds. In Surah Sad, the command to the Prophet Muhammad (ﷺ) and to us is simply: Remember. Remember Ismail and Al-Yasa and Dhul-Kifl, and all were among the best.",
           "cls": "dropcap"
         },
         {
-          "t": "verse",
-          "ref": "Quran 6:86",
-          "arabic": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
-          "translation": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
-          "citation": "Surah 6 &middot; Verse 86 &middot; Saheeh International"
+          "t": "p",
+          "html": "Think about what that means. Allah, who decides what humanity needs to know, decided Al-Yasa's (AS) name deserved to be remembered, grouped him with the best, and then left out every detail of his life. The Quran's verdict on him is not a story. It is a ranking. And there is not a person alive who would not trade their fame for it."
         },
         {
           "t": "p",
-          "html": "Preferred over the worlds. It is among the highest things the Quran says of any servant, and it is said of Al-Yasa (AS) without a single deed of his being narrated beside it. The honour is absolute, and the record that carries it is one verse long."
+          "html": "What the commentators add is modest and consistent. Al-Yasa (AS) was of the Children of Israel, of the line of Yusuf (AS), and he succeeded Ilyas (AS), the prophet he had served, sent to guide the same idol-scarred generations to obey Allah's laws and commands."
         }
       ]
     },
     {
       "id": "scene-2",
-      "ariaLabel": "Scene 2: Remembered among the Elect",
-      "title": "Remembered among the Elect",
+      "ariaLabel": "Scene 2: The Successor Who Stayed",
+      "title": "The Successor Who Stayed",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 5"
+          "html": "Scene 2 of 3"
         },
         {
           "t": "h2",
-          "html": "Remembered among the Elect"
+          "html": "The Successor Who Stayed"
         },
         {
           "t": "p",
-          "html": "His second mention comes in a passage built on remembrance. The command is to remember, and the names remembered are names the reader already knows from their stories. Here Al-Yasa (AS) stands between Isma'il (AS) and Dhul-Kifl (AS), and the verdict spoken over the three of them is one rank: they are among the outstanding.",
+          "html": "It was not an inheritance anyone would envy. Ibn Kathir describes the era that followed Ilyas (AS) as one of spreading fracture: dissension rose, events gathered momentum, sins multiplied, and the number of tyrants grew, men who made a sport of hunting prophets. Some reports say Al-Yasa (AS) had sheltered with Ilyas (AS) in a cave on Mount Qasiun, hiding from the king of Baalbek, and stepped into the open to take up the mission when his teacher passed. Whether from cave or city, the pattern of his prophethood is the part all the sources agree on, and it is almost offensively undramatic: he lived among his people, and he called them, again and again, to obey the laws and commands of Allah.",
           "cls": "dropcap"
         },
         {
-          "t": "verse",
-          "ref": "Quran 38:48",
-          "arabic": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
-          "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
-          "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
-        },
-        {
           "t": "p",
-          "html": "Two mentions, then, and both of them are verdicts. In the first he is preferred over the worlds. In the second he is counted among the outstanding. Between those two verdicts the Quran records no journey, no people, no confrontation and no miracle. The name is given, the rank is given, and the story is not."
+          "html": "No sea parted for Al-Yasa (AS). No giant fell, no throne teleported, no whale surfaced. In a generation of tyrants who killed prophets, he did the most dangerous ordinary thing available to a believer: he stayed, in public, on the straight path, saying what Ilyas (AS) had said, to the children of the people who had rejected Ilyas (AS). The Quran has a word for people who do the right thing consistently, in public and in private, without an audience and without a miracle. It calls them the righteous, and it says Al-Yasa (AS) was favoured above the worlds. The succession of a prophet does not always look like glory. Sometimes it looks like continuing."
         }
       ]
     },
     {
       "id": "scene-3",
-      "ariaLabel": "Scene 3: A Servant without a Recorded Story",
-      "title": "A Servant without a Recorded Story",
+      "ariaLabel": "Scene 3: What Righteousness Actually Is",
+      "title": "What Righteousness Actually Is",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 5"
+          "html": "Scene 3 of 3"
         },
         {
           "t": "h2",
-          "html": "A Servant without a Recorded Story"
+          "html": "What Righteousness Actually Is"
         },
         {
           "t": "p",
-          "html": "Readers who come to Al-Yasa (AS) looking for his story will find the Quran silent about it. It does not name his people, his town or his age. It does not say what he preached or what answered him. That silence is not a gap for later hands to fill. It is the shape revelation itself chose for this name, and the honest telling has to stop where the text stops.",
-          "cls": "dropcap"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir (Abridged), commenting on this passage of Surah Al-An'am, gathers the whole noble list into one description: they are those to whom Allah gave the Book, the judgement and prophethood, bestowing these bounties on them as a mercy for the servants and a kindness to creation. Al-Yasa (AS) is named inside that gathering, and the commentary adds no story of him beyond the company the verse itself places him in.",
-          "href": "https://quran.com/6:86/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 6:86 &middot; quran.com"
-        },
-        {
-          "t": "p",
-          "html": "What can be said with certainty, then, is small, and it is said carefully: Allah named Al-Yasa (AS) among servants He preferred over the worlds, and among the outstanding He commanded to be remembered. This chapter says what those two passages say, and no more."
-        }
-      ]
-    },
-    {
-      "id": "scene-4",
-      "ariaLabel": "Scene 4: The Company Revelation Keeps for Him",
-      "title": "The Company Revelation Keeps for Him",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 4 of 5"
-        },
-        {
-          "t": "h2",
-          "html": "The Company Revelation Keeps for Him"
-        },
-        {
-          "t": "p",
-          "html": "A servant can be known by the company revelation keeps him in, and the company of Al-Yasa (AS) is the company of prophets. In one passage he stands with Isma'il (AS), Yunus (AS) and Lut (AS), all of them preferred over the worlds. In the other he stands with Isma'il (AS) and Dhul-Kifl (AS), all of them among the outstanding. These are not decorative names beside his. They are the men of the great stories, and Al-Yasa (AS) is gathered into their ranks by the word of Allah Himself.",
-          "cls": "dropcap"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir (Abridged), on the verse of remembrance in Surah Sad, explains the rank named there: they are among those who have been elected and chosen, and they are the best and the chosen ones. It is in this sense that Al-Yasa (AS) is remembered among the elect, by the testimony of the verse and the agreement of its commentary.",
-          "href": "https://quran.com/38:48/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 38:48 &middot; quran.com"
-        },
-        {
-          "t": "p",
-          "html": "Only a breath before his name, the same passage of Surah Al-An'am gathers Dawud (AS) and Sulayman (AS) and Ayyub (AS) and Yusuf (AS) and Musa (AS) and Harun (AS) into the guided line, all of them guided by Allah. Al-Yasa (AS) is named inside that gathering. Whatever his story was, the Quran places the man who lived it in the first rank of the guided."
-        }
-      ]
-    },
-    {
-      "id": "scene-5",
-      "ariaLabel": "Scene 5: What His Two Mentions Teach",
-      "title": "What His Two Mentions Teach",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 5 of 5"
-        },
-        {
-          "t": "h2",
-          "html": "What His Two Mentions Teach"
-        },
-        {
-          "t": "p",
-          "html": "So the Quran honours Al-Yasa (AS) the way it honours very few: with rank and without narrative. He is preferred over the worlds. He is among the outstanding. His story stands unwritten in revelation, and yet no reader of the Quran can pass his name without meeting the testimony of Allah about the man who bore it.",
+          "html": "Since heaven left us his character instead of his biography, it is worth reading the Quran's definition of the thing he embodied. Righteousness is not turning your faces toward the east or the west, Allah says. True righteousness is the one who believes in Allah, the Last Day, the angels, the Book and the prophets; who gives wealth, despite loving it, to relatives, orphans, the needy, the traveller and those who ask; who establishes prayer and gives zakah; who keeps his promise when he promises; and who is patient in poverty, in illness and in battle. Those are the ones who have been true. Those are the righteous.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Here the account of Al-Yasa (AS) ends, because the Quran ends it here. It gives no life to retell and no death to describe, only a servant preferred above the worlds and remembered among the outstanding. Peace be upon Al-Yasa (AS)."
+          "html": "That is the whole estate of Al-Yasa (AS), and it turns out to be more useful than a chronicle. Kings get biographies. Servants who stayed faithful through an unrecorded lifetime of tyrants get something better: they get summed up by Allah Himself in four words, all were among the best. There are people in every generation whose names never reach a history book: the teacher who keeps teaching, the elder who keeps praying, the neighbour who keeps his promise at cost to himself. Al-Yasa (AS) is their prophet, proof that heaven keeps a different ledger, and in heaven's ledger, showing up righteously for an unglamorous lifetime outranks almost everything."
         }
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Al-An'am (6:86) and Surah Sad (38:48), with two labeled panels from Tafsir Ibn Kathir (on 6:86 and 38:48), clearly marked as commentary, not revelation. These two passages are all the Quran tells of Al-Yasa (AS), and this chapter says no more than they say.</p>\n      ",
   "lessons": [
-    "<strong>Preferred over the worlds.</strong> Al-Yasa (AS) is named with Isma'il (AS), Yunus (AS) and Lut (AS), and of all of them Allah says He preferred them over the worlds. (Quran 6:86)",
-    "<strong>Remembered among the outstanding.</strong> Al-Yasa (AS) is remembered with Isma'il (AS) and Dhul-Kifl (AS), and all of them are among the outstanding. (Quran 38:48)",
-    "<strong>Honour does not need a long story.</strong> The Quran gives Al-Yasa (AS) no recorded deeds, yet places him in the first rank of the guided line of prophets. (Quran 6:84-86)"
+    "<strong>Remembered by Allah beats remembered by history.</strong> Al-Yasa (AS) earned four words from his Lord, 'among the best', and no biography at all. Which archive are we living for?",
+    "<strong>Succession is faithfulness, not spectacle.</strong> Taking up a righteous teacher's work in a corrupt time, without miracles and without applause, is itself the prophetic pattern.",
+    "<strong>Righteousness is a practice, not a direction.</strong> Belief, generosity despite loving wealth, prayer, kept promises, patience in hardship: the Quran defines it as verbs, and Al-Yasa (AS) lived them unrecorded."
   ],
   "quiz": [
     {
-      "q": "Alongside which servants is Al-Yasa (AS) named in Surah Al-An'am?",
+      "q": "How many times is Al-Yasa (AS) named in the Quran?",
       "options": [
-        "Isma'il (AS), Yunus (AS) and Lut (AS)",
-        "Dawud (AS) and Sulayman (AS)",
-        "Yahya (AS) and Isa (AS)"
+        "Twice, both times in rolls of honour",
+        "Twelve times",
+        "Once, in his own surah"
       ],
       "answer": 0,
-      "ref": "Quran 6:86"
+      "ref": "Story of Al-Yasa (AS)"
     },
     {
-      "q": "What does Allah say of all those named with Al-Yasa (AS) in that verse?",
+      "q": "Whom did Al-Yasa (AS) succeed as prophet to the Children of Israel?",
       "options": [
-        "They were given kingdoms",
-        "He preferred them over the worlds",
-        "They crossed the sea"
+        "Sulayman (AS)",
+        "Ilyas (AS)",
+        "Yusuf (AS)"
       ],
       "answer": 1,
-      "ref": "Quran 6:86"
+      "ref": "Story of Al-Yasa (AS)"
     },
     {
-      "q": "In Surah Sad, Al-Yasa (AS) is remembered between which two names?",
+      "q": "What does the Quran call Al-Yasa (AS) in Surah Sad?",
       "options": [
-        "Ibrahim (AS) and Ishaq (AS)",
-        "Yusuf (AS) and Ayyub (AS)",
-        "Isma'il (AS) and Dhul-Kifl (AS)"
+        "The king of the east",
+        "One of the best",
+        "The traveller"
       ],
-      "answer": 2,
-      "ref": "Quran 38:48"
+      "answer": 1,
+      "ref": "Story of Al-Yasa (AS)"
     },
     {
-      "q": "Among whom are all three counted in Surah Sad?",
+      "q": "What was the condition of Israel in the era after Ilyas (AS), as Ibn Kathir describes it?",
       "options": [
-        "The outstanding",
-        "The kings",
-        "The witnesses"
+        "Golden peace",
+        "Dissension, spreading sin, and tyrants who hunted prophets",
+        "Universal idol worship only"
       ],
-      "answer": 0,
-      "ref": "Quran 38:48"
+      "answer": 1,
+      "ref": "Story of Al-Yasa (AS)"
+    },
+    {
+      "q": "Which of these does the Quran include in its definition of true righteousness?",
+      "options": [
+        "Facing east at prayer",
+        "Keeping promises, giving wealth despite loving it, and patience in poverty, illness and battle",
+        "Building monuments"
+      ],
+      "answer": 1,
+      "ref": "Story of Al-Yasa (AS)"
     }
   ],
   "prevNext": [

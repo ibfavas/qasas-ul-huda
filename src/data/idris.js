@@ -1,9 +1,7 @@
 /* idris chapter data: Idris (AS), Chapter II.
-   Follows the locked Adam chapter template: scene-by-scene storybook,
-   verse panels (Arabic + Saheeh International), labeled Hadith panels with
-   Sunnah.com links, lessons, verse-grounded quiz, and a sources note.
-   The Quran mentions Idris in only two passages; this chapter stays
-   strictly inside what revelation gives us. */
+   Story format: prose scenes written for young readers, following the
+   classical telling of the story. No verse or hadith panels, no sources
+   note card, by the site owner's instruction. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter II",
@@ -14,68 +12,100 @@ export const chapter = {
     "caption": "Raised to a high station, as Allah says in Surah Maryam."
   },
   "railLabels": [
-    "Mention in the Book",
-    "A Man of Truth, A Prophet",
-    "Raised to a High Station",
-    "Among the Patient",
-    "The Fourth Heaven"
+    "A Prophet After Adam",
+    "Fighting the Corruption",
+    "The Promise and the Angel",
+    "Raised to a High Station"
   ],
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: Mention in the Book",
-      "title": "Mention in the Book",
+      "ariaLabel": "Scene 1: A Prophet After Adam",
+      "title": "A Prophet After Adam",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 5"
+          "html": "Scene 1 of 4"
         },
         {
           "t": "h2",
-          "html": "Mention in the Book"
+          "html": "A Prophet After Adam"
         },
         {
           "t": "p",
-          "cls": "dropcap",
-          "html": "Before anything is told of Idris (AS), of who he was, where he lived, or what his days held, an honour is placed upon his name: Allah Himself commands that he be mentioned. &ldquo;Mention in the Book, Idris.&rdquo; His name now stands in the Quran, the Book recited by millions until the Last Day. Some prophets receive long stories. Idris (AS) receives something different: a brief, luminous mention. And it is enough."
+          "html": "After Adam (AS) and his son Seth (AS), Allah raised up another prophet from the children of Adam: Idris (AS), a forefather of Nuh (AS) who came later. The Quran says very little about him, and what it says shines: mention in the Book Idris. He was a man of truth, a prophet, and We raised him to a high station. In another place Allah counts him among the patient, alongside Ismail (AS) and Dhul-Kifl (AS).",
+          "cls": "dropcap"
         },
         {
-          "t": "verse",
-          "ref": "Quran 19:56",
-          "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
-          "translation": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.",
-          "citation": "Surah 19 &middot; Verse 56 &middot; Saheeh International"
+          "t": "p",
+          "html": "Idris (AS) was a thoughtful man. He would look up at the vast sky his Lord had made, the sun and moon and stars and clouds, and turn them over in his mind. He is remembered as the first man ever to write with a pen, a man of learning with knowledge of numbers and the stars. Long before schools and books, Allah gave this prophet the gift of the written word, and he used it to teach his people."
+        },
+        {
+          "t": "p",
+          "html": "He was born while Adam (AS) was still alive, and after Seth (AS) passed away, Idris (AS) led the children of Adam and called them to the worship of Allah alone, just as their father and grandfather had done."
         }
       ]
     },
     {
       "id": "scene-2",
-      "ariaLabel": "Scene 2: A Man of Truth, A Prophet",
-      "title": "A Man of Truth, A Prophet",
+      "ariaLabel": "Scene 2: Fighting the Corruption",
+      "title": "Fighting the Corruption",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 5"
+          "html": "Scene 2 of 4"
         },
         {
           "t": "h2",
-          "html": "A Man of Truth, A Prophet"
+          "html": "Fighting the Corruption"
         },
         {
           "t": "p",
-          "cls": "",
-          "html": "Two descriptions stand side by side: <em>siddiq</em>, a man of truth, one whose truthfulness is complete and confirmed; and <em>nabiyya</em>, a prophet. Truthfulness and prophethood belong together. A prophet is not only one who receives revelation; his very character is truth, so that when he speaks, his people know he does not lie."
+          "html": "But not all of Adam's children stayed on the straight path. Among the descendants of Qabil, the son who had killed his brother, sin and corruption began to spread like a sickness. People did openly what Allah had forbidden, and they drew others in after them.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Idris (AS) could not stand by and watch his people fall into the hands of Shaitan. Allah commanded him to stand against the corrupt ones, and so Idris (AS) became the first prophet in history to struggle in the path of Allah against wrongdoing. He gathered men who feared Allah, went out against the transgressors, and Allah gave him victory over them."
+        },
+        {
+          "t": "p",
+          "html": "Even in victory, Idris (AS) remained a teacher. His sayings were passed down among his followers: Happy is the one who looks at his own deeds and makes them his plea before his Lord. And: No one thanks Allah for His gifts better than the one who shares them with others. And: Do not envy people for what they have, for they will enjoy it only a short while."
         }
       ]
     },
     {
       "id": "scene-3",
-      "ariaLabel": "Scene 3: Raised to a High Station",
+      "ariaLabel": "Scene 3: The Promise and the Angel",
+      "title": "The Promise and the Angel",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 3 of 4"
+        },
+        {
+          "t": "h2",
+          "html": "The Promise and the Angel"
+        },
+        {
+          "t": "p",
+          "html": "Idris (AS) grew old in the worship of Allah, and one day he received an astonishing promise from his Lord: the reward of every good deed done by the people of his time would be written for him too. His reward would be doubled beyond counting. Idris (AS) thanked Allah with a full heart. But he was old, and death was near, and he loved doing good on the earth and did not want it to end.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Idris (AS) had a friend among the angels, and he asked him a bold question: could he speak with the Angel of Death and ask for more time? The angel said the matter belonged to Allah, but there was no harm in asking. He took Idris (AS) upon his wing and rose with him through the heavens, past the first heaven, the second, the third."
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "ariaLabel": "Scene 4: Raised to a High Station",
       "title": "Raised to a High Station",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 5"
+          "html": "Scene 4 of 4"
         },
         {
           "t": "h2",
@@ -83,117 +113,86 @@ export const chapter = {
         },
         {
           "t": "p",
-          "cls": "",
-          "html": "Then comes the sentence that has echoed through fourteen centuries: &ldquo;And We raised him to a high station.&rdquo; A high station is never taken; it is given. Allah raised Idris (AS) in rank and in honour, in the manner that He alone knows, as He raises all who are truthful and righteous."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 19:57",
-          "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
-          "translation": "And We raised him to a high station.",
-          "citation": "Surah 19 &middot; Verse 57 &middot; Saheeh International"
-        }
-      ]
-    },
-    {
-      "id": "scene-4",
-      "ariaLabel": "Scene 4: Among the Patient",
-      "title": "Among the Patient",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 4 of 5"
-        },
-        {
-          "t": "h2",
-          "html": "Among the Patient"
+          "html": "When they reached the fourth heaven, they met the Angel of Death, who had already been given his command. Idris (AS) wants to know if his life can be prolonged, said his friend. The Angel of Death was amazed. And where is Idris? he asked. He is upon my back, the angel answered.",
+          "cls": "dropcap"
         },
         {
           "t": "p",
-          "cls": "",
-          "html": "The second passage sets Idris (AS) beside Ismail (AS) and Dhul-Kifl (AS): &ldquo;all were of the patient.&rdquo; Then comes the reward of that patience: &ldquo;We admitted them into Our mercy. Indeed, they were of the righteous.&rdquo; Patience is no mere waiting. It is standing firm. And its end, always, is mercy."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 21:85",
-          "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ",
-          "translation": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient.",
-          "citation": "Surah 21 &middot; Verse 85 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 21:86",
-          "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
-          "translation": "And We admitted them into Our mercy. Indeed, they were of the righteous.",
-          "citation": "Surah 21 &middot; Verse 86 &middot; Saheeh International"
-        }
-      ]
-    },
-    {
-      "id": "scene-5",
-      "ariaLabel": "Scene 5: The Fourth Heaven",
-      "title": "The Fourth Heaven",
-      "blocks": [
-        {
-          "t": "kicker",
-          "html": "Scene 5 of 5"
-        },
-        {
-          "t": "h2",
-          "html": "The Fourth Heaven"
+          "html": "How astonishing, said the Angel of Death. I was sent and told to take the soul of Idris in the fourth heaven, and I kept wondering how I could take it there when he was down on the earth. Glory be to Allah, He has made it happen. Idris (AS), who had asked for more time to do good, did not argue for a single moment. If this was what Allah had ordained, then he accepted it completely, and his soul was taken in the fourth heaven."
         },
         {
           "t": "p",
-          "cls": "",
-          "html": "On the Night Journey, the Prophet &#xFDFA; ascended through the seven heavens, meeting a prophet in every heaven. In the fourth he met Idris (AS), and there two prophets of Allah greeted one another as brothers."
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;Then we ascended to the 4th heaven and again the same questions and answers were exchanged as in the previous heavens. There I met Idris and greeted him. He said, &lsquo;You are welcomed O brother and Prophet.&rsquo;&rdquo;",
-          "narrator": "Narrated Malik bin Sasaa",
-          "href": "https://sunnah.com/bukhari:3207",
-          "label": "Sahih al-Bukhari 3207 &middot; sunnah.com"
+          "html": "That is the lofty station the Quran speaks of. And centuries later, when Muhammad ﷺ was raised through the heavens on the night journey, he was greeted in the fourth heaven by Idris (AS), who welcomed him as a righteous brother and a righteous prophet. After Idris (AS) left the earth, corruption crept back among the children of Adam, growing quietly for generations, until the age of Nuh (AS)."
         }
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The Quran mentions Idris (AS) in only two passages: Surah Maryam 19:56-57 and Surah Al-Anbiya 21:85-86.</p>\n      ",
   "lessons": [
-    "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris (AS), Allah names him a man of truth, and then a prophet. (Quran 19:56)",
-    "<strong>Allah raises the righteous.</strong> A high station is never seized; it is granted: &ldquo;We raised him to a high station.&rdquo; (Quran 19:57)",
-    "<strong>Patience ends in mercy.</strong> Idris (AS) stands named among the patient, and the patient are admitted into Allah&rsquo;s mercy. (Quran 21:85-86)",
-    "<strong>The prophets honour one another.</strong> In the fourth heaven, Idris (AS) greeted the Prophet &#xFDFA;: &ldquo;You are welcomed, O brother and Prophet.&rdquo; (Sahih al-Bukhari 3207)"
+    "<strong>Knowledge is a prophetic gift.</strong> The first man to write with a pen was a prophet. Learning, writing and teaching have honoured places in this religion from its earliest days.",
+    "<strong>Patience is his title.</strong> Allah named Idris (AS) among the patient before He named almost anything else about him. Truthfulness and patience carried him to a high station.",
+    "<strong>Share what Allah gave you.</strong> His saying still stands: no one thanks Allah for His favours better than the one who shares them with others.",
+    "<strong>Accept the decree when it comes.</strong> Idris (AS) asked for more time to do good, then accepted Allah's decision without a word of complaint. Wanting more life for good deeds, and bowing to the decree, can live in the same heart."
   ],
   "quiz": [
     {
-      "q": "What two descriptions does Allah give Idris (AS) in Surah Maryam?",
+      "q": "How does the Quran describe Idris (AS)?",
       "options": [
-        "A man of truth and a prophet",
-        "A king and a warrior",
-        "A scribe and a builder"
-      ],
-      "answer": 0,
-      "ref": "Quran 19:56"
-    },
-    {
-      "q": "In which heaven did the Prophet &#xFDFA; meet Idris (AS) on the Night Journey?",
-      "options": [
-        "The second",
-        "The fourth",
-        "The seventh"
+        "A king of Egypt",
+        "A man of truth, a prophet, raised to a high station",
+        "A merchant of Makkah"
       ],
       "answer": 1,
-      "ref": "Sahih al-Bukhari 3207"
+      "ref": "Story of Idris (AS)"
     },
     {
-      "q": "Who is named alongside Idris (AS) among &ldquo;the patient&rdquo;?",
+      "q": "What is Idris (AS) remembered as the first person to do?",
       "options": [
-        "Ismail (AS) and Dhul-Kifl (AS)",
-        "Hud (AS) and Salih (AS)",
-        "Dawud and Sulayman (AS)"
+        "Build a ship",
+        "Write with a pen",
+        "Sail across the sea"
+      ],
+      "answer": 1,
+      "ref": "Story of Idris (AS)"
+    },
+    {
+      "q": "Who was Idris (AS) a forefather of?",
+      "options": [
+        "Prophet Nuh (AS)",
+        "Prophet Musa (AS)",
+        "Prophet Yusuf (AS)"
       ],
       "answer": 0,
-      "ref": "Quran 21:85"
+      "ref": "Story of Idris (AS)"
+    },
+    {
+      "q": "What did Idris (AS) do when corruption spread among the descendants of Qabil?",
+      "options": [
+        "He left them alone",
+        "He stood against the transgressors and Allah gave him victory",
+        "He hid in the mountains"
+      ],
+      "answer": 1,
+      "ref": "Story of Idris (AS)"
+    },
+    {
+      "q": "Where was the soul of Idris (AS) taken?",
+      "options": [
+        "In his home in Babylon",
+        "In the fourth heaven",
+        "By the river"
+      ],
+      "answer": 1,
+      "ref": "Story of Idris (AS)"
+    },
+    {
+      "q": "Which quality did Allah name Idris (AS) with in the Quran?",
+      "options": [
+        "Wealth",
+        "Patience",
+        "Speed"
+      ],
+      "answer": 1,
+      "ref": "Story of Idris (AS)"
     }
   ],
   "prevNext": [

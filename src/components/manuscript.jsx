@@ -161,12 +161,6 @@ export function Scenes({ scenes }) {
   );
 }
 
-export function NoteCard({ noteHtml }) {
-  return (
-    <section className="note-card reveal" aria-label="A note on sources" dangerouslySetInnerHTML={html(noteHtml)} />
-  );
-}
-
 export function Lessons({ lessons }) {
   return (
     <section className="lessons reveal" aria-label="Lessons">

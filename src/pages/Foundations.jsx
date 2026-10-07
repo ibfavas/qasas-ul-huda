@@ -2,7 +2,7 @@
    article data: hero, intro, numbered sections (verse/hadith blocks), sources
    note, and prev/next between articles. */
 import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
-import { Scenes, NoteCard, IllustrationNote, html } from '../components/manuscript.jsx';
+import { Scenes, IllustrationNote, html } from '../components/manuscript.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
 
 function Hero({ hero }) {
@@ -91,7 +91,6 @@ export function FoundationsPage({ guide }) {
               <p className="dropcap" dangerouslySetInnerHTML={html(guide.introHtml)} />
             </section>
             <Scenes scenes={guide.sections} />
-            <NoteCard noteHtml={guide.note} />
           </div>
         </div>
         <PrevNext items={guide.prevNext} />

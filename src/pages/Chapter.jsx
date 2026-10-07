@@ -1,6 +1,6 @@
 /* Chapter page: the locked Adam template, driven by chapter data. */
 import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
-import { Scenes, NoteCard, Lessons, Quiz, IllustrationNote, html } from '../components/manuscript.jsx';
+import { Scenes, Lessons, Quiz, IllustrationNote, html } from '../components/manuscript.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
 
 function Hero({ hero }) {
@@ -86,7 +86,6 @@ export function ChapterPage({ chapter }) {
               ))}
             </nav>
             <Scenes scenes={chapter.scenes} />
-            {chapter.note && <NoteCard noteHtml={chapter.note} />}
             <Lessons lessons={chapter.lessons} />
             <Quiz questions={chapter.quiz} />
           </div>
