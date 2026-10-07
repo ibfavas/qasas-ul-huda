@@ -1,7 +1,7 @@
 /* al-yasa chapter data: Al-Yasa (AS), Chapter XX.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XX",
@@ -42,6 +42,32 @@ export const chapter = {
         {
           "t": "p",
           "html": "What the commentators add is modest and consistent. Al-Yasa (AS) was of the Children of Israel, of the line of Yusuf (AS), and he succeeded Ilyas (AS), the prophet he had served, sent to guide the same idol-scarred generations to obey Allah's laws and commands."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 6:86",
+          "arabic": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
+          "translation": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
+          "citation": "Surah 6 &middot; Verse 86 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 38:48",
+          "arabic": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+          "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
+          "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir (Abridged), commenting on this passage of Surah Al-An'am, gathers the whole noble list into one description: they are those to whom Allah gave the Book, the judgement and prophethood, bestowing these bounties on them as a mercy for the servants and a kindness to creation. Al-Yasa (AS) is named inside that gathering, and the commentary adds no story of him beyond the company the verse itself places him in.",
+          "href": "https://quran.com/6:86/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 6:86 &middot; quran.com"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir (Abridged), on the verse of remembrance in Surah Sad, explains the rank named there: they are among those who have been elected and chosen, and they are the best and the chosen ones. It is in this sense that Al-Yasa (AS) is remembered among the elect, by the testimony of the verse and the agreement of its commentary.",
+          "href": "https://quran.com/38:48/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 38:48 &middot; quran.com"
         }
       ]
     },

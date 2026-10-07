@@ -1,7 +1,7 @@
 /* ismail chapter data: Ismail (AS), Chapter VIII.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter VIII",
@@ -45,6 +45,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "Then He will not neglect us, she said, and walked back to her baby. That single sentence from a mother alone in a desert is one of the greatest statements of trust ever spoken. And Ibrahim (AS), once his family could no longer see him, lifted his hands and prayed: Our Lord, I have settled some of my offspring in a valley with no crops, near Your Sacred House, so that they may establish prayer. So make the hearts of people incline toward them, and provide them with fruits, that they may be grateful. A valley with no water, no crops and no people, and an old man asking Allah to make humanity love it. Every part of that prayer was answered."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 14:39",
+          "arabic": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+          "translation": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.",
+          "citation": "Surah 14 &middot; Verse 39 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:101",
+          "arabic": " فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ",
+          "translation": "So We gave him good tidings of a forbearing boy.",
+          "citation": "Surah 37 &middot; Verse 101 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 14:37",
+          "arabic": " رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+          "translation": "Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful.",
+          "citation": "Surah 14 &middot; Verse 37 &middot; Saheeh International"
         }
       ]
     },
@@ -73,6 +94,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "The water is called Zamzam, and it flows in Makkah to this day. And Hagar's seven desperate runs were so beloved to Allah that He made them part of the pilgrimage forever: every pilgrim at Hajj and Umrah walks between Safa and Marwah, walking in the footsteps of a mother who would not give up."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;When Abraham reached Mecca, he made her sit under a tree and afterwards returned home. Ishmael&rsquo;s mother followed him, and when they reached Kada&rsquo;, she called him from behind, &lsquo;O Abraham! To whom are you leaving us?&rsquo; He replied, &lsquo;(I am leaving you) to Allah&rsquo;s (Care).&rsquo; She said, &lsquo;I am satisfied to be with Allah.&rsquo; &hellip; Lo! It was Gabriel (who had made the voice). Gabriel hit the earth with his heel like this, and so the water gushed out.&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3365",
+          "label": "Sahih al-Bukhari 3365 &middot; sunnah.com"
         }
       ]
     },
@@ -133,6 +161,33 @@ export const chapter = {
         {
           "t": "p",
           "html": "Ibrahim (AS) laid his son down on his forehead, so that neither would have to watch the other's face. The knife was raised. Father and son had both submitted entirely. And at that moment a voice called out: O Ibrahim! You have fulfilled the dream. Indeed, this is how We reward the doers of good. This was a clear trial, and Allah ransomed the boy with a mighty sacrifice: a ram, sent down to be slaughtered in his place. The father who was willing to give everything was given his son back. Every Eid al-Adha, every Qurbani in every corner of the earth, is the anniversary of that morning."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:102-103",
+          "arabic": " فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+          "translation": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" And when they had both submitted and he put him down upon his forehead,",
+          "citation": "Surah 37 &middot; Verses 102-103 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:107",
+          "arabic": " وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
+          "translation": "And We ransomed him with a great sacrifice,",
+          "citation": "Surah 37 &middot; Verse 107 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On the question of which son was to be sacrificed, Ibn Kathir concludes it was Ismail (AS). The glad tidings of the forbearing boy come first, then the story of the sacrifice, and only afterward the glad tidings of Isaac: the sacrifice, in his reading, belongs to the son of the first tidings. This is the scholar&rsquo;s conclusion, not the Quran&rsquo;s wording: the Quran itself does not name the son.",
+          "href": "https://quran.com/37:102/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 37:101-113 &middot; quran.com"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;When the Prophet (ﷺ) saw pictures in the Ka&lsquo;ba, he did not enter it till he ordered them to be erased. When he saw the pictures of Abraham and Ishmael carrying the arrows of divination, he said, &lsquo;May Allah curse them (i.e. the Quraish)! By Allah, neither Abraham nor Ishmael practiced divination by arrows.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3352",
+          "label": "Sahih al-Bukhari 3352 &middot; sunnah.com"
         }
       ]
     },
@@ -157,6 +212,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "On a later visit, the same scene played out with the opposite ending. The new wife, asked about their condition, answered: We are prosperous and well off, and she thanked Allah. Asked what they ate and drank, she said: meat, and water. O Allah, bless their meat and their water, prayed Ibrahim (AS). And this time the message was: give him my greetings, and tell him to keep firm the threshold of his gate. Ismail (AS) smiled when he heard it: That was my father, and you are the threshold. He has ordered me to keep you with me. Gratitude at the threshold held the house together."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;After Ishmael&rsquo;s mother had died, Abraham came after Ishmael&rsquo;s marriage in order to see his family that he had left before &hellip; she replied, &lsquo;We are living in misery; we are living in hardship and destitution,&rsquo; complaining to him. He said, &lsquo;When your husband returns, convey my salutation to him and tell him to change the threshold of the gate (of his house).&rsquo; &hellip; Ishmael said, &lsquo;It was my father, and he has ordered me to divorce you. Go back to your family.&rsquo; &hellip; She replied, &lsquo;We are prosperous and well-off (i.e. we have everything in abundance).&rsquo; Then she thanked Allah &hellip; &lsquo;When your husband comes, give my regards to him and tell him that he should keep firm the threshold of his gate.&rsquo; &hellip; Ishmael said, &lsquo;It was my father, and you are the threshold (of the gate). He has ordered me to keep you with me.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3364",
+          "label": "Sahih al-Bukhari 3364 &middot; sunnah.com"
         }
       ]
     },
@@ -185,6 +247,41 @@ export const chapter = {
         {
           "t": "p",
           "html": "The Quran honours Ismail (AS) with a title that fits his whole life, from the baby in the valley to the builder on the wall: he was true to his promise, and he was a messenger and a prophet. He used to command his people to pray and to give charity, and he was pleasing to his Lord. The boy left in a barren valley with a pouch of dates became the father of the Arabs and the ancestor of Muhammad ﷺ. Allah had promised his mother He never neglects His people. The Kaaba stands as the proof."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:54-55",
+          "arabic": " وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِسْمَـٰعِيلَ ۚ إِنَّهُۥ كَانَ صَادِقَ ٱلْوَعْدِ وَكَانَ رَسُولًا نَّبِيًّا وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّا",
+          "translation": "And mention in the Book, Ishmael. Indeed, he was true to his promise, and he was a messenger and a prophet. And he used to enjoin on his people prayer and zakāh and was to his Lord pleasing [i.e., accepted by Him].",
+          "citation": "Surah 19 &middot; Verses 54-55 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:127",
+          "arabic": " وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+          "translation": "And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], \"Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.",
+          "citation": "Surah 2 &middot; Verse 127 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:85-86",
+          "arabic": " وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. And We admitted them into Our mercy. Indeed, they were of the righteous.",
+          "citation": "Surah 21 &middot; Verses 85-86 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 38:48",
+          "arabic": " وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+          "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
+          "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;I heard Allah&rsquo;s Messenger (ﷺ) as saying: Verily Allah granted eminence to Kinana from amongst the descendants of Isma&rsquo;il, and he granted eminence to the Quraish amongst Kinana, and he granted eminence to Banu Hashim amonsgst the Quraish, and he granted me eminence from the tribe of Banu Hashim.&rdquo;",
+          "narrator": "Wathila b. al-Asqa&lsquo; reported",
+          "href": "https://sunnah.com/muslim:2276",
+          "label": "Sahih Muslim 2276 &middot; sunnah.com"
         }
       ]
     }

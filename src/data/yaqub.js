@@ -1,7 +1,7 @@
 /* yaqub chapter data: Yaqub (AS), Chapter X.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter X",
@@ -41,6 +41,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "Those twelve boys were not just a family. They were the seed of a nation. From them came the twelve tribes of Banu Israel, the Children of Israel, the people through whom so many prophets would come. The Quran names the descendants of Yaqub (AS) among the revelations given to the prophets, and generations later, when Musa (AS) struck the rock in the desert, twelve springs gushed out, one for each tribe of Yaqub's house. Everything that happens in the rest of this book, every king and prophet of the Israelites, traces back to this one father's dinner table."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 11:71",
+          "arabic": " وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَـٰهَا بِإِسْحَـٰقَ وَمِن وَرَآءِ إِسْحَـٰقَ يَعْقُوبَ",
+          "translation": "And his wife was standing, and she smiled. Then We gave her good tidings of Isaac and after Isaac, Jacob.",
+          "citation": "Surah 11 &middot; Verse 71 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:49",
+          "arabic": " فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+          "translation": "So when he had left them and those they worshipped other than Allāh, We gave him Isaac and Jacob, and each [of them] We made a prophet.",
+          "citation": "Surah 19 &middot; Verse 49 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) said, &lsquo;The honorable is the son of the honorable, the son the honorable, i.e. Joseph, the son of Jacob, the son of Isaac, the son of Abraham.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Umar (RA)",
+          "href": "https://sunnah.com/bukhari:3382",
+          "label": "Sahih al-Bukhari 3382 &middot; sunnah.com"
         }
       ]
     },
@@ -69,6 +90,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "The envy ripened as the boys grew. And one day the older sons came to their father with a careful request: Why do you not trust us with Yusuf, when we truly wish him well? Send him with us tomorrow to enjoy himself and play. We will surely watch over him."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:4-5",
+          "arabic": " إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ",
+          "translation": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.",
+          "citation": "Surah 12 &middot; Verses 4-5 &middot; Saheeh International"
         }
       ]
     },
@@ -97,6 +125,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "Yaqub (AS) looked at the shirt, and at the sons, and he knew. He knew the blood was a lie and the wolf was a story. Your souls have tempted you to something evil, he said. Then he spoke the words his whole chapter is remembered by, words Muslims still borrow in their worst moments: So beautiful patience is what I will bear. And it is Allah's help that I seek against what you describe. He did not scream. He did not curse his sons. He did not accept the lie either. He grieved with dignity, certain of two things at once: that his sons had sinned, and that Yusuf (AS) was alive under Allah's protection. Both certainties would prove true."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:13-18",
+          "arabic": " قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَـٰفِلُونَ قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًا لَّخَـٰسِرُونَ فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ قَالُوا۟ يَـٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَـٰدِقِينَ وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍ كَذِبٍ ۚ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+          "translation": "[Jacob] said, \"Indeed, it saddens me that you should take him, and I fear that a wolf would eat him while you are of him unaware.\" They said, \"If a wolf should eat him while we are a [strong] clan, indeed, we would then be losers.\" So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, \"You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity].\" And they came to their father at night, weeping. They said, \"O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful.\" And they brought upon his shirt false blood. [Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. And Allāh is the one sought for help against that which you describe.\"",
+          "citation": "Surah 12 &middot; Verses 13-18 &middot; Saheeh International"
         }
       ]
     },
@@ -125,6 +160,40 @@ export const chapter = {
         {
           "t": "p",
           "html": "The second journey ended in fresh disaster. Binyamin was accused of stealing the king's cup and detained in Egypt. The brothers came home with the news, and the old man's answer rose from the same deep well as before, but fuller now: Your souls have tempted you to something. So beautiful patience. Perhaps Allah will bring them all back to me. Truly, He is the All-Knowing, the All-Wise. Then he turned away from them and whispered the words that would crack anyone's heart: Alas for Yusuf. His sons lost their tempers: By Allah, you will never stop remembering Yusuf until you waste away or die. He answered them with the manifesto of every broken believer: I only complain of my anguish and sorrow to Allah. And I know from Allah what you do not know."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:63-64",
+          "arabic": " فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَـٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ ۖ فَٱللَّهُ خَيْرٌ حَـٰفِظًا ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+          "translation": "So when they returned to their father, they said, \"O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians.\" He said, \"Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allāh is the best guardian, and He is the most merciful of the merciful.\"",
+          "citation": "Surah 12 &middot; Verses 63-64 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:66-67",
+          "arabic": " قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ ۖ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ وَقَالَ يَـٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+          "translation": "[Jacob] said, \"Never will I send him with you until you give me a promise [i.e., oath] by Allāh that you will bring him [back] to me, unless you should be surrounded [i.e., overcome by enemies].\" And when they had given their promise, he said, \"Allāh, over what we say, is Entrusted.\" And he said, \"O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allāh at all. The decision is only for Allāh; upon Him I have relied, and upon Him let those who would rely [indeed] rely.\"",
+          "citation": "Surah 12 &middot; Verses 66-67 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:83-87",
+          "arabic": " قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ",
+          "translation": "[Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allāh will bring them to me all together. Indeed, it is He who is the Knowing, the Wise.\" And he turned away from them and said, \"Oh, my sorrow over Joseph,\" and his eyes became white from grief, for he was [of that] a suppressor. They said, \"By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish.\" He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people.\"",
+          "citation": "Surah 12 &middot; Verses 83-87 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. &hellip; He said, &lsquo;Verily, the patience is at the first stroke of a calamity.&rsquo;&rdquo;",
+          "narrator": "Narrated Anas bin Malik",
+          "href": "https://sunnah.com/bukhari:1283",
+          "label": "Sahih al-Bukhari 1283 &middot; sunnah.com"
+        },
+        {
+          "t": "tafsir",
+          "text": "On &ldquo;I only complain of my suffering and my grief to Allah,&rdquo; Qatadah and other scholars note that Ya&lsquo;qub (AS) suppressed his sorrow and complained to no created being. And on &ldquo;I know from Allah that which you do not know,&rdquo; Ibn Abbas explains: the vision Yusuf (AS) saw is truthful, and Allah will certainly make it come true. Grief held privately; hope placed in Allah alone.",
+          "href": "https://quran.com/12:86/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 12:86-87 &middot; quran.com"
         }
       ]
     },
@@ -153,6 +222,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "Yusuf (AS) received his family in Egypt with open gates: Enter Egypt, Allah willing, in safety. He raised his parents high on his throne, and they fell in honour before him, and the little boy's dream of eleven stars and the sun and the moon closed its circle in front of the whole family. O my father, said Yusuf (AS), this is the meaning of my dream from long ago. My Lord has made it true."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:94-98",
+          "arabic": " وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَـٰلِكَ ٱلْقَدِيمِ فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ قَالُوا۟ يَـٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَـٰطِـِٔينَ قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+          "translation": "And when the caravan departed [from Egypt], their father said, \"Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind.\" They said, \"By Allāh, indeed you are in your [same] old error.\" And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" They said, \"O our father, ask for us forgiveness of our sins; indeed, we have been sinners.\" He said, \"I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.\"",
+          "citation": "Surah 12 &middot; Verses 94-98 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:99-100",
+          "arabic": " فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا ۖ وَقَالَ يَـٰٓأَبَتِ هَـٰذَا تَأْوِيلُ رُءْيَـٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَـٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+          "translation": "And when they entered upon Joseph, he took his parents to himself [i.e., embraced them] and said, \"Enter Egypt, Allāh willing, safe [and secure].\" And he raised his parents upon the throne, and they bowed to him in prostration. And he said, \"O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.",
+          "citation": "Surah 12 &middot; Verses 99-100 &middot; Saheeh International"
         }
       ]
     },
@@ -177,6 +260,26 @@ export const chapter = {
         {
           "t": "p",
           "html": "They answered with the creed of the whole family line: We will worship your God and the God of your fathers, Ibrahim and Ismail and Ishaq, one God, and to Him we submit. The boy who had been promised behind a tent curtain, the man who had lost a son to a lie and prayed through blindness, handed his children the same torch his grandfather carried out of the fire. That is the life of Yaqub (AS): a man who lost almost everything except his certainty, and discovered at the end that certainty was the thing that brought everything back."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:132-133",
+          "arabic": " وَوَصَّىٰ بِهَآ إِبْرَٰهِـۧمُ بَنِيهِ وَيَعْقُوبُ يَـٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+          "translation": "And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], \"O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims.\" Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him.\"",
+          "citation": "Surah 2 &middot; Verses 132-133 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On &ldquo;die not except as Muslims,&rdquo; Ibn Kathir notes these prophets loved the words of submission so deeply that they preserved them until the hour of death and enjoined their children to hold to them after. Ya&lsquo;qub (AS)&rsquo;s final counsel was not a new instruction but the lifelong creed, handed down at the last hour.",
+          "href": "https://quran.com/2:132/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 2:132 &middot; quran.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 38:45-47",
+          "arabic": " وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ",
+          "translation": "And remember Our servants, Abraham, Isaac and Jacob - those of strength and [religious] vision. Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter]. And indeed they are, to Us, among the chosen and outstanding.",
+          "citation": "Surah 38 &middot; Verses 45-47 &middot; Saheeh International"
         }
       ]
     }

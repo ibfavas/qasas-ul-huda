@@ -1,7 +1,7 @@
 /* idris chapter data: Idris (AS), Chapter II.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter II",
@@ -43,6 +43,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "He was born while Adam (AS) was still alive, and after Seth (AS) passed away, Idris (AS) led the children of Adam and called them to the worship of Allah alone, just as their father and grandfather had done."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:56",
+          "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+          "translation": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.",
+          "citation": "Surah 19 &middot; Verse 56 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:85",
+          "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ",
+          "translation": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient.",
+          "citation": "Surah 21 &middot; Verse 85 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:86",
+          "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And We admitted them into Our mercy. Indeed, they were of the righteous.",
+          "citation": "Surah 21 &middot; Verse 86 &middot; Saheeh International"
         }
       ]
     },
@@ -123,6 +144,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "That is the lofty station the Quran speaks of. And centuries later, when Muhammad ﷺ was raised through the heavens on the night journey, he was greeted in the fourth heaven by Idris (AS), who welcomed him as a righteous brother and a righteous prophet. After Idris (AS) left the earth, corruption crept back among the children of Adam, growing quietly for generations, until the age of Nuh (AS)."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:57",
+          "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+          "translation": "And We raised him to a high station.",
+          "citation": "Surah 19 &middot; Verse 57 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Then we ascended to the 4th heaven and again the same questions and answers were exchanged as in the previous heavens. There I met Idris and greeted him. He said, &lsquo;You are welcomed O brother and Prophet.&rsquo;&rdquo;",
+          "narrator": "Narrated Malik bin Sasaa",
+          "href": "https://sunnah.com/bukhari:3207",
+          "label": "Sahih al-Bukhari 3207 &middot; sunnah.com"
         }
       ]
     }

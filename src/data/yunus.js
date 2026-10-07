@@ -1,7 +1,7 @@
 /* yunus chapter data: Yunus (AS), Chapter XXI.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XXI",
@@ -40,6 +40,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "He persisted anyway, warning them with the archives of the destroyed: the fate of Ad, of Thamud, of the people of Nuh (AS). They laughed and told him they were not in the least afraid of his empty threats. Years of preaching, zero converts, and a prophet's heart can crack in a particular way: not in disbelief, but in conclusion. Yunus (AS) decided their fate was sealed and that the wrath, when it came, should not find him in the city. He left Nineveh, without waiting for his Lord's command to leave. The Quran's sentence for that departure is gentle and devastating: And mention the man of the fish, when he went off in anger, and thought that We would not decree anything upon him. Allah was displeased with His prophet. A post of Allah's choosing can only be abandoned on Allah's orders."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:139",
+          "arabic": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+          "translation": "And indeed, Jonah was among the messengers.",
+          "citation": "Surah 37 &middot; Verse 139 &middot; Saheeh International"
         }
       ]
     },
@@ -64,6 +71,26 @@ export const chapter = {
         {
           "t": "p",
           "html": "And Allah, who is not obliged to accept a single deathbed apology, lifted the torment of disgrace from Nineveh and let the city live. It stands alone in the Quran as the exception to a bitter rule: Was there any city that believed, and its faith benefited it, except the people of Yunus? When they believed, We removed from them the torment of disgrace in the life of this world, and gave them enjoyment for a while. The only total success in the history of preaching happened after the preacher had given up and left, achieved by the very people who had laughed at him, and they repaid his years of warning in the only coin that mattered: as the skies cleared, Nineveh prayed for its prophet to come home."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:147-148",
+          "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+          "translation": "And We sent him<sup foot_note=197199>1</sup> to [his people of] a hundred thousand or more. And they believed, so We gave them enjoyment [of life] for a time.",
+          "citation": "Surah 37 &middot; Verses 147-148 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 10:98",
+          "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+          "translation": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time.",
+          "citation": "Surah 10 &middot; Verse 98 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir explains that no other town believed in its entirety in time for its belief to benefit it, and he records that between Musa (AS) and Yunus (AS) there was no nation that believed as a whole except the people of Yunus (AS).",
+          "href": "https://quran.com/10:98/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 10:98 &middot; quran.com"
         }
       ]
     },
@@ -88,6 +115,26 @@ export const chapter = {
         {
           "t": "p",
           "html": "The lots were cast, and the name came up Yunus (AS). The sailors refused it. They knew this passenger: young, righteous, honest, a blessing on the boat. They cast again. Yunus. They cast a third time. Yunus. Three lots, one name, and the prophet understood before anyone spoke. This was not chance. This was his Lord's verdict on a man who had walked away from his post without orders. While the crew still argued for him, Yunus (AS) accepted the judgment and went over the side into the black water, and as his Lord had decreed, the greatest fish of the ocean rose and swallowed him whole as he hit the waves."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:140",
+          "arabic": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+          "translation": "[Mention] when he ran away to the laden ship.",
+          "citation": "Surah 37 &middot; Verse 140 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:141-142",
+          "arabic": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ",
+          "translation": "And he drew lots<sup foot_note=197195>1</sup> and was among the losers. Then the fish swallowed him, while he was blameworthy.<sup foot_note=197196>1</sup>",
+          "citation": "Surah 37 &middot; Verses 141-142 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir explains the details the Quran leaves unstated: the ship had been filled with cargo, it was being pounded by waves until those aboard feared drowning, and they drew lots so that one man would be thrown overboard to lighten it. He records that Allah sent a great fish, which swallowed Yunus (AS) without cutting his flesh or breaking his bones.",
+          "href": "https://quran.com/37:141/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 37:141 &middot; quran.com"
         }
       ]
     },
@@ -112,6 +159,47 @@ export const chapter = {
         {
           "t": "p",
           "html": "Notice what the prayer does not contain. No complaint about the sailors, the city, the storm, the fish. No list of his years of unthanked preaching. Just Allah's perfection and his own fault, held up side by side. The creatures of the deep heard his glorification and gathered around the whale joining in the praise. And Allah, the Most Merciful, answered with a law that outlived the whale: Had he not been one of those who glorify Allah, he would have remained in its belly until the Day of Resurrection. The fish was commanded to the nearest shore, and it cast Yunus (AS) out onto a bare tract of land, sick, his skin inflamed from the belly that had been his prison, with no shelter from sun or wind. Allah caused a gourd tree to grow over him, broad leaves for shade and fruit for food, until strength returned. Then came the recommission: We sent him to a hundred thousand or more, and they believed, and We gave them enjoyment for a time. The prophet who left a city he thought was finished walked back into the only city in history that had finished repenting before he arrived."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:87",
+          "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَـٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَـٰتِ أَن لَّآ إِلَـٰهَ إِلَّآ أَنتَ سُبْحَـٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّـٰلِمِينَ",
+          "translation": "And [mention] the man of the fish [i.e., Jonah], when he went off in anger<sup foot_note=196810>1</sup> and thought that We would not decree [anything] upon him.<sup foot_note=196809>2</sup> And he called out within the darknesses,<sup foot_note=196808>3</sup> \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\"",
+          "citation": "Surah 21 &middot; Verse 87 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir records the explanation given by Ibn Mas'ud, Ibn Abbas and others: the darknesses were the darkness of the belly of the fish, the darkness of the sea and the darkness of the night.",
+          "href": "https://quran.com/21:87/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 21:87 &middot; quran.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:88",
+          "arabic": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُـۨجِى ٱلْمُؤْمِنِينَ",
+          "translation": "So We responded to him and saved him from the distress. And thus do We save the believers.",
+          "citation": "Surah 21 &middot; Verse 88 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The supplication of Dhun-Nun (Prophet Yunus) when he supplicated, while in the belly of the whale was: &lsquo;There is none worthy of worship except You, Glory to You, Indeed, I have been of the transgressors. (Lā ilāha illā anta subḥānaka innī kuntu minaẓ-ẓālimīn)&rsquo; So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him.&rdquo;",
+          "href": "https://sunnah.com/tirmidhi:3505",
+          "label": "Jami` at-Tirmidhi 3505 &middot; sunnah.com",
+          "narrator": "Narrated by Sa'd bin Abi Waqqas (RA)"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:143-145",
+          "arabic": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ ۞ فَنَبَذْنَـٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ",
+          "translation": "And had he not been of those who exalt Allāh, He would have remained inside its belly until the Day they are resurrected.<sup foot_note=197197>1</sup> But We threw him onto the open shore while he was ill.",
+          "citation": "Surah 37 &middot; Verses 143-145 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:146",
+          "arabic": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+          "translation": "And We caused to grow over him a gourd vine.<sup foot_note=197198>1</sup>",
+          "citation": "Surah 37 &middot; Verse 146 &middot; Saheeh International"
         }
       ]
     },
@@ -136,6 +224,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "His prayer outlived his city. There is no god but You, glory be to You, I have been among the wrongdoers is the key believers still turn in their own three darknesses: the night when escape routes close, the deep water of consequences, the belly of a mistake that was entirely our own. Yunus (AS) ran from his post and was retrieved, not with a lecture, but with a coastline, a shade tree, and a city that believed. No one who turns back is ever turned away."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 68:48-50",
+          "arabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ",
+          "translation": "Then be patient for the decision of your Lord, [O Muḥammad], and be not like the companion of the fish [i.e., Jonah] when he called out while he was distressed. If not that a favor [i.e., mercy] from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.<sup foot_note=197597>1</sup> And his Lord chose him and made him of the righteous.",
+          "citation": "Surah 68 &middot; Verses 48-50 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;None of you should say that I am better than Yunus (i.e. Jonah).&rdquo;",
+          "href": "https://sunnah.com/bukhari:3412",
+          "label": "Sahih al-Bukhari 3412 &middot; sunnah.com",
+          "narrator": "Narrated by Abdullah (RA)"
         }
       ]
     }

@@ -1,7 +1,7 @@
 /* ishaq chapter data: Ishaq (AS), Chapter IX.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter IX",
@@ -47,6 +47,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "And so Ishaq (AS) was born to two old people who had stopped expecting him, the child of a promise that walked into their tent disguised as three travellers."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 11:71",
+          "arabic": " وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَـٰهَا بِإِسْحَـٰقَ وَمِن وَرَآءِ إِسْحَـٰقَ يَعْقُوبَ",
+          "translation": "And his wife was standing, and she smiled. Then We gave her good tidings of Ishaq and after Ishaq, Yaqub.",
+          "citation": "Surah 11 &middot; Verse 71 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 14:39",
+          "arabic": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+          "translation": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.",
+          "citation": "Surah 14 &middot; Verse 39 &middot; Saheeh International"
         }
       ]
     },
@@ -71,6 +85,47 @@ export const chapter = {
         {
           "t": "p",
           "html": "That is how the Quran introduces the descendants of Ibrahim (AS): reputations that travel. Ishaq (AS) grew up in the household of the Friend of Allah, in the land of Canaan in Palestine, far from the Makkah of his brother Ismail (AS). The two sons of Ibrahim (AS) were raised at opposite ends of the prophet's world, one guarding the valley of the Kaaba, one carrying the message among the towns of the blessed land. Between them, they seeded the two great prophetic lines of history."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:112-113",
+          "arabic": " وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+          "translation": "And We gave him good tidings of Isaac, a prophet from among the righteous. And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself [i.e., sinner].",
+          "citation": "Surah 37 &middot; Verses 112-113 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir reads 37:112 as a second, separate glad tiding. After the story of the sacrifice, which he concludes concerned Ismail (AS), Allah immediately follows with the tidings of Isaac, a prophet from among the righteous: a later tiding, for a later son, from whom would come Ya&lsquo;qub (AS). This is the scholar&rsquo;s structural reading, not the Quran&rsquo;s wording.",
+          "href": "https://quran.com/37:112/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 37:112 &middot; quran.com"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) used to seek refuge with Allah for Al-Hasan and Al-Husain and say: &lsquo;Your forefather (i.e. Abraham) used to seek refuge with Allah for Ishmael and Isaac by reciting the following: O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3371",
+          "label": "Sahih al-Bukhari 3371 &middot; sunnah.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:72-73",
+          "arabic": " وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا صَـٰلِحِينَ وَجَعَلْنَـٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ ۖ وَكَانُوا۟ لَنَا عَـٰبِدِينَ",
+          "translation": "And We gave him Isaac and Jacob in addition, and all [of them] We made righteous. And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakāh; and they were worshippers of Us.",
+          "citation": "Surah 21 &middot; Verses 72-73 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:49",
+          "arabic": " فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+          "translation": "So when he had left them and those they worshipped other than Allāh, We gave him Isaac and Jacob, and each [of them] We made a prophet.",
+          "citation": "Surah 19 &middot; Verse 49 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 6:84",
+          "arabic": " وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+          "translation": "And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.",
+          "citation": "Surah 6 &middot; Verse 84 &middot; Saheeh International"
         }
       ]
     },
@@ -95,6 +150,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "The marriage was blessed with twin boys: Al-Eis, the elder, and Yaqub (AS). The father loved both, but the destinies within them were different. Yaqub (AS) was chosen for prophethood, and Al-Eis burned with envy at his brother's favour and future, until his threats grew so severe that Yaqub (AS) would one day have to flee the country to save his life. That storm belongs to the next chapter. For now the house of Ishaq (AS) simply held what the angels had promised in the tent: a son, and after him a son, and after him a nation of prophets."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) said, &lsquo;The honorable is the son of the honorable, the son the honorable, i.e. Joseph, the son of Jacob, the son of Isaac, the son of Abraham.&rsquo;&rdquo;",
+          "narrator": "Narrated Ibn &lsquo;Umar",
+          "href": "https://sunnah.com/bukhari:3382",
+          "label": "Sahih al-Bukhari 3382 &middot; sunnah.com"
         }
       ]
     },
@@ -119,6 +181,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "His was not a life of fires, floods and overturned cities. The Quran records no great catastrophe for Ishaq (AS), no drowning nation, no burning pit. Sometimes Allah's story for a prophet is not a storm but a bridge. Ishaq (AS) was the bridge: between Ibrahim (AS) and the great line of prophets who came after him, Yaqub (AS), Yusuf (AS), Musa (AS), Dawud (AS), Sulayman (AS), Zakariya (AS), Yahya (AS) and Isa (AS) all walked across him to reach the world. A bridge does not need to be dramatic. It needs to hold. And the promise made to an old woman behind a tent curtain held, generation after generation, for thousands of years."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:38",
+          "arabic": " وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+          "translation": "And I have followed the religion of my fathers, Abraham, Isaac and Jacob. And it was not for us to associate anything with Allāh. That is from the favor of Allāh upon us and upon the people, but most of the people are not grateful.",
+          "citation": "Surah 12 &middot; Verse 38 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:133",
+          "arabic": " أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+          "translation": "Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him.\"",
+          "citation": "Surah 2 &middot; Verse 133 &middot; Saheeh International"
         }
       ]
     }

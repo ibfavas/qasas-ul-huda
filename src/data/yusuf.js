@@ -1,7 +1,7 @@
 /* yusuf chapter data: Yusuf (AS), Chapter XI.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XI",
@@ -47,6 +47,41 @@ export const chapter = {
         {
           "t": "p",
           "html": "He was right. The older brothers already burned with envy. Our father loves Yusuf and his brother more than us, they said, though we are a strong group. Our father is clearly mistaken. And envy, left to ripen, turned slowly into a plot. Kill Yusuf, or throw him somewhere far away, and your father's love will be yours alone. In the end they chose the well."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:3",
+          "arabic": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَـٰفِلِينَ",
+          "translation": "We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur&#x27;ān although you were, before it, among the unaware.",
+          "citation": "Surah 12 &middot; Verse 3 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:4",
+          "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+          "translation": "[Of these stories mention] when Joseph said to his father, &quot;O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.&quot;",
+          "citation": "Surah 12 &middot; Verse 4 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The honorable, the son of the honorable, the son of the honorable, (was) Joseph, the son of Jacob! the son of Isaac, the son of Abraham.&rdquo;",
+          "narrator": "Narrated Ibn &#x27;Umar",
+          "href": "https://sunnah.com/bukhari:3390",
+          "label": "Sahih al-Bukhari 3390 &middot; sunnah.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:6",
+          "arabic": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+          "translation": "And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Yaqub, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise.",
+          "citation": "Surah 12 &middot; Verse 6 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:10",
+          "arabic": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَـٰعِلِينَ",
+          "translation": "Said a speaker among them, &quot;Do not kill Joseph but throw him into the bottom of the well; some travelers will pick him up - if you would do [something].&quot;",
+          "citation": "Surah 12 &middot; Verse 10 &middot; Saheeh International"
         }
       ]
     },
@@ -75,6 +110,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "He was. In the blackness of the well, the little boy clung to a stone ledge and prayed. A caravan bound for Egypt stopped to draw water; the water-drawer lowered his bucket and hauled up a miracle: Good news! A boy! They hid him away as merchandise and sold him cheaply in Egypt, where the word spread that a strikingly handsome youth was on auction. The bidding climbed, and Yusuf (AS) was bought by the highest bidder in the city: Al-Aziz, the chief minister of Egypt, a childless man who looked at the boy and told his wife: Make his stay honourable. Perhaps he will benefit us, or we may adopt him as a son. The well had led, by Allah's plan, into the second most powerful house in Egypt."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:15",
+          "arabic": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ",
+          "translation": "So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, &quot;You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity].&quot;",
+          "citation": "Surah 12 &middot; Verse 15 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:19",
+          "arabic": "وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌ ۚ وَأَسَرُّوهُ بِضَـٰعَةً ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
+          "translation": "And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, &quot;Good news! Here is a boy.&quot; And they concealed him, [taking him] as merchandise; and Allāh was knowing of what they did.",
+          "citation": "Surah 12 &middot; Verse 19 &middot; Saheeh International"
         }
       ]
     },
@@ -103,6 +152,34 @@ export const chapter = {
         {
           "t": "p",
           "html": "But the story spread, and the women of the city mocked her for chasing her slave. To silence them, she threw a banquet, put fruit and knives in their hands, and then called Yusuf (AS) in. At the sight of his beauty the women gasped and cut their own hands with the knives, not feeling a thing. This is no mortal, they cried. This is a noble angel! Zulaika smiled her grim smile: This is the one you blamed me for. And she threatened him openly: if he refuses me again, he will be imprisoned and disgraced. Yusuf (AS) prayed the prayer of a man who knew his own limits: My Lord, prison is dearer to me than what they call me to. Until Allah (SWT) answered his call, Al-Aziz, against his own judgment, gave his wife what she wanted. The innocent man went to prison to keep his honour, and his file said nothing but: Yusuf."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:23",
+          "arabic": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ",
+          "translation": "And she, in whose house he was, sought to seduce him. She closed the doors and said, &quot;Come, you.&quot; He said, &quot;[I seek] the refuge of Allāh. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed.&quot;",
+          "citation": "Surah 12 &middot; Verse 23 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;I saw Yusuf (peace of Allah be upon him) who had been given half of (world) beauty. He welcomed me and prayed for my well-being.&rdquo;",
+          "narrator": "Narrated Anas b. Malik, describing the Night Journey",
+          "href": "https://sunnah.com/muslim:162",
+          "label": "Sahih Muslim 162a &middot; sunnah.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:26",
+          "arabic": "قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى ۚ وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَـٰذِبِينَ",
+          "translation": "[Joseph] said, &quot;It was she who sought to seduce me.&quot; And a witness from her family testified, &quot;If his shirt is torn from the front, then she has told the truth, and he is of the liars.&quot;",
+          "citation": "Surah 12 &middot; Verse 26 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:28",
+          "arabic": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+          "translation": "So when he [i.e., her husband] saw his shirt torn from the back, he said, &quot;Indeed, it is of your [i.e., women&#x27;s] plan. Indeed, your plan is great [i.e., vehement].",
+          "citation": "Surah 12 &middot; Verse 28 &middot; Saheeh International"
         }
       ]
     },
@@ -131,6 +208,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "The cupbearer was restored to the palace, to the cups and the king's table. And in the comfort of freedom, Satan made him forget the prisoner who had saved his reason. Yusuf (AS) remained in prison for several more years, forgotten by men, remembered by Allah, growing in the dark like a seed."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:33",
+          "arabic": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَـٰهِلِينَ",
+          "translation": "He said, &quot;My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant.&quot;",
+          "citation": "Surah 12 &middot; Verse 33 &middot; Saheeh International"
         }
       ]
     },
@@ -155,6 +239,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "He hurried to the prison, and Yusuf (AS) received his forgetful friend without a word of complaint. Yusuf (AS), the king has dreamed. The answer came instantly, complete with a national survival plan: You will sow for seven years, hard. Leave what you harvest in its ears, except a little to eat. Then seven hard years will come and consume everything you stored, except a little you keep aside. Then a year of rain will come, in which people will press grapes and olives. Fourteen years of Egypt's future, and the instructions to survive them, delivered free of charge by a prisoner who had every right to name a price."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:47",
+          "arabic": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+          "translation": "[Joseph] said, &quot;You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.&quot;",
+          "citation": "Surah 12 &middot; Verse 47 &middot; Saheeh International"
         }
       ]
     },
@@ -179,6 +270,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "The king summoned the women, and they testified before him: Allah forbid, we know no evil of him. And the wife of Al-Aziz stood and said the words that freed him completely: Now the truth has come to light. It was I who sought to seduce him, and he is surely truthful. Only then did Yusuf (AS) walk out of prison, not pardoned, but proven. The king brought him close, tested his mind, and trusted him. Yusuf (AS) asked for the post where his gifts could save the most lives: Place me over the storehouses of the land. I will guard them with knowledge. And so the boy who had been sold for a few coins became the treasurer of Egypt, and for seven fat years he filled the granaries of the kingdom to the roofs."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:51",
+          "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+          "translation": "Said [the king to the women], &quot;What was your condition when you sought to seduce Joseph?&quot; They said, &quot;Perfect is Allāh! We know about him no evil.&quot; The wife of al-ʿAzeez said, &quot;Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful.&quot;",
+          "citation": "Surah 12 &middot; Verse 51 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:55",
+          "arabic": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ ۖ إِنِّى حَفِيظٌ عَلِيمٌ",
+          "translation": "[Joseph] said, &quot;Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian.&quot;",
+          "citation": "Surah 12 &middot; Verse 55 &middot; Saheeh International"
         }
       ]
     },
@@ -207,6 +312,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "In Egypt, Yusuf (AS) feasted his brothers, and arranged to be alone with Binyamin. There, at last, the mask came off: Indeed, I am your brother. Do not grieve over what they used to do. Binyamin swung his arms around the brother he had lost in childhood, and they wept. Then Yusuf (AS) set his final plan in motion. As the brothers loaded up to leave, the king's golden cup was slipped secretly into Binyamin's bag. Riders stopped the caravan at the gate: the king's cup is missing. Search them. The law the brothers themselves had declared, that a thief should be enslaved to his victim, was applied to them, and the cup was found in the youngest brother's sack. Binyamin was detained. The eldest brother, remembering his oath, refused to go home and face his father empty-handed again, and stayed behind in disgrace. Nine brothers rode home with a story worse than the first."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:87",
+          "arabic": "يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ",
+          "translation": "O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people.&quot;",
+          "citation": "Surah 12 &middot; Verse 87 &middot; Saheeh International"
         }
       ]
     },
@@ -239,6 +351,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "And Yusuf (AS), at the summit of power, with the family restored and the granaries full, made the prayer of a man who had learned what actually matters: My Lord, You have given me authority and taught me the interpretation of dreams. Creator of the heavens and the earth, You are my Protector in this world and the next. Cause me to die as a Muslim, and join me with the righteous. From a well to a prison to a throne, he had asked for one thing at every station: to arrive at Allah. And Allah, at every station, had arrived for him."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:92",
+          "arabic": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+          "translation": "He said, &quot;No blame will there be upon you today. May Allāh forgive you; and He is the most merciful of the merciful.&quot;",
+          "citation": "Surah 12 &middot; Verse 92 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:100",
+          "arabic": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا ۖ وَقَالَ يَـٰٓأَبَتِ هَـٰذَا تَأْوِيلُ رُءْيَـٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَـٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+          "translation": "And he raised his parents upon the throne, and they bowed to him in prostration. And he said, &quot;O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.",
+          "citation": "Surah 12 &middot; Verse 100 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:101",
+          "arabic": "رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
+          "translation": "My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous.&quot;",
+          "citation": "Surah 12 &middot; Verse 101 &middot; Saheeh International"
         }
       ]
     }

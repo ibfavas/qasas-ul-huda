@@ -1,7 +1,7 @@
 /* dhul-kifl chapter data: Dhul-Kifl (AS), Chapter XVI.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XVI",
@@ -43,6 +43,26 @@ export const chapter = {
         {
           "t": "p",
           "html": "But the commentators preserved a story about him, told by the great historian Ibn Jarir, and it explains the one quality both verses agree on: this was a man whom nothing could make angry."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:85-86",
+          "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. And We admitted them into Our mercy. Indeed, they were of the righteous.",
+          "citation": "Surah 21 &middot; Verses 85-86 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 38:48",
+          "arabic": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
+          "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
+          "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir (Abridged) treats this passage in the company of the account of patience under trial that precedes it, and it offers no story, lineage, people, or deeds for Dhul-Kifl (AS). Its silence matches the brevity of the verse itself, which names him among the patient and the righteous and says no more.",
+          "href": "https://quran.com/21:85/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 21:85 &middot; quran.com"
         }
       ]
     },

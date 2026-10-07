@@ -1,7 +1,7 @@
 /* ilyas chapter data: Ilyas (AS), Chapter XIX.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XIX",
@@ -38,6 +38,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "The Quran does not pretend to be a complete archive of every prophet. It tells us plainly that there are messengers We have related to you and messengers We have not related. Ilyas (AS) stands between the two: a prophet whose words Allah preserved and whose biography He mostly kept to Himself. What He preserved is a confrontation."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:123-124",
+          "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ",
+          "translation": "And indeed, Elias was from among the messengers, When he said to his people, \"Will you not fear Allāh?",
+          "citation": "Surah 37 &middot; Verses 123-124 &middot; Saheeh International"
         }
       ]
     },
@@ -62,6 +69,19 @@ export const chapter = {
         {
           "t": "p",
           "html": "Into that city walked Ilyas (AS) with Allah's question burning in his mouth: Will you not fear Allah? Do you call upon Baal and abandon the Best of Creators: Allah, your Lord and the Lord of your first forefathers? Unpack the argument, because it is one of the sharpest in the Quran. Baal's worshippers called their idol a creator. Ilyas (AS) answered with the definition of one: a creator makes something from nothing. Allah says to a thing 'Be,' and it is. Human beings, and every idol they carve, only rearrange what already exists. We take Allah's wood and make a chair, Allah's rain and claim our god sent it. The four-faced statue had never created so much as the wood it was carved from."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:125-126",
+          "arabic": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+          "translation": "Do you call upon Baʿl<sup foot_note=197193>1</sup> and leave the best of creators - Allāh, your Lord and the Lord of your first forefathers?\"",
+          "citation": "Surah 37 &middot; Verses 125-126 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir (Abridged) records that Ibn Abbas, Mujahid, Ikrimah, Qatadah and As-Suddi understood the word Ba'l to mean a lord, and he also records the report that it was the name of an idol worshipped by the people of Ba'labak, a city to the west of Damascus. On the denial that follows, he explains that they will be brought forth for the punishment on the Day of Reckoning, and that the ones excepted are those who worshipped Allah alone.",
+          "href": "https://quran.com/37:123/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 37:123 &middot; quran.com"
         }
       ]
     },
@@ -86,6 +106,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "How exactly his people were punished, the Quran does not say, and honesty leaves it there. Other traditions speak of a long drought laid on the land while their weather god sat silent in his temple, a pointed lesson in the difference between a lord of rain and a block of gold. Whether the reckoning came in this world or waits in the next, Allah knows best, and the Quran's silence is part of its teaching: not every prophet's file is opened to us. What is opened is enough. A man stood alone in a city of idolaters, said that the Best of Creators is not made of gold, and heaven has been answering him with the same sentence for a thousand years: Peace be upon Ilyas."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:127-128",
+          "arabic": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+          "translation": "And they denied him, so indeed, they will be brought [for punishment], Except the chosen servants of Allāh.",
+          "citation": "Surah 37 &middot; Verses 127-128 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:129-132",
+          "arabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+          "translation": "And We left for him [favorable mention] among later generations: \"Peace upon Elias.\"<sup foot_note=197194>1</sup> Indeed, We thus reward the doers of good. Indeed, he was of Our believing servants.",
+          "citation": "Surah 37 &middot; Verses 129-132 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 6:85",
+          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
         }
       ]
     }

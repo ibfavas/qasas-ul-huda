@@ -1,7 +1,7 @@
 /* adam chapter data: Adam (AS), Chapter I.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter I",
@@ -48,6 +48,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "Allah answered them with words that open the whole human story: I know what you do not know. He knew what this creation would carry inside it: a mind that could learn, a heart that could love Him by choice, and the chance to earn a place higher than obedience that never had a choice."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:30",
+          "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً ۖ قَالُوٓا۟ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ",
+          "translation": "And [mention, O Muḥammad], when your Lord said to the angels, &quot;Indeed, I will make upon the earth a successive authority.&quot; They said, &quot;Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?&quot; He [Allāh] said, &quot;Indeed, I know that which you do not know.&quot;",
+          "citation": "Surah 2 &middot; Verse 30 &middot; Saheeh International"
         }
       ]
     },
@@ -80,6 +87,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "Allah asked him why he had not joined those who prostrated, and Iblis answered with open arrogance: it is not for me to bow to a human made from mud. So Allah cast him out and cursed him. But Iblis made one last request. He asked to live until the Day of Judgment so that he could spend his time trying to pull Adam's children away from Allah. Allah granted him the time, and warned him: over My true servants you will have no power. Only those who choose to follow you will be yours. And so the oldest enemy of mankind began his long war, and Adam (AS) had seen him face to face."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 15:29",
+          "arabic": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ",
+          "translation": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.",
+          "citation": "Surah 15 &middot; Verse 29 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:34",
+          "arabic": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
+          "translation": "And [mention] when We said to the angels, &quot;Prostrate before Adam&quot;; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.",
+          "citation": "Surah 2 &middot; Verse 34 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:12",
+          "arabic": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+          "translation": "[Allāh] said, &quot;What prevented you from prostrating when I commanded you?&quot; [Satan] said, &quot;I am better than him. You created me from fire and created him from clay [i.e., earth].&quot;",
+          "citation": "Surah 7 &middot; Verse 12 &middot; Saheeh International"
         }
       ]
     },
@@ -112,6 +140,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "But Adam (AS) was often alone. The angels were busy with their worship and their duties, and the first man felt the quiet ache of loneliness. So Allah created for him a companion, a wife, so that he could find rest and comfort with her. One day Adam (AS) woke from sleep and found a woman beside him. Who are you? he asked. A woman, she replied. Why were you created? So that you can find tranquillity in me. The angels asked Adam (AS) her name, and he said: Hawwa, because she was created from something living. And the two of them were placed together in the gardens of Paradise."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Allah created Adam, making him 60 cubits tall. When He created him, He said to him, &quot;Go and greet that group of angels, and listen to their reply, for it will be your greeting (salutation) and the greeting (salutations) of your offspring.&quot; So, Adam said (to the angels), As-Salamu Alaikum (i.e. Peace be upon you). The angels said, &quot;As-salamu Alaika wa Rahmatu-l-lahi&quot; (i.e. Peace and Allah&#x27;s Mercy be upon you). Thus the angels added to Adam&#x27;s salutation the expression, &#x27;Wa Rahmatu-l-lahi.&#x27; Any person who will enter Paradise will resemble Adam (in appearance and figure). People have been decreasing in stature since Adam&#x27;s creation.&rdquo;",
+          "narrator": "Narrated Abu Huraira",
+          "href": "https://sunnah.com/bukhari:3326",
+          "label": "Sahih al-Bukhari 3326 &middot; sunnah.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:31",
+          "arabic": "وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمْ صَـٰدِقِينَ",
+          "translation": "And He taught Adam the names - all of them. Then He showed them to the angels and said, &quot;Inform Me of the names of these, if you are truthful.&quot;",
+          "citation": "Surah 2 &middot; Verse 31 &middot; Saheeh International"
         }
       ]
     },
@@ -140,6 +182,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "Shall I show you the tree of eternity, he whispered, and a kingdom that never ends? Your Lord only forbade you this tree so that you would not become angels, or live forever. And then he swore to them both: I am truly a sincere adviser to you. He dressed the lie in the clothes of a friend. That is how Iblis still works today: he never says, come and disobey. He says, come and take what is being kept from you."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:19",
+          "arabic": "وَيَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ",
+          "translation": "And &quot;O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers.&quot;",
+          "citation": "Surah 7 &middot; Verse 19 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:20",
+          "arabic": "فَوَسْوَسَ لَهُمَا ٱلشَّيْطَـٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَـٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ ٱلْخَـٰلِدِينَ",
+          "translation": "But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, &quot;Your Lord did not forbid you this tree except that you become angels or become of the immortal.&quot;",
+          "citation": "Surah 7 &middot; Verse 20 &middot; Saheeh International"
         }
       ]
     },
@@ -172,6 +228,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "It is the oldest prayer of forgiveness in the world, and it was answered. Allah turned to Adam (AS) in forgiveness. But the life of ease in Paradise was over. Allah sent them down to the earth, Adam (AS), Hawwa, and Iblis with them, enemies to one another. On the earth you will live, Allah told them, and there you will die, and from it you will be brought back to life. The test that began with one tree would now continue for every child of Adam (AS) until the end of time."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:22",
+          "arabic": "فَدَلَّىٰهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَـٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ",
+          "translation": "So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, &quot;Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?&quot;",
+          "citation": "Surah 7 &middot; Verse 22 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:23",
+          "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+          "translation": "They said, &quot;Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.&quot;",
+          "citation": "Surah 7 &middot; Verse 23 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:37",
+          "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+          "translation": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.",
+          "citation": "Surah 2 &middot; Verse 37 &middot; Saheeh International"
         }
       ]
     },
@@ -200,6 +277,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "And the family grew. The first children born on earth were twins, and among them were two sons whose story the Quran tells to every generation: Qabil, who worked the land as a farmer, and Habil, who raised sheep and cattle. The two brothers were as different as fire and water. Habil was gentle, obedient, and God-fearing. Qabil was proud, selfish, and quick to anger."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:38",
+          "arabic": "قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+          "translation": "We said, &quot;Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve.&quot;",
+          "citation": "Surah 2 &middot; Verse 38 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The best day on which the sun has risen is Friday; on it Adam was created, on it he was made to enter Paradise, on it he was expelled from it.&rdquo;",
+          "narrator": "Abu Huraira reported Allah&#x27;s Messenger (peace be upon him) as saying",
+          "href": "https://sunnah.com/muslim:854",
+          "label": "Sahih Muslim 854a &middot; sunnah.com"
         }
       ]
     },
@@ -228,6 +319,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "Habil answered with words so calm and so brave that the Quran recorded them forever. Allah only accepts from the devout, he said. If you raise your hand to kill me, I will not raise my hand to kill you. I fear Allah, Lord of the worlds. I would rather you carry your sin against me along with your own sins, and become one of the people of the Fire, for that is the reward of the wrongdoers. He would not fight his brother, even to save his own life."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 5:27",
+          "arabic": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+          "translation": "And recite to them the story of Adam&#x27;s two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], &quot;I will surely kill you.&quot; Said [the former], &quot;Indeed, Allāh only accepts from the righteous [who fear Him].&quot;",
+          "citation": "Surah 5 &middot; Verse 27 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 5:28",
+          "arabic": "لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
+          "translation": "If you should raise your hand toward me to kill me - I shall not raise my hand toward you to kill you. Indeed, I fear Allāh, Lord of the worlds.",
+          "citation": "Surah 5 &middot; Verse 28 &middot; Saheeh International"
         }
       ]
     },
@@ -256,6 +361,27 @@ export const chapter = {
         {
           "t": "p",
           "html": "Adam (AS) grieved as no father had ever grieved. One son was dead, and the other was lost to the devil who had once whispered to Adam (AS) himself. He prayed for his children, and he carried on with his mission, warning his growing family about Iblees and calling them to worship Allah alone. The whisper that began in Paradise had claimed its first life on earth, and the old prophet knew the war would outlive him."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 5:30",
+          "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+          "translation": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers.",
+          "citation": "Surah 5 &middot; Verse 30 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 5:31",
+          "arabic": "فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَـٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَـٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّـٰدِمِينَ",
+          "translation": "Then Allāh sent a crow searching [i.e., scratching] in the ground to show him how to hide the disgrace [i.e., body] of his brother. He said, &quot;O woe to me! Have I failed to be like this crow and hide the disgrace [i.e., body] of my brother?&quot; And he became of the regretful.",
+          "citation": "Surah 5 &middot; Verse 31 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Whenever a person is murdered unjustly, there is a share from the burden of the crime on the first son of Adam for he was the first to start the tradition of murdering.&rdquo;",
+          "narrator": "Narrated &#x27;Abdullah",
+          "href": "https://sunnah.com/bukhari:3335",
+          "label": "Sahih al-Bukhari 3335 &middot; sunnah.com"
         }
       ]
     },
@@ -284,6 +410,13 @@ export const chapter = {
         {
           "t": "p",
           "html": "Before he died, Adam (AS) appointed his son Seth (AS) to lead the people after him, and Seth (AS) too was chosen as a prophet to guide mankind to the path of Allah. The first chapter of humanity closed with a grave dug by angels, a son carrying his father's mission, and a promise that still stands over every descendant of Adam (AS): whoever follows Allah's guidance will have no fear, and will not grieve."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 5:32",
+          "arabic": "مِّنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+          "translation": "Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.",
+          "citation": "Surah 5 &middot; Verse 32 &middot; Saheeh International"
         }
       ]
     }

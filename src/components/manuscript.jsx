@@ -89,13 +89,24 @@ export function Hadith({ h }) {
 }
 
 export function Tafsir({ t }) {
+  const [open, setOpen] = useState(false);
+  const [ref, shown] = useReveal();
   return (
-    <div className="tafsir reveal">
-      <p className="t-label"><span>From the Tafsir</span></p>
-      <p className="t-text" dangerouslySetInnerHTML={html(t.text)} />
-      <p className="t-cite">
-        <a href={t.href} target="_blank" rel="noopener" dangerouslySetInnerHTML={html(t.label)} />
-      </p>
+    <div ref={ref} className={`tafsir reveal${shown ? ' visible' : ''}${open ? ' is-open' : ''}`}>
+      <button type="button" className="panel-toggle" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
+        <span className="t-chip">From the Tafsir</span>
+        <span className="toggle-cite" dangerouslySetInnerHTML={html(t.label)} />
+        <span className="toggle-word">{open ? 'Hide' : 'Show'}</span>
+        <Chevron />
+      </button>
+      <div className="panel-body">
+        <div className="panel-inner">
+          <p className="t-text" dangerouslySetInnerHTML={html(t.text)} />
+          <p className="t-cite">
+            <a href={t.href} target="_blank" rel="noopener" dangerouslySetInnerHTML={html(t.label)} />
+          </p>
+        </div>
+      </div>
     </div>
   );
 }

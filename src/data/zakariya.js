@@ -1,7 +1,7 @@
 /* zakariya chapter data: Zakariyah (AS), Chapter XXII.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XXII",
@@ -40,6 +40,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "He was past ninety years old. His wife was barren and aged with him. There was no son behind him, and the worry was not a father's vanity. It was a shepherd's: who would hold these people to the straight path when he was gone? His relatives, as he would soon tell his Lord, were not men he trusted with the flock. For years he had served a temple full of worshippers and preached to a nation famous for killing its prophets, and he had never once been disappointed in prayer. My bones have weakened, he would pray, and my head has flared with white hair, and never have I been unfortunate in my supplication to You, my Lord. Hold that sentence. It is the key to his whole story. The old man was not asking because he doubted the answer's size. He was asking because he had a lifetime's evidence about the Answerer."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:2-3",
+          "arabic": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا",
+          "translation": "[This is] a mention of the mercy of your Lord to His servant Zechariah When he called to his Lord a private call [i.e., supplication].",
+          "citation": "Surah 19 &middot; Verses 2-3 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:4-6",
+          "arabic": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا",
+          "translation": "He said, \"My Lord, indeed my bones have weakened, and my head has filled<sup foot_note=196718>1</sup> with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed]. And indeed, I fear the successors<sup foot_note=196719>1</sup> after me, and my wife has been barren, so give me from Yourself an heir Who will inherit me<sup foot_note=196720>1</sup> and inherit from the family of Jacob. And make him, my Lord, pleasing [to You].\"",
+          "citation": "Surah 19 &middot; Verses 4-6 &middot; Saheeh International"
         }
       ]
     },
@@ -116,6 +130,26 @@ export const chapter = {
         {
           "t": "p",
           "html": "The second, recorded in Surah Al-Anbiya, shows you the worry underneath, the succession of the call itself: My Lord, do not leave me childless, though You are the best of inheritors. He was not even demanding. If Allah chose to inherit the mission Himself, the old man would accept it. But he asked, because asking is what worshippers do, and he had ninety years of never being disappointed to stand on."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 3:37",
+          "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+          "translation": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\"",
+          "citation": "Surah 3 &middot; Verse 37 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir records the explanation carried by Mujahid, Ikrimah, Sa'id bin Jubayr, Qatadah and others: Zakariya (AS) would find with her the fruits of summer in winter and the fruits of winter in summer.",
+          "href": "https://quran.com/3:37/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 3:37 &middot; quran.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 3:38",
+          "arabic": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ",
+          "translation": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\"",
+          "citation": "Surah 3 &middot; Verse 38 &middot; Saheeh International"
         }
       ]
     },
@@ -144,6 +178,54 @@ export const chapter = {
         {
           "t": "p",
           "html": "He asked for a sign, and the sign was fitted to a preacher: you will not speak to people for three nights, though otherwise sound. Zakariyah (AS) came out of the sanctuary to his people unable to form a word, and he gestured to them: glorify Allah morning and evening. The man whose tongue had spent ninety years calling people to Allah fell silent for three days, and the silence itself announced the miracle. In due course Yahya (AS) was born, and Allah would seal both prayers with a summary: So We responded to him, and We gave him Yahya, and We repaired his wife for him. Indeed, they used to race to good deeds and call upon Us in hope and fear, and they were humbly submissive to Us. Never unfortunate in supplication. Not once. Not at ninety. Not ever."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 3:39-40",
+          "arabic": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ ۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+          "translation": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allāh gives you good tidings of John, confirming a word<sup foot_note=196050>1</sup> from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\" He said, \"My Lord, how will I have a boy when I have reached old age and my wife is barren?\" He [the angel] said, \"Such is Allāh; He does what He wills.\"",
+          "citation": "Surah 3 &middot; Verses 39-40 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:7-9",
+          "arabic": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
+          "translation": "[He was told],<sup foot_note=196721>1</sup> \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\" He said, \"My Lord, how will I have a boy when my wife has been barren and I have reached extreme old age?\" [An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.'\"",
+          "citation": "Surah 19 &middot; Verses 7-9 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 3:41",
+          "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ",
+          "translation": "He said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning.\"",
+          "citation": "Surah 3 &middot; Verse 41 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:10-11",
+          "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍ سَوِيًّا فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+          "translation": "[Zechariah] said, \"My Lord, make for me a sign.\" He said, \"Your sign is that you will not speak to the people for three nights, [being] sound.\"<sup foot_note=196722>1</sup> So he came out to his people from the prayer chamber and signaled to them to exalt [Allāh] in the morning and afternoon.",
+          "citation": "Surah 19 &middot; Verses 10-11 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:89-90",
+          "arabic": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ",
+          "translation": "And [mention] Zechariah, when he called to his Lord, \"My Lord, do not leave me alone [with no heir], while You are the best of inheritors.\" So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate<sup foot_note=196811>1</sup> Us in hope and fear, and they were to Us humbly submissive.",
+          "citation": "Surah 21 &middot; Verses 89-90 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir records the explanation of Ibn Abbas, Mujahid and Sa'id bin Jubayr on the amending of his wife: she had been barren and had never had a child, and then she gave birth.",
+          "href": "https://quran.com/21:90/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 21:90 &middot; quran.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 6:85",
+          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
         }
       ]
     }

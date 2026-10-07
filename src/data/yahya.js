@@ -1,7 +1,7 @@
 /* yahya chapter data: Yahya (AS), Chapter XXIII.
    Story format: prose scenes written for young readers, following the
-   classical telling of the story. No verse or hadith panels, no sources
-   note card, by the site owner's instruction. */
+   classical telling of the story. Verse, hadith and tafsir panels
+   sit as dropdowns under each scene. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XXIII",
@@ -39,6 +39,46 @@ export const chapter = {
         {
           "t": "p",
           "html": "Allah's command to him came while he was still a boy: O Yahya, hold firmly to the Book. And We gave him wisdom while yet a child, and tenderness from Us, and purity, and he was righteous, and dutiful to his parents, and he was not an arrogant tyrant. It is worth pausing over that inventory, because heaven does not compose such lists carelessly. Tenderness: the scholars explain the word as a mother's kind of mercy, implanted by Allah in a man's chest. Purity: a soul absolved and sincere. Wisdom: judgment granted in childhood rather than old age, an authority on the scripture of Musa (AS) while other boys were still learning it. He never married; his chastity is part of his Quranic description, a master, chaste, and a prophet from among the righteous. And Allah crowned the portrait with a greeting spoken over only two cradles in all of history: Peace be upon him the day he was born, and the day he dies, and the day he is raised alive."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:7",
+          "arabic": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا",
+          "translation": "[He was told],<sup foot_note=196721>1</sup> \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\"",
+          "citation": "Surah 19 &middot; Verse 7 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:12",
+          "arabic": "يَـٰيَحْيَىٰ خُذِ ٱلْكِتَـٰبَ بِقُوَّةٍ ۖ وَءَاتَيْنَـٰهُ ٱلْحُكْمَ صَبِيًّا",
+          "translation": "[Allāh said], \"O John, take the Scripture [i.e., adhere to it] with determination.\" And We gave him judgement [while yet] a boy",
+          "citation": "Surah 19 &middot; Verse 12 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir explains the command as learning the Book with strength, with zeal and studious effort, and he explains the judgement given to a boy as understanding, knowledge, fortitude, diligence and zeal for good and the pursuit of good, granted to him while he was young.",
+          "href": "https://quran.com/19:12/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 19:12 &middot; quran.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:13",
+          "arabic": "وَحَنَانًا مِّن لَّدُنَّا وَزَكَوٰةً ۖ وَكَانَ تَقِيًّا",
+          "translation": "And affection from Us and purity, and he was fearing of Allāh",
+          "citation": "Surah 19 &middot; Verse 13 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir records that the affection (hanan) given to Yahya (AS) was compassion and tenderness towards others, and Mujahid explained it as gentleness from his Lord upon him.",
+          "href": "https://quran.com/19:13/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 19:13 &middot; quran.com"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:14",
+          "arabic": "وَبَرًّۢا بِوَٰلِدَيْهِ وَلَمْ يَكُن جَبَّارًا عَصِيًّا",
+          "translation": "And dutiful to his parents, and he was not a disobedient tyrant.",
+          "citation": "Surah 19 &middot; Verse 14 &middot; Saheeh International"
         }
       ]
     },
@@ -87,6 +127,19 @@ export const chapter = {
         {
           "t": "p",
           "html": "The two cousins would meet once more, in circumstances no earthly family reunion could match. On the night of the Journey, when Muhammad ﷺ ascended through the heavens, he was greeted in the second heaven by Yahya (AS) and Isa (AS) together, and the cousins welcomed him with words every prophet in this book would envy: You are welcomed, O brother and a Prophet."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 3:39",
+          "arabic": "فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "So the angels called him while he was standing in prayer in the chamber, \"Indeed, Allāh gives you good tidings of John, confirming a word<sup foot_note=196050>1</sup> from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous.\"",
+          "citation": "Surah 3 &middot; Verse 39 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir records that Ibn Abbas, Al-Hasan, Qatadah, Ikrimah, Mujahid and others explained “confirming a word from Allah” as believing in Isa (AS), the son of Maryam, and that “honorable” was explained as the noble, wise and pious man.",
+          "href": "https://quran.com/3:39/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 3:39 &middot; quran.com"
         }
       ]
     },
@@ -111,6 +164,20 @@ export const chapter = {
         {
           "t": "p",
           "html": "The Quran does not narrate his death; it had already pronounced his epitaph before he was born. Peace be upon him the day he was born, and the day he dies, and the day he is raised alive. The peace held. A court can schedule a prophet's execution; it cannot schedule his disgrace, and Yahya (AS) died as he had lived, unbent by the most powerful men of his country and folded into the protection of his Lord on all three of the days that matter. His father had prayed for an heir who would inherit the call and be pleasing to Allah. Heaven's answer was a boy who was wise before he was grown, tender before he was strong, and killed before he was old, without surrendering one word of the message. Some answers to prayer are short. None of them are small."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:15",
+          "arabic": "وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+          "translation": "And peace be upon him the day he was born and the day he dies and the day he is raised alive.",
+          "citation": "Surah 19 &middot; Verse 15 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 6:85",
+          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
         }
       ]
     }

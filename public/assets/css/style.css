@@ -906,7 +906,7 @@ p.dropcap::first-letter {
 @media (prefers-reduced-motion: reduce) {
   .panel-body { transition: none; }
   .panel-toggle .chevron { transition: none; }
-  .verse, .hadith { transition: none; }
+  .verse, .hadith, .tafsir { transition: none; }
 }
 
 /* ---------- Tafsir panel: deep slate-teal, distinct from hadith and verse panels ---------- */
@@ -927,6 +927,19 @@ p.dropcap::first-letter {
   background: linear-gradient(160deg, var(--gold-light), var(--gold));
   padding: 6px 22px; border-radius: 2px;
 }
+.tafsir .t-chip {
+  display: inline-block;
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0.18em; text-indent: 0.18em; text-transform: uppercase;
+  font-size: 0.85rem; color: #0f0c07; flex: none;
+  background: linear-gradient(160deg, var(--gold-light), var(--gold));
+  padding: 5px 16px; border-radius: 2px;
+}
+.tafsir .panel-toggle .toggle-word { color: var(--gold-light); }
+.tafsir .panel-toggle .chevron { color: var(--gold-light); }
+.tafsir { transition: box-shadow 0.8s ease, padding 0.45s ease; }
+.tafsir:not(.is-open) { padding-top: 16px; padding-bottom: 16px; }
+.tafsir .panel-body > .panel-inner { padding-top: 18px; }
 .tafsir .t-text {
   color: #eef0e4; font-size: 1.14rem; line-height: 1.8; margin: 0 0 14px;
 }
