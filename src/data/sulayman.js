@@ -1,7 +1,7 @@
 /* sulayman chapter data: Sulayman (AS), Chapter XVIII.
    Story format: prose scenes written for young readers, following the
    classical telling of the story. Verse, hadith and tafsir panels
-   sit as dropdowns under each scene. No sources note card. */
+   sit as dropdowns under the passages they support. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XVIII",
@@ -36,7 +36,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Dawud (AS) died, his son Sulayman (AS) took the throne, and the Quran describes the succession in a phrase people often misread: And Sulayman inherited Dawud. Prophets do not leave dinars and dirhams behind as inheritance; what passed from father to son was dominion and, above all, knowledge, the knowledge that everything he held belonged to Allah and would be accounted for. Sulayman (AS) opened his reign by announcing the inventory of heaven's gifts, and notice the order he put them in: O people, we have been taught the language of the birds, and we have been given of all things. This is truly an obvious favour. His armies were marshalled in perfect order, battalions of jinn, men and birds, and yet the first thing the most powerful man on earth wanted recorded was gratitude. Pharaoh had been given a kingdom too, and ignorance made him say: I am your highest lord. Sulayman (AS) was given a greater one, and knowledge made him say: All praise is for Allah, who has favoured us over many of His believing servants.",
+          "html": "When Dawud (AS) died, his son Sulayman (AS) took the throne, and the Quran describes the succession in a phrase people often misread: And Sulayman inherited Dawud. Prophets do not leave dinars and dirhams behind as inheritance; what passed from father to son was dominion and, above all, knowledge, the knowledge that everything he held belonged to Allah and would be accounted for.",
           "cls": "dropcap"
         },
         {
@@ -47,11 +47,8 @@ export const chapter = {
           "citation": "Surah 38 &middot; Verse 30 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 27:15",
-          "arabic": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ",
-          "translation": "And We had certainly given to David and Solomon knowledge, and they said, \"Praise [is due] to Allāh, who has favored us over many of His believing servants.\"",
-          "citation": "Surah 27 &middot; Verse 15 &middot; Saheeh International"
+          "t": "p",
+          "html": "The Quran had already shown the son judging beside his father in the case of the sheep and the field. Allah gave understanding of the case to Sulayman (AS), while affirming that He had given judgement and knowledge to both father and son. The inheritance, then, was not a chest of gold. It was prophethood, kingship and knowledge that begins with praise."
         },
         {
           "t": "verse",
@@ -62,16 +59,27 @@ export const chapter = {
         },
         {
           "t": "verse",
-          "ref": "Quran 27:16-17",
-          "arabic": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ",
-          "translation": "And Solomon inherited David. He said, \"O people, we have been taught the language of birds, and we have been given from all things. Indeed, this is evident bounty.\" And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows",
-          "citation": "Surah 27 &middot; Verses 16-17 &middot; Saheeh International"
+          "ref": "Quran 27:15",
+          "arabic": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ",
+          "translation": "And We had certainly given to David and Solomon knowledge, and they said, \"Praise [is due] to Allāh, who has favored us over many of His believing servants.\"",
+          "citation": "Surah 27 &middot; Verse 15 &middot; Saheeh International"
         },
         {
           "t": "tafsir",
           "text": "Ibn Kathir explains that when the Quran says Sulayman (AS) inherited Dawud (AS), it means inheritance in kingship and prophethood, not in wealth. If wealth were meant, Sulayman (AS) would not have been singled out from the other sons of Dawud (AS), for the wealth of the prophets is not inherited; what they leave behind is charity. What Sulayman (AS) inherited was the kingdom and the prophethood of his father.",
           "href": "https://quran.com/27:16/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 27:16 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Sulayman (AS) opened his reign by announcing the inventory of heaven's gifts, and notice the order he put them in: O people, we have been taught the language of the birds, and we have been given of all things. This is truly an obvious favour. His armies were marshalled in perfect order, battalions of jinn, men and birds, and yet the first thing the most powerful man on earth wanted recorded was gratitude. Pharaoh had been given a kingdom too, and ignorance made him say: I am your highest lord. Sulayman (AS) was given a greater one, and knowledge made him say: All praise is for Allah, who has favoured us over many of His believing servants."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 27:16-17",
+          "arabic": "وَوَرِثَ سُلَيْمَـٰنُ دَاوُۥدَ ۖ وَقَالَ يَـٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ ۖ إِنَّ هَـٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ",
+          "translation": "And Solomon inherited David. He said, \"O people, we have been taught the language of birds, and we have been given from all things. Indeed, this is evident bounty.\" And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows",
+          "citation": "Surah 27 &middot; Verses 16-17 &middot; Saheeh International"
         }
       ]
     },
@@ -94,15 +102,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Then Allah tested him with a trial the Quran names only as a body cast upon his throne, after which Sulayman (AS) turned back to his Lord in deeper devotion. Later generations invented wild tales to fill that silence. The disciplined answer of the scholars is to leave what Allah left ambiguous exactly where He left it, and take the only fact He gave: the king was tested, and the test drove him closer to Allah, not further. Out of that trial came his famous prayer, and it is worth noticing that it does not start with the kingdom: My Lord, forgive me. Then: and grant me a kingdom that will not belong to anyone after me. Indeed, You are the All-Bestowing. Forgiveness first, empire second. Allah granted both. He subjected the wind to him, blowing gently at his command wherever he wished, a month's journey in its morning and a month's in its evening. He made a spring of molten copper flow for him. And He placed the rebellious devils among the jinn under his authority, builders and divers, and others bound in chains, making for him whatever he willed: high chambers, images, basins like reservoirs, and fixed cauldrons. Work in gratitude, family of Dawud, came the charge, for few of My servants are truly grateful."
-        },
-        {
           "t": "verse",
           "ref": "Quran 38:31-33",
           "arabic": "إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّـٰفِنَـٰتُ ٱلْجِيَادُ فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ",
           "translation": "[Mention] when there were exhibited before him in the afternoon the poised [standing] racehorses. And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\" [He said], \"Return them to me,\" and set about striking<sup foot_note=197218>1</sup> [their] legs and necks.",
           "citation": "Surah 38 &middot; Verses 31-33 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Then Allah tested him with a trial the Quran names only as a body cast upon his throne, after which Sulayman (AS) turned back to his Lord in deeper devotion. Later generations invented wild tales to fill that silence. The disciplined answer of the scholars is to leave what Allah left ambiguous exactly where He left it, and take the only fact He gave: the king was tested, and the test drove him closer to Allah, not further. Out of that trial came his famous prayer, and it is worth noticing that it does not start with the kingdom: My Lord, forgive me. Then: and grant me a kingdom that will not belong to anyone after me. Indeed, You are the All-Bestowing. Forgiveness first, empire second. Allah granted both. He subjected the wind to him, blowing gently at his command wherever he wished, a month's journey in its morning and a month's in its evening. He made a spring of molten copper flow for him. And He placed the rebellious devils among the jinn under his authority, builders and divers, and others bound in chains, making for him whatever he willed: high chambers, images, basins like reservoirs, and fixed cauldrons. Work in gratitude, family of Dawud, came the charge, for few of My servants are truly grateful."
         },
         {
           "t": "verse",
@@ -117,6 +125,13 @@ export const chapter = {
           "arabic": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ وَٱلشَّيَـٰطِينَ كُلَّ بَنَّآءٍ وَغَوَّاصٍ وَءَاخَرِينَ مُقَرَّنِينَ فِى ٱلْأَصْفَادِ هَـٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ",
           "translation": "So We subjected to him the wind blowing by his command, gently, wherever he directed, And [also] the devils [of jinn] - every builder and diver. And others bound together in irons. [We said], \"This is Our gift, so grant or withhold without account.\" And indeed, for him is nearness to Us and a good place of return.",
           "citation": "Surah 38 &middot; Verses 36-40 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) said, &ldquo;Last night a big demon (afreet) from the Jinns came to me and wanted to interrupt my prayers (or said something similar) but Allah enabled me to overpower him. I wanted to fasten him to one of the pillars of the mosque so that all of you could See him in the morning but I remembered the statement of my brother Solomon (as stated in Quran): My Lord! Forgive me and bestow on me a kingdom such as shall not belong to anybody after me (38.35).&rdquo; The sub narrator Rauh said, &ldquo;He (the demon) was dismissed humiliated.&rdquo;&rdquo;",
+          "href": "https://sunnah.com/bukhari:461",
+          "label": "Sahih al-Bukhari 461 &middot; sunnah.com",
+          "narrator": "Narrated by Abu Huraira (RA)"
         }
       ]
     },
@@ -139,15 +154,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Kings usually pray for more power. Sulayman (AS), with an army of three species behind him, prayed to be made grateful, and to be allowed among the righteous as a servant. The mightiest hearing in creation was used to catch the voice of an ant, and the mightiest mouth answered with humility."
-        },
-        {
           "t": "verse",
           "ref": "Quran 27:18-19",
           "arabic": "حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَـٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَـٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَـٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ",
           "translation": "Until, when they came upon the valley of the ants, an ant said, \"O ants, enter your dwellings that you not be crushed by Solomon and his soldiers while they perceive not.\" So [Solomon] smiled, amused at her speech, and said, \"My Lord, enable me<sup foot_note=196977>1</sup> to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.\"<sup foot_note=196976>2</sup>",
           "citation": "Surah 27 &middot; Verses 18-19 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Kings usually pray for more power. Sulayman (AS), with an army of three species behind him, prayed to be made grateful, and to be allowed among the righteous as a servant. The mightiest hearing in creation was used to catch the voice of an ant, and the mightiest mouth answered with humility."
         }
       ]
     },
@@ -170,15 +185,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "There is a woman ruling them, the hoopoe reported, and she has been given of all things, and she has a magnificent throne. And I found her and her people prostrating to the sun instead of Allah. Satan has made their deeds pleasing to them and barred them from the path, so they are not guided. Sulayman (AS) did not act on a bird's say-so. We shall see whether you told the truth or you are among the liars, he said, and wrote a letter, short enough to fit a reign's philosophy in three lines: Take this letter of mine and cast it to them, then turn away and see what answer they return. The letter read: In the name of Allah, the Most Merciful, the Most Compassionate. Do not exalt yourselves against me, but come to me in submission."
-        },
-        {
           "t": "verse",
           "ref": "Quran 27:20-26",
           "arabic": "وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ لَأُعَذِّبَنَّهُۥ عَذَابًا شَدِيدًا أَوْ لَأَا۟ذْبَحَنَّهُۥٓ أَوْ لَيَأْتِيَنِّى بِسُلْطَـٰنٍ مُّبِينٍ فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطتُ بِمَا لَمْ تُحِطْ بِهِۦ وَجِئْتُكَ مِن سَبَإٍۭ بِنَبَإٍ يَقِينٍ إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ ٱلْخَبْءَ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ ۩",
           "translation": "And he took attendance of the birds and said, \"Why do I not see the hoopoe - or is he among the absent? I will surely punish him with a severe punishment or slaughter him unless he brings me clear authorization.\"<sup foot_note=196978>1</sup> But he [i.e., the hoopoe] stayed not long and said, \"I have encompassed [in knowledge] that which you have not encompassed, and I have come to you from Sheba with certain news. Indeed, I found [there] a woman ruling them, and she has been given of all things, and she has a great throne. I found her and her people prostrating to the sun instead of Allāh, and Satan has made their deeds pleasing to them and averted them from [His] way, so they are not guided, [And] so they do not prostrate to Allāh, who brings forth what is hidden within the heavens and the earth and knows what you conceal and what you declare - Allāh - there is no deity except Him, Lord of the Great Throne.\"",
           "citation": "Surah 27 &middot; Verses 20-26 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "There is a woman ruling them, the hoopoe reported, and she has been given of all things, and she has a magnificent throne. And I found her and her people prostrating to the sun instead of Allah. Satan has made their deeds pleasing to them and barred them from the path, so they are not guided. Sulayman (AS) did not act on a bird's say-so. We shall see whether you told the truth or you are among the liars, he said, and wrote a letter, short enough to fit a reign's philosophy in three lines: Take this letter of mine and cast it to them, then turn away and see what answer they return. The letter read: In the name of Allah, the Most Merciful, the Most Compassionate. Do not exalt yourselves against me, but come to me in submission."
         },
         {
           "t": "verse",
@@ -215,15 +230,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "The queen thought like a stateswoman while her army thought like an army: When kings enter a town, they ruin it and humiliate its nobles. War brings humiliation and slavery and destroys good things. I will send them a gift, and see what the envoys bring back. If he is a king, gold will satisfy him. If he is a prophet, it will not. Sulayman (AS), warned of their approach, staged his own intelligence operation: the envoys were marched past lions, tigers, jinn and men in ranks the like of which their queen's spies could scarcely describe, and then they laid Saba's treasure at his feet. He did not glance at it. Do you offer me wealth? What Allah has given me is better than what He has given you. Rather, it is you who rejoice in your gift. Return it to them. We will come to them with armies they cannot withstand, and we will expel them from there in disgrace, humbled. The envoys went home carrying the treasure and a description no war council could answer. The queen understood the arithmetic of prophets. She would accept his call, but she would come herself and speak to this king face to face."
-        },
-        {
           "t": "verse",
           "ref": "Quran 27:32-35",
           "arabic": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً ۖ وَكَذَٰلِكَ يَفْعَلُونَ وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ",
           "translation": "She said, \"O eminent ones, advise me in my affair. I would not decide a matter until you witness [for] me.\"<sup foot_note=196979>1</sup> They said, \"We are men of strength and of great military might, but the command is yours, so see what you will command.\" She said, \"Indeed kings - when they enter a city, they ruin it and render the honored of its people humbled. And thus do they do. But indeed, I will send to them a gift and see with what [reply] the messengers will return.\"",
           "citation": "Surah 27 &middot; Verses 32-35 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The queen thought like a stateswoman while her army thought like an army: When kings enter a town, they ruin it and humiliate its nobles. War brings humiliation and slavery and destroys good things. I will send them a gift, and see what the envoys bring back. If he is a king, gold will satisfy him. If he is a prophet, it will not. Sulayman (AS), warned of their approach, staged his own intelligence operation: the envoys were marched past lions, tigers, jinn and men in ranks the like of which their queen's spies could scarcely describe, and then they laid Saba's treasure at his feet. He did not glance at it. Do you offer me wealth? What Allah has given me is better than what He has given you. Rather, it is you who rejoice in your gift. Return it to them. We will come to them with armies they cannot withstand, and we will expel them from there in disgrace, humbled. The envoys went home carrying the treasure and a description no war council could answer. The queen understood the arithmetic of prophets. She would accept his call, but she would come herself and speak to this king face to face."
         }
       ]
     },
@@ -246,15 +261,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "He had the throne slightly altered, to test whether she would recognise it. When Bilqis arrived and was asked, Is your throne like this? she examined it with a diplomat's patience and gave the most intelligent answer possible under the circumstances: It is as though it were the very one. We were given knowledge beforehand, she said, and we have submitted. Then he walked her into a hall built by the jinn, its floor a sheet of flawless glass over flowing water. Taking it for a pool, she lifted her skirts to wade. It is a palace paved with glass, he told her. And there the queen of Saba understood the whole architecture of her error. Appearances deceive. The sun's glory is borrowed light; the glass floor was solid; the throne had travelled a thousand miles in a blink. My Lord, she said, I have wronged myself, and I submit, with Sulayman, to Allah, Lord of the worlds. A war between two empires ended with a queen's conversion, and not a sword was drawn."
-        },
-        {
           "t": "verse",
           "ref": "Quran 27:36-40",
           "arabic": "فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَـٰغِرُونَ قَالَ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَيُّكُمْ يَأْتِينِى بِعَرْشِهَا قَبْلَ أَن يَأْتُونِى مُسْلِمِينَ قَالَ عِفْرِيتٌ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌ قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
           "translation": "So when they came to Solomon, he said, \"Do you provide me with wealth? But what Allāh has given me is better than what He has given you. Rather, it is you who rejoice in your gift. Return to them, for we will surely come to them with soldiers that they will be powerless to encounter, and we will surely expel them therefrom in humiliation, and they will be debased.\" [Solomon] said, \"O assembly [of jinn], which of you will bring me her throne before they come to me in submission?\" A powerful one from among the jinn said, \"I will bring it to you before you rise from your place, and indeed, I am for this [task] strong and trustworthy.\" Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\"",
           "citation": "Surah 27 &middot; Verses 36-40 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "He had the throne slightly altered, to test whether she would recognise it. When Bilqis arrived and was asked, Is your throne like this? she examined it with a diplomat's patience and gave the most intelligent answer possible under the circumstances: It is as though it were the very one. We were given knowledge beforehand, she said, and we have submitted."
         },
         {
           "t": "verse",
@@ -264,18 +279,15 @@ export const chapter = {
           "citation": "Surah 27 &middot; Verses 41-43 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Then he walked her into a hall built by the jinn, its floor a sheet of flawless glass over flowing water. Taking it for a pool, she lifted her skirts to wade. It is a palace paved with glass, he told her. And there the queen of Saba understood the whole architecture of her error. Appearances deceive. The sun's glory is borrowed light; the glass floor was solid; the throne had travelled a thousand miles in a blink. My Lord, she said, I have wronged myself, and I submit, with Sulayman, to Allah, Lord of the worlds. A war between two empires ended with a queen's conversion, and not a sword was drawn."
+        },
+        {
           "t": "verse",
           "ref": "Quran 27:44",
           "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
           "translation": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water<sup foot_note=196980>1</sup> and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\"",
           "citation": "Surah 27 &middot; Verse 44 &middot; Saheeh International"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;The Prophet (ﷺ) said, &ldquo;Last night a big demon (afreet) from the Jinns came to me and wanted to interrupt my prayers (or said something similar) but Allah enabled me to overpower him. I wanted to fasten him to one of the pillars of the mosque so that all of you could See him in the morning but I remembered the statement of my brother Solomon (as stated in Quran): My Lord! Forgive me and bestow on me a kingdom such as shall not belong to anybody after me (38.35).&rdquo; The sub narrator Rauh said, &ldquo;He (the demon) was dismissed humiliated.&rdquo;&rdquo;",
-          "href": "https://sunnah.com/bukhari:461",
-          "label": "Sahih al-Bukhari 461 &middot; sunnah.com",
-          "narrator": "Narrated by Abu Huraira (RA)"
         }
       ]
     },
@@ -294,12 +306,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "With dominion over the jinn, Sulayman (AS) also ended an ancient racket: the devils who peddled books of magic, pretending to know the unseen and the future. He subdued them and put them to public work, so the people could see exactly what their fortune-tellers were worth. They laboured on, builders and divers under orders, some of them in chains, certain their master could see into every hidden thing as they imagined he did.",
+          "html": "Ibn Kathir relates that, with dominion over the jinn, Sulayman (AS) also ended an ancient racket: the devils who peddled books of magic, pretending to know the unseen and the future. He subdued them and put them to public work, so the people could see exactly what their fortune-tellers were worth. They laboured on, builders and divers under orders, some of them in chains, certain their master could see into every hidden thing as they imagined he did.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "When Allah decreed his death, Sulayman (AS) was granted his wish to die as he had lived, upright, seated in prayer leaning on his staff, watching the jinn at their work. The angel took his soul, and the body stayed propped exactly where it was. The jinn, seeing the king still seated at his post, kept labouring day after day in their humiliating tasks, never daring to stop. Days passed, until a small creature of the earth, a termite, finished chewing through the staff. The staff snapped, and the king's body fell, and in that moment a whole mythology collapsed with it. Had the jinn known the unseen, said the Quran, they would not have remained in humiliating punishment. The fortune-tellers of the unseen had been taking orders for days from a dead man, and did not even know he was dead. No prophet's passing was ever designed to teach so much: all power, even the power over jinn, is borrowed, and the lender collects it quietly, while an insect signs the paperwork."
         },
         {
           "t": "verse",
@@ -314,6 +322,10 @@ export const chapter = {
           "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةً تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ وَمِنَ ٱلشَّيَـٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَـٰفِظِينَ",
           "translation": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. And of the devils [i.e., jinn] were those who dived for him and did work other than that. And We were of them a guardian.<sup foot_note=196807>1</sup>",
           "citation": "Surah 21 &middot; Verses 81-82 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "When Allah decreed his death, Sulayman (AS) was granted his wish to die as he had lived, upright, seated in prayer leaning on his staff, watching the jinn at their work. The angel took his soul, and the body stayed propped exactly where it was. The jinn, seeing the king still seated at his post, kept labouring day after day in their humiliating tasks, never daring to stop. Days passed, until a small creature of the earth, a termite, finished chewing through the staff. The staff snapped, and the king's body fell, and in that moment a whole mythology collapsed with it. Had the jinn known the unseen, said the Quran, they would not have remained in humiliating punishment. The fortune-tellers of the unseen had been taking orders for days from a dead man, and did not even know he was dead. No prophet's passing was ever designed to teach so much: all power, even the power over jinn, is borrowed, and the lender collects it quietly, while an insect signs the paperwork."
         },
         {
           "t": "verse",

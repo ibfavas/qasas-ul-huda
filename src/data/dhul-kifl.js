@@ -33,16 +33,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Of all the prophets in this book, Dhul-Kifl (AS) is the mystery. The Quran names him exactly twice, gives him no story, no people, no city, and yet places him in the highest company. Mention Ismail and Idris and Dhul-Kifl, it says: all were among the patient. And We admitted them into Our mercy. Indeed, they were of the righteous. And again: Remember Ismail and Al-Yasa and Dhul-Kifl, and all were among the best.",
+          "html": "Of all the prophets in this book, Dhul-Kifl (AS) is the mystery. The Quran names him exactly twice, gives him no separate story, no named people, and no city, and yet places him in the highest company. In Surah Al-Anbiya he is counted with Ismail (AS) and Idris (AS): all were among the patient, admitted into Allah's mercy, and among the righteous.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Even his name is not a name like the others. Dhul-Kifl means the possessor of the double portion, as if Allah doubled his reward, or as if he doubled everything asked of him: double the prayer, double the fasting, double the patience. Some scholars have wondered if he was the prophet known elsewhere as Ezekiel, but that connection is unproven. The strongest view, since Allah lists him between prophets, is that he was a prophet too. Beyond that, the Quran leaves his story in its keeping, and honesty requires us to say so."
-        },
-        {
-          "t": "p",
-          "html": "But the commentators preserved a story about him, told by the great historian Ibn Jarir, and it explains the one quality both verses agree on: this was a man whom nothing could make angry."
         },
         {
           "t": "verse",
@@ -52,6 +44,10 @@ export const chapter = {
           "citation": "Surah 21 &middot; Verses 85-86 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "In Surah Sad he is named again with Ismail (AS) and Al-Yasa (AS), and all are among the outstanding. The title Dhul-Kifl points to a double portion or a double guarantee, as if the man carried promises twice over and did not drop them. Some scholars have wondered if he was the prophet known elsewhere as Ezekiel, but that connection is unproven. The strongest view, since Allah lists him between prophets, is that he was a prophet too. Beyond the Quran's naming and praise, revelation leaves his life in its keeping, and honesty requires us to say so."
+        },
+        {
           "t": "verse",
           "ref": "Quran 38:48",
           "arabic": "وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
@@ -59,10 +55,18 @@ export const chapter = {
           "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Ibn Kathir's abridged commentary adds no lineage, deeds, or narrative to fill that silence. It keeps Dhul-Kifl (AS) in the company of patience and righteousness and moves on, matching the brevity of the verses themselves."
+        },
+        {
           "t": "tafsir",
           "text": "Ibn Kathir (Abridged) treats this passage in the company of the account of patience under trial that precedes it, and it offers no story, lineage, people, or deeds for Dhul-Kifl (AS). Its silence matches the brevity of the verse itself, which names him among the patient and the righteous and says no more.",
           "href": "https://quran.com/21:85/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 21:85 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "What follows is not Quran. It is a classical narration preserved by the commentators and told by the great historian Ibn Jarir: a story about a deputy whose worship was constant, whose judgments were steady, and whose temper Iblis could not break. It explains the one quality both verses agree on: this was a man whom nothing could make angry."
         }
       ]
     },
@@ -81,16 +85,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In the narration, the prophet Al-Yasa (AS) had grown old and was searching for a successor to guide the Children of Israel after him. He was not looking for the strongest man or the most learned. He gathered his companions and set three conditions that he believed revealed a true leader: whoever takes my place must fast during the day, stand in prayer and remembrance through the night, and never, ever lose his temper.",
+          "html": "In that narration, Al-Yasa (AS) had grown old among the Children of Israel and was searching for a successor to guide them after him. He was not looking for the strongest man or the most learned. He gathered his companions and set three conditions that he believed revealed a true leader: whoever took his place must fast during the day, stand in prayer and remembrance through the night, and never lose his temper.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "A man stood up, a nobody, held in contempt by the people around him. He said he met all three conditions. Al-Yasa (AS) did not believe him and turned him down. Days later he gathered the people again and repeated the conditions in case anyone else qualified. The assembly sat silent, all except the same unknown man, who stood again. Al-Yasa (AS), struck by his persistence, appointed him his deputy. Then, being a wise old prophet, he quietly arranged for people to test the man, to coax him into a failure that would disqualify him. Every tester tried. Every tester failed. The deputy fasted, prayed, judged, and never raised his voice."
+          "html": "A man stood up, a nobody, held in contempt by the people around him. The man: \"I meet the three conditions.\" Al-Yasa (AS) did not believe him and turned him down. Days later he gathered the people again and repeated the conditions in case anyone else qualified. The assembly sat silent, all except the same unknown man, who stood again. Al-Yasa (AS), struck by his persistence, appointed him his deputy. Then, being a wise old prophet, he quietly arranged for people to test the man, to coax him into a failure that would disqualify him. Every tester tried. Every tester failed. The deputy fasted, prayed, judged, and never raised his voice."
         },
         {
           "t": "p",
-          "html": "So an enemy far older and cleverer than any human tester volunteered for the job. Leave him to me, said Iblis. I will take care of him."
+          "html": "So an enemy far older and cleverer than any human tester volunteered for the job. Iblis: \"Leave him to me. I will take care of him.\" The narration now narrows to a single pressure point: the short rest that made the deputy's impossible rhythm survivable."
         }
       ]
     },
@@ -114,11 +118,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So Iblis came knocking at the very hour of the nap, disguised as an old, tortured man begging for justice. The deputy let him in and listened, patiently, while the old man spun out his tale of cruelty and injustice at enormous length, until the naptime was gone entirely. Come to my court tomorrow, said the deputy, calmly, and I will do you justice. Tomorrow came; the old man did not appear. The deputy waited in court, then waited again the next morning. Nothing. And just as he lay down for his stolen nap, the banging on the door resumed. Sir, my enemies are wicked men, Iblis improvised. When they heard you would sit in court, they promised to settle. When you left, they broke their promise. The deputy listened again, missed his nap again, and set another court date, still without a flicker of anger. That day Iblis did not show up either."
+          "html": "So Iblis came knocking at the very hour of the nap, disguised as an old, wronged man begging for justice. The deputy let him in and listened, patiently, while the old man spun out his tale of cruelty and injustice at enormous length, until the naptime was gone entirely. The deputy: \"Come to my court tomorrow, and I will do you justice.\" Tomorrow came; the old man did not appear. The deputy waited in court, then waited again the next morning. Nothing. And just as he lay down for his stolen nap, the banging on the door resumed. Iblis: \"Sir, my enemies are wicked men. When they heard you would sit in court, they promised to settle. When you left, they broke their promise.\" The deputy listened again, missed his nap again, and set another court date, still without a flicker of anger. That day Iblis did not show up either."
         },
         {
           "t": "p",
-          "html": "Exhausted now beyond ordinary limits, the deputy gave his household strict orders: no one knocks on my door today. Iblis, locked out, forced his way into the house itself and began pounding on the bedroom door from inside. The deputy looked at the man standing in his sealed room, door still shut behind him, and understanding dawned: Are you the enemy of Allah?"
+          "html": "Exhausted now beyond ordinary limits, the deputy gave his household strict orders: no one was to knock on his door that day. Iblis, locked out, forced his way into the house itself and began pounding on the bedroom door from inside. The deputy looked at the man standing in his sealed room, the door still shut behind him, and understanding dawned. The deputy: \"Are you the enemy of Allah?\""
         }
       ]
     },
@@ -137,12 +141,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "I am Iblis, the intruder admitted, and you have frustrated every plan I made against you. I intended to make you angry, just once, so that one of your claims before Al-Yasa (AS) would be proven false. He had thrown sleeplessness, injustice, broken promises and sheer provocation at this judge for days, and harvested not one raised voice. The devil of mankind confessed defeat to a man whose entire weapon was refusing to explode.",
+          "html": "Iblis: \"I am Iblis, and you have frustrated every plan I made against you. I intended to make you angry, just once, so that one of your claims before Al-Yasa (AS) would be proven false.\" He had thrown sleeplessness, injustice, broken promises and sheer provocation at this judge for days, and harvested not one raised voice. In the narration, the devil of mankind confessed defeat to a man whose entire weapon was refusing to explode.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Ibn Jarir held that Dhul-Kifl was not the man's birth name at all but a title earned in exactly this fashion: the one who guaranteed his promises double, who took responsibility upon himself and never let it leak out as anger at others. The Quran, which does not tell us this story, gives us the verdict that makes it believable: he was indeed a Prophet of patience, admitted into Allah's mercy, of the righteous, of the very best. A man can fast by day and pray by night and still be ruined by his temper at noon. Dhul-Kifl (AS) is remembered in heaven for the hour he held his peace when heaven and hell were both watching: the hour of the nap he never got."
+          "html": "Ibn Jarir held that Dhul-Kifl was not the man's birth name at all but a title earned in exactly this fashion: the one who guaranteed his promises double, who took responsibility upon himself and never let it leak out as anger at others. The Quran, which does not tell us this story, gives us the verdict that makes the narration's lesson believable without turning the narration into revelation: he was a prophet of patience, admitted into Allah's mercy, of the righteous, of the very best. A man can fast by day and pray by night and still be ruined by his temper at noon. Dhul-Kifl (AS) is remembered for the hour he held his peace when pressure came knocking at the door of his rest."
         }
       ]
     }

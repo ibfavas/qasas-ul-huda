@@ -34,12 +34,19 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In Jerusalem, in the last generations before Isa (AS), served a prophet whose story begins in the quietest possible way: Zakariyah (AS) was old. He oversaw Bayt al-Maqdis, preached to the Children of Israel, and lived humbly despite the honour of his office. He was of the blessed line that Allah had chosen above the worlds: the family of Imran, descendants of Ibrahim (AS) and Nuh (AS) and Adam (AS). Zakariyah (AS) was content with everything Allah had given him. Everything, except one growing worry that he carried into his prayers.",
+          "html": "In Jerusalem, in the last generations before Isa (AS), an old prophet served in the sanctuary and preached to the Children of Israel. His name was Zakariya (AS). He belonged to the family of Imran, a household placed by Allah within a chosen line running back through Ibrahim (AS), Nuh (AS) and Adam (AS). Outwardly his life was quiet: worship, teaching and care for Maryam. Inwardly he carried a worry that grew sharper as his body weakened. The Quran places him in righteous company before it tells us what he asked for.",
           "cls": "dropcap"
         },
         {
+          "t": "verse",
+          "ref": "Quran 6:85",
+          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
+        },
+        {
           "t": "p",
-          "html": "He was past ninety years old. His wife was barren and aged with him. There was no son behind him, and the worry was not a father's vanity. It was a shepherd's: who would hold these people to the straight path when he was gone? His relatives, as he would soon tell his Lord, were not men he trusted with the flock. For years he had served a temple full of worshippers and preached to a nation famous for killing its prophets, and he had never once been disappointed in prayer. My bones have weakened, he would pray, and my head has flared with white hair, and never have I been unfortunate in my supplication to You, my Lord. Hold that sentence. It is the key to his whole story. The old man was not asking because he doubted the answer's size. He was asking because he had a lifetime's evidence about the Answerer."
+          "html": "Zakariya (AS) was very old, and his wife had never been able to bear a child. He did not fear being forgotten for his own sake. His fear was for the guidance of the people after him. Relatives would inherit houses and possessions easily enough, but who would inherit the call, teach the Book and guard the people from wandering? So he turned to Allah privately, away from the crowd, and made the prayer that opens his story."
         },
         {
           "t": "verse",
@@ -49,11 +56,19 @@ export const chapter = {
           "citation": "Surah 19 &middot; Verses 2-3 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "His words show both weakness and certainty. His bones had weakened and his head had filled with white hair, yet he could say that he had never been disappointed when he called upon Allah. Then he named the fear plainly and asked for an heir who would carry the trust after him and be pleasing to Allah. Zakariya (AS) said:"
+        },
+        {
           "t": "verse",
           "ref": "Quran 19:4-6",
           "arabic": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا",
           "translation": "He said, \"My Lord, indeed my bones have weakened, and my head has filled<sup foot_note=196718>1</sup> with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed]. And indeed, I fear the successors<sup foot_note=196719>1</sup> after me, and my wife has been barren, so give me from Yourself an heir Who will inherit me<sup foot_note=196720>1</sup> and inherit from the family of Jacob. And make him, my Lord, pleasing [to You].\"",
           "citation": "Surah 19 &middot; Verses 4-6 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The heir in this prayer was not mainly an heir to a house. Zakariya (AS) feared the guides who would come after him, so the inheritance he begged for was the inheritance of guidance: knowledge carried, worship guarded and a people kept near Allah. That is why the request stayed private for so long. It was not a complaint against Allah's decree. It was an old shepherd asking who would stand at the gate when his own staff was laid down."
         }
       ]
     },
@@ -72,12 +87,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The answer arrived down a side road: through a girl. Maryam's mother, the wife of Imran, had been barren herself, and one day she watched a bird feeding its chick in the nest, and the sight turned into a prayer: My Lord, I have vowed to You what is in my womb, dedicated entirely to Your service, so accept it from me. Indeed, You are the All-Hearing, the All-Knowing. Allah accepted the vow, and what came was not the temple-serving son she had angled for, but a daughter. My Lord, she said, I have delivered a female. And the Quran cuts in with one of its most beautiful parentheses: and the male is not like the female. She named her Maryam, and committed her and her descendants to Allah's protection against Satan the accursed.",
+          "html": "Before Zakariya (AS) saw his own prayer answered, he watched Allah answer another family's prayer. Maryam's mother, the wife of Imran, had longed for a child. When she conceived, she did not first plan the child's comfort or status. She dedicated the unborn child to Allah before she knew whether it would be a son or a daughter. Maryam's mother said: “My Lord, indeed I have pledged to You what is in my womb, consecrated for Your service, so accept this from me. Indeed, You are the Hearing, the Knowing.”",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Consider who this family thought a child was for. Not an heir to property, not a comfort in old age. The vow came first, before the birth: whatever You give me belongs to Your service. And heaven honoured the child beyond every expectation. The angels would tell her: O Maryam, Allah has chosen you and purified you and chosen you above the women of the worlds. She is the only woman named in the entire Quran. She grew up inside the temple precincts, in worship and study, protected in a way no child before her had been."
+          "html": "When the child was born, she was a girl. Maryam's mother said: “My Lord, I have delivered a female.” She named her Maryam and placed her and her future descendants under Allah's protection from Satan. Her words were not disappointment. They were trust handed back to the One who had chosen differently from her expectation."
+        },
+        {
+          "t": "p",
+          "html": "Allah accepted Maryam with a beautiful acceptance. The Quran later says that the male is not like the female, and Maryam would become the only woman named in the Quran. She grew in purity and worship under Allah's care. Her mother's vow had asked for a servant of the sanctuary. Allah gave her a daughter whose life would stand at the centre of miracles still to come, and whose guardian would be Zakariya (AS) himself."
+        },
+        {
+          "t": "p",
+          "html": "As Maryam grew, her devotion became the wonder of the sanctuary. The angels addressed her with a rank no woman before her had been given in the same words: chosen, purified and chosen above the women of the worlds. She answered rank with obedience, remaining constant in prayer. The girl dedicated before birth had become a servant whose purity Allah Himself defended, and the old guardian who watched her grow was being prepared to ask for a son from the same Lord."
         }
       ]
     },
@@ -96,12 +119,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Maryam's father Imran died before she was born, and a fatherless child of such blessing needed a guardian. The priests and scholars of the temple all wanted the honour: She is the daughter of our imam, they said, and they argued over her until Allah taught Muhammad ﷺ centuries later what settled it: You were not with them when they cast their pens, competing over which of them would sponsor Maryam, and you were not with them when they disputed. Zakariyah's (AS) name was among the candidates, linked to her family by marriage. They put their reed pens in a container and had a child draw one. Zakariyah's (AS) pen was drawn.",
+          "html": "Maryam's father Imran died before she was born, so the men of the sanctuary disputed over who should guard her. Ibn Kathir relates that they valued the honour because she was the daughter of their leader and a child already marked by blessing. In the classical retelling, the men said: “She is the daughter of our imam,” and none wanted to surrender the trust to another.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The losers were not satisfied, so they let the river judge. The pens were placed in a stream, and guardianship would go to the pen that resisted the current. Zakariyah's (AS) pen sat still on the water while every other pen swept away. Still unconvinced, they reversed the rule: now the winner would be the pen that rode the current fastest. Zakariyah's (AS) pen flew downstream while the rest sank like stones. Three trials, three verdicts, one guardian. The old man built Maryam a private chamber in the sanctuary for her worship and study, and no one entered it but him, bringing her provisions. And so her Lord accepted her with gracious acceptance and caused her to grow in a good manner, and put her in the care of Zakariyah. Neither of them yet knew what that chamber was about to teach the old man."
+          "html": "The Quran tells Muhammad ﷺ that he was not present when they cast their pens to decide which of them would sponsor Maryam, nor when they disputed. The pens were the lots by which the matter was placed beyond personal power. The lot fell to Zakariya (AS), yet the others still pressed their claim, and further casting only confirmed the same result. Human rivalry had to be exhausted before the appointed guardian could begin."
+        },
+        {
+          "t": "p",
+          "html": "Zakariya (AS) prepared a chamber for Maryam in the sanctuary, a place set apart for worship and learning. He visited her and brought what she needed, and no one else entered upon her in that private place. Neither guardian nor child yet understood that the quiet room would become a school for the old prophet himself. There, Allah was about to show him provision arriving without the usual causes, until the sight loosened a prayer he had carried for years."
+        },
+        {
+          "t": "p",
+          "html": "Guardianship in the sanctuary was not mere custody. It meant food carried in, a door guarded, lessons protected and a young worshipper kept safe from the noise of men who had argued over her. Zakariya (AS) served that trust faithfully. Each visit to the chamber taught him Maryam's nearness to Allah, until the provisions he found there turned his attention from her miracle to his own long-silenced request."
         }
       ]
     },
@@ -120,16 +151,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Every time Zakariyah (AS) entered Maryam's chamber, he found provisions with her that he had not brought. In winter he would find the fruits of summer, ripe and fresh. In summer, the fruits of winter. The chamber had one door and one visitor, and yet the table was always set by someone else. O Maryam, he finally asked, where does this come from you? She answered with the four-word theology that changed his life: It is from Allah. Indeed, Allah provides for whom He wills without measure.",
+          "html": "Every time Zakariya (AS) entered Maryam's prayer chamber, he found provision with her that he had not brought. Ibn Kathir records the explanation handed down from early commentators: in winter she would have the fruits of summer, and in summer the fruits of winter. The room was guarded, the visitor was known, and still the food kept appearing. Zakariya (AS) asked: “O Maryam, from where does this come to you?” Maryam answered: “It is from Allah. Indeed, Allah provides for whom He wills without account.”",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The old man did not doubt her. He did the arithmetic of faith instead. If Allah can deliver summer fruit into a locked room in winter, out of season and against every natural law I know, then a child to a ninety-year-old man and a barren wife is not a violation of His order. It is His order. Right there, in the chamber, on the spot where he had seen provision defy season, Zakariyah (AS) called upon his Lord. The first of his two recorded prayers is the one every childless heart has borrowed since: My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
-        },
-        {
-          "t": "p",
-          "html": "The second, recorded in Surah Al-Anbiya, shows you the worry underneath, the succession of the call itself: My Lord, do not leave me childless, though You are the best of inheritors. He was not even demanding. If Allah chose to inherit the mission Himself, the old man would accept it. But he asked, because asking is what worshippers do, and he had ninety years of never being disappointed to stand on."
         },
         {
           "t": "verse",
@@ -145,11 +168,32 @@ export const chapter = {
           "label": "Tafsir Ibn Kathir on 3:37 &middot; quran.com"
         },
         {
+          "t": "p",
+          "html": "The answer did not make Zakariya (AS) suspicious. It made him hopeful. If Allah could send fruit across seasons into a guarded chamber, then the locked doors of age and barrenness were not locked to Him. At that place and moment, the guardian prayed for the thing he had scarcely allowed himself to request aloud. Zakariya (AS) said: “My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.”"
+        },
+        {
           "t": "verse",
           "ref": "Quran 3:38",
           "arabic": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ",
           "translation": "At that, Zechariah called upon his Lord, saying, \"My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication.\"",
           "citation": "Surah 3 &middot; Verse 38 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Surah Al-Anbiya preserves another form of the same longing. There the request is shorter and even more exposed: no heir, no companion in the work, only the fear of being left alone with the mission unfinished. Zakariya (AS) prayed: “My Lord, do not leave me childless, though You are the best of inheritors.” Allah answered that prayer too, and the response names the household's habit: racing to good deeds, calling on Him in hope and fear, and standing before Him in humility."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:89-90",
+          "arabic": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ",
+          "translation": "And [mention] Zechariah, when he called to his Lord, \"My Lord, do not leave me alone [with no heir], while You are the best of inheritors.\" So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate<sup foot_note=196811>1</sup> Us in hope and fear, and they were to Us humbly submissive.",
+          "citation": "Surah 21 &middot; Verses 89-90 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir records the explanation of Ibn Abbas, Mujahid and Sa'id bin Jubayr on the amending of his wife: she had been barren and had never had a child, and then she gave birth.",
+          "href": "https://quran.com/21:90/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 21:90 &middot; quran.com"
         }
       ]
     },
@@ -168,16 +212,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He prayed his great prayer alone, in secret, and the Quran records it tenderly: My Lord, indeed my bones have weakened and my head has flared with white, and I have never been unfortunate in supplication to You, my Lord. And indeed I fear my relatives after me, and my wife has been barren. So give me from Yourself an heir who will inherit from me and inherit from the family of Yaqub. And make him, my Lord, pleasing to You.",
+          "html": "The answer came while Zakariya (AS) stood in prayer in the chamber. Heaven did not send a vague comfort. It sent a name, a character and a mission. The angels called him with news of a boy who would confirm a word from Allah and grow to be honourable, chaste and a prophet among the righteous. Zakariya (AS) asked in astonishment how a boy could come to an old man and a barren wife. The angel answered: “Such is Allah; He does what He wills.”",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The answer came while he stood at prayer in the sanctuary, and it came with a name. The angels called to him: O Zakariyah, indeed We give you good tidings of a boy whose name will be Yahya. We have not assigned that name to anyone before. He will confirm a word from Allah, and be a master, chaste, and a prophet from among the righteous. The old man's faith did not waver; his astonishment simply needed words: My Lord, how will I have a boy when my wife is barren and I have reached extreme old age? And heaven gave the answer that ends all such questions: Thus it will be. Your Lord says: It is easy for Me, for I created you before, when you were nothing."
-        },
-        {
-          "t": "p",
-          "html": "He asked for a sign, and the sign was fitted to a preacher: you will not speak to people for three nights, though otherwise sound. Zakariyah (AS) came out of the sanctuary to his people unable to form a word, and he gestured to them: glorify Allah morning and evening. The man whose tongue had spent ninety years calling people to Allah fell silent for three days, and the silence itself announced the miracle. In due course Yahya (AS) was born, and Allah would seal both prayers with a summary: So We responded to him, and We gave him Yahya, and We repaired his wife for him. Indeed, they used to race to good deeds and call upon Us in hope and fear, and they were humbly submissive to Us. Never unfortunate in supplication. Not once. Not at ninety. Not ever."
         },
         {
           "t": "verse",
@@ -187,11 +223,19 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verses 39-40 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Surah Maryam gives the name its full weight. No one before Yahya (AS) had been given that name. The old man's question is repeated there, not as doubt, but as a mind trying to hold the size of the promise. Allah's answer reaches back before his own birth: the One who created him when he was nothing could easily create a son for him now. The angel said: “It is easy for Me, for I created you before, while you were nothing.”"
+        },
+        {
           "t": "verse",
           "ref": "Quran 19:7-9",
           "arabic": "يَـٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عِتِيًّا قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَىَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِن قَبْلُ وَلَمْ تَكُ شَيْـًٔا",
           "translation": "[He was told],<sup foot_note=196721>1</sup> \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\" He said, \"My Lord, how will I have a boy when my wife has been barren and I have reached extreme old age?\" [An angel] said, \"Thus [it will be]; your Lord says, 'It is easy for Me, for I created you before, while you were nothing.'\"",
           "citation": "Surah 19 &middot; Verses 7-9 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Zakariya (AS) then asked for a sign by which the promise would be marked. The sign touched the instrument of his life's work, his tongue. For three days he would be unable to speak to people, though he was otherwise sound, and he was commanded to remember Allah much and glorify Him in the evening and the morning. Zakariya (AS) asked: “My Lord, make for me a sign.” The answer came: “Your sign is that you will not speak to the people for three days except by gesture.”"
         },
         {
           "t": "verse",
@@ -201,6 +245,10 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verse 41 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "He came out from the prayer chamber to his people and could not address them in the usual way. The preacher who had spent a lifetime calling Israel to remembrance now pointed and gestured, directing them to glorify Allah morning and evening. His silence became the announcement. In time, the promised child was born, his wife having been made able to bear him, and the old man's private call received its public answer in Yahya (AS)."
+        },
+        {
           "t": "verse",
           "ref": "Quran 19:10-11",
           "arabic": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۚ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَ لَيَالٍ سَوِيًّا فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
@@ -208,24 +256,8 @@ export const chapter = {
           "citation": "Surah 19 &middot; Verses 10-11 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 21:89-90",
-          "arabic": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا۟ لَنَا خَـٰشِعِينَ",
-          "translation": "And [mention] Zechariah, when he called to his Lord, \"My Lord, do not leave me alone [with no heir], while You are the best of inheritors.\" So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate<sup foot_note=196811>1</sup> Us in hope and fear, and they were to Us humbly submissive.",
-          "citation": "Surah 21 &middot; Verses 89-90 &middot; Saheeh International"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir records the explanation of Ibn Abbas, Mujahid and Sa'id bin Jubayr on the amending of his wife: she had been barren and had never had a child, and then she gave birth.",
-          "href": "https://quran.com/21:90/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 21:90 &middot; quran.com"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 6:85",
-          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
-          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
-          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
+          "t": "p",
+          "html": "So the private call ended in a public sign for Israel. The heir Zakariya (AS) had asked for would not inherit silver or land first. Yahya (AS) would inherit the posture his father had prayed for: holding the Book with strength, confirming Isa (AS) when he came, and standing pleasing to Allah in a generation that needed a voice unwilling to bend. The old man's fear for the flock after him had been answered with a prophet."
         }
       ]
     }

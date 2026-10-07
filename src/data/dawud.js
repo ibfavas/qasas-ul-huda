@@ -1,7 +1,7 @@
 /* dawud chapter data: Dawud (AS), Chapter XVII.
    Story format: prose scenes written for young readers, following the
    classical telling of the story. Verse, hadith and tafsir panels
-   sit as dropdowns under each scene. No sources note card. */
+   sit as dropdowns under the passages they support. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XVII",
@@ -36,12 +36,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After the wandering years, the Children of Israel were led by King Talut, and their oppressor was a warrior whose very name emptied battlefields: Jalut, Goliath. Marching to meet him, Talut announced a test that would grade his army before the enemy could: Allah will test you with a river. Whoever drinks his fill from it is not of me. Whoever does not taste it, except a sip from the hollow of his hand, is with me. The thirsty army reached the water, and almost all of them drank deeply. Only a small band crossed over with their king, and their hearts sank at the sight ahead: Today we have no power against Jalut and his armies. The believers among them, certain they would meet Allah, answered with the mathematics of faith: How many a small company has overcome a large company by Allah's permission. And Allah is with the patient. And the little army prayed: Our Lord, pour patience upon us, plant our feet firmly, and help us against the disbelieving people.",
+          "html": "The road to Talut began with a request. The elders of Israel said to their prophet: \"Appoint for us a king, and we will fight in the way of Allah.\" He warned them that, if fighting were prescribed for them, they might still turn back. When Talut was appointed, some objected that he had not been given wealth. Their prophet answered: \"Allah has chosen him over you and increased him abundantly in knowledge and stature.\"",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Then Jalut strode out alone, tower of armour and contempt, and issued the ancient challenge: send one man to fight me. An army that had already failed a river test was not going to pass this one. No one moved. Talut, desperate, promised his own daughter's hand and a fortune to any man who would face the giant, and still the line stood frozen. Out of the ranks stepped a shepherd boy from Bethlehem who had mostly come to watch: Dawud (AS). He had killed a lion that attacked his father's flock, and a bear on another occasion, and he was not afraid of any man or beast, because the same Allah who delivered him from claws and fangs would deliver him here. Do not judge by my size, he told his uneasy king. Talut admired the boy's courage more than he trusted it: May Allah guard you and give you strength."
         },
         {
           "t": "verse",
@@ -51,11 +47,19 @@ export const chapter = {
           "citation": "Surah 2 &middot; Verses 246-247 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "After the wandering years, the Children of Israel were led by King Talut, and their oppressor was a warrior whose very name emptied battlefields: Jalut, Goliath. Marching to meet him, Talut announced a test that would grade his army before the enemy could: Allah will test you with a river. Whoever drinks his fill from it is not of me. Whoever does not taste it, except a sip from the hollow of his hand, is with me. The thirsty army reached the water, and almost all of them drank deeply. Only a small band crossed over with their king, and their hearts sank at the sight ahead: Today we have no power against Jalut and his armies. The believers among them, certain they would meet Allah, answered with the mathematics of faith: How many a small company has overcome a large company by Allah's permission. And Allah is with the patient. And the little army prayed: Our Lord, pour patience upon us, plant our feet firmly, and help us against the disbelieving people."
+        },
+        {
           "t": "verse",
           "ref": "Quran 2:249-250",
           "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
           "translation": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\"",
           "citation": "Surah 2 &middot; Verses 249-250 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir relates the report of what followed: Jalut strode out alone, tower of armour and contempt, and issued the ancient challenge: send one man to fight me. An army that had already failed a river test was not going to pass this one. No one moved. Talut, desperate, promised his own daughter's hand and a fortune to any man who would face the giant, and still the line stood frozen. Out of the ranks stepped a shepherd boy from Bethlehem who had mostly come to watch: Dawud (AS). The classical report says he had killed a lion that attacked his father's flock, and a bear on another occasion, and he was not afraid of any man or beast, because the same Allah who delivered him from claws and fangs would deliver him here. Do not judge by my size, he told his uneasy king. Talut admired the boy's courage more than he trusted it: May Allah guard you and give you strength."
         }
       ]
     },
@@ -74,12 +78,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Talut dressed Dawud (AS) in royal armour and put a sword in his hand, and the boy took it off. Armour built for kings restricted the shepherd's movements, and Dawud (AS) fought the way he had always fought: a wooden staff, a sling, and a leather pouch with smooth pebbles in it. How will you defend yourself against a giant with a sling and a couple of stones? Talut cried. Dawud (AS) answered: Allah, who protected me from the claws of the bear and the fangs of the lion, will protect me from this aggressor.",
+          "html": "In the classical narration, Talut dressed Dawud (AS) in royal armour and put a sword in his hand, and the boy took it off. Armour built for kings restricted the shepherd's movements, and Dawud (AS) fought the way he had always fought: a wooden staff, a sling, and a leather pouch with smooth pebbles in it. How will you defend yourself against a giant with a sling and a couple of stones? Talut cried. Dawud (AS) answered: Allah, who protected me from the claws of the bear and the fangs of the lion, will protect me from this aggressor.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Jalut finally saw his opponent and laughed so the armies could hear: Are you out to play war with your playmates, boy, or are you tired of your life? I will sever your head with one swipe of my sword. Dawud (AS) shouted back across the field: You may have armour, shield and sword, but I face you in the name of Allah, the Lord of the Israelites, whose laws you have mocked. Today you will see that it is not the sword that brings death, but the will and power of Allah. He set a pebble in his sling, whirled it, aimed, and let it fly. It tore through the air and struck the giant in the forehead with such force that Jalut staggered, blood streaming, and crashed to the earth dead, killed by a shepherd's stone before he ever swung his sword. His army, seeing their champion felled by a boy, broke and fled, and the Israelites reclaimed their dignity in a single afternoon."
+          "html": "The same narration records the exchange across the field. Jalut finally saw his opponent and laughed so the armies could hear: Are you out to play war with your playmates, boy, or are you tired of your life? I will sever your head with one swipe of my sword. Dawud (AS) shouted back across the field: You may have armour, shield and sword, but I face you in the name of Allah, the Lord of the Israelites, whose laws you have mocked. Today you will see that it is not the sword that brings death, but the will and power of Allah. He set a pebble in his sling, whirled it, aimed, and let it fly. It tore through the air and struck the giant in the forehead with such force that Jalut staggered, blood streaming, and crashed to the earth dead, killed by a shepherd's stone before he ever swung his sword. His army, seeing their champion felled by a boy, broke and fled, and the Israelites reclaimed their dignity in a single afternoon."
         },
         {
           "t": "p",
@@ -109,12 +113,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Fame did not spoil him. Dawud (AS) withdrew to the desert to glorify Allah in solitude, and there his Lord raised him to prophethood and gave him gifts no prophet had ever held together: sovereignty, wisdom, sound judgment, and the Zabur, the Psalms. His voice in recitation was so beautiful that creation itself joined the choir. We subjected the mountains to glorify Us along with him in the evening and at sunrise, Allah says, and the birds, gathered in flocks. All of them echoed his hymns. He could converse with animals. And his worship was as disciplined as his kingship would be: Muhammad ﷺ told us that the most beloved fasting to Allah was the fasting of Dawud (AS), who fasted one day and ate the next, and the most beloved prayer was his, sleeping half the night, praying a third of it, and sleeping the last sixth.",
+          "html": "Fame did not spoil him. Dawud (AS) withdrew to the desert to glorify Allah in solitude, and there his Lord raised him to prophethood and gave him gifts no prophet had ever held together: sovereignty, wisdom, sound judgment, and the Zabur, the Psalms.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "One day his soldiers complained that their iron armour was too heavy and slowed them in battle. Dawud (AS), turning a piece of iron in his hands as he thought, felt his finger sink into it like dough. Allah had softened iron for him. We taught him the making of coats of mail for your benefit, to protect you in your battles, says the Quran. Are you then grateful? The prophet who had stripped off a king's armour as a boy now gave his whole army armour they could actually fight in, and though he sat on a throne, he refused to live off the treasury: he earned his bread selling what his own hands made."
         },
         {
           "t": "verse",
@@ -131,11 +131,8 @@ export const chapter = {
           "citation": "Surah 17 &middot; Verse 55 &middot; Saheeh International"
         },
         {
-          "t": "hadith",
-          "text": "&ldquo;The recitation of Psalms (David's Qur'an) was made light and easy for David that he used to have his ridding animal be saddled while he would finish the recitation before the servant had saddled it.&rdquo;",
-          "href": "https://sunnah.com/bukhari:4713",
-          "label": "Sahih al-Bukhari 4713 &middot; sunnah.com",
-          "narrator": "Narrated by Abu Huraira (RA)"
+          "t": "p",
+          "html": "His voice in recitation was so beautiful that creation itself joined the choir. We subjected the mountains to glorify Us along with him in the evening and at sunrise, Allah says, and the birds, gathered in flocks. All of them echoed his hymns. He could converse with animals. And his worship was as disciplined as his kingship would be: Muhammad ﷺ told us that the most beloved fasting to Allah was the fasting of Dawud (AS), who fasted one day and ate the next, and the most beloved prayer was his, sleeping half the night, praying a third of it, and sleeping the last sixth."
         },
         {
           "t": "verse",
@@ -150,6 +147,24 @@ export const chapter = {
           "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ وَٱلطَّيْرَ مَحْشُورَةً ۖ كُلٌّ لَّهُۥٓ أَوَّابٌ",
           "translation": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. And the birds were assembled, all with him repeating [praises].",
           "citation": "Surah 38 &middot; Verses 18-19 &middot; Saheeh International"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The recitation of Psalms (David's Qur'an) was made light and easy for David that he used to have his ridding animal be saddled while he would finish the recitation before the servant had saddled it.&rdquo;",
+          "href": "https://sunnah.com/bukhari:4713",
+          "label": "Sahih al-Bukhari 4713 &middot; sunnah.com",
+          "narrator": "Narrated by Abu Huraira (RA)"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The most beloved prayer to Allah is that of David and the most beloved fasts to Allah are those of David. He used to sleep for half of the night and then pray for one third of the night and again sleep for its sixth part and used to fast on alternate days.&rdquo;",
+          "href": "https://sunnah.com/bukhari:1131",
+          "label": "Sahih al-Bukhari 1131 &middot; sunnah.com",
+          "narrator": "Narrated by Abdullah bin Amr bin Al-As (RA)"
+        },
+        {
+          "t": "p",
+          "html": "One day his soldiers complained that their iron armour was too heavy and slowed them in battle. Dawud (AS), turning a piece of iron in his hands as he thought, felt his finger sink into it like dough. Allah had softened iron for him. We taught him the making of coats of mail for your benefit, to protect you in your battles, says the Quran. Are you then grateful? The prophet who had stripped off a king's armour as a boy now gave his whole army armour they could actually fight in, and though he sat on a throne, he refused to live off the treasury: he earned his bread selling what his own hands made."
         },
         {
           "t": "verse",
@@ -177,13 +192,6 @@ export const chapter = {
           "href": "https://sunnah.com/bukhari:2072",
           "label": "Sahih al-Bukhari 2072 &middot; sunnah.com",
           "narrator": "Narrated by Al-Miqdam (RA)"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;The most beloved prayer to Allah is that of David and the most beloved fasts to Allah are those of David. He used to sleep for half of the night and then pray for one third of the night and again sleep for its sixth part and used to fast on alternate days.&rdquo;",
-          "href": "https://sunnah.com/bukhari:1131",
-          "label": "Sahih al-Bukhari 1131 &middot; sunnah.com",
-          "narrator": "Narrated by Abdullah bin Amr bin Al-As (RA)"
         }
       ]
     },
@@ -202,12 +210,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "There was a price for being loved. The people praised Dawud (AS) above their king, and Talut noticed. One day Dawud (AS) found his father-in-law cold toward him and asked his wife Michal what was wrong. She wept and told him: her father envied his rising popularity and she feared for his life. Dawud (AS), disturbed, prayed that Allah would cleanse Talut's heart of envy. Instead, Talut sent him out against an enemy host with secret hopes the campaign would finish him. Dawud (AS) suspected the trap and went anyway, trusting Allah, and returned victorious and unscathed. When the hero kept surviving, Talut moved to open murder, and Michal discovered the plot in time to warn her husband. Dawud (AS) fled by night with a few supplies and hid in a cave, while his brothers and loyal men rallied to him day by day, and Talut, losing his people to the prophet he envied, became a tyrant over what remained of his kingdom.",
+          "html": "Ibn Kathir relates the report that there was a price for being loved. The people praised Dawud (AS) above their king, and Talut noticed. One day Dawud (AS) found his father-in-law cold toward him and asked his wife Michal what was wrong. She wept and told him: her father envied his rising popularity and she feared for his life. Dawud (AS), disturbed, prayed that Allah would cleanse Talut's heart of envy. Instead, Talut sent him out against an enemy host with secret hopes the campaign would finish him. Dawud (AS) suspected the trap and went anyway, trusting Allah, and returned victorious and unscathed. When the hero kept surviving, Talut moved to open murder, and Michal discovered the plot in time to warn her husband. Dawud (AS) fled by night with a few supplies and hid in a cave, while his brothers and loyal men rallied to him day by day, and Talut, losing his people to the prophet he envied, became a tyrant over what remained of his kingdom.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Then Talut marched out to end it. Dawud (AS) tracked the royal army to its camp in a valley and slipped in at night, through every guard, until he stood over the sleeping king. He drew Talut's own sword and cut a piece from the king's garment. Then he woke him: O king, you come out hunting me, but I do not hate you and I do not want to kill you. If I did, I would have killed you just now in your sleep. Here is a piece of your garment. I could have taken your neck instead. My mission is one of love, not malice. Talut came to his senses under the stars, saw the enormity of what envy had made of him, and begged Dawud's (AS) forgiveness. Years later Talut died in battle, and the people of Israel, who knew exactly what kind of man they had, chose Dawud (AS) as their king."
+          "html": "The report continues: Talut marched out to end it. Dawud (AS) tracked the royal army to its camp in a valley and slipped in at night, through every guard, until he stood over the sleeping king. He drew Talut's own sword and cut a piece from the king's garment. Then he woke him: O king, you come out hunting me, but I do not hate you and I do not want to kill you. If I did, I would have killed you just now in your sleep. Here is a piece of your garment. I could have taken your neck instead. My mission is one of love, not malice. Talut came to his senses under the stars, saw the enormity of what envy had made of him, and begged Dawud's (AS) forgiveness. Years later Talut died in battle, and the people of Israel, who knew exactly what kind of man they had, chose Dawud (AS) as their king."
         }
       ]
     },
@@ -234,15 +242,15 @@ export const chapter = {
           "html": "Two men scaled the wall of his private prayer chamber and dropped in before him. Dawud (AS) was startled. Do not fear, they said. We are two disputants; one of us has wronged the other. So judge between us in truth, do not be unjust, and guide us to the straight path. One of them presented his case: This brother of mine has ninety-nine ewes, and I have a single ewe, and he said, let me take charge of her, and he overpowered me in argument. The story sounded like obvious theft dressed as business, and Dawud (AS) ruled on the spot: He has wronged you by demanding your ewe be added to his ewes. Truly, many partners oppress one another, except those who believe and do righteous deeds, and how few they are."
         },
         {
-          "t": "p",
-          "html": "Then the two men vanished, and Dawud (AS) understood. They were angels. This had been a test. He had judged a case after hearing one party's complaint, moved by a poor man's one ewe against a rich man's ninety-nine, without asking the rich man a single question. The claimant might have had rights of his own; eloquence and poverty had swept the verdict. Dawud (AS) fell in prostration before his Lord, weeping and repenting, and Allah forgave him and drew him nearer. Later scriptures in other hands would blacken this prophet with invented scandals. The Quran defends his honour and teaches the real lesson, then charges him, and every judge after him: O Dawud, We have made you a ruler on earth, so judge between people in truth and do not follow your own desire, lest it lead you astray from Allah's way. Every courtroom, every family dispute, every argument between friends still sits its judge on Dawud's (AS) wall-scaled test: the second side exists. Listen to it."
-        },
-        {
           "t": "verse",
           "ref": "Quran 38:21-23",
           "arabic": "۞ وَهَلْ أَتَىٰكَ نَبَؤُا۟ ٱلْخَصْمِ إِذْ تَسَوَّرُوا۟ ٱلْمِحْرَابَ إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ إِنَّ هَـٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
           "translation": "And has there come to you the news of the adversaries, when they climbed over the wall of [his] prayer chamber - When they entered upon David and he was alarmed by them? They said, \"Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path. Indeed this, my brother, has ninety-nine ewes, and I have one ewe; so he said, 'Entrust her to me,' and he overpowered me in speech.\"",
           "citation": "Surah 38 &middot; Verses 21-23 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Then the two men vanished, and Dawud (AS) understood. They were angels. This had been a test. He had judged a case after hearing one party's complaint, moved by a poor man's one ewe against a rich man's ninety-nine, without asking the rich man a single question. The claimant might have had rights of his own; eloquence and poverty had swept the verdict. Dawud (AS) fell in prostration before his Lord, weeping and repenting, and Allah forgave him and drew him nearer. Later scriptures in other hands would blacken this prophet with invented scandals. The Quran defends his honour and teaches the real lesson, then charges him, and every judge after him: O Dawud, We have made you a ruler on earth, so judge between people in truth and do not follow your own desire, lest it lead you astray from Allah's way. Every courtroom, every family dispute, every argument between friends still sits its judge on Dawud's (AS) wall-scaled test: the second side exists. Listen to it."
         },
         {
           "t": "verse",
@@ -312,7 +320,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Dawud (AS) worshipped his Lord until his last breath, a prophet of strength who kept turning back to Allah in repentance. When he died, thousands mourned him, including four thousand priests, and the day of the funeral was fiercely hot. Sulayman (AS), who had inherited his father's gift of speaking with animals, summoned the birds of the sky and ordered them to spread their wings over the mourners, shading the people from the blazing sun until his father was laid in the earth. It was the first public glimpse of a dominion unlike any before it. The shepherd who feared no giant had become the father of a king whose kingdom would make even this one look small, and the people buried the king who sang with the mountains, while the mountains themselves fell silent.",
+          "html": "Dawud (AS) worshipped his Lord until his last breath, a prophet of strength who kept turning back to Allah in repentance. Ibn Kathir relates that when he died, thousands mourned him, including four thousand priests, and the day of the funeral was fiercely hot. Sulayman (AS), who had inherited his father's gift of speaking with animals, summoned the birds of the sky and ordered them to spread their wings over the mourners, shading the people from the blazing sun until his father was laid in the earth. It was the first public glimpse of a dominion unlike any before it. The shepherd who feared no giant had become the father of a king whose kingdom would make even this one look small, and the people buried the king who sang with the mountains, while the mountains themselves fell silent.",
           "cls": "dropcap"
         },
         {

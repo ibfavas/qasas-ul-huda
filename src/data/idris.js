@@ -37,19 +37,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Idris (AS) was a thoughtful man. He would look up at the vast sky his Lord had made, the sun and moon and stars and clouds, and turn them over in his mind. He is remembered as the first man ever to write with a pen, a man of learning with knowledge of numbers and the stars. Long before schools and books, Allah gave this prophet the gift of the written word, and he used it to teach his people."
-        },
-        {
-          "t": "p",
-          "html": "He was born while Adam (AS) was still alive, and after Seth (AS) passed away, Idris (AS) led the children of Adam and called them to the worship of Allah alone, just as their father and grandfather had done."
-        },
-        {
           "t": "verse",
           "ref": "Quran 19:56",
           "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
           "translation": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.",
           "citation": "Surah 19 &middot; Verse 56 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The Quran also places Idris (AS) in a small and honoured company, named among the patient with Ismail (AS) and Dhul-Kifl (AS)."
         },
         {
           "t": "verse",
@@ -59,11 +55,27 @@ export const chapter = {
           "citation": "Surah 21 &middot; Verse 85 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Allah admitted that company into His mercy and called them righteous. The verses give rank and character before they give events."
+        },
+        {
           "t": "verse",
           "ref": "Quran 21:86",
           "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
           "translation": "And We admitted them into Our mercy. Indeed, they were of the righteous.",
           "citation": "Surah 21 &middot; Verse 86 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Idris (AS) was a thoughtful man. He would look up at the vast sky his Lord had made, the sun and moon and stars and clouds, and turn them over in his mind. He is remembered as the first man ever to write with a pen, a man of learning with knowledge of numbers and the stars. Long before schools and books, Allah gave this prophet the gift of the written word, and he used it to teach his people."
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir cites earlier reports that Idris (AS) was the first of Adam’s children to be given prophethood after Adam (AS) and Seth (AS), and that he was the first to write with a pen. Those details belong to classical reports; the Quran itself keeps its praise brief."
+        },
+        {
+          "t": "p",
+          "html": "He was born while Adam (AS) was still alive, and after Seth (AS) passed away, Idris (AS) led the children of Adam and called them to the worship of Allah alone, just as their father and grandfather had done."
         }
       ]
     },
@@ -92,6 +104,10 @@ export const chapter = {
         {
           "t": "p",
           "html": "Even in victory, Idris (AS) remained a teacher. His sayings were passed down among his followers: Happy is the one who looks at his own deeds and makes them his plea before his Lord. And: No one thanks Allah for His gifts better than the one who shares them with others. And: Do not envy people for what they have, for they will enjoy it only a short while."
+        },
+        {
+          "t": "p",
+          "html": "These sayings are preserved through classical reports rather than the Quran. Read that way, the scene stays honest: his courage mattered, but his teaching pointed people back to their own deeds."
         }
       ]
     },
@@ -112,6 +128,10 @@ export const chapter = {
           "t": "p",
           "html": "Idris (AS) grew old in the worship of Allah, and one day he received an astonishing promise from his Lord: the reward of every good deed done by the people of his time would be written for him too. His reward would be doubled beyond counting. Idris (AS) thanked Allah with a full heart. But he was old, and death was near, and he loved doing good on the earth and did not want it to end.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir cites Ka’b in explaining this report. Idris (AS) asked his angel friend to speak with the Angel of Death so that he might have more time to increase his deeds. The request was not fear of Allah’s decree; it was love of doing good while life remained."
         },
         {
           "t": "p",
@@ -142,15 +162,15 @@ export const chapter = {
           "html": "How astonishing, said the Angel of Death. I was sent and told to take the soul of Idris in the fourth heaven, and I kept wondering how I could take it there when he was down on the earth. Glory be to Allah, He has made it happen. Idris (AS), who had asked for more time to do good, did not argue for a single moment. If this was what Allah had ordained, then he accepted it completely, and his soul was taken in the fourth heaven."
         },
         {
-          "t": "p",
-          "html": "That is the lofty station the Quran speaks of. And centuries later, when Muhammad ﷺ was raised through the heavens on the night journey, he was greeted in the fourth heaven by Idris (AS), who welcomed him as a righteous brother and a righteous prophet. After Idris (AS) left the earth, corruption crept back among the children of Adam, growing quietly for generations, until the age of Nuh (AS)."
-        },
-        {
           "t": "verse",
           "ref": "Quran 19:57",
           "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
           "translation": "And We raised him to a high station.",
           "citation": "Surah 19 &middot; Verse 57 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "That is the lofty station the Quran speaks of. And centuries later, when Muhammad ﷺ was raised through the heavens on the night journey, he was greeted in the fourth heaven by Idris (AS), who welcomed him as a righteous brother and a righteous prophet. After Idris (AS) left the earth, corruption crept back among the children of Adam, growing quietly for generations, until the age of Nuh (AS)."
         },
         {
           "t": "hadith",

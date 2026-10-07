@@ -35,12 +35,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) was the son of Ishaq (AS) and the grandson of Ibrahim (AS): a prophet born into a house of prophets. He carried the message of Allah's oneness that his grandfather had carried out of Babylon, and Allah blessed him with twelve sons. Ten were born to his first wife, and the two youngest, Yusuf (AS) and Binyamin, to his second.",
+          "html": "Yaqub (AS) was named before he was born. When the angels brought Sarah the news of a son in her old age, they added words that reached one generation further: glad tidings of Ishaq (AS), and beyond Ishaq (AS), Yaqub (AS). His life began inside a promise spoken at his grandparents' tent.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Those twelve boys were not just a family. They were the seed of a nation. From them came the twelve tribes of Banu Israel, the Children of Israel, the people through whom so many prophets would come. The Quran names the descendants of Yaqub (AS) among the revelations given to the prophets, and generations later, when Musa (AS) struck the rock in the desert, twelve springs gushed out, one for each tribe of Yaqub's house. Everything that happens in the rest of this book, every king and prophet of the Israelites, traces back to this one father's dinner table."
         },
         {
           "t": "verse",
@@ -50,11 +46,23 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 71 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Ibn Kathir relates that Yaqub (AS) was born to Ishaq (AS) and Rebekah as a twin with his brother al-Eis. The classical histories then tell of strain between the brothers and of Yaqub (AS) travelling to his uncle Laban in Haran, where his family grew before he returned to the land of his fathers. The Quran does not build its account on those household details, so they remain background. Its focus is the prophet, the father and the patience that defined him."
+        },
+        {
+          "t": "p",
+          "html": "Yaqub (AS) was the son of Ishaq (AS) and the grandson of Ibrahim (AS): a prophet born into a house of prophets. He carried the message of Allah's oneness that his grandfather had carried out of Babylon, and Allah blessed him with twelve sons. Ten were born to his first wife, and the two youngest, Yusuf (AS) and Binyamin, to his second."
+        },
+        {
           "t": "verse",
           "ref": "Quran 19:49",
           "arabic": " فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
           "translation": "So when he had left them and those they worshipped other than Allāh, We gave him Isaac and Jacob, and each [of them] We made a prophet.",
           "citation": "Surah 19 &middot; Verse 49 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Those twelve boys were not just a family. They were the seed of a nation. From them came the twelve tribes of Banu Israel, the Children of Israel, the people through whom so many prophets would come. The Quran names the descendants of Yaqub (AS) among the revelations given to the prophets, and generations later, when Musa (AS) struck the rock in the desert, twelve springs gushed out, one for each tribe of Yaqub's house. Everything that happens in the rest of this book, every king and prophet of the Israelites, traces back to this one father's dinner table."
         },
         {
           "t": "hadith",
@@ -84,19 +92,23 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
+          "t": "verse",
+          "ref": "Quran 12:4-5",
+          "arabic": " إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ",
+          "translation": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.",
+          "citation": "Surah 12 &middot; Verses 4-5 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The warning was gentle and exact. Yaqub (AS) did not deny the dream, and he did not praise the boy in a way that would feed pride. He protected the meaning by hiding it from envy: \"Do not relate your vision to your brothers, or they will contrive against you a plan.\" A prophet's son had received a sign. A father's duty was to guard both the child and the sign."
+        },
+        {
           "t": "p",
           "html": "But Yaqub (AS) also knew his other sons. He treated all his boys the same, but equality of treatment does not cure envy of the heart, and the brothers had already begun to resent the little one their father loved so openly. So the old prophet wrapped the dream in a warning: My son, do not relate your vision to your brothers, or they will plot against you. Truly, Satan is an open enemy to man. A father can see a storm coming years before it breaks. He just cannot always stop it."
         },
         {
           "t": "p",
           "html": "The envy ripened as the boys grew. And one day the older sons came to their father with a careful request: Why do you not trust us with Yusuf, when we truly wish him well? Send him with us tomorrow to enjoy himself and play. We will surely watch over him."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 12:4-5",
-          "arabic": " إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ قَالَ يَـٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا ۖ إِنَّ ٱلشَّيْطَـٰنَ لِلْإِنسَـٰنِ عَدُوٌّ مُّبِينٌ",
-          "translation": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.",
-          "citation": "Surah 12 &middot; Verses 4-5 &middot; Saheeh International"
         }
       ]
     },
@@ -117,6 +129,10 @@ export const chapter = {
           "t": "p",
           "html": "Yaqub (AS) resisted exactly as long as a loving father could. It saddens me that you should take him, he said, and I fear a wolf will eat him while you are heedless. If a wolf devoured him while we are such a strong group, they laughed, then we would truly be losers! At last he let the little boy go, with a parent's whole heart tied in a knot.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The request and refusal show the house under strain. The brothers said: \"Send him with us tomorrow to enjoy himself and play. We will surely guard him.\" Yaqub (AS) answered: \"It saddens me that you take him, and I fear that a wolf will eat him while you are unaware of him.\" They replied: \"If a wolf eats him while we are a strong group, then we would indeed be losers.\" Every speaker knew more than the words admitted."
         },
         {
           "t": "p",
@@ -154,12 +170,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Then famine struck Egypt and the lands around it, and Yaqub (AS) sent ten sons to buy grain from the storekeeper of the Egyptian king. They returned with a problem: the storekeeper had sworn to sell them nothing more unless they brought their youngest brother, Binyamin. Yaqub (AS) was furious at the very idea. Shall I trust you with him as I trusted you with his brother before? Allah is the best of protectors, and He is the Most Merciful of the merciful. He only relented when they showed him their money mysteriously returned in their bags, and when his sons swore him a solemn oath before Allah to bring the boy back unless utterly overpowered. Then he added the advice of a man who trusts Allah and takes precautions at the same time: O my sons, do not enter the city through one gate. Enter through separate gates. I cannot avail you against Allah at all. The decision is only Allah's. In Him I trust, and in Him let the trusting trust."
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. &hellip; He said, &lsquo;Verily, the patience is at the first stroke of a calamity.&rsquo;&rdquo;",
+          "narrator": "Narrated Anas bin Malik",
+          "href": "https://sunnah.com/bukhari:1283",
+          "label": "Sahih al-Bukhari 1283 &middot; sunnah.com"
         },
         {
           "t": "p",
-          "html": "The second journey ended in fresh disaster. Binyamin was accused of stealing the king's cup and detained in Egypt. The brothers came home with the news, and the old man's answer rose from the same deep well as before, but fuller now: Your souls have tempted you to something. So beautiful patience. Perhaps Allah will bring them all back to me. Truly, He is the All-Knowing, the All-Wise. Then he turned away from them and whispered the words that would crack anyone's heart: Alas for Yusuf. His sons lost their tempers: By Allah, you will never stop remembering Yusuf until you waste away or die. He answered them with the manifesto of every broken believer: I only complain of my anguish and sorrow to Allah. And I know from Allah what you do not know."
+          "html": "Then famine struck Egypt and the lands around it, and Yaqub (AS) sent ten sons to buy grain from the storekeeper of the Egyptian king. They returned with a problem: the storekeeper had sworn to sell them nothing more unless they brought their youngest brother, Binyamin. Yaqub (AS) was furious at the very idea. Shall I trust you with him as I trusted you with his brother before? Allah is the best of protectors, and He is the Most Merciful of the merciful. He only relented when they showed him their money mysteriously returned in their bags, and when his sons swore him a solemn oath before Allah to bring the boy back unless utterly overpowered. Then he added the advice of a man who trusts Allah and takes precautions at the same time: O my sons, do not enter the city through one gate. Enter through separate gates. I cannot avail you against Allah at all. The decision is only Allah's. In Him I trust, and in Him let the trusting trust."
         },
         {
           "t": "verse",
@@ -176,18 +195,19 @@ export const chapter = {
           "citation": "Surah 12 &middot; Verses 66-67 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The second loss made the pattern impossible to miss. When the brothers returned without Binyamin, Yaqub (AS) used almost the same answer he had used years before, but now it carried hope for more than one missing son: \"Rather, your souls have enticed you to something. So patience is most fitting. Perhaps Allah will bring them all to me together.\" Then came the sentence that reveals his private worship: \"I only complain of my suffering and my grief to Allah.\""
+        },
+        {
+          "t": "p",
+          "html": "The second journey ended in fresh disaster. Binyamin was accused of stealing the king's cup and detained in Egypt. The brothers came home with the news, and the old man's answer rose from the same deep well as before, but fuller now: Your souls have tempted you to something. So beautiful patience. Perhaps Allah will bring them all back to me. Truly, He is the All-Knowing, the All-Wise. Then he turned away from them and whispered the words that would crack anyone's heart: Alas for Yusuf. His sons lost their tempers: By Allah, you will never stop remembering Yusuf until you waste away or die. He answered them with the manifesto of every broken believer: I only complain of my anguish and sorrow to Allah. And I know from Allah what you do not know."
+        },
+        {
           "t": "verse",
           "ref": "Quran 12:83-87",
           "arabic": " قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ",
           "translation": "[Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allāh will bring them to me all together. Indeed, it is He who is the Knowing, the Wise.\" And he turned away from them and said, \"Oh, my sorrow over Joseph,\" and his eyes became white from grief, for he was [of that] a suppressor. They said, \"By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish.\" He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people.\"",
           "citation": "Surah 12 &middot; Verses 83-87 &middot; Saheeh International"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;The Prophet (ﷺ) passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. &hellip; He said, &lsquo;Verily, the patience is at the first stroke of a calamity.&rsquo;&rdquo;",
-          "narrator": "Narrated Anas bin Malik",
-          "href": "https://sunnah.com/bukhari:1283",
-          "label": "Sahih al-Bukhari 1283 &middot; sunnah.com"
         },
         {
           "t": "tafsir",
@@ -220,15 +240,15 @@ export const chapter = {
           "html": "Then the bearer of good news arrived with Yusuf's shirt and threw it over the old man's face, and his sight returned. Sight, for scent, for a son presumed dead for decades. Did I not tell you, said Yaqub (AS), that I know from Allah what you do not know? His grown sons, the same men who had lied with a bloody shirt in their hands, stood before him now with lowered heads: O our father, ask forgiveness for our sins. Truly, we have been sinners. And Yaqub (AS), who had every right to refuse, answered: I will ask my Lord to forgive you. Truly, He is the All-Forgiving, the Most Merciful."
         },
         {
-          "t": "p",
-          "html": "Yusuf (AS) received his family in Egypt with open gates: Enter Egypt, Allah willing, in safety. He raised his parents high on his throne, and they fell in honour before him, and the little boy's dream of eleven stars and the sun and the moon closed its circle in front of the whole family. O my father, said Yusuf (AS), this is the meaning of my dream from long ago. My Lord has made it true."
-        },
-        {
           "t": "verse",
           "ref": "Quran 12:94-98",
           "arabic": " وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَـٰلِكَ ٱلْقَدِيمِ فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ قَالُوا۟ يَـٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَـٰطِـِٔينَ قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ ۖ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
           "translation": "And when the caravan departed [from Egypt], their father said, \"Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind.\" They said, \"By Allāh, indeed you are in your [same] old error.\" And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" They said, \"O our father, ask for us forgiveness of our sins; indeed, we have been sinners.\" He said, \"I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.\"",
           "citation": "Surah 12 &middot; Verses 94-98 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Yusuf (AS) received his family in Egypt with open gates: Enter Egypt, Allah willing, in safety. He raised his parents high on his throne, and they fell in honour before him, and the little boy's dream of eleven stars and the sun and the moon closed its circle in front of the whole family. O my father, said Yusuf (AS), this is the meaning of my dream from long ago. My Lord has made it true."
         },
         {
           "t": "verse",
@@ -254,8 +274,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) spent his final days in Egypt, reunited with the son he had mourned for most of a lifetime. And when his death approached, the father of twelve tribes gathered his sons for the only question he had ever really been asking: What will you worship after me?",
+          "html": "Classical histories relate that Yaqub (AS) then lived in Egypt for years with his family gathered around him. The Quran closes his story not with land, wealth or revenge, but with worship. The father who had once been promised as a grandson in a tent now gathered his own sons at the edge of death.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Yaqub (AS) spent his final days in Egypt, reunited with the son he had mourned for most of a lifetime. And when his death approached, the father of twelve tribes gathered his sons for the only question he had ever really been asking: What will you worship after me?"
         },
         {
           "t": "p",

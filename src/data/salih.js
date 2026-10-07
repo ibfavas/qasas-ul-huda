@@ -40,6 +40,24 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
+          "t": "verse",
+          "ref": "Quran 26:149",
+          "arabic": " وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَـٰرِهِينَ",
+          "translation": "And you carve out of the mountains, homes, with skill.",
+          "citation": "Surah 26 &middot; Verse 149 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Their skill was not hidden in small houses. They cut into mountains and valley rock, shaping dwellings that looked safe enough to outlast their makers."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 89:9",
+          "arabic": " وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+          "translation": "And [with] Thamūd, who carved out the rocks in the valley?",
+          "citation": "Surah 89 &middot; Verse 9 &middot; Saheeh International"
+        },
+        {
           "t": "p",
           "html": "They knew about Allah, and at first they worshipped Him alone. But prosperity did its slow work again. Their wealth grew, and so did their pride. They built castles and statues, then idols to worship, and instead of sharing their abundance, they became greedy and cruel to the poor. They built grand monuments on every hill, amusing themselves, as if stone could make them eternal."
         },
@@ -72,10 +90,6 @@ export const chapter = {
           "html": "O my people, he said, serve Allah. You have no god other than Him. He brought you into being from the earth and settled you in it, so ask His forgiveness and turn to Him in repentance. My Lord is near, and He answers prayers."
         },
         {
-          "t": "p",
-          "html": "The people were stunned, then stung. O Salih, they said, you were among us a man of promise before this. Do you forbid us to worship what our fathers worshipped? We are in serious doubt about what you are calling us to. The respected elder was suddenly the troublemaker. But a small number of people of modest means were touched by the sincerity of his words and believed, while the elite, blinded by luxury and status, found it easier to call him mad than to change their lives."
-        },
-        {
           "t": "verse",
           "ref": "Quran 11:61",
           "arabic": " ۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا ۚ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
@@ -83,11 +97,19 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 61 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The people were stunned, then stung. O Salih, they said, you were among us a man of promise before this. Do you forbid us to worship what our fathers worshipped? We are in serious doubt about what you are calling us to. The respected elder was suddenly the troublemaker. But a small number of people of modest means were touched by the sincerity of his words and believed, while the elite, blinded by luxury and status, found it easier to call him mad than to change their lives."
+        },
+        {
           "t": "verse",
           "ref": "Quran 26:153-154",
           "arabic": " قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ مَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
           "translation": "They said, \"You are only of those affected by magic. You are but a man like ourselves, so bring a sign, if you should be of the truthful.\"",
           "citation": "Surah 26 &middot; Verses 153-154 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The Quran shows the split widening into argument. Salih (AS): O my people, why do you hasten evil before good? Why do you not seek Allah’s forgiveness, so that you may receive mercy? The people: We see an ill omen in you and in those with you. Salih (AS): Your ill omen is with Allah; rather, you are a people being tested."
         }
       ]
     },
@@ -138,14 +160,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "The camel was a living miracle walking through their streets, and with every passing day more people entered Islam. But the disbelievers began to hate the sight of her. She drank deeply on her day. She frightened their flocks with her size. Sharing their well with an animal felt like an insult. And underneath it all was the real reason: she was a walking sign of Allah in the middle of their town, a constant reminder of the truth they were refusing. Every time they saw her, their own wrongdoing stared back at them."
-        },
-        {
-          "t": "p",
-          "html": "So they began to whisper about getting rid of her."
-        },
-        {
           "t": "verse",
           "ref": "Quran 7:73",
           "arabic": " وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا ۗ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ ۖ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً ۖ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ ۖ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ",
@@ -153,25 +167,8 @@ export const chapter = {
           "citation": "Surah 7 &middot; Verse 73 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 17:59",
-          "arabic": " وَمَا مَنَعَنَآ أَن نُّرْسِلَ بِٱلْـَٔايَـٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلْأَوَّلُونَ ۚ وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُوا۟ بِهَا ۚ وَمَا نُرْسِلُ بِٱلْـَٔايَـٰتِ إِلَّا تَخْوِيفًا",
-          "translation": "And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
-          "citation": "Surah 17 &middot; Verse 59 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 11:64",
-          "arabic": " وَيَـٰقَوْمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ",
-          "translation": "And O my people, this is the she-camel of Allāh - [she is] to you a sign. So let her feed upon Allāh's earth and do not touch her with harm, or you will be taken by an impending punishment.\"",
-          "citation": "Surah 11 &middot; Verse 64 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 54:27",
-          "arabic": " إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
-          "translation": "Indeed, We are sending the she-camel as trial for them, so watch them and be patient.",
-          "citation": "Surah 54 &middot; Verse 27 &middot; Saheeh International"
+          "t": "p",
+          "html": "The sharing was precise. Salih (AS): For her is a drink, and for you is a drink, each on a known day. Do not touch her with harm, or the punishment of a terrible day will seize you."
         },
         {
           "t": "verse",
@@ -181,10 +178,47 @@ export const chapter = {
           "citation": "Surah 26 &middot; Verses 155-156 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Ibn Kathir explains the rhythm of the well: on the camel’s day she drank, and the people filled their vessels from her milk; on their day the well was left to them. The sign fed the town that resented it."
+        },
+        {
           "t": "tafsir",
           "text": "Ibn Kathir details the arrangement: the she-camel drank from her well one day and left it for Thamud the next, and on her drinking days they milked her and filled their containers from her milk. He places Thamud after &lsquo;Ad, dwelling at Al-Hijr between the Hijaz and Ash-Sham, where the Prophet (ﷺ) would later pass on the way to Tabuk.",
           "href": "https://quran.com/7:73/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 7:73 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "That is why the camel is named a visible sign and a trial. A blessing can expose the heart as surely as a hardship can."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 17:59",
+          "arabic": " وَمَا مَنَعَنَآ أَن نُّرْسِلَ بِٱلْـَٔايَـٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلْأَوَّلُونَ ۚ وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُوا۟ بِهَا ۚ وَمَا نُرْسِلُ بِٱلْـَٔايَـٰتِ إِلَّا تَخْوِيفًا",
+          "translation": "And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
+          "citation": "Surah 17 &middot; Verse 59 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The camel was a living miracle walking through their streets, and with every passing day more people entered Islam. But the disbelievers began to hate the sight of her. She drank deeply on her day. She frightened their flocks with her size. Sharing their well with an animal felt like an insult. And underneath it all was the real reason: she was a walking sign of Allah in the middle of their town, a constant reminder of the truth they were refusing. Every time they saw her, their own wrongdoing stared back at them."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 54:27",
+          "arabic": " إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+          "translation": "Indeed, We are sending the she-camel as trial for them, so watch them and be patient.",
+          "citation": "Surah 54 &middot; Verse 27 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "So they began to whisper about getting rid of her."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 11:64",
+          "arabic": " وَيَـٰقَوْمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ",
+          "translation": "And O my people, this is the she-camel of Allāh - [she is] to you a sign. So let her feed upon Allāh's earth and do not touch her with harm, or you will be taken by an impending punishment.\"",
+          "citation": "Surah 11 &middot; Verse 64 &middot; Saheeh International"
         }
       ]
     },
@@ -203,37 +237,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran tells us that the most wicked man of the city rose up for the task. He gathered eight accomplices, and together the nine of them planned the attack, with the quiet support of the whole town. They hid behind a rock near the well and waited for the she-camel to come and drink. As she approached, one of them shot an arrow into her leg so she could not run. The others sprang out with swords and hamstrung her, cutting her legs, and the she-camel of Allah fell dead in the dust.",
-          "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The town cheered. They slaughtered her and ate her meat as if they had won a war. When Salih (AS) heard, he hurried to them, but the crime was done. The people mocked the very prophet who had warned them: O Salih, bring us what you promised, if you really are a messenger."
-        },
-        {
-          "t": "p",
-          "html": "Salih (AS) answered with a countdown: Enjoy yourselves in your homes for three days. That is a promise that will not be broken. Instead of repenting, they taunted him to hurry the punishment along, and that very night the nine conspirators swore an oath to finish the job: let us kill Salih and his family in the dark, and then swear we saw nothing. They planned a plan, and Allah planned a plan, while they perceived nothing."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 54:29",
-          "arabic": " فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
-          "translation": "But they called their companion, and he dared and hamstrung [her].",
-          "citation": "Surah 54 &middot; Verse 29 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 91:12-14",
-          "arabic": " إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
-          "translation": "When the most wretched of them was sent forth. And the messenger of Allāh [i.e., Ṣāliḥ] said to them, \"[Do not harm] the she-camel of Allāh or [prevent her from] her drink.\" But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
-          "citation": "Surah 91 &middot; Verses 12-14 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 7:77",
-          "arabic": " فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
-          "translation": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\"",
-          "citation": "Surah 7 &middot; Verse 77 &middot; Saheeh International"
+          "html": "Ibn Kathir names the man who rose for the deed as Qudar, and the Prophet ﷺ described the one appointed for it as a man of standing and power among his people. The crime did not begin with a powerless fool; it was carried by influence."
         },
         {
           "t": "hadith",
@@ -243,11 +247,57 @@ export const chapter = {
           "label": "Sahih al-Bukhari 3377 &middot; sunnah.com"
         },
         {
+          "t": "p",
+          "html": "Salih (AS) had already named the limit in public. Salih (AS): The she-camel of Allah, and her drink. The words were simple enough for a child to repeat and heavy enough to judge a city."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 91:12-14",
+          "arabic": " إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+          "translation": "When the most wretched of them was sent forth. And the messenger of Allāh [i.e., Ṣāliḥ] said to them, \"[Do not harm] the she-camel of Allāh or [prevent her from] her drink.\" But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].",
+          "citation": "Surah 91 &middot; Verses 12-14 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The Quran tells us that the most wicked man of the city rose up for the task. He gathered eight accomplices, and together the nine of them planned the attack, with the quiet support of the whole town. They hid behind a rock near the well and waited for the she-camel to come and drink. As she approached, one of them shot an arrow into her leg so she could not run. The others sprang out with swords and hamstrung her, cutting her legs, and the she-camel of Allah fell dead in the dust.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 54:29",
+          "arabic": " فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+          "translation": "But they called their companion, and he dared and hamstrung [her].",
+          "citation": "Surah 54 &middot; Verse 29 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir relates that the she-camel’s calf escaped toward the mountain and cried out three times after its mother was struck down. Salih (AS) then gave the people three days, and the number stayed in their ears while they mocked it."
+        },
+        {
+          "t": "p",
+          "html": "The town cheered. They slaughtered her and ate her meat as if they had won a war. When Salih (AS) heard, he hurried to them, but the crime was done. The people mocked the very prophet who had warned them: O Salih, bring us what you promised, if you really are a messenger."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:77",
+          "arabic": " فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+          "translation": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\"",
+          "citation": "Surah 7 &middot; Verse 77 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The three days were not a riddle. Salih (AS) had named them as a promise that would not be denied, leaving room for repentance even after blood had been spilled."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:65",
           "arabic": " فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَـٰثَةَ أَيَّامٍ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ",
           "translation": "But they hamstrung her, so he said, \"Enjoy yourselves in your homes for three days. That is a promise not to be denied [i.e., unfailing].\"",
           "citation": "Surah 11 &middot; Verse 65 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Salih (AS) answered with a countdown: Enjoy yourselves in your homes for three days. That is a promise that will not be broken. Instead of repenting, they taunted him to hurry the punishment along, and that very night the nine conspirators swore an oath to finish the job: let us kill Salih and his family in the dark, and then swear we saw nothing. They planned a plan, and Allah planned a plan, while they perceived nothing."
         },
         {
           "t": "verse",
@@ -273,30 +323,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah instructed Salih (AS) to gather his followers and leave the town. On the third day after the warning, heaven and earth moved together. Thunderbolts roared from the sky and a violent earthquake shook the land, and a single mighty Cry overtook the people of Thamud where they stood. Every disbeliever was crushed in one moment, inside houses carved into mountains, in palaces built to last forever. No wall of any material could shield a single one of them.",
-          "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The tribe that demanded a miracle and then murdered it was gone, all but deserted stone. The believers, who had left with their prophet, were saved by the grace of Allah."
-        },
-        {
-          "t": "p",
-          "html": "Salih (AS) returned once to look at the ruins of his people, and spoke to the silence with a heavy heart: O my people, I conveyed to you the message of my Lord and I advised you sincerely, but you do not like advisers."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 11:67",
-          "arabic": " وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
-          "translation": "And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone",
-          "citation": "Surah 11 &middot; Verse 67 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 54:31",
-          "arabic": " إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
-          "translation": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen.",
-          "citation": "Surah 54 &middot; Verse 31 &middot; Saheeh International"
+          "html": "The end came while they were watching, seized by a thunderbolt after insolence toward their Lord’s command. Pride did not even give them time to turn it into regret."
         },
         {
           "t": "verse",
@@ -306,11 +333,42 @@ export const chapter = {
           "citation": "Surah 51 &middot; Verse 44 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Allah instructed Salih (AS) to gather his followers and leave the town. On the third day after the warning, heaven and earth moved together. Thunderbolts roared from the sky and a violent earthquake shook the land, and a single mighty Cry overtook the people of Thamud where they stood. Every disbeliever was crushed in one moment, inside houses carved into mountains, in palaces built to last forever. No wall of any material could shield a single one of them.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 11:67",
+          "arabic": " وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+          "translation": "And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone",
+          "citation": "Surah 11 &middot; Verse 67 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The Quran names it one Cry. They became like dry fragments gathered into an animal pen, a proud city reduced to brittle remains."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 54:31",
+          "arabic": " إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+          "translation": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen.",
+          "citation": "Surah 54 &middot; Verse 31 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "It seized them in the morning, when houses carved for safety were full and the day had barely begun."
+        },
+        {
           "t": "verse",
           "ref": "Quran 15:83",
           "arabic": " فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ",
           "translation": "But the shriek seized them at early morning,",
           "citation": "Surah 15 &middot; Verse 83 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Their Lord brought destruction down for their sin and made it level upon them. The high and the low met the same end because they had shared the same refusal."
         },
         {
           "t": "verse",
@@ -320,11 +378,19 @@ export const chapter = {
           "citation": "Surah 91 &middot; Verse 14 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The tribe that demanded a miracle and then murdered it was gone, all but deserted stone. The believers, who had left with their prophet, were saved by the grace of Allah."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:66",
           "arabic": " فَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا صَـٰلِحًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَمِنْ خِزْىِ يَوْمِئِذٍ ۗ إِنَّ رَبَّكَ هُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
           "translation": "So when Our command came, We saved Ṣāliḥ and those who believed with him, by mercy from Us, and [saved them] from the disgrace of that day. Indeed, it is your Lord who is the Powerful, the Exalted in Might.",
           "citation": "Surah 11 &middot; Verse 66 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Salih (AS) returned once to look at the ruins of his people, and spoke to the silence with a heavy heart: O my people, I conveyed to you the message of my Lord and I advised you sincerely, but you do not like advisers."
         }
       ]
     },
@@ -347,10 +413,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Centuries later, Muhammad ﷺ himself passed that place with his companions on the way to Tabuk, and he told them about the people of Al-Hijr: do not enter the dwelling places of these people unless you enter weeping. And if you cannot weep, do not enter at all, lest you be struck by what struck them. The ruins are not a holiday sight. They are a warning carved in stone, from a town that asked Allah for a sign, received it, and killed it."
-        },
-        {
           "t": "verse",
           "ref": "Quran 15:80-84",
           "arabic": " وَلَقَدْ كَذَّبَ أَصْحَـٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ وَءَاتَيْنَـٰهُمْ ءَايَـٰتِنَا فَكَانُوا۟ عَنْهَا مُعْرِضِينَ وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
@@ -358,39 +420,19 @@ export const chapter = {
           "citation": "Surah 15 &middot; Verses 80-84 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 26:149",
-          "arabic": " وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَـٰرِهِينَ",
-          "translation": "And you carve out of the mountains, homes, with skill.",
-          "citation": "Surah 26 &middot; Verse 149 &middot; Saheeh International"
+          "t": "p",
+          "html": "Those houses stand desolate because of what their owners wronged. In the same breath, the Quran remembers the other side of the town: Allah saved those who believed and feared Him."
         },
         {
           "t": "verse",
-          "ref": "Quran 89:9",
-          "arabic": " وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
-          "translation": "And [with] Thamūd, who carved out the rocks in the valley?",
-          "citation": "Surah 89 &middot; Verse 9 &middot; Saheeh International"
+          "ref": "Quran 27:52-53",
+          "arabic": " فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ بِمَا ظَلَمُوٓا۟ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْلَمُونَ وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+          "translation": "So those are their houses, desolate because of the wrong they had done. Indeed in that is a sign for people who know. And We saved those who believed and used to fear Allāh.",
+          "citation": "Surah 27 &middot; Verses 52-53 &middot; Saheeh International"
         },
         {
-          "t": "hadith",
-          "text": "&ldquo;Allah&rsquo;s Messenger (ﷺ) said, &lsquo;Do not enter (the places) of these people where Allah&rsquo;s punishment had fallen unless you do so weeping. If you do not weep, do not enter (the places of these people) because Allah&rsquo;s curse and punishment which fell upon them may fall upon you.&rsquo;&rdquo;",
-          "narrator": "Narrated &lsquo;Abdullah bin &lsquo;Umar",
-          "href": "https://sunnah.com/bukhari:433",
-          "label": "Sahih al-Bukhari 433 &middot; sunnah.com"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;Narrated Ibn &lsquo;Umar: When Allah&rsquo;s Messenger (ﷺ) landed at Al-Hijr during the Ghazwa of Tabuk, he ordered his companions not to drink water from its well or reserve water from it. They said, &lsquo;We have already kneaded the dough with its water, and also filled our bags with its water.&rsquo; On that, the Prophet (ﷺ) ordered them to throw away the dough and pour out the water.&rdquo;",
-          "narrator": "Narrated by Ibn Umar (RA)",
-          "href": "https://sunnah.com/bukhari:3378",
-          "label": "Sahih al-Bukhari 3378 &middot; sunnah.com"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;The people landed at the land of Thamud called Al-Hijr along with Allah&rsquo;s Messenger (ﷺ) and they took water from its well for drinking and kneading the dough with it as well. (When Allah&rsquo;s Messenger (ﷺ) heard about it) he ordered them to pour out the water they had taken from its wells and feed the camels with the dough, and ordered them to take water from the well whence the she-camel (of Prophet Salih) used to drink.&rdquo;",
-          "narrator": "Narrated by Abdullah ibn Umar (RA)",
-          "href": "https://sunnah.com/bukhari:3379",
-          "label": "Sahih al-Bukhari 3379 &middot; sunnah.com"
+          "t": "p",
+          "html": "It is as if they had never prospered there. Trade, carving, family pride, and stone all vanished into one sentence of dismissal."
         },
         {
           "t": "verse",
@@ -400,6 +442,10 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 68 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The saved were not saved by ancestry or architecture. They believed, feared Allah, and were carried out of disgrace by mercy."
+        },
+        {
           "t": "verse",
           "ref": "Quran 41:18",
           "arabic": " وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
@@ -407,11 +453,37 @@ export const chapter = {
           "citation": "Surah 41 &middot; Verse 18 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 27:52-53",
-          "arabic": " فَتِلْكَ بُيُوتُهُمْ خَاوِيَةًۢ بِمَا ظَلَمُوٓا۟ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْلَمُونَ وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
-          "translation": "So those are their houses, desolate because of the wrong they had done. Indeed in that is a sign for people who know. And We saved those who believed and used to fear Allāh.",
-          "citation": "Surah 27 &middot; Verses 52-53 &middot; Saheeh International"
+          "t": "p",
+          "html": "Centuries later, Muhammad ﷺ himself passed that place with his companions on the way to Tabuk, and he told them about the people of Al-Hijr: do not enter the dwelling places of these people unless you enter weeping. And if you cannot weep, do not enter at all, lest you be struck by what struck them. The ruins are not a holiday sight. They are a warning carved in stone, from a town that asked Allah for a sign, received it, and killed it."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Allah&rsquo;s Messenger (ﷺ) said, &lsquo;Do not enter (the places) of these people where Allah&rsquo;s punishment had fallen unless you do so weeping. If you do not weep, do not enter (the places of these people) because Allah&rsquo;s curse and punishment which fell upon them may fall upon you.&rsquo;&rdquo;",
+          "narrator": "Narrated &lsquo;Abdullah bin &lsquo;Umar",
+          "href": "https://sunnah.com/bukhari:433",
+          "label": "Sahih al-Bukhari 433 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "At Tabuk, the companions had already taken water from Al-Hijr and kneaded dough with it. The Prophet ﷺ ordered the dough thrown away and the water poured out."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Narrated Ibn &lsquo;Umar: When Allah&rsquo;s Messenger (ﷺ) landed at Al-Hijr during the Ghazwa of Tabuk, he ordered his companions not to drink water from its well or reserve water from it. They said, &lsquo;We have already kneaded the dough with its water, and also filled our bags with its water.&rsquo; On that, the Prophet (ﷺ) ordered them to throw away the dough and pour out the water.&rdquo;",
+          "narrator": "Narrated by Ibn Umar (RA)",
+          "href": "https://sunnah.com/bukhari:3378",
+          "label": "Sahih al-Bukhari 3378 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "In another report, he told them to feed the dough to the camels and to draw instead from the well from which Salih’s she-camel used to drink. Even water carried a memory there."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The people landed at the land of Thamud called Al-Hijr along with Allah&rsquo;s Messenger (ﷺ) and they took water from its well for drinking and kneading the dough with it as well. (When Allah&rsquo;s Messenger (ﷺ) heard about it) he ordered them to pour out the water they had taken from its wells and feed the camels with the dough, and ordered them to take water from the well whence the she-camel (of Prophet Salih) used to drink.&rdquo;",
+          "narrator": "Narrated by Abdullah ibn Umar (RA)",
+          "href": "https://sunnah.com/bukhari:3379",
+          "label": "Sahih al-Bukhari 3379 &middot; sunnah.com"
         }
       ]
     }

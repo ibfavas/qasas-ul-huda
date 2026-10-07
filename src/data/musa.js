@@ -1,7 +1,7 @@
 /* musa chapter data: Musa (AS), Chapter XIV.
    Story format: prose scenes written for young readers, following the
    classical telling of the story. Verse, hadith and tafsir panels
-   sit as dropdowns under each scene. No sources note card. */
+   sit as dropdowns under the passages they support. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XIV",
@@ -39,20 +39,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Pharaoh of Egypt had a nightmare that would not leave him: fire coming from Jerusalem, burning the houses of the Egyptians, and leaving the children of Israel untouched. His priests and magicians read it for him: a boy will be born among the Israelites, and his rise will end your reign. The Israelites, descendants of Yaqub (AS), were already slaves in Egypt, worked without pay, treated as people without rights. Now the Pharaoh added infanticide to slavery: every male baby born to them was to be killed. When his advisers warned him that killing all the boys would destroy his workforce, he refined the cruelty into arithmetic: the boys would be slaughtered one year and spared the next, in turn.",
+          "html": "Ibn Kathir relates the report that the Pharaoh of Egypt had a nightmare that would not leave him: fire coming from Jerusalem, burning the houses of the Egyptians, and leaving the children of Israel untouched. His priests and magicians read it for him: a boy will be born among the Israelites, and his rise will end your reign. The Israelites, descendants of Yaqub (AS), were already slaves in Egypt, worked without pay, treated as people without rights. Now the Pharaoh added infanticide to slavery: every male baby born to them was to be killed. When his advisers warned him that killing all the boys would destroy his workforce, he refined the cruelty into arithmetic: the boys would be slaughtered one year and spared the next, in turn.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "In a slaughter year, an Israelite woman gave birth to a son. Her older boy, Harun (AS), had been born in a spared year and survived. For the baby, she lived in terror, until Allah inspired her heart: nurse him, and when you fear for him, cast him into the river. Do not fear and do not grieve. We will return him to you, and We will make him a messenger. She nursed him in secret as long as she could, and when his cries grew too loud to hide, she built him a basket, fed him one last time, and set him on the Nile. Then she told his sister: follow him. Keep watch, unseen."
-        },
-        {
-          "t": "p",
-          "html": "The river carried the basket straight to the one shore in Egypt where the decree was written: Pharaoh's own palace. A servant found it and brought it in. Asiya, the Pharaoh's wife, a believing woman married to a monster, lifted the baby out and felt a love she had never been given a child for. When Pharaoh ordered this one killed like the others, she pleaded: Do not kill him. Perhaps he will benefit us, or we may adopt him as a son. The man who had ordered the death of a generation spared the single baby his dream was about, and raised him in his own house. They were unaware, says the Quran, of how it would end."
-        },
-        {
-          "t": "p",
-          "html": "The baby refused every wet nurse in the palace and screamed with hunger, while his sister watched from the shadows. At last she stepped forward: Shall I direct you to a household who will raise him for you and care for him sincerely? They fetched the woman she named. The baby was placed in his own mother's arms, in the palace of the man hunting him, and latched on at once. Who are you, the astonished Pharaoh asked, that he refuses every breast but yours? I am a woman of sweet milk, she answered, and no child refuses me. She was appointed his nurse, paid by the palace to feed her own son, and when he was weaned she was allowed to visit him. So Allah kept His word to a mother who had thrown her baby into a river on nothing but a promise: We returned him to his mother, that her eyes might be cooled and she might not grieve, and that she might know that Allah's promise is always true."
         },
         {
           "t": "verse",
@@ -69,6 +57,10 @@ export const chapter = {
           "citation": "Surah 2 &middot; Verse 49 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "In a slaughter year, an Israelite woman gave birth to a son. Her older boy, Harun (AS), had been born in a spared year and survived. For the baby, she lived in terror, until Allah inspired her heart: nurse him, and when you fear for him, cast him into the river. Do not fear and do not grieve. We will return him to you, and We will make him a messenger. She nursed him in secret as long as she could, and when his cries grew too loud to hide, she built him a basket, fed him one last time, and set him on the Nile. Then she told his sister: follow him. Keep watch, unseen."
+        },
+        {
           "t": "verse",
           "ref": "Quran 28:7",
           "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
@@ -83,11 +75,19 @@ export const chapter = {
           "citation": "Surah 28 &middot; Verse 10 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The river carried the basket straight to the one shore in Egypt where the decree was written: Pharaoh's own palace. A servant found it and brought it in. Asiya, the Pharaoh's wife, a believing woman married to a monster, lifted the baby out and felt a love she had never been given a child for. When Pharaoh ordered this one killed like the others, she pleaded: Do not kill him. Perhaps he will benefit us, or we may adopt him as a son. The man who had ordered the death of a generation spared the single baby his dream was about, and raised him in his own house. They were unaware, says the Quran, of how it would end."
+        },
+        {
           "t": "verse",
           "ref": "Quran 28:9",
           "arabic": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
           "translation": "And the wife of Pharaoh said, \"[He will be] a comfort of the eye [i.e., pleasure] for me and for you. Do not kill him; perhaps he may benefit us, or we may adopt him as a son.\" And they perceived not.<sup foot_note=196997>1</sup>",
           "citation": "Surah 28 &middot; Verse 9 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The baby refused every wet nurse in the palace and screamed with hunger, while his sister watched from the shadows. At last she stepped forward: Shall I direct you to a household who will raise him for you and care for him sincerely? They fetched the woman she named. The baby was placed in his own mother's arms, in the palace of the man hunting him, and latched on at once. Ibn Kathir relates the report of an exchange in the palace. Pharaoh asked: \"Who are you, that he refuses every breast but yours?\" She answered: \"I am a woman of sweet milk, and no child refuses me.\" She was appointed his nurse, paid by the palace to feed her own son, and when he was weaned she was allowed to visit him. So Allah kept His word to a mother who had thrown her baby into a river on nothing but a promise: We returned him to his mother, that her eyes might be cooled and she might not grieve, and that she might know that Allah's promise is always true."
         },
         {
           "t": "verse",
@@ -121,15 +121,15 @@ export const chapter = {
           "html": "Horror flooded him: This is from the work of Satan. He is a clear, misleading enemy. Then he did what he would teach nations to do: My Lord, I have wronged myself, so forgive me. And Allah forgave him. Musa (AS) vowed: My Lord, because of Your favour to me, I will never be a supporter of the criminals. That night a prince of Egypt quietly renounced the palace that raised him."
         },
         {
-          "t": "p",
-          "html": "The next day he found the same Israelite in another fight, and rebuked him: you are clearly a troublemaker. The man, terrified Musa (AS) was about to strike him instead, blurted out the secret in public: O Musa, do you want to kill me as you killed a man yesterday? You only want to be a tyrant in the land! The words travelled. Within hours a man came running from the far end of the city: O Musa, the chiefs are plotting to kill you. Leave the city. I am giving you sincere advice. Musa (AS) walked out of Egypt that day, a wanted man, praying: My Lord, save me from the wrongdoing people, and perhaps my Lord will guide me to the right road."
-        },
-        {
           "t": "verse",
           "ref": "Quran 28:15-16",
           "arabic": "وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَـٰذَا مِن شِيعَتِهِۦ وَهَـٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَـٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَـٰذَا مِنْ عَمَلِ ٱلشَّيْطَـٰنِ ۖ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
           "translation": "And he entered the city at a time of inattention by its people<sup foot_note=196999>1</sup> and found therein two men fighting: one from his faction and one from among his enemy. And the one from his faction called for help to him against the one from his enemy, so Moses struck him and [unintentionally] killed him. [Moses] said, \"This is from the work of Satan. Indeed, he is a manifest, misleading enemy.\" He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful.",
           "citation": "Surah 28 &middot; Verses 15-16 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The next day he found the same Israelite in another fight, and rebuked him: you are clearly a troublemaker. The man, terrified Musa (AS) was about to strike him instead, blurted out the secret in public: O Musa, do you want to kill me as you killed a man yesterday? You only want to be a tyrant in the land! The words travelled. Within hours a man came running from the far end of the city: O Musa, the chiefs are plotting to kill you. Leave the city. I am giving you sincere advice. Musa (AS) walked out of Egypt that day, a wanted man, praying: My Lord, save me from the wrongdoing people, and perhaps my Lord will guide me to the right road."
         },
         {
           "t": "verse",
@@ -155,12 +155,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Eight days of desert walking brought him, barefoot, starving, his feet torn, to a watering place at the edge of Madyan, the land of Shuayb (AS). Shepherds crowded the well with their flocks, and apart from them stood two young women holding their sheep back, waiting. What is the matter with you? Musa (AS) asked. We cannot water our animals until the shepherds leave, they said, and our father is a very old man. The well was covered by a stone so heavy that ten men together strained to move it. Musa (AS), exhausted and hungry, walked to it, pulled it aside alone, watered the women's flock, and put the stone back. Then he collapsed in the shade of a tree and prayed one of the most honest prayers ever recorded: My Lord, I am in desperate need of whatever good You send down to me.",
+          "html": "Eight days of desert walking brought him, barefoot, starving, his feet torn, to a watering place at the edge of Madyan, the land of Shuayb (AS). Shepherds crowded the well with their flocks, and apart from them stood two young women holding their sheep back, waiting. Musa (AS) asked: \"What is your circumstance?\" The two women answered: \"We do not water until the shepherds dispatch their flocks, and our father is an old man.\" Ibn Kathir relates that the well was covered by a stone so heavy that ten men together strained to move it. Musa (AS), exhausted and hungry, walked to it, pulled it aside alone, watered the women's flock, and put the stone back. Then he collapsed in the shade of a tree and prayed one of the most honest prayers ever recorded: My Lord, I am in desperate need of whatever good You send down to me.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The girls came home earlier than usual, and their father sent one of them back to invite the stranger and pay him for his help. She approached him shyly and delivered the invitation. At the old man's house, Musa (AS) told his whole story, and heard the words he had crossed a desert for: Do not fear. You have escaped from the wrongdoing people. One of the daughters said: Father, hire him. The best you can hire is the strong, the trustworthy. Asked how she knew his character, she explained: when I called him, he asked to walk ahead of me on the road, so that my modesty would not be compromised. The old man, whom many scholars hold to be Shuayb (AS) himself, offered him the bargain of his life: Marry one of my daughters, and work for me eight years, or ten if you wish. I will not make it hard on you. Musa (AS) agreed, and the fugitive with a price on his head found safety, work, a wife and a home, all from one act of unpaid kindness at a well."
         },
         {
           "t": "verse",
@@ -168,6 +164,10 @@ export const chapter = {
           "arabic": "وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ",
           "translation": "And when he directed himself toward Madyan, he said, \"Perhaps my Lord will guide me to the sound way.\" And when he came to the water [i.e., well] of Madyan, he found there a crowd of people watering [their flocks], and he found aside from them two women holding back [their flocks]. He said, \"What is your circumstance?\" They said, \"We do not water until the shepherds dispatch [their flocks]; and our father is an old man.\" So he watered [their flocks] for them; then he went back to the shade and said, \"My Lord, indeed I am, for whatever good You would send down to me, in need.\"",
           "citation": "Surah 28 &middot; Verses 22-24 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The girls came home earlier than usual, and their father sent one of them back to invite the stranger and pay him for his help. She approached him shyly and delivered the invitation. At the old man's house, Musa (AS) told his whole story, and heard the words he had crossed a desert for: Do not fear. You have escaped from the wrongdoing people. One of the daughters said: Father, hire him. The best you can hire is the strong, the trustworthy. Ibn Kathir relates that, when she was asked how she knew his character, she explained: when I called him, he asked to walk ahead of me on the road, so that my modesty would not be compromised. The old man, whom many scholars hold to be Shuayb (AS) himself, offered him the bargain of his life: Marry one of my daughters, and work for me eight years, or ten if you wish. I will not make it hard on you. Musa (AS) agreed, and the fugitive with a price on his head found safety, work, a wife and a home, all from one act of unpaid kindness at a well."
         },
         {
           "t": "verse",
@@ -197,14 +197,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "What is in your right hand, O Musa? It is my staff, he answered, shaking. I lean on it, and beat down leaves for my sheep, and I have other uses for it. Throw it down. He threw it, and the staff became a living serpent, writhing on the ground. Musa (AS) turned and ran. O Musa, come back and do not fear. You are among the secure. He took hold of it, and it was a staff again. Put your hand into your collar. He did, and drew it out glowing white, without disease. These are two proofs from your Lord to Pharaoh and his chiefs, Allah told him. They are a defiantly disobedient people."
-        },
-        {
-          "t": "p",
-          "html": "Musa (AS) spoke his fears like a man, not a statue: My Lord, I killed one of them, and I fear they will kill me. And my brother Harun is more eloquent than I am. Send him with me as a helper, confirming me, for I fear they will call me a liar. Allah answered: We will strengthen your arm with your brother, and We will give you both authority, so they cannot reach you. With Our signs, you, and those who follow you, will be the victors. And before he left the mountain, Musa (AS) prayed the prayer that millions of students, speakers and frightened people have prayed before every hard task since: My Lord, expand for me my chest. Ease for me my task. And untie the knot from my tongue, that they may understand my speech. And appoint for me a helper from my family, Harun, my brother. Increase my strength through him, and let him share my task, so that we may glorify You much and remember You much. Indeed, You are always watching over us. His Lord answered: You have been granted your request, O Musa."
-        },
-        {
           "t": "verse",
           "ref": "Quran 20:9-16",
           "arabic": "وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى فَلَمَّآ أَتَىٰهَا نُودِىَ يَـٰمُوسَىٰٓ إِنِّىٓ أَنَا۠ رَبُّكَ فَٱخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ فَلَا يَصُدَّنَّكَ عَنْهَا مَن لَّا يُؤْمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرْدَىٰ",
@@ -212,11 +204,19 @@ export const chapter = {
           "citation": "Surah 20 &middot; Verses 9-16 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Allah asked Musa (AS): \"What is that in your right hand?\" Musa (AS) answered: \"It is my staff. I lean on it, and I bring down leaves for my sheep, and I have other uses for it.\" He was shaking as he spoke. I lean on it, and beat down leaves for my sheep, and I have other uses for it. Throw it down. He threw it, and the staff became a living serpent, writhing on the ground. Musa (AS) turned and ran. O Musa, come back and do not fear. You are among the secure. He took hold of it, and it was a staff again. Put your hand into your collar. He did, and drew it out glowing white, without disease. These are two proofs from your Lord to Pharaoh and his chiefs, Allah told him. They are a defiantly disobedient people."
+        },
+        {
           "t": "verse",
           "ref": "Quran 20:17-23",
           "arabic": "وَمَا تِلْكَ بِيَمِينِكَ يَـٰمُوسَىٰ قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ قَالَ أَلْقِهَا يَـٰمُوسَىٰ فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ لِنُرِيَكَ مِنْ ءَايَـٰتِنَا ٱلْكُبْرَى",
           "translation": "And what is that in your right hand, O Moses?\" He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\" [Allāh] said, \"Throw it down, O Moses.\" So he threw it down, and thereupon it was a snake, moving swiftly. [Allāh] said, \"Seize it and fear not; We will return it to its former condition. And draw in your hand to your side; it will come out white without disease - another sign, That We may show you [some] of Our greater signs.",
           "citation": "Surah 20 &middot; Verses 17-23 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Musa (AS) spoke his fears like a man, not a statue: My Lord, I killed one of them, and I fear they will kill me. And my brother Harun is more eloquent than I am. Send him with me as a helper, confirming me, for I fear they will call me a liar. Allah answered: We will strengthen your arm with your brother, and We will give you both authority, so they cannot reach you. With Our signs, you, and those who follow you, will be the victors. And before he left the mountain, Musa (AS) prayed the prayer that millions of students, speakers and frightened people have prayed before every hard task since: My Lord, expand for me my chest. Ease for me my task. And untie the knot from my tongue, that they may understand my speech. And appoint for me a helper from my family, Harun, my brother. Increase my strength through him, and let him share my task, so that we may glorify You much and remember You much. Indeed, You are always watching over us. His Lord answered: You have been granted your request, O Musa."
         },
         {
           "t": "verse",
@@ -253,14 +253,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "And who is this Lord of the worlds? Pharaoh demanded. The Lord of the heavens and the earth and everything between them, if you had certainty. Pharaoh turned to his court, laughing: Do you hear him? Your messenger is mad. The Lord of the east and the west and everything between, Musa (AS) continued, if you would use your reason. Pharaoh dropped the laughter for the threat: If you take a god other than me, I will make you one of the imprisoned. Even if I bring you something clear and convincing? Bring it, then, if you are truthful."
-        },
-        {
-          "t": "p",
-          "html": "Musa (AS) threw down his staff, and it became a huge serpent, unmistakably real, and the hall erupted in terror. He drew out his hand, and it shone white before every eye. Two proofs impossible to deny, so Pharaoh denied what they meant: This is a skilled magician. He wants to drive you from your land with his magic. What do you command? His chiefs gave him the plan that sealed his fate: detain the brothers, and gather every master magician in Egypt for a public contest. If the magicians could do what Musa (AS) did, the prophet would be exposed as a fraud, and the palace would be safe."
-        },
-        {
           "t": "verse",
           "ref": "Quran 20:42-47",
           "arabic": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَـٰتِى وَلَا تَنِيَا فِى ذِكْرِى ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ فَقُولَا لَهُۥ قَوْلًا لَّيِّنًا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَـٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ ۖ وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ",
@@ -273,6 +265,21 @@ export const chapter = {
           "arabic": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ",
           "translation": "Go to Pharaoh and say, 'We are the messengers<sup foot_note=196949>1</sup> of the Lord of the worlds, [Commanded to say], \"Send with us the Children of Israel.\"'\"",
           "citation": "Surah 26 &middot; Verses 16-17 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "And who is this Lord of the worlds? Pharaoh demanded. The Lord of the heavens and the earth and everything between them, if you had certainty. Pharaoh turned to his court, laughing: Do you hear him? Your messenger is mad. The Lord of the east and the west and everything between, Musa (AS) continued, if you would use your reason. Pharaoh dropped the laughter for the threat: If you take a god other than me, I will make you one of the imprisoned. Even if I bring you something clear and convincing? Bring it, then, if you are truthful."
+        },
+        {
+          "t": "p",
+          "html": "Musa (AS) threw down his staff, and it became a huge serpent, unmistakably real, and the hall erupted in terror. He drew out his hand, and it shone white before every eye. Two proofs impossible to deny, so Pharaoh denied what they meant: This is a skilled magician. He wants to drive you from your land with his magic. What do you command? His chiefs gave him the plan that sealed his fate: detain the brothers, and gather every master magician in Egypt for a public contest. If the magicians could do what Musa (AS) did, the prophet would be exposed as a fraud, and the palace would be safe."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:103-108",
+          "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ وَقَالَ مُوسَىٰ يَـٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+          "translation": "Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them.<sup foot_note=196313>1</sup> So see how was the end of the corrupters. And Moses said, \"O Pharaoh, I am a messenger from the Lord of the worlds [Who is] obligated not to say about Allāh except the truth. I have come to you with clear evidence from your Lord, so send with me the Children of Israel.\"<sup foot_note=196314>1</sup> [Pharaoh] said, \"If you have come with a sign, then bring it forth, if you should be of the truthful.\" So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest.<sup foot_note=196315>1</sup> And he drew out his hand; thereupon it was white [with radiance] for the observers.",
+          "citation": "Surah 7 &middot; Verses 103-108 &middot; Saheeh International"
         }
       ]
     },
@@ -299,22 +306,15 @@ export const chapter = {
           "html": "Musa (AS) threw his staff. It became a true serpent, and it hunted the illusion-snakes one by one and swallowed every last one, while Pharaoh and his chiefs watched in silence. Musa (AS) picked it up, and it was a staff. The crowd roared. And the master magicians of Egypt, the men who knew the difference between a trick and the truth better than anyone alive, fell to the ground in prostration and announced to the whole empire: We believe in the Lord of the worlds, the Lord of Musa and Harun."
         },
         {
-          "t": "p",
-          "html": "Pharaoh's revenge was instant: You believed him before I gave permission? He must be your chief who taught you magic. I will cut off your hands and feet on opposite sides and crucify you all. The men who had come that morning for a pay rise answered like prophets: No harm. To our Lord we will return. We hope our Lord will forgive us our sins, because we are the first to believe. Pharaoh executed them and hung their bodies as a warning. Haman, he ordered next, build me a tower high enough to climb to the God of Musa, though I am sure he is a liar. And he renewed the old decree against the Israelites: we will kill their sons and spare their women, for we hold irresistible power over them. In the councils of Egypt, only one nobleman, a secret believer, dared to speak: Will you kill a man just because he says, my Lord is Allah, when he has brought you clear proofs? If he is lying, his lie is on him. But if he is truthful, some of what he warns you of will strike you. Egypt heard the warning, and chose the tower and the sword anyway. Musa (AS) told his suffering people: Seek help in Allah and be patient. The earth belongs to Allah. He gives it to whom He wills of His servants, and the final outcome is for the righteous."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 7:103-108",
-          "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ وَقَالَ مُوسَىٰ يَـٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ قَالَ إِن كُنتَ جِئْتَ بِـَٔايَةٍ فَأْتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
-          "translation": "Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them.<sup foot_note=196313>1</sup> So see how was the end of the corrupters. And Moses said, \"O Pharaoh, I am a messenger from the Lord of the worlds [Who is] obligated not to say about Allāh except the truth. I have come to you with clear evidence from your Lord, so send with me the Children of Israel.\"<sup foot_note=196314>1</sup> [Pharaoh] said, \"If you have come with a sign, then bring it forth, if you should be of the truthful.\" So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest.<sup foot_note=196315>1</sup> And he drew out his hand; thereupon it was white [with radiance] for the observers.",
-          "citation": "Surah 7 &middot; Verses 103-108 &middot; Saheeh International"
-        },
-        {
           "t": "verse",
           "ref": "Quran 7:117-126",
           "arabic": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ فَوَقَعَ ٱلْحَقُّ وَبَطَلَ مَا كَانُوا۟ يَعْمَلُونَ فَغُلِبُوا۟ هُنَالِكَ وَٱنقَلَبُوا۟ صَـٰغِرِينَ وَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَـٰلَمِينَ رَبِّ مُوسَىٰ وَهَـٰرُونَ قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّ هَـٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا ۖ فَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ قَالُوٓا۟ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَـٰتِ رَبِّنَا لَمَّا جَآءَتْنَا ۚ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
           "translation": "And We inspired to Moses, \"Throw your staff,\" and at once it devoured what they were falsifying. So the truth was established, and abolished was what they were doing. And they [i.e., Pharaoh and his people] were overcome right there and became debased. And the magicians fell down in prostration [to Allāh]. They said, \"We have believed in the Lord of the worlds, The Lord of Moses and Aaron.\" Said Pharaoh, \"You believed in him<sup foot_note=196318>1</sup> before I gave you permission. Indeed, this is a conspiracy which you conspired in the city to expel therefrom its people. But you are going to know. I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all.\" They said, \"Indeed, to our Lord we will return. And you do not resent us except because we believed in the signs of our Lord when they came to us. Our Lord, pour upon us patience<sup foot_note=196319>1</sup> and let us die as Muslims [in submission to You].\"",
           "citation": "Surah 7 &middot; Verses 117-126 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Pharaoh's revenge was instant: You believed him before I gave permission? He must be your chief who taught you magic. I will cut off your hands and feet on opposite sides and crucify you all. The men who had come that morning for a pay rise answered like prophets: No harm. To our Lord we will return. We hope our Lord will forgive us our sins, because we are the first to believe. Pharaoh executed them and hung their bodies as a warning. Haman, he ordered next, build me a tower high enough to climb to the God of Musa, though I am sure he is a liar. And he renewed the old decree against the Israelites: we will kill their sons and spare their women, for we hold irresistible power over them. In the councils of Egypt, only one nobleman, a secret believer, dared to speak: Will you kill a man just because he says, my Lord is Allah, when he has brought you clear proofs? If he is lying, his lie is on him. But if he is truthful, some of what he warns you of will strike you. Egypt heard the warning, and chose the tower and the sword anyway. Musa (AS) told his suffering people: Seek help in Allah and be patient. The earth belongs to Allah. He gives it to whom He wills of His servants, and the final outcome is for the righteous."
         }
       ]
     },
@@ -338,7 +338,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Musa (AS) called him to pay Zakat, the poor-due on his mountain of wealth, Qarun counted it, blanched at the size of it, refused, and spread a rumour that Musa (AS) had invented the law to enrich himself. So Allah settled the account His own way: He caused the earth to swallow Qarun and his palace whole. In an instant the mansion, the vaults, the parade of gold, and the man who believed he owned it, all sank into the ground and left no trace. The same crowds who had envied him yesterday said: If Allah had not been gracious to us, He would have made it swallow us too. The keys no band of strong men could carry could not unlock him out of the earth."
+          "html": "Ibn Kathir relates that when Musa (AS) called him to pay Zakat, the poor-due on his mountain of wealth, Qarun counted it, blanched at the size of it, refused, and spread a rumour that Musa (AS) had invented the law to enrich himself. So Allah settled the account His own way: He caused the earth to swallow Qarun and his palace whole. In an instant the mansion, the vaults, the parade of gold, and the man who believed he owned it, all sank into the ground and left no trace. The same crowds who had envied him yesterday said: If Allah had not been gracious to us, He would have made it swallow us too. The keys no band of strong men could carry could not unlock him out of the earth."
         }
       ]
     },
@@ -362,7 +362,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Whatever sign you bring to bewitch us, they declared at last, we will never believe you. So Musa (AS) made his final prayer: Our Lord, You have given Pharaoh and his chiefs splendour and wealth in this world, and they lead people astray from Your path. Our Lord, destroy their wealth and harden their hearts, so they will not believe until they see the painful punishment. Allah answered: Your prayer is accepted. So stand firm, both of you, and do not follow the way of those who do not know. In the dark of night, Allah inspired Musa (AS): Travel by night with My servants. The Israelites slipped out of Egypt in a great silent column, and by morning they stood at the shore of the Red Sea, with freedom in front of them and Pharaoh's army thundering up behind."
+          "html": "Ibn Kathir, explaining the nine signs given to Musa (AS), counts them as the staff, the hand, the years of drought, the shortage of fruits, the flood, the locusts, the lice, the frogs and the blood. The point of the list is not spectacle for its own sake. Each sign cornered Pharaoh's claim to control Egypt: its river, its crops, its animals, its water and its king's pride."
         },
         {
           "t": "verse",
@@ -370,6 +370,10 @@ export const chapter = {
           "arabic": "وَلَقَدْ أَخَذْنَآ ءَالَ فِرْعَوْنَ بِٱلسِّنِينَ وَنَقْصٍ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَذَّكَّرُونَ فَإِذَا جَآءَتْهُمُ ٱلْحَسَنَةُ قَالُوا۟ لَنَا هَـٰذِهِۦ ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا۟ بِمُوسَىٰ وَمَن مَّعَهُۥٓ ۗ أَلَآ إِنَّمَا طَـٰٓئِرُهُمْ عِندَ ٱللَّهِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَـٰتٍ مُّفَصَّلَـٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَـٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ ۖ لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَـٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ",
           "translation": "And We certainly seized<sup foot_note=196320>1</sup> the people of Pharaoh with years of famine and a deficiency in fruits that perhaps they would be reminded. But when good [i.e., provision] came to them, they said, \"This is ours [by right].\" And if a bad [condition] struck them, they saw an evil omen in Moses and those with him. Unquestionably, their fortune is with Allāh, but most of them do not know. And they said, \"No matter what sign you bring us with which to bewitch us, we will not be believers in you.\" So We sent upon them the flood and locusts and lice and frogs and blood as distinct signs, but they were arrogant and were a criminal people. And when the punishment descended upon them, they said, \"O Moses, invoke for us your Lord by what He has promised you. If you [can] remove the punishment from us, we will surely believe you, and we will send with you the Children of Israel.\" But when We removed the punishment from them until a term which they were to reach,<sup foot_note=196321>1</sup> then at once they broke their word.",
           "citation": "Surah 7 &middot; Verses 130-135 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Whatever sign you bring to bewitch us, they declared at last, we will never believe you. So Musa (AS) made his final prayer: Our Lord, You have given Pharaoh and his chiefs splendour and wealth in this world, and they lead people astray from Your path. Our Lord, destroy their wealth and harden their hearts, so they will not believe until they see the painful punishment. Allah answered: Your prayer is accepted. So stand firm, both of you, and do not follow the way of those who do not know. In the dark of night, Allah inspired Musa (AS): Travel by night with My servants. The Israelites slipped out of Egypt in a great silent column, and by morning they stood at the shore of the Red Sea, with freedom in front of them and Pharaoh's army thundering up behind."
         }
       ]
     },
@@ -388,12 +392,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The sea ahead. The chariots behind. Trapped between water and swords, Musa's people cried out: We are surely overtaken! And their prophet answered with the most confident sentence of his life: Never! Indeed, my Lord is with me. He will guide me. Then Allah inspired him: Strike the sea with your staff. He struck, and the sea split apart, each side standing like a great mountain, and a dry road opened through the middle of the Red Sea. The Israelites crossed on the floor of the ocean, glancing up at walls of water on their right and left. Pharaoh, arriving at the shore, told his army the sea had parted at his command, and charged in after them. When the last Egyptian soldier stood in the middle of the seabed, Allah returned the sea to itself. The mountains of water collapsed. Pharaoh, drowning, found his faith at the exact moment it stopped being worth anything: I believe there is no god but the One the Children of Israel believe in, and I am of those who submit. Now? came the answer. When you disobeyed before, and were of the corrupters? Today We will save your body, so that you may be a sign for those who come after you. His corpse washed ashore, and empires have been finding it ever since: the god of Egypt, preserved as a warning label.",
+          "html": "The sea ahead. The chariots behind. Trapped between water and swords, Musa's people cried out: We are surely overtaken! And their prophet answered with the most confident sentence of his life: Never! Indeed, my Lord is with me. He will guide me. Then Allah inspired him: Strike the sea with your staff. He struck, and the sea split apart, each side standing like a great mountain, and a dry road opened through the middle of the Red Sea. The Israelites crossed on the floor of the ocean, glancing up at walls of water on their right and left.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Freedom, it turned out, was the beginning of Musa's (AS) troubles, not the end. No sooner had his people passed a town of idol worshippers than they said: O Musa, make for us a god just like their gods. Musa (AS) was appalled: You are an ignorant people. What they worship is doomed, and their deeds are worthless. Shall I seek for you a god other than Allah, when He has favoured you above all peoples? When water ran short, Allah ordered him to strike a rock, and twelve springs burst out, one for every tribe. When they hungered, Allah sent manna and quails down into the camp. They complained about the menu: We cannot bear one kind of food. Call your Lord to bring us herbs, cucumbers, garlic, lentils and onions. Would you exchange what is better for what is lower? Musa (AS) snapped. Go down to a town and you will have what you ask. Then came the test of courage: the Holy Land, promised to them, occupied by a powerful people. Enter it, Musa (AS) commanded. Remember Allah's favour to you. They refused: There are tyrants in it. We will never enter while they remain. Go, you and your Lord, and fight. We will sit right here. Only two men stood willing to trust Allah and charge the gate, and a nation chose fear. Musa (AS) prayed: My Lord, I control only myself and my brother. So separate us from this defiant people. Allah answered: Then it is forbidden to them for forty years. They will wander the earth. Do not grieve over the defiant people. The generation that had watched the sea split would spend forty years walking in circles in the desert, too afraid to take the gift."
         },
         {
           "t": "verse",
@@ -410,6 +410,16 @@ export const chapter = {
           "citation": "Surah 26 &middot; Verses 60-63 &middot; Saheeh International"
         },
         {
+          "t": "tafsir",
+          "text": "Ibn Kathir records the commentators on the parting: the divided sea stood like mighty mountains, and Ibn Abbas said it split into twelve paths, one for each tribe, the water raised like walls between them, while Allah sent the wind over the seabed to make it dry for the crossing.",
+          "href": "https://quran.com/26:63/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 26:63 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir relates that Pharaoh, arriving at the shore, urged his army in after them. When the last Egyptian soldier stood in the middle of the seabed, Allah returned the sea to itself. The mountains of water collapsed. Pharaoh, drowning, found his faith at the exact moment it stopped being worth anything: I believe there is no god but the One the Children of Israel believe in, and I am of those who submit. Now? came the answer. When you disobeyed before, and were of the corrupters? Today We will save your body, so that you may be a sign for those who come after you. His corpse washed ashore, and empires have been finding it ever since: the god of Egypt, preserved as a warning label."
+        },
+        {
           "t": "verse",
           "ref": "Quran 10:90-92",
           "arabic": "۞ وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً ۚ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَـٰتِنَا لَغَـٰفِلُونَ",
@@ -424,10 +434,8 @@ export const chapter = {
           "citation": "Surah 26 &middot; Verses 64-68 &middot; Saheeh International"
         },
         {
-          "t": "tafsir",
-          "text": "Ibn Kathir records the commentators on the parting: the divided sea stood like mighty mountains, and Ibn Abbas said it split into twelve paths, one for each tribe, the water raised like walls between them, while Allah sent the wind over the seabed to make it dry for the crossing.",
-          "href": "https://quran.com/26:63/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 26:63 &middot; quran.com"
+          "t": "p",
+          "html": "That rescue became a day of gratitude in later generations."
         },
         {
           "t": "hadith",
@@ -435,6 +443,35 @@ export const chapter = {
           "href": "https://sunnah.com/bukhari:3397",
           "label": "Sahih al-Bukhari 3397 &middot; sunnah.com",
           "narrator": "Narrated by Ibn Abbas (RA)"
+        },
+        {
+          "t": "p",
+          "html": "Freedom, it turned out, was the beginning of Musa's (AS) troubles, not the end. No sooner had his people passed a town of idol worshippers than they said: O Musa, make for us a god just like their gods. Musa (AS) was appalled: You are an ignorant people. What they worship is doomed, and their deeds are worthless. Shall I seek for you a god other than Allah, when He has favoured you above all peoples? When water ran short, Allah ordered him to strike a rock, and twelve springs burst out, one for every tribe. When they hungered, Allah sent manna and quails down into the camp. They complained about the menu: We cannot bear one kind of food. Call your Lord to bring us herbs, cucumbers, garlic, lentils and onions. Would you exchange what is better for what is lower? Musa (AS) snapped. Go down to a town and you will have what you ask."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:57",
+          "arabic": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+          "translation": "And We shaded you with clouds and sent down to you manna and quails, [saying], \"Eat from the good things with which We have provided you.\" And they wronged Us not - but they were [only] wronging themselves.",
+          "citation": "Surah 2 &middot; Verse 57 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:60",
+          "arabic": "۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+          "translation": "And [recall] when Moses prayed for water for his people, so We said, \"Strike with your staff the stone.\" And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. \"Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption.\"",
+          "citation": "Surah 2 &middot; Verse 60 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Then came the test of courage: the Holy Land, promised to them, occupied by a powerful people. Enter it, Musa (AS) commanded. Remember Allah's favour to you. They refused: There are tyrants in it. We will never enter while they remain. Go, you and your Lord, and fight. We will sit right here. Only two men stood willing to trust Allah and charge the gate, and a nation chose fear. Musa (AS) prayed: My Lord, I control only myself and my brother. So separate us from this defiant people. Allah answered: Then it is forbidden to them for forty years. They will wander the earth. Do not grieve over the defiant people. The generation that had watched the sea split would spend forty years walking in circles in the desert, too afraid to take the gift."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 5:20-26",
+          "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَـٰتِلَآ إِنَّا هَـٰهُنَا قَـٰعِدُونَ قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
+          "translation": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, remember the favor of Allāh upon you when He appointed among you prophets and made you possessors<sup foot_note=196178>1</sup> and gave you that which He had not given anyone among the worlds. O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" They said, \"O Moses, indeed within it is a people of tyrannical strength, and indeed, we will never enter it until they leave it; but if they leave it, then we will enter.\" Said two men from those who feared [to disobey] upon whom Allāh had bestowed favor, \"Enter upon them through the gate, for when you have entered it, you will be predominant.<sup foot_note=196179>1</sup> And upon Allāh rely, if you should be believers.\" They said, \"O Moses, indeed we will not enter it, ever, as long as they are within it; so go, you and your Lord, and fight. Indeed, we are remaining right here.\" [Moses] said, \"My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us<sup foot_note=196180>1</sup> from the defiantly disobedient people.\" [Allāh] said, \"Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people.\"",
+          "citation": "Surah 5 &middot; Verses 20-26 &middot; Saheeh International"
         }
       ]
     },
@@ -461,28 +498,6 @@ export const chapter = {
           "html": "Meanwhile, below, the people were melting. A man called Samiri collected the gold ornaments they had carried out of Egypt, melted them, and cast a golden calf that lowed when the wind passed through it. Harun (AS), left in charge, warned them until he nearly lost his life: My people, you are only being tested by it. Your Lord is the Most Merciful, so follow me and obey me. We will not stop worshipping it, they said, until Musa returns. Musa (AS) came down the mountain carrying the law of Allah to a nation dancing around a statue. In rage he threw down the tablets and grabbed his brother by the beard: Harun, what stopped you when you saw them going astray? The people overpowered me and almost killed me, Harun (AS) pleaded. Do not let my enemies rejoice over me. Musa's anger cooled into prayer: My Lord, forgive me and my brother, and admit us into Your mercy. To Samiri, whose whole life became a sentence of exile, crying 'do not touch me' to every human he met, Musa (AS) said: Look at your god, to which you devoted yourself. We will burn it and scatter it into the sea. And he did. Then the people were commanded to repent, and the guilty among them were punished, and Allah revived even seventy elders of Israel who had demanded to see Allah with their own eyes and been struck down by a thunderbolt for it, raised back to life so that they might be grateful. Musa (AS), on his knees for them, had prayed: Will You destroy us for what the fools among us have done? This is only Your trial. Forgive us and have mercy on us. You are the best of forgivers."
         },
         {
-          "t": "p",
-          "html": "In his last years, the prophet who had spoken with Allah still had something to learn about the limits of his own knowledge. Asked who was the most learned man alive, Musa (AS) answered: I am, and Allah corrected him: at the junction of the two seas is a servant of Mine, Al-Khidr, more learned than you in a knowledge I have given him. Musa (AS) travelled with his attendant Yusha ibn Nun, losing their fish where the seas meet, and found the man covered in a garment. May I follow you, so you teach me some of the right guidance you have been taught? You will never be able to bear patiently with me, said Al-Khidr. And how can you be patient about what you do not comprehend? You will find me patient, Allah willing, Musa (AS) promised, and I will not disobey you in anything. Then do not ask me about anything until I explain it to you. On a boat given to them for free, Al-Khidr axed a hole in the hull. Have you scuttled it to drown its people? Musa (AS) cried. Did I not say you could not bear patiently with me? Forgive my forgetfulness, Musa (AS) pleaded. On land, Al-Khidr killed a young boy. You have killed an innocent soul! Did I not tell you, you could not bear with me? If I ask you about anything after this, Musa (AS) said, then do not keep me with you. In a town that refused them food, Al-Khidr repaired a collapsing wall for free. If you wished, you could have charged for it, Musa (AS) observed. This is where we part, said Al-Khidr, and explained: the boat belonged to poor sailors, and a tyrant king ahead seized every sound ship, so I damaged it to save their livelihood. The boy's parents were believers, and he would have crushed them with rebellion and disbelief; their Lord will give them a better, purer, kinder child. The wall hid a treasure belonging to two orphan boys whose father was righteous; your Lord willed they should reach maturity and dig it up. I did none of it by my own command. Such is the meaning of what you could not bear patiently. A sparrow had dipped its beak in the sea as they sailed, and Al-Khidr had said: my knowledge and your knowledge, compared to Allah's, are like what that sparrow took from the ocean. The most learned prophet of his age was sent to school by a servant, and the lesson was humility."
-        },
-        {
-          "t": "p",
-          "html": "Musa (AS) died before his people entered the land, asking Allah only to be buried near the Holy Land, within a stone's throw of it. His attendant Yusha ibn Nun led the new generation in. Muhammad ﷺ, who said 'may Allah have mercy on Musa, he was harmed far worse than this and was patient,' passed Musa's grave on his night journey and saw him praying in it. The baby in the basket, the shepherd with a stammer, the man who struck the sea, ended as the prophet most mentioned in the Quran, because no one carried a harder people with a softer patience, and no one ever stopped turning back to Allah on their behalf."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 2:57",
-          "arabic": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
-          "translation": "And We shaded you with clouds and sent down to you manna and quails, [saying], \"Eat from the good things with which We have provided you.\" And they wronged Us not - but they were [only] wronging themselves.",
-          "citation": "Surah 2 &middot; Verse 57 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 2:60",
-          "arabic": "۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
-          "translation": "And [recall] when Moses prayed for water for his people, so We said, \"Strike with your staff the stone.\" And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. \"Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption.\"",
-          "citation": "Surah 2 &middot; Verse 60 &middot; Saheeh International"
-        },
-        {
           "t": "verse",
           "ref": "Quran 20:88-91",
           "arabic": "فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا وَلَقَدْ قَالَ لَهُمْ هَـٰرُونُ مِن قَبْلُ يَـٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ ۖ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَـٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَـٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ",
@@ -502,6 +517,10 @@ export const chapter = {
           "arabic": "قَالَ فَمَا خَطْبُكَ يَـٰسَـٰمِرِىُّ قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا۟ بِهِۦ فَقَبَضْتُ قَبْضَةً مِّنْ أَثَرِ ٱلرَّسُولِ فَنَبَذْتُهَا وَكَذَٰلِكَ سَوَّلَتْ لِى نَفْسِى قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
           "translation": "[Moses] said, \"And what is your case, O Sāmirī?\" He said, \"I saw what they did not see, so I took a handful [of dust] from the track of the messenger<sup foot_note=196761>1</sup> and threw it,<sup foot_note=196760>2</sup> and thus did my soul entice me.\" [Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.'<sup foot_note=196762>1</sup> And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast.",
           "citation": "Surah 20 &middot; Verses 95-97 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "In his last years, the prophet who had spoken with Allah still had something to learn about the limits of his own knowledge. Asked who was the most learned man alive, Musa (AS) answered: I am, and Allah corrected him: at the junction of the two seas is a servant of Mine, Al-Khidr, more learned than you in a knowledge I have given him. Musa (AS) travelled with his attendant Yusha ibn Nun, losing their fish where the seas meet, and found the man covered in a garment. May I follow you, so you teach me some of the right guidance you have been taught? You will never be able to bear patiently with me, said Al-Khidr. And how can you be patient about what you do not comprehend? You will find me patient, Allah willing, Musa (AS) promised, and I will not disobey you in anything. Then do not ask me about anything until I explain it to you. On a boat given to them for free, Al-Khidr axed a hole in the hull. Have you scuttled it to drown its people? Musa (AS) cried. Did I not say you could not bear patiently with me? Forgive my forgetfulness, Musa (AS) pleaded. On land, Al-Khidr killed a young boy. You have killed an innocent soul! Did I not tell you, you could not bear with me? If I ask you about anything after this, Musa (AS) said, then do not keep me with you. In a town that refused them food, Al-Khidr repaired a collapsing wall for free. If you wished, you could have charged for it, Musa (AS) observed. This is where we part, said Al-Khidr, and explained: the boat belonged to poor sailors, and a tyrant king ahead seized every sound ship, so I damaged it to save their livelihood. The boy's parents were believers, and he would have crushed them with rebellion and disbelief; their Lord will give them a better, purer, kinder child. The wall hid a treasure belonging to two orphan boys whose father was righteous; your Lord willed they should reach maturity and dig it up. I did none of it by my own command. Such is the meaning of what you could not bear patiently. The hadith of the journey relates that a sparrow dipped its beak in the sea, and Al-Khidr said: my knowledge and your knowledge, compared to Allah's, are like what that sparrow took from the ocean. The most learned prophet of his age was sent to school by a servant, and the lesson was humility."
         },
         {
           "t": "verse",
@@ -531,11 +550,8 @@ export const chapter = {
           "narrator": "Narrated by Abu Huraira (RA)"
         },
         {
-          "t": "verse",
-          "ref": "Quran 5:20-26",
-          "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟ مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ قَالُوا۟ يَـٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًا مَّا دَامُوا۟ فِيهَا ۖ فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَـٰتِلَآ إِنَّا هَـٰهُنَا قَـٰعِدُونَ قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَـٰسِقِينَ",
-          "translation": "And [mention, O Muḥammad], when Moses said to his people, \"O my people, remember the favor of Allāh upon you when He appointed among you prophets and made you possessors<sup foot_note=196178>1</sup> and gave you that which He had not given anyone among the worlds. O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" They said, \"O Moses, indeed within it is a people of tyrannical strength, and indeed, we will never enter it until they leave it; but if they leave it, then we will enter.\" Said two men from those who feared [to disobey] upon whom Allāh had bestowed favor, \"Enter upon them through the gate, for when you have entered it, you will be predominant.<sup foot_note=196179>1</sup> And upon Allāh rely, if you should be believers.\" They said, \"O Moses, indeed we will not enter it, ever, as long as they are within it; so go, you and your Lord, and fight. Indeed, we are remaining right here.\" [Moses] said, \"My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us<sup foot_note=196180>1</sup> from the defiantly disobedient people.\" [Allāh] said, \"Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people.\"",
-          "citation": "Surah 5 &middot; Verses 20-26 &middot; Saheeh International"
+          "t": "p",
+          "html": "Musa (AS) died before his people entered the land, asking Allah only to be buried near the Holy Land, within a stone's throw of it. His attendant Yusha ibn Nun led the new generation in. Muhammad ﷺ, who said 'may Allah have mercy on Musa, he was harmed far worse than this and was patient,' passed Musa's grave on his night journey and saw him praying in it. The baby in the basket, the shepherd with a stammer, the man who struck the sea, ended as the prophet most mentioned in the Quran, because no one carried a harder people with a softer patience, and no one ever stopped turning back to Allah on their behalf."
         },
         {
           "t": "hadith",

@@ -37,12 +37,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Maryam had grown up in a chamber of the temple, chosen and purified above the women of the worlds, when one day she found a man standing in her locked sanctuary. She recoiled in terror: I seek refuge in the Most Merciful from you, if you fear Allah. He answered: I am only the messenger of your Lord, sent to give you a pure son. It was Jibreel, in the form of a man. The angels' announcement, the Quran says, ran like this: O Maryam, Allah gives you glad tidings of a Word from Him, whose name is the Messiah, Isa, the son of Maryam, distinguished in this world and the Hereafter and among those brought near to Allah. He will speak to people in the cradle and in maturity, and he will be among the righteous.",
+          "html": "The story of Isa (AS) begins inside a family Allah chose. Adam (AS), Nuh (AS), the family of Ibrahim (AS) and the family of Imran stand in one honoured line, descendants following one another while Allah hears and knows all things. Maryam came from that household, and her son's story cannot be understood if she is treated as a footnote. Allah first shows us the mother He prepared.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "My Lord, she said, how can I have a child when no man has touched me, and I have not been unchaste? He said: Thus it is. Your Lord says: It is easy for Me. And We will make him a sign for people and a mercy from Us. And it is a matter already decreed. If the impossibility troubles you, the Quran settles it with the first prophet's biography: Indeed, the example of Isa before Allah is like that of Adam. He created him from dust, then said to him 'Be,' and he was. No father, no mother, dust and a word, and no one calls Adam divine. A fatherless creation is the same signature written a second time."
         },
         {
           "t": "verse",
@@ -52,11 +48,19 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verses 33-34 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Maryam's mother had dedicated her unborn child to Allah's service before she knew whether the child would be a boy or a girl. When she delivered a daughter, she named her Maryam and sought Allah's refuge for her and her descendants from Satan. The vow was accepted more beautifully than the mother could have planned. The child she offered to the sanctuary became the woman through whom a prophet would be given to Israel."
+        },
+        {
           "t": "verse",
           "ref": "Quran 3:35-36",
           "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
           "translation": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" But when she delivered her, she said, \"My Lord, I have delivered a female.\" And Allāh was most knowing of what she delivered, and the male is not like the female. \"And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh].\"",
           "citation": "Surah 3 &middot; Verses 35-36 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Maryam grew in the care of Zakariya (AS). Each time he entered her prayer chamber he found provision with her, and the short exchange explains the atmosphere of her childhood. Zakariya (AS) asked: “O Maryam, from where does this come to you?” Maryam answered: “It is from Allah. Indeed, Allah provides for whom He wills without account.” Before she carried a miraculous child, she had already learned to trace every gift back to its Giver."
         },
         {
           "t": "verse",
@@ -66,11 +70,19 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verse 37 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The angels then named her station. She had been chosen, purified and chosen above the women of the worlds, and she was commanded to remain devoutly obedient, to prostrate and to bow with those who bow. Her rank did not lift her out of worship. It bound her more closely to it, in private obedience long before public trial came."
+        },
+        {
           "t": "verse",
           "ref": "Quran 3:42-43",
           "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ يَـٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
           "translation": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. O Mary, be devoutly obedient to your Lord and prostrate and bow with those who bow [in prayer].\"",
           "citation": "Surah 3 &middot; Verses 42-43 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Allah also presents Maryam as the woman who guarded her chastity and believed in the words and scriptures of her Lord. Through His angel He breathed of His spirit into her, and she remained among the devoutly obedient. The Quran's defence of her is not an afterthought added after accusation. It is built into the way heaven introduces her."
         },
         {
           "t": "verse",
@@ -80,11 +92,19 @@ export const chapter = {
           "citation": "Surah 66 &middot; Verse 12 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Then came the announcement. The angels said: “O Maryam, indeed Allah gives you good tidings of a word from Him, whose name will be the Messiah, Isa, the son of Maryam, distinguished in this world and the Hereafter and among those brought near to Allah.” He would speak in the cradle and in maturity, and he would be among the righteous. Before he had healed anyone or preached to Israel, heaven announced both his nearness and his limits: a word from Allah, and a righteous servant."
+        },
+        {
           "t": "verse",
           "ref": "Quran 3:45-46",
           "arabic": "إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ",
           "translation": "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word<sup foot_note=196052>1</sup> from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh]. He will speak to the people in the cradle and in maturity and will be of the righteous.\"",
           "citation": "Surah 3 &middot; Verses 45-46 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Maryam's question was the question of a chaste woman who knew how children ordinarily come. Maryam asked: “My Lord, how will I have a child when no man has touched me?” The angel answered: “Such is Allah; He creates what He wills. When He decrees a matter, He only says to it, Be, and it is.” The miracle would not be explained by ordinary causes. It would be traced to the command that created all causes."
         },
         {
           "t": "verse",
@@ -94,11 +114,19 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verse 47 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Surah Maryam takes us closer to the moment. Maryam withdrew from her family toward the east and placed a screen between herself and them. There Allah sent His angel, and he appeared to her as a well-formed man. Alone and startled, she reached first for protection. Maryam said: “Indeed, I seek refuge in the Most Merciful from you, if you should be fearing of Allah.”"
+        },
+        {
           "t": "verse",
           "ref": "Quran 19:16-18",
           "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَـٰنِ مِنكَ إِن كُنتَ تَقِيًّا",
           "translation": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. And she took, in seclusion from them, a screen. Then We sent to her Our Angel [i.e., Gabriel], and he represented himself to her as a well-proportioned man. She said, \"Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allāh.\"",
           "citation": "Surah 19 &middot; Verses 16-18 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The visitor answered by naming his errand and removing fear. Jibreel said: “I am only the messenger of your Lord, to give you a pure boy.” Maryam replied: “How can I have a boy while no man has touched me and I have not been unchaste?” Jibreel said: “Thus it will be; your Lord says, It is easy for Me, and We will make him a sign to the people and a mercy from Us. And it is a matter already decreed.”"
         },
         {
           "t": "verse",
@@ -124,12 +152,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Carrying a miracle no one would believe, Maryam withdrew to a remote place, away from the town's eyes. There, alone, the pains of labour drove her to the trunk of a palm tree, and the dread of facing her people squeezed out of her the most human sentence any saint ever spoke: I wish I had died before this and been completely forgotten. She was the purest woman of her age, chosen above the women of the worlds, and she was on the ground under a tree wishing she did not exist.",
+          "html": "Maryam conceived, and she withdrew with her unborn child to a remote place. The woman who had once served in a chamber of the sanctuary now faced childbirth far from the people who would soon question her. The pains drove her to the trunk of a palm tree, and dread of what waited in town broke through in words no reader should hurry past. Maryam said: “Oh, I wish I had died before this and was in oblivion, forgotten.”",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Then mercy spoke, from beneath her or from the infant, the scholars differ: Do not grieve. Your Lord has provided a stream beneath you. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates. So eat and drink and be content. And if you see any human being, say: I have vowed to the Most Merciful abstention from speech, so I will not speak today to anyone. Water at her feet, food from a bare trunk shaken by a woman who had just given birth, and a vow of silence that outsourced her defence to heaven. She ate. She drank. She gathered the child, and she walked back into the town that was sharpening its questions."
         },
         {
           "t": "verse",
@@ -137,6 +161,10 @@ export const chapter = {
           "arabic": "فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَـٰلَيْتَنِى مِتُّ قَبْلَ هَـٰذَا وَكُنتُ نَسْيًا مَّنسِيًّا",
           "translation": "So she conceived him, and she withdrew with him to a remote place. And the pains of childbirth drove her to the trunk of a palm tree. She said, \"Oh, I wish I had died before this and was in oblivion, forgotten.\"",
           "citation": "Surah 19 &middot; Verses 22-23 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Mercy answered beneath the tree. A call came from below her, whether from the newborn child or from the angel, commanding her not to grieve. Allah had placed a stream beneath her, and the dry trunk over her would answer a weakened mother's shake with ripe dates. She was told to eat, drink and be comforted, and if she met anyone she was to declare a fast from speech. Her defence would not be an argument she had to win. Allah would provide it."
         },
         {
           "t": "verse",
@@ -168,12 +196,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The reception was everything she feared. Then she brought him to her people, carrying him. They said: O Maryam, you have certainly done something unprecedented. O sister of Harun, your father was not a man of evil, nor was your mother unchaste. The town indicted her with her own family's good name. And Maryam, bound by her vow, said nothing at all. She pointed at the baby.",
+          "html": "Maryam returned carrying the child. The town read the scene through suspicion and answered with the family honour she was accused of wounding. The people said: “O Maryam, you have certainly done a thing unprecedented. O sister of Harun, your father was not a man of evil, nor was your mother unchaste.” Maryam, bound by the fast from speech, did not plead her case. She pointed to the baby.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "So they protested: How can we talk to one who is a child in the cradle? And heaven's defence counsel opened his eyes and spoke. Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet. And He has made me blessed wherever I am, and has enjoined upon me prayer and charity as long as I live, and made me dutiful to my mother, and not a disobedient tyrant. And peace is on me the day I was born, and the day I will die, and the day I am raised alive. It is the shortest autobiography ever given and the most complete: servant first, prophet second, dutiful son always. The accusations died in the cradle with the speech that replaced them. Some still muttered about tricks, but Maryam's harassment ended that day, ended by her son's first sermon, delivered before he could sit up."
         },
         {
           "t": "verse",
@@ -183,11 +207,19 @@ export const chapter = {
           "citation": "Surah 19 &middot; Verses 27-29 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Their protest was obvious. How could they speak to a child in the cradle? Then the accused woman's son became her witness. Isa (AS) said: “Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet. And He has made me blessed wherever I am and has enjoined upon me prayer and charity as long as I remain alive.” His first recorded words begin with servanthood, not divinity."
+        },
+        {
           "t": "verse",
           "ref": "Quran 19:30-31",
           "arabic": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَـٰبَ وَجَعَلَنِى نَبِيًّا وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَـٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
           "translation": "[Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet. And He has made me blessed wherever I am and has enjoined upon me prayer and zakāh as long as I remain alive",
           "citation": "Surah 19 &middot; Verses 30-31 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The cradle speech continued with the duties that would mark his life. He was made dutiful to his mother, not a wretched tyrant, and peace rested on him on the day he was born, the day he would die and the day he would be raised alive. The baby had answered the charge by announcing the whole pattern of his prophethood: Scripture, prayer, charity, kindness to his mother and peace under Allah's protection."
         },
         {
           "t": "verse",
@@ -213,12 +245,30 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Isa (AS) grew into a boy who walked into the temple courts and debated the rabbis, questioning men three times his age until their scholarship ran out and their tempers began. He was not sent to abolish the Torah, he told them, but to confirm it and to strip away the additions men had bolted onto it, the loopholes, the markets, the Sabbath hardened into cruelty, a temple court converted into a livestock exchange where the poor were priced out of their own sacrifices. He preached the opposite economics to theirs: do not hoard, give, forgive, show mercy to people and to creatures. Allah is my Lord and your Lord, so worship Him. That is the straight path.",
+          "html": "Isa (AS) grew to be taught the Book, wisdom, the Torah and the Gospel, and he was sent as a messenger to the Children of Israel. His mission did not begin by discarding the revelation before him. He came confirming the Torah, correcting the people's distance from its truth and calling them back to worship the One who had sent both Musa (AS) and himself.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "He saw through the establishment of his day with a surgeon's eye. They taught about Allah without doing anything for the love of Allah. When they dragged a sinful woman before him as a legal trap, asking whether the law's penalty should fall, he answered with the sentence that has disarmed every lynch mob since: whoever among you is without sin can cast the stone. The priests, whose ledgers were fuller than hers, put down their arguments and left, and the woman who stayed behind received from him not a sentence but a prayer for her forgiveness. The high priests drew the correct conclusion about their real problem. This man was not competing for their temple. He was making it unnecessary, and they began to conspire in earnest."
+          "html": "His own summary of the mission joins loyalty to the earlier Book with relief from burdens that had been imposed on Israel. Isa (AS) said: “I have come confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. I have come to you with a sign from your Lord, so fear Allah and obey me. Indeed, Allah is my Lord and your Lord, so worship Him. That is the straight path.”"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 3:50-51",
+          "arabic": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+          "translation": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me. Indeed, Allāh is my Lord and your Lord, so worship Him. That is the straight path.'\"",
+          "citation": "Surah 3 &middot; Verses 50-51 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "He also looked beyond his own generation. Standing before Israel, he confirmed the Torah and gave news of a messenger who would come after him. Isa (AS) said: “O Children of Israel, indeed I am the messenger of Allah to you, confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Ahmad.” When clear proofs were still rejected as magic, the rejection exposed the audience, not the message."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 61:6",
+          "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
+          "translation": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"<sup foot_note=197552>1</sup> But when he came to them with clear evidences, they said, \"This is obvious magic.\"<sup foot_note=197551>2</sup>",
+          "citation": "Surah 61 &middot; Verse 6 &middot; Saheeh International"
         }
       ]
     },
@@ -237,12 +287,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah had armed His messenger with signs fitted to his audience's pride. Israel's doctors boasted of medicine, so Isa (AS), by Allah's leave, healed the blind from birth and the leper, cases no physician touched. Their scholars boasted of knowledge, so he told men what they had eaten and what they had stored in their houses. And by Allah's leave he fashioned a bird from clay, breathed into it, and it became a bird, and he raised the dead, by Allah's leave again. The phrase matters, and Allah repeats it in the inventory: by My leave, by My leave, by My leave. When Allah recounts the miracles to him, the framing is gratitude, not glory: O Isa, son of Maryam, remember My favour upon you and upon your mother, when I supported you with the Pure Spirit... and restrained the Children of Israel from you when you came to them with clear proofs, yet the disbelievers said: this is nothing but obvious magic.",
+          "html": "The signs Allah gave Isa (AS) answered the boasts of his age. He fashioned the form of a bird from clay and breathed into it, and it became a bird by Allah's permission. He healed the one blind from birth and the leper, gave life to the dead by Allah's permission, and told people what they ate and stored in their houses. Every miracle carried its boundary inside itself. The prophet performed it; the power belonged to Allah.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The commentators tell of the dead raised, and of the sceptics' last challenge: those died recently, perhaps they only fainted; raise us Sam, the son of Nuh (AS), dead for millennia. The story says Isa (AS) had them lead him to the grave, called on Allah, and Sam climbed out grey-haired, explaining that the terror of thinking the Resurrection had come had whitened his hair. True or embroidered, its lesson is the Quran's own: the miracle was never the prophet's possession. The power belonged to the One who kept saying by My leave, and the magician accusation missed the man entirely. He was a conduit on his knees, not a god on display."
         },
         {
           "t": "verse",
@@ -252,11 +298,8 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verses 48-49 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 3:50-51",
-          "arabic": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ إِنَّ ٱللَّهَ رَبِّى وَرَبُّكُمْ فَٱعْبُدُوهُ ۗ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
-          "translation": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me. Indeed, Allāh is my Lord and your Lord, so worship Him. That is the straight path.'\"",
-          "citation": "Surah 3 &middot; Verses 50-51 &middot; Saheeh International"
+          "t": "p",
+          "html": "On the Day of Judgement Allah will remind him of the favour in full: support by the Pure Spirit, speech in cradle and maturity, teaching of the Book and wisdom, the Torah and the Gospel, the clay bird, the healed blind and leper, the dead brought forth, and Israel restrained from harming him when the clear signs were dismissed as obvious magic. Ibn Kathir explains that the infant's cradle speech cleared Maryam from the accusations of liars, and that Ruh al-Qudus, the Pure Spirit who supported Isa (AS), was Jibreel."
         },
         {
           "t": "verse",
@@ -272,11 +315,8 @@ export const chapter = {
           "label": "Tafsir Ibn Kathir on 5:110 &middot; quran.com"
         },
         {
-          "t": "verse",
-          "ref": "Quran 61:6",
-          "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌ مُّبِينٌ",
-          "translation": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"<sup foot_note=197552>1</sup> But when he came to them with clear evidences, they said, \"This is obvious magic.\"<sup foot_note=197551>2</sup>",
-          "citation": "Surah 61 &middot; Verse 6 &middot; Saheeh International"
+          "t": "p",
+          "html": "Ibn Kathir also preserves reports that people tested the raising of the dead by asking for someone long buried, including Sam, the son of Nuh (AS). In the report, Isa (AS) called upon Allah at the grave and Sam came forth, startled by the terror of the moment. The story is told as a classical report, not a Quran verse, and its lesson returns to the same boundary: even the most astonishing sign happened only by Allah's leave. Isa (AS) was a messenger supported by miracles, never the owner of their power."
         }
       ]
     },
@@ -295,12 +335,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The fifth surah of the Quran takes its name from his strangest miracle: Al-Ma'idah, the Table Spread. After a long fast, his disciples came to him with a request that the commentators read as one miracle too many. O Isa, son of Maryam, can your Lord send down to us a table spread with food from heaven? Isa (AS) rebuked the phrasing, not the hunger: Fear Allah, if you are believers. They explained themselves: We want to eat from it, and let our hearts be reassured, and know that you have been truthful to us, and be among its witnesses. So he prayed the prayer Allah preserved word for word: O Allah, our Lord, send down to us a table spread from heaven, to be a festival for us, for the first of us and the last of us, and a sign from You. And provide for us, and You are the best of providers.",
+          "html": "When Isa (AS) sensed persistent disbelief around him, he asked who would be his helpers in the cause of Allah. The disciples answered without bargaining for rank or reward. The disciples said: “We are the helpers of Allah. We have believed in Allah, and bear witness that we are Muslims.” Around a prophet rejected by many stood a small company willing to be named by their allegiance.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Allah answered with a blessing and a threat welded together: Indeed, I will send it down to you. But whoever disbelieves afterwards from among you, I will punish him with a punishment by which I have not punished anyone among the worlds. The table descended, and the reports say thousands ate from it and it was not exhausted. But the warning hung over the feast like smoke over a lamp. A sign is not a toy. The generation that received the most miracles in Israel's history after Musa (AS) was being told that evidence multiplies responsibility, and gratitude, not appetite, is the only safe response to a table from heaven."
         },
         {
           "t": "verse",
@@ -310,6 +346,10 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verse 52 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The disciples also made the request that gives Surah Al-Ma'idah its name. The disciples asked: “O Isa, son of Maryam, can your Lord send down to us a table spread with food from heaven?” Isa (AS) answered: “Fear Allah, if you are believers.” They explained: “We wish to eat from it and let our hearts be reassured and know that you have been truthful to us and be among its witnesses.” Ibn Kathir records that some scholars understood their request as coming from need and poverty, and that Isa (AS) warned them such a sign could become a trial."
+        },
+        {
           "t": "verse",
           "ref": "Quran 5:112-113",
           "arabic": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَـٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّـٰهِدِينَ",
@@ -317,17 +357,21 @@ export const chapter = {
           "citation": "Surah 5 &middot; Verses 112-113 &middot; Saheeh International"
         },
         {
+          "t": "tafsir",
+          "text": "Ibn Kathir records that some of the scholars said the disciples asked for the table in their need and poverty, that they might eat from it each day and be strengthened for worship; and that Isa (AS) warned them the request could become a trial for them, telling them to trust in Allah for their provision if they were truly believers.",
+          "href": "https://quran.com/5:112/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 5:112 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Isa (AS) turned the request into prayer. He asked Allah to send down a table from heaven as a festival for the first and last of them, a sign and a provision from the best of providers. Allah answered that He would send it down, and joined the gift to a warning severe enough to govern every feast of evidence after it: whoever disbelieved after this would face a punishment unlike any given to anyone in the worlds. A sign received becomes a trust carried."
+        },
+        {
           "t": "verse",
           "ref": "Quran 5:114-115",
           "arabic": "قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً مِّنكَ ۖ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَـٰلَمِينَ",
           "translation": "Said Jesus, the son of Mary, \"O Allāh, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers.\" Allāh said, \"Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds.\"",
           "citation": "Surah 5 &middot; Verses 114-115 &middot; Saheeh International"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir records that some of the scholars said the disciples asked for the table in their need and poverty, that they might eat from it each day and be strengthened for worship; and that Isa (AS) warned them the request could become a trial for them, telling them to trust in Allah for their provision if they were truly believers.",
-          "href": "https://quran.com/5:112/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 5:112 &middot; quran.com"
         }
       ]
     },
@@ -346,12 +390,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The conspiracy matured the way such conspiracies do: slander first, then procedure. Sorcerer, lawbreaker, devil's ally; when the labels failed to shrink his following, the priests took their case to the Roman governor, dressing a preacher of mercy as a security threat, since Rome held the power of execution and the priests did not. The governor ordered the arrest. The Quran does not name the betrayer in his inner circle; later exegetes believed it was the traitor himself whose face was made to resemble Isa (AS), and that he was seized and crucified in his master's place while Isa (AS) was raised. Allah knows what truly transpired in that upper room, and the Quran says only what heaven needed on the record.",
+          "html": "Opposition hardened into the boast that Isa (AS) had been killed. The Quran answers the claim directly and gives no room to turn it into a detailed scene of suffering. Allah says they did not kill him and did not crucify him, but the matter was made to appear so to them. Those who differ over it are in doubt and follow assumption. The verse's certainty is placed where it belongs: not on the enemies' claim, but on Allah raising him to Himself.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "And for their saying: Indeed, we have killed the Messiah, Isa the son of Maryam, the messenger of Allah. But they did not kill him, nor did they crucify him, but it was made to appear so to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain. Rather, Allah raised him to Himself. Allah had already told him: O Isa, indeed I will take you and raise you to Myself and purify you from those who disbelieve, and make those who follow you above those who disbelieve until the Day of Resurrection. He ascended in his thirties, not defeated but retrieved, and Muslims await what the Prophet Muhammad ﷺ foretold: that the son of Maryam will descend again as a just judge, in an age drowning in wealth and error, before the final Hour. The cross they built for him stayed empty of him. The man of peace will finish his story in person."
         },
         {
           "t": "verse",
@@ -359,6 +399,10 @@ export const chapter = {
           "arabic": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَـٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
           "translation": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain.<sup foot_note=196159>1</sup> Rather, Allāh raised him to Himself. And ever is Allāh Exalted in Might and Wise.",
           "citation": "Surah 4 &middot; Verses 157-158 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Allah had already spoken the end of the earthly mission to Isa (AS). He would be taken and raised to Allah, purified from those who disbelieved, and his followers would be placed above the disbelievers until the Day of Resurrection. The promise does not describe a defeat rescued at the last moment. It announces retrieval by the Lord who sent him, before the final judgement settles every dispute about him."
         },
         {
           "t": "verse",
@@ -374,6 +418,10 @@ export const chapter = {
           "label": "Tafsir Ibn Kathir on 4:157-158 &middot; quran.com"
         },
         {
+          "t": "p",
+          "html": "Isa (AS) is also a sign of the Hour. Ibn Kathir records the reading handed down from Abu Hurayrah, Ibn Abbas, Mujahid, Qatadah and others: the verse points to his descent before the Day of Resurrection, while his miracles themselves are signs that the Hour approaches. The earthly story therefore does not close in the past. It waits for a return commanded by Allah."
+        },
+        {
           "t": "verse",
           "ref": "Quran 43:61",
           "arabic": "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ فَلَا تَمْتَرُنَّ بِهَا وَٱتَّبِعُونِ ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
@@ -385,6 +433,10 @@ export const chapter = {
           "text": "Ibn Kathir records that the correct reading of this verse is that it points to his descent before the Day of Resurrection, as Abu Hurayrah, Ibn Abbas, Mujahid, Qatadah and others said; and that the miracles granted at his hands are also sufficient as signs that the Hour approaches.",
           "href": "https://quran.com/43:61/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 43:61 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Muhammad ﷺ described that return in words that strip it of confusion. The son of Maryam will descend as a just ruler, break the cross, kill the pigs, and money will become so abundant that no one will accept it; one prostration to Allah will be better than the world and all it contains. The returning prophet will not arrive as a rival god or a new lawgiver competing with the final message. He will judge justly under Allah's command."
         },
         {
           "t": "hadith",
@@ -410,12 +462,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Islam's quarrel with what became of his message is a quarrel between two wrong directions. His own people denied him outright, and later generations of his followers exaggerated him out of humanity altogether, until a servant who ate food and prayed and wept became, in their telling, a god. Isa (AS) never claimed it. None of his disciples thought it. The Quran addresses the exaggeration with a father's gentleness and a judge's clarity: O People of the Scripture, do not commit excess in your religion or say about Allah except the truth. The Messiah, Isa the son of Maryam, was but a messenger of Allah and His word which He directed to Maryam and a spirit from Him. So believe in Allah and His messengers, and do not say 'Three.' Desist; it is better for you. Indeed, Allah is but one God. Exalted is He above having a son.",
+          "html": "The Quran answers exaggeration by returning to creation. Isa (AS) had no father; Adam (AS) had neither father nor mother. Allah created Adam from dust and said to him, Be, and he was. A miraculous beginning is a sign of the Creator's power, not proof that the created one shares the Creator's nature. Ibn Kathir draws the comparison further: humanity appears through different patterns of creation, yet every pattern leaves the creature a creature and Allah alone the Creator.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Muhammad ﷺ, the final messenger, saw the trap from inside his own community and barred it with the same logic: Do not exaggerate in praising me as the Christians praised the son of Maryam, for I am only a slave. So call me the slave of Allah and His messenger. Between Maryam's cradle and Muhammad's ﷺ warning lies the Quran's whole doctrine of Isa (AS): a Word from Allah, a spirit from Him, a prophet who healed by leave and will return by command, and a servant whose highest title is the one he gave himself in his first sentence on earth. Indeed, I am the servant of Allah."
         },
         {
           "t": "verse",
@@ -431,11 +479,19 @@ export const chapter = {
           "label": "Tafsir Ibn Kathir on 3:59 &middot; quran.com"
         },
         {
+          "t": "p",
+          "html": "To the People of the Scripture, Allah gives the correction without cruelty and without blur. Do not commit excess in religion and do not say about Allah except the truth. The Messiah is a messenger of Allah, His word directed to Maryam and a spirit from Him. They are told to believe in Allah and His messengers, not to say Three, and to stop because stopping is better for them. Allah is one God, exalted above having a son."
+        },
+        {
           "t": "verse",
           "ref": "Quran 4:171",
           "arabic": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ ۚ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۖ وَلَا تَقُولُوا۟ ثَلَـٰثَةٌ ۚ ٱنتَهُوا۟ خَيْرًا لَّكُمْ ۚ إِنَّمَا ٱللَّهُ إِلَـٰهٌ وَٰحِدٌ ۖ سُبْحَـٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ ۘ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
           "translation": "O People of the Scripture, do not commit excess in your religion<sup foot_note=196162>1</sup> or say about Allāh except the truth. The Messiah, Jesus the son of Mary, was but a messenger of Allāh and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allāh and His messengers. And do not say, \"Three\"; desist - it is better for you. Indeed, Allāh is but one God. Exalted is He above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allāh as Disposer of affairs.",
           "citation": "Surah 4 &middot; Verse 171 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Isa (AS) had already given the same testimony about himself. The Quran condemns those who say Allah is the Messiah while the Messiah's own command was worship. Isa (AS) said: “O Children of Israel, worship Allah, my Lord and your Lord.” Whoever associates others with Allah has barred himself from Paradise, and the wrongdoers will have no helpers. His message and heaven's correction speak with one voice."
         },
         {
           "t": "verse",
@@ -445,6 +501,10 @@ export const chapter = {
           "citation": "Surah 5 &middot; Verse 72 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "His humanity is stated in the plainest household detail. The Messiah was a messenger before whom other messengers passed, his mother was a woman of truth, and both of them used to eat food. A being who needs food is not the Lord who provides it. Allah makes the signs clear, then asks how people are still turned away from what stands in front of them."
+        },
+        {
           "t": "verse",
           "ref": "Quran 5:75",
           "arabic": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ۗ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْـَٔايَـٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
@@ -452,11 +512,19 @@ export const chapter = {
           "citation": "Surah 5 &middot; Verse 75 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The final exchange belongs to the Day of Judgement. Allah will ask: “O Isa, son of Maryam, did you say to the people, Take me and my mother as deities besides Allah?” Isa (AS) will answer: “Exalted are You. It was not for me to say what I had no right to say. If I had said it, You would have known it.” He will testify that he commanded only what Allah commanded him: worship Allah, his Lord and their Lord, and that after Allah took him, Allah remained the watcher over them."
+        },
+        {
           "t": "verse",
           "ref": "Quran 5:116-117",
           "arabic": "وَإِذْ قَالَ ٱللَّهُ يَـٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَـٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَـٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ مَا قُلْتُ لَهُمْ إِلَّا مَآ أَمَرْتَنِى بِهِۦٓ أَنِ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۚ وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ ۚ وَأَنتَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
           "translation": "And [beware the Day] when Allāh will say, \"O Jesus, Son of Mary, did you say to the people, 'Take me and my mother as deities besides Allāh?'\" He will say, \"Exalted are You! It was not for me to say that to which I have no right. If I had said it, You would have known it. You know what is within myself, and I do not know what is within Yourself. Indeed, it is You who is Knower of the unseen. I said not to them except what You commanded me - to worship Allāh, my Lord and your Lord. And I was a witness over them as long as I was among them; but when You took me up, You were the Observer over them, and You are, over all things, Witness.",
           "citation": "Surah 5 &middot; Verses 116-117 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Surah Maryam closes the matter by naming him the word of truth about which people dispute. It is not fitting for Allah to take a son. When He decrees a matter, He says Be, and it is. Then his own creed returns as the last word of the scene: “Indeed, Allah is my Lord and your Lord, so worship Him. That is a straight path.” The servant announced in the cradle is still a servant at the end, and that is his honour."
         },
         {
           "t": "verse",

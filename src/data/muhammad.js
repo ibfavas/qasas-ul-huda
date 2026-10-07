@@ -38,12 +38,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The story of Muhammad ﷺ begins in a year the Arabs named after an army. An army marched on Makkah with an elephant at its head, meaning to pull down the House of Allah and divert Arabia's pilgrims to a rival sanctuary. Makkah had no army that could stand before it, and none was asked to. Have you not seen how your Lord dealt with the companions of the elephant? Allah asks. Did He not make their plan go astray, and send against them birds in flocks, striking them with stones of baked clay, and make them like eaten straw? The city was spared without striking a blow. In that year, the Year of the Elephant, a child was born in Makkah to the clan of Banu Hashim, and heaven had been expecting him for centuries: the unlettered prophet whom the People of the Book find written in their Torah and Gospel, the messenger Isa (AS) had announced by the name Ahmad.",
+          "html": "The life of Muhammad ﷺ opened in a year Arabia remembered by an army and an elephant. An army advanced toward Makkah to strike at the House of Allah and draw pilgrims toward another sanctuary. Makkah had no force able to meet it, yet the invaders never reached their goal. Allah turned their plan aside, sent birds in flocks against them and left the proud expedition like eaten straw. The protected city then received a child whose coming had been promised long before.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "He never met his father. Abdullah died on a trading journey while his wife Amina was still carrying the child, so the last prophet of Allah entered the world with loss already in his cradle. By the custom of Makkah's noble families, the baby was given to a foster mother from the desert tribe of Banu Sa'd, a woman named Halima, whose lean years turned to plenty with the child in her tent, until she returned him to his mother, reluctantly, as everyone who kept him returned him."
         },
         {
           "t": "verse",
@@ -53,11 +49,23 @@ export const chapter = {
           "citation": "Surah 105 &middot; Verses 1-5 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Muhammad ﷺ was born into Banu Hashim in that Year of the Elephant. His father Abdullah had died while Amina was carrying him, so the child entered the world already fatherless. By the custom of Makkah's families he was placed with Halima of Banu Sa'd in the desert, and the years with her became part of the tender, unadorned beginning of a life that would be marked by loss, trust and preparation."
+        },
+        {
+          "t": "p",
+          "html": "Long before Makkah recognised him, the earlier scriptures had described the unlettered prophet who would command right, forbid wrong, make good things lawful, forbid what is corrupt and lift burdens and shackles from people. Isa (AS) had announced a messenger named Ahmad, and the Quran presents Muhammad ﷺ as the one written in the Torah and Gospel. Heaven's expectation did not make his childhood easy. It made his preparation meaningful."
+        },
+        {
           "t": "verse",
           "ref": "Quran 7:157",
           "arabic": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
           "translation": "Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden<sup foot_note=196334>1</sup> and the shackles which were upon them.<sup foot_note=196333>2</sup> So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.",
           "citation": "Surah 7 &middot; Verse 157 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "His place in the line was also spoken by Muhammad ﷺ himself. In the hadith he describes Allah granting distinction to Kinana among the descendants of Ismail (AS), to Quraysh among Kinana, to Banu Hashim among Quraysh, and to him from Banu Hashim. The noble descent did not spare him orphanhood. It located the final messenger inside the very city and family that would first resist him."
         },
         {
           "t": "hadith",
@@ -83,12 +91,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Loss kept its appointments with him early. His mother Amina died at Abwa on the road home from visiting relatives in Madinah, and the six year old came back to Makkah an orphan of both parents. His grandfather Abdul Muttalib, chief of Quraysh, took him in and loved him publicly, seating the boy beside him in the shade of the Kaaba, but within two years the old man was dead too, and custody passed to an uncle, Abu Talib, a poor man with a large family, who raised his nephew like a son and never, through fifty years of danger, handed him over to his enemies.",
+          "html": "Loss followed Muhammad ﷺ early. His mother Amina died at Abwa when he was six, leaving him an orphan of both parents. His grandfather Abdul Muttalib took him in and loved him openly, but the old chief died within about two years. Custody then passed to his uncle Abu Talib, who raised him with care and later protected him through decades of danger. Allah would later remind him of this shelter in words that turn biography into gratitude.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The boy grew up shepherding, then trading. In Makkah's markets he acquired the only title his enemies never disputed: al-Amin, the Trustworthy, the man you left your valuables with when you travelled. At twenty-five he was hired to take the trade caravan of Khadijah, a wealthy and capable merchant who had refused Makkah's nobles, to Syria. He returned with profits beyond her custom and an agent's report of a character beyond price, and Khadijah proposed marriage through a friend. For twenty-five years, until her death, she would be his only wife: his financier, his first believer, and the supporter no later success ever replaced."
         },
         {
           "t": "verse",
@@ -98,11 +102,19 @@ export const chapter = {
           "citation": "Surah 93 &middot; Verses 6-8 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The reminder widens. Allah had opened his chest, removed his burden and raised his repute. The orphan who had been carried from one guardian to another was not being prepared for obscurity. Every refuge after loss became part of the pattern by which Allah found him, guided him and made him sufficient."
+        },
+        {
           "t": "verse",
           "ref": "Quran 94:1-4",
           "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ وَوَضَعْنَا عَنكَ وِزْرَكَ ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ وَرَفَعْنَا لَكَ ذِكْرَكَ",
           "translation": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=197780>1</sup> And We removed from you your burden<sup foot_note=197781>1</sup> Which had weighed upon your back And raised high for you your repute.",
           "citation": "Surah 94 &middot; Verses 1-4 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Like other prophets before him, Muhammad ﷺ shepherded sheep. When he later spoke of it, the exchange stayed in memory. The Prophet ﷺ said: “Allah did not send any prophet but that he shepherded sheep.” His companions asked: “Did you do the same?” Muhammad ﷺ replied: “Yes, I used to shepherd the sheep of the people of Makkah for some qirats.” The work fitted a future guide: patience, watchfulness and responsibility for creatures that wander."
         },
         {
           "t": "hadith",
@@ -112,11 +124,8 @@ export const chapter = {
           "label": "Sahih al-Bukhari 2262 &middot; sunnah.com"
         },
         {
-          "t": "verse",
-          "ref": "Quran 33:21",
-          "arabic": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
-          "translation": "There has certainly been for you in the Messenger of Allāh an excellent pattern<sup foot_note=197089>1</sup> for anyone whose hope is in Allāh and the Last Day and [who] remembers Allāh often.",
-          "citation": "Surah 33 &middot; Verse 21 &middot; Saheeh International"
+          "t": "p",
+          "html": "He grew into trade and earned the name by which even opponents knew him: al-Amin, the Trustworthy. Khadijah, a capable and wealthy merchant, entrusted him with a caravan to Syria. He returned with profit and with a report of honesty that outweighed the goods. Marriage followed, and for twenty-five years Khadijah remained his only wife, his supporter, financier and first believer. Allah describes him as being upon a tremendous character, and the people who watched him before prophethood had already seen the evidence."
         },
         {
           "t": "verse",
@@ -126,6 +135,10 @@ export const chapter = {
           "citation": "Surah 68 &middot; Verse 4 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Years later Aisha was asked about that character in the house of prophethood itself. Sa'd ibn Hisham asked about the character of the Messenger of Allah. Aisha replied: “Do you not read the Quran?” Then she said: “The character of the Messenger of Allah was the Quran.” The description leaves no distance between revelation and conduct. What he taught, he embodied in anger and ease, in public leadership and private rooms."
+        },
+        {
           "t": "hadith",
           "text": "She said: &ldquo;Don't you read the Qur'an?&rdquo; ... She said: &ldquo;The character of the Messenger of Allah (ﷺ) was the Qur'an.&rdquo;",
           "narrator": "Narrated Aisha, asked by Sa`d ibn Hisham",
@@ -133,11 +146,30 @@ export const chapter = {
           "label": "Sahih Muslim 746a &middot; sunnah.com"
         },
         {
+          "t": "p",
+          "html": "That is why the Quran holds him up as an excellent pattern for whoever hopes in Allah and the Last Day and remembers Allah often. His pattern is not presented as an unreachable performance. It is a lived measure for speech, family, contracts, worship, courage and mercy across an entire society."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 33:21",
+          "arabic": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+          "translation": "There has certainly been for you in the Messenger of Allāh an excellent pattern<sup foot_note=197089>1</sup> for anyone whose hope is in Allāh and the Last Day and [who] remembers Allāh often.",
+          "citation": "Surah 33 &middot; Verse 21 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "His gentleness was strength under command. Allah tells Muhammad ﷺ that by mercy he was lenient with his followers, for a harsh heart would have scattered them. He was commanded to pardon them, seek forgiveness for them and consult them, then trust Allah once a matter was decided. Leadership in his pattern is not the absence of firmness. It is firmness without cruelty."
+        },
+        {
           "t": "verse",
           "ref": "Quran 3:159",
           "arabic": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
           "translation": "So by mercy from Allāh, [O Muḥammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allāh. Indeed, Allāh loves those who rely [upon Him].",
           "citation": "Surah 3 &middot; Verse 159 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The believers felt that care from the inside. A messenger from among themselves had come, one grieved by their suffering, deeply concerned for them and kind and merciful to the believers. The title al-Amin began in Makkah's markets. Prophethood revealed its full reach: trustworthy with property, trustworthy with revelation and trustworthy with people."
         },
         {
           "t": "verse",
@@ -163,12 +195,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "As he approached forty, Muhammad ﷺ took to retreating alone to a cave on Mount Hira above Makkah, carrying provisions and thinking in the silence over a city drowning in idols. On a night in Ramadan, the silence broke. The angel Jibreel seized him and commanded: Read. I cannot read, he said. The embrace tightened until he thought he would die, loosened, and commanded again: Read. Three times. Then came the first words of the final revelation: Read, in the name of your Lord who created. Created man from a clinging clot. Read, and your Lord is the Most Generous, who taught by the pen, taught man what he did not know.",
+          "html": "As Muhammad ﷺ approached forty, he began withdrawing to the cave of Hira above Makkah, carrying provisions and worshipping in seclusion. On a night in Ramadan the silence changed. Jibreel came to him and commanded: “Read.” Muhammad ﷺ answered that he did not know how to read. The angel embraced him until the effort was severe, released him and commanded again. After the third embrace came the first revealed words, joining creation, the pen and knowledge in one opening.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "He came down the mountain with his heart hammering, to the one person he ran to with everything: Cover me, cover me. Khadijah wrapped him and held him until the terror drained, and then said the sentence that founded a faith: No. By Allah, Allah will never disgrace you. You keep the ties of kinship, you bear others' burdens, you give to the destitute, you honour the guest, and you help against the calamities that befall people. She took him to her cousin Waraqa, an old blind scholar of the scriptures, who named what had visited the cave: This is the angel who came to Musa (AS). I wish I were young when your people drive you out. They will drive me out? he asked. No man has brought what you bring without being opposed, said Waraqa, who died soon after, having believed in a prophet he would never live to follow. The first believers were a wife, a freed slave named Zayd, a young cousin named Ali, and a friend named Abu Bakr, who believed without asking for a single sign."
         },
         {
           "t": "verse",
@@ -178,11 +206,23 @@ export const chapter = {
           "citation": "Surah 96 &middot; Verses 1-5 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "He returned with his heart beating hard and went to Khadijah. Muhammad ﷺ said: “Cover me, cover me.” When the fear eased he told her what had happened and said he feared something might happen to him. Khadijah answered: “Never. By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously and assist the deserving calamity-afflicted ones.” She did not ask for proof before she believed the man she knew."
+        },
+        {
           "t": "hadith",
           "text": "The commencement of the Divine Inspiration to Allah's Messenger (ﷺ) was in the form of good dreams which came true like bright daylight, and then the love of seclusion was bestowed upon him. He used to go in seclusion in the cave of Hira where he used to worship (Allah alone) continuously for many days... The angel came to him and asked him to read. ... Then Allah's Messenger (ﷺ) returned with the Inspiration and with his heart beating severely. Then he went to Khadija bint Khuwailid and said, &ldquo;Cover me! Cover me!&rdquo; They covered him till his fear was over and after that he told her everything that had happened and said, &ldquo;I fear that something may happen to me.&rdquo; Khadija replied, &ldquo;Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously and assist the deserving calamity-afflicted ones.&rdquo;",
           "narrator": "Narrated Aisha",
           "href": "https://sunnah.com/bukhari:3",
           "label": "Sahih al-Bukhari 3 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "Khadijah took him to her cousin Waraqa ibn Nawfal, an aged scholar who recognised the visitor as the angel who had come to Musa (AS). Waraqa wished he could live to support Muhammad ﷺ when his people drove him out. Muhammad ﷺ asked: “Will they drive me out?” Waraqa answered that no one had brought such a message without opposition. He died soon after, and the first circle remained small: Khadijah first, with Abu Bakr, Ali and Zayd among the earliest believers."
+        },
+        {
+          "t": "p",
+          "html": "Khadijah's place is sealed by the Prophet's own praise. Muhammad ﷺ said: “The best of the women of her time was Maryam, daughter of Imran, and the best of the women of her time was Khadijah, daughter of Khuwailid.” Before armies, treaties or public victories, the final revelation was received into a home where a wife believed first and steadied a trembling prophet with truth."
         },
         {
           "t": "hadith",
@@ -208,12 +248,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The revelation resumed with a summons: O you who covers himself, arise and warn. The call went public, and Makkah answered the way every city in this book answers. First came mockery: the orphan shepherd claims that heaven speaks to him. Then negotiation: wealth, kingship, whatever he wanted, if only the message would retire. Then, when the verses kept splitting families and emptying the idol trade, came persecution: the weak among his followers tortured on the hot sand, and a boycott that penned his whole clan in a ravine for three years of hunger, until the boycott document was found eaten by insects except the name of Allah.",
+          "html": "After an interval, the command moved from private reception to public warning. Muhammad ﷺ was wrapped in his garment when the summons came to arise, magnify his Lord, purify his garments, abandon defilement and endure patiently for his Lord. The cave's silence gave way to a city's noise. Retreat had prepared him, but the mission would now be tested in markets, houses and tribal councils.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The Year of Sorrow took Khadijah and Abu Talib within weeks of each other, and the now unprotected prophet walked to Taif to seek a hearing from its chiefs. They jeered him out and set slaves and children to stone him until his shoes filled with blood. Offered by the angel of the mountains the chance to bring the two mountains down over the city, he refused: I hope that Allah will bring out from their descendants people who worship Allah alone. It was among the hardest days of his life. And in the darkest stretch of his prophethood, heaven answered with the greatest honour ever given a mortal: the Night Journey."
         },
         {
           "t": "verse",
@@ -223,11 +259,19 @@ export const chapter = {
           "citation": "Surah 74 &middot; Verses 1-7 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The first public circle was the nearest one. Allah commanded him to warn his closest kindred while lowering his wing in kindness to the believers who followed him. If they disobeyed, he was to declare himself free of what they did. Prophethood did not begin by flattering the clan. It began by placing family affection under truth."
+        },
+        {
           "t": "verse",
           "ref": "Quran 26:214-216",
           "arabic": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
           "translation": "And warn, [O Muḥammad], your closest kindred. And lower your wing [i.e., show kindness] to those who follow you of the believers. And if they disobey you, then say, \"Indeed, I am disassociated from what you are doing.\"",
           "citation": "Surah 26 &middot; Verses 214-216 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "When the message was proclaimed openly, mockery came first, then bargains, then pressure against the weak and a boycott that confined Banu Hashim and Banu Muttalib to hunger in a ravine. Allah told Muhammad ﷺ to declare what he was commanded, turn away from the idolaters and trust that Allah was sufficient against the mockers who set up another god beside Him. Revelation did not promise him a painless road. It promised him company on it."
         },
         {
           "t": "verse",
@@ -237,11 +281,19 @@ export const chapter = {
           "citation": "Surah 15 &middot; Verses 94-96 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The Year of Sorrow took Khadijah and Abu Talib close together. Muhammad ﷺ went to Taif seeking people who might receive the call, but its leaders rejected him and he left wounded by stones. Aisha later asked about his hardest day, and the answer led to the Angel of the Mountains. The angel said: “O Muhammad, order what you wish. If you like, I will let the two mountains fall on them.” Muhammad ﷺ said: “No, but I hope that Allah will let them beget children who will worship Allah alone, and worship none besides Him.”"
+        },
+        {
           "t": "hadith",
           "text": "The Angel of the Mountains called and greeted me, and then said, &ldquo;O Muhammad! Order what you wish. If you like, I will let Al-Akh-Shabain (i.e. two mountains) fall on them.&rdquo; The Prophet (ﷺ) said, &ldquo;No but I hope that Allah will let them beget children who will worship Allah Alone, and will worship None besides Him.&rdquo;",
           "narrator": "Narrated Aisha",
           "href": "https://sunnah.com/bukhari:3231",
           "label": "Sahih al-Bukhari 3231 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "That refusal explains the name heaven gave his mission. Wounded, bereaved and refused by two cities, he asked for the future children of the people who had driven him out. Allah had sent Muhammad ﷺ only as a mercy to the worlds, and Taif shows what that mercy looks like when revenge is placed directly in his hand."
         },
         {
           "t": "verse",
@@ -267,7 +319,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In one night Muhammad ﷺ was carried from Makkah to Jerusalem, and ascended through the seven heavens, greeting Adam (AS), then Yahya (AS) and Isa (AS) together, Yusuf (AS), Idris (AS), Harun (AS), Musa (AS) and Ibrahim (AS), each welcoming him as a brother and a prophet. He was given fifty prayers a day, and on Musa's (AS) repeated counsel, for your nation will not be able to bear it, he returned again and again until the gift settled at five daily prayers carrying the reward of fifty. By morning he was back in Makkah, and when the mockers demanded evidence as a trap, Abu Bakr cut through it all: If he said it, it is true. I believe in the revelation that comes to him morning and evening; shall I not believe him in this? That day the friend earned his lasting title: as-Siddiq, the Confirmer of Truth.",
+          "html": "In one night Muhammad ﷺ was taken from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings Allah has blessed, so that he might be shown some of Allah's signs. The journey joined Makkah and Jerusalem in a single night and placed the final prophet inside the long geography of revelation. What had begun in a cave above Makkah now opened onto the sacred history of the prophets before him.",
           "cls": "dropcap"
         },
         {
@@ -278,11 +330,19 @@ export const chapter = {
           "citation": "Surah 17 &middot; Verse 1 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "From there came the ascent. Muhammad ﷺ greeted prophets in the heavens, including Adam (AS), Yahya (AS) and Isa (AS) together, Yusuf (AS), Idris (AS), Harun (AS), Musa (AS) and Ibrahim (AS). At the Lote Tree of the Utmost Boundary, near the Garden of Refuge, his sight did not swerve or exceed its limit. He saw some of the greatest signs of his Lord, and the vision stayed measured under the weight of what it showed."
+        },
+        {
           "t": "verse",
           "ref": "Quran 53:13-18",
           "arabic": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
           "translation": "And he certainly saw him in another descent<sup foot_note=197444>1</sup> At the Lote Tree of the Utmost Boundary - Near it is the Garden of Refuge [i.e., Paradise] - When there covered the Lote Tree that which covered [it].<sup foot_note=197445>1</sup> The sight [of the Prophet (ﷺ)] did not swerve, nor did it transgress [its limit]. He certainly saw of the greatest signs of his Lord.",
           "citation": "Surah 53 &middot; Verses 13-18 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "On that journey fifty daily prayers were prescribed. Musa (AS) counselled Muhammad ﷺ to return and ask for reduction, knowing the weakness of communities, and the number came down again and again until five remained with the reward of fifty. Back in Makkah, opponents tried to make the report a trap. Abu Bakr answered with the loyalty that earned him the name as-Siddiq: if Muhammad ﷺ said it, then it was true. The Night Journey had sorted belief from bargaining in a single morning."
         }
       ]
     },
@@ -301,12 +361,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Quraysh finally chose assassination, sending young swordsmen from every clan to strike together so the blood guilt would scatter, Allah chose emigration. Ali (RA) slept in the prophet's bed as a decoy, and Muhammad ﷺ walked out of his house past the waiting killers. For three days he and Abu Bakr hid in the cave of Thawr on the road south, while search parties scoured the hills close enough to be heard. Abu Bakr whispered that if one of them merely looked down at his feet, they would be seen. The answer entered the Quran and never left it: Do not grieve. Indeed, Allah is with us.",
+          "html": "When Quraysh moved from pressure to assassination, Allah opened the road to Madinah. Ali slept in the Prophet's bed as a decoy, and Muhammad ﷺ left with Abu Bakr. For three days the two hid in the cave of Thawr while searchers moved over the hills. Abu Bakr feared that a glance downward would expose them. Muhammad ﷺ said: “Do not grieve; indeed, Allah is with us.” Allah sent down tranquillity and supported him with forces unseen, making the word of the disbelievers lowest and the word of Allah highest.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "They reached Madinah, a city that had already pledged itself to him, and the orphan of Makkah built in months what empires build in generations: a mosque raised with his own hands among the workers, a covenant binding tribes and faiths into one community, and a brotherhood pairing the emigrants of Makkah with the hosts of Madinah until they shared their houses, their harvests and their inheritance. The calendar of Islam does not start at his birth or his first revelation. It starts here: the year the message got a home."
         },
         {
           "t": "verse",
@@ -314,6 +370,10 @@ export const chapter = {
           "arabic": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
           "translation": "If you do not aid him [i.e., the Prophet (ﷺ)] - Allāh has already aided him when those who disbelieved had driven him out [of Makkah] as one of two,<sup foot_note=196400>1</sup> when they were in the cave and he [i.e., Muḥammad (ﷺ)] said to his companion, \"Do not grieve; indeed Allāh is with us.\" And Allāh sent down His tranquility upon him and supported him with soldiers [i.e., angels] you did not see and made the word<sup foot_note=196399>2</sup> of those who disbelieved the lowest,<sup foot_note=196398>3</sup> while the word of Allāh<sup foot_note=196397>4</sup> - that is the highest. And Allāh is Exalted in Might and Wise.",
           "citation": "Surah 9 &middot; Verse 40 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Madinah received more than refugees. Muhammad ﷺ helped raise the mosque, bound the tribes through covenant and joined the Emigrants and Helpers in a brotherhood that reached into homes, harvests and daily care. The community that formed there was not built only by victory. It was built by prayer in common, promises written down and people made responsible for one another. The Islamic calendar begins with the Hijrah because the message had found a home where it could become a society."
         }
       ]
     },
@@ -332,12 +392,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Madinah's peace was tested in the field. At Badr, three hundred and thirteen fasting men faced a thousand of Quraysh and won. At Uhud, archers left their hill against orders to gather spoils, and victory inverted into a wound that taught the young community the price of disobedience more deeply than any sermon: the prophet's face was cut and his tooth broken and he was rumoured dead, yet he would not curse his enemies. When a confederation of armies closed around Madinah, the community dug a trench across its open side, a defence the Arabs had never seen, suggested by Salman the Persian, and the siege starved into the wind.",
+          "html": "Madinah's covenant was soon tested in war. At Badr the believers stood heavily outnumbered, and Allah reminded them that victory was not a simple count of hands. The verse takes even the Prophet's cast out of human ownership: you did not throw when you threw, but Allah threw, so that He might test the believers with a good trial. Badr became a sign that aid belongs to Allah, not a licence to confuse numbers with causes.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Then he set out for the pilgrimage unarmed and was stopped at Hudaybiyyah, where he signed a peace treaty his own companions experienced as humiliation clause by clause. Heaven overruled their instincts in a single sentence, Indeed We have given you a clear conquest, and the treaty years proved it: in open peace the message spread through Arabia faster than any war could carry it, and letters went out from Madinah to the rulers of Rome, Persia, Egypt and Abyssinia carrying the same courteous summons: embrace Islam and be safe."
         },
         {
           "t": "verse",
@@ -347,11 +403,37 @@ export const chapter = {
           "citation": "Surah 8 &middot; Verse 17 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Uhud taught the harder lesson. Allah had fulfilled His promise while the believers obeyed, but courage faltered, dispute broke out and archers left the order after seeing what they desired. Some wanted the world and some the Hereafter, and Allah turned them back as a test, then forgave them. The wounded community learned that revelation does not make obedience optional after the first success."
+        },
+        {
           "t": "verse",
           "ref": "Quran 3:152",
           "arabic": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
           "translation": "And Allāh had certainly fulfilled His promise to you when you were killing them [i.e., the enemy] by His permission until [the time] when you lost courage and fell to disputing about the order [given by the Prophet (ﷺ)] and disobeyed after He had shown you that which you love.<sup foot_note=196075>1</sup> Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you back from them [defeated] that He might test you. And He has already forgiven you, and Allāh is the possessor of bounty for the believers.",
           "citation": "Surah 3 &middot; Verse 152 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "When confederate forces threatened Madinah, the believers dug the trench on the open side, a defence unfamiliar in Arabia, and the siege failed. Later the road to pilgrimage stopped at Hudaybiyyah, where a treaty that looked like retreat opened years of safer calling. Under the tree the believers pledged allegiance, and Allah, knowing what was in their hearts, sent down tranquillity and promised a near conquest."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 48:18-19",
+          "arabic": "لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+          "translation": "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest<sup foot_note=197396>1</sup> And much war booty which they will take. And ever is Allāh Exalted in Might and Wise.",
+          "citation": "Surah 48 &middot; Verses 18-19 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Heaven named the treaty itself before Makkah fell. Allah had given Muhammad ﷺ a clear conquest, completing His favour and guiding him on a straight path. What companions had felt clause by clause as humiliation became, in Allah's naming, an opening. The years of peace carried the message further than confrontation had, and invitations went out beyond Arabia while Madinah grew stronger."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 48:1-2",
+          "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
+          "translation": "Indeed, We have given you, [O Muḥammad], a clear conquest<sup foot_note=197389>1</sup> That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path",
+          "citation": "Surah 48 &middot; Verses 1-2 &middot; Saheeh International"
         }
       ]
     },
@@ -370,26 +452,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Quraysh broke the treaty, he marched on Makkah with ten thousand men, and the city that had starved his clan, stoned him at Taif and hunted him into a cave braced for the reckoning it had earned. At its edge, the man they had tried to kill announced a general amnesty in the words of Yusuf (AS) to the brothers who had wronged him: No blame shall rest upon you today. Go, for you are free. He entered with his head bowed so low in gratitude that his beard nearly touched his saddle, and the idols around the Kaaba fell one by one before his staff: Truth has come, and falsehood has vanished. Indeed, falsehood is by nature bound to vanish. The greatest conquest of his life was carried out almost without bloodshed.",
+          "html": "When the treaty was broken, Muhammad ﷺ marched toward Makkah with an army large enough to make resistance collapse. The city that had boycotted his clan, driven him out and hunted him now waited for judgement. At the moment of greatest power he announced amnesty in the spirit of Yusuf (AS): “No blame shall rest upon you today. Go, for you are free.” He entered in gratitude with his head lowered, and the idols around the Kaaba fell as truth displaced falsehood. The conquest was remembered less for blood than for restraint.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Two years later, at the Farewell Pilgrimage, he delivered the charter his community still reads like a constitution: the sanctity of blood and property, women held as a trust, and all mankind from Adam, and Adam from dust, with no superiority of Arab over non-Arab except by righteousness. Then he asked the vast crowd: Have I conveyed the message? And when they roared back that he had, he raised his finger to the sky: O Allah, bear witness. On that same journey the final verse of legislation descended: This day I have perfected for you your religion and completed My favour upon you and have approved for you Islam as your religion. The companions who understood what 'perfected' meant wept: a completed message implies a departing messenger."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 48:18-19",
-          "arabic": "لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
-          "translation": "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest<sup foot_note=197396>1</sup> And much war booty which they will take. And ever is Allāh Exalted in Might and Wise.",
-          "citation": "Surah 48 &middot; Verses 18-19 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 48:1-2",
-          "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
-          "translation": "Indeed, We have given you, [O Muḥammad], a clear conquest<sup foot_note=197389>1</sup> That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path",
-          "citation": "Surah 48 &middot; Verses 1-2 &middot; Saheeh International"
+          "html": "Allah's command after victory did not turn triumph into self praise. When the help of Allah and the conquest came, and people entered His religion in crowds, Muhammad ﷺ was told to glorify his Lord's praises and seek His forgiveness. The surah taught the community how to read success: gratitude first, repentance always, and no ownership of what Allah had opened."
         },
         {
           "t": "verse",
@@ -399,11 +467,19 @@ export const chapter = {
           "citation": "Surah 110 &middot; Verses 1-3 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "At the Farewell Pilgrimage, Muhammad ﷺ addressed the people on the sanctity of life and property, the trust of women, and the equality of mankind from Adam (AS), with no superiority except by righteousness. He asked whether he had conveyed the message, and when the people answered that he had, he called Allah to witness. On that journey the verse descended announcing that Allah had perfected the religion, completed His favour and approved Islam as the religion."
+        },
+        {
           "t": "verse",
           "ref": "Quran 5:3",
           "arabic": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
           "translation": "Prohibited to you are dead animals,<sup foot_note=196167>1</sup> blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars,<sup foot_note=196166>2</sup> and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.",
           "citation": "Surah 5 &middot; Verse 3 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Umar later explained to a questioner exactly when that verse came. Umar said: “We know when and where this verse was revealed to the Prophet. It was Friday and the Prophet was standing at Arafat.” The detail fixes the completion of the message inside the Farewell days, with the community gathered and the messenger near the end of his earthly task."
         },
         {
           "t": "hadith",
@@ -429,12 +505,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The final illness lasted days. Too weak to lead the prayer, he appointed Abu Bakr to lead it, a signal the companions did not miss. In Aisha's room, where he had asked to be nursed, his last words urged care for the prayer and for those under one's authority, and his final sentence chose his company: O Allah, with the highest companions. He died on a Monday in Madinah in the eleventh year after the Hijrah, owning almost nothing; his coat of armour was pawned to a neighbour for barley for his family. Abu Bakr hurried in from the outskirts, kissed the covered face, and went out to a community cracking apart with grief to say the words that held it together at its first fracture: Whoever worshipped Muhammad, let him know that Muhammad has died. And whoever worships Allah, let him know that Allah is Living and never dies.",
+          "html": "During the final illness Muhammad ﷺ was too weak to lead every prayer and appointed Abu Bakr to lead the people. He asked to be nursed in Aisha's room, and near the end his words joined concern for prayer with yearning for the company beyond. Aisha heard him while he leaned against her, asking Allah for forgiveness and mercy and to be joined with the highest companions.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "He had never asked to be made more than he was. Say, he was told to announce, I am only a man like you. It has been revealed to me that your god is one God. Allah had already given him his rank, and he never added a letter to it: And We have not sent you except as a mercy to the worlds. The orphan who could have had Makkah's throne in exchange for silence died a debtor, having built a civilisation of prayer, charity, kept contracts, mercy to animals, and rights for women, orphans and the enslaved, on the one command that opened his mission in the cave: Read. He is the seal of the prophets; there is no prophet after him. And the line of guidance this book has followed, from the first breath in Adam (AS) to the cradle speech of Isa (AS), was walking the whole way toward him. The story that began with 'Be' in the dust ends with 'Read' on a mountain, and it is not finished. It is inherited, by every reader who opens the Book he left behind."
         },
         {
           "t": "hadith",
@@ -444,11 +516,19 @@ export const chapter = {
           "label": "Sahih al-Bukhari 4440 &middot; sunnah.com"
         },
         {
+          "t": "p",
+          "html": "He died in Madinah in the eleventh year after the Hijrah, leaving almost no worldly estate; even his armour was pledged for barley for his family. Grief shook the community until Abu Bakr stood before them and separated the messenger from the message's Lord. Abu Bakr said: “Whoever worshipped Muhammad, then Muhammad is dead, but whoever worshipped Allah, then Allah is Alive and shall never die.”"
+        },
+        {
           "t": "hadith",
           "text": "&ldquo;No doubt! Whoever worshipped Muhammad, then Muhammad is dead, but whoever worshipped Allah, then Allah is Alive and shall never die.&rdquo;",
           "narrator": "Abu Bakr, reported by Aisha (Sahih al-Bukhari 3667, 3668)",
           "href": "https://sunnah.com/bukhari:3667",
           "label": "Sahih al-Bukhari 3667, 3668 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "The Quran had already given believers the sentence they needed for that day. Muhammad ﷺ was only a messenger, and messengers had passed before him. If he died or was killed, the grateful would not turn back on their heels and harm Allah at all. His death was a test of whether the community worshipped a presence it could see or the Living God who had sent him."
         },
         {
           "t": "verse",
@@ -458,6 +538,10 @@ export const chapter = {
           "citation": "Surah 3 &middot; Verse 144 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Allah addressed the end plainly to Muhammad ﷺ himself: you will die, and they will die. Prophethood did not remove him from the human road. It made his trust, patience and obedience a pattern for everyone who must walk it after him."
+        },
+        {
           "t": "verse",
           "ref": "Quran 39:30",
           "arabic": "إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ",
@@ -465,11 +549,19 @@ export const chapter = {
           "citation": "Surah 39 &middot; Verse 30 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "His place in the long line is final. Muhammad ﷺ was not the father of any man among them, but the Messenger of Allah and the seal of the prophets. The chain that began with Adam (AS) and passed through the prophets of this book closes with him, and Allah knows all things."
+        },
+        {
           "t": "verse",
           "ref": "Quran 33:40",
           "arabic": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا",
           "translation": "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing.",
           "citation": "Surah 33 &middot; Verse 40 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "What remains commanded is love expressed as blessing. Allah and His angels confer blessing upon the Prophet, and the believers are told to ask Allah to confer blessing and peace upon him. The orphan carried from guardian to guardian, the trustworthy merchant, the trembling man in Khadijah's house, the fugitive in the cave and the conqueror who forgave Makkah is remembered by the duty he never claimed for himself: mercy to the worlds."
         },
         {
           "t": "verse",

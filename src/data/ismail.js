@@ -39,26 +39,23 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Under a lone tree, Ibrahim (AS) settled his wife and baby. He left them a leather pouch of dates and a small skin of water. Then he mounted his animal and turned to leave. Hagar ran after him, calling again and again: O Ibrahim, where are you going, leaving us in this valley where there is no one and nothing? He did not answer. He did not even turn around. So she understood, and asked the question that revealed her heart: Has Allah ordered you to do this? He said: Yes."
-        },
-        {
-          "t": "p",
-          "html": "Then He will not neglect us, she said, and walked back to her baby. That single sentence from a mother alone in a desert is one of the greatest statements of trust ever spoken. And Ibrahim (AS), once his family could no longer see him, lifted his hands and prayed: Our Lord, I have settled some of my offspring in a valley with no crops, near Your Sacred House, so that they may establish prayer. So make the hearts of people incline toward them, and provide them with fruits, that they may be grateful. A valley with no water, no crops and no people, and an old man asking Allah to make humanity love it. Every part of that prayer was answered."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 14:39",
-          "arabic": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
-          "translation": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.",
-          "citation": "Surah 14 &middot; Verse 39 &middot; Saheeh International"
-        },
-        {
           "t": "verse",
           "ref": "Quran 37:101",
           "arabic": " فَبَشَّرْنَـٰهُ بِغُلَـٰمٍ حَلِيمٍ",
           "translation": "So We gave him good tidings of a forbearing boy.",
           "citation": "Surah 37 &middot; Verse 101 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Under a lone tree, Ibrahim (AS) settled his wife and baby. He left them a leather pouch of dates and a small skin of water. Then he mounted his animal and turned to leave. Hagar ran after him, calling again and again: O Ibrahim, where are you going, leaving us in this valley where there is no one and nothing? He did not answer. He did not even turn around. So she understood, and asked the question that revealed her heart: Has Allah ordered you to do this? He said: Yes."
+        },
+        {
+          "t": "p",
+          "html": "The hadith lets us hear the parting more sharply. Hagar called after him: \"O Ibrahim, where are you going, leaving us in this valley where there is neither a human being nor anything else?\" Ibrahim (AS) did not turn back. Then Hagar asked: \"Has Allah ordered you to do this?\" Ibrahim (AS) said: \"Yes.\" Hagar said: \"Then He will not neglect us.\" Only after that did she return to the tree and the baby."
+        },
+        {
+          "t": "p",
+          "html": "Then He will not neglect us, she said, and walked back to her baby. That single sentence from a mother alone in a desert is one of the greatest statements of trust ever spoken. And Ibrahim (AS), once his family could no longer see him, lifted his hands and prayed: Our Lord, I have settled some of my offspring in a valley with no crops, near Your Sacred House, so that they may establish prayer. So make the hearts of people incline toward them, and provide them with fruits, that they may be grateful. A valley with no water, no crops and no people, and an old man asking Allah to make humanity love it. Every part of that prayer was answered."
         },
         {
           "t": "verse",
@@ -89,11 +86,15 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "Ibn Abbas fills in the mother's steps. Hagar first looked at her baby twisting with thirst, then climbed Safa because it was nearest. Seeing no one, she came down, ran through the valley with her garment gathered, and climbed Marwah. Back and forth she went, seven times, listening after each climb for any human sound."
+        },
+        {
+          "t": "p",
           "html": "On the seventh return she heard a voice. She froze, listening. Then she cried out: You have made me hear your voice. Do you have anything to help me? She followed the sound to the place where her baby lay, and there was an angel, striking the earth with his heel, and water was bubbling out of the ground. Hagar ran forward, scooped and shaped a little basin around the spring with her hands, and filled her water skin. The angel spoke to her: Do not fear being neglected. This is the House of Allah, which this boy and his father will build. And Allah never neglects His people."
         },
         {
           "t": "p",
-          "html": "The water is called Zamzam, and it flows in Makkah to this day. And Hagar's seven desperate runs were so beloved to Allah that He made them part of the pilgrimage forever: every pilgrim at Hajj and Umrah walks between Safa and Marwah, walking in the footsteps of a mother who would not give up."
+          "html": "The angel's words were not only comfort for that hour. Hagar was told: \"Do not fear being neglected, for this is the House of Allah which this boy and his father will build. Allah never neglects His people.\" The baby who could not yet speak was already tied to a house, a city and a future nation."
         },
         {
           "t": "hadith",
@@ -101,6 +102,10 @@ export const chapter = {
           "narrator": "Narrated by Ibn Abbas (RA)",
           "href": "https://sunnah.com/bukhari:3365",
           "label": "Sahih al-Bukhari 3365 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "The water is called Zamzam, and it flows in Makkah to this day. And Hagar's seven desperate runs were so beloved to Allah that He made them part of the pilgrimage forever: every pilgrim at Hajj and Umrah walks between Safa and Marwah, walking in the footsteps of a mother who would not give up."
         }
       ]
     },
@@ -129,6 +134,10 @@ export const chapter = {
         {
           "t": "p",
           "html": "Ismail (AS) grew up among the Jurhum, learned Arabic from them, and was loved for his fine character and virtues. When he reached manhood he married a woman from among them. The shepherd boy of the desert was becoming the father of a nation, in a town that did not yet have a name on any map."
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir relates that Ismail (AS) grew into the life of Jurhum: their language, their desert skills and their company. Yet the Quran does not remember him mainly as a tribesman. It remembers truthfulness to a promise, prayer, charity and a character pleasing to his Lord. The child of the empty valley became a prophet whose home helped form the Arabs."
         }
       ]
     },
@@ -152,6 +161,17 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "Put the Quran's own words between father and son, because no summary is stronger. Ibrahim (AS): \"O my son, I see in a dream that I am offering you in sacrifice. So consider what you think.\" Ismail (AS): \"O my father, do what you are commanded. You will find me, if Allah wills, among the patient.\" The father brought the command into the open. The son answered with willing submission."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:102-103",
+          "arabic": " فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
+          "translation": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" And when they had both submitted and he put him down upon his forehead,",
+          "citation": "Surah 37 &middot; Verses 102-103 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
           "html": "Notice what the old man did not do. He did not hide it, and he did not pretend it was easy. He laid the command before his son and asked for his view, because Allah's command deserved a willing heart, not a dragged one. And the son gave the answer that has echoed down the centuries: O my father, do what you are commanded. You will find me, if Allah wills, among the patient. A boy raised by the most trusting mother in history answered like her."
         },
         {
@@ -161,13 +181,6 @@ export const chapter = {
         {
           "t": "p",
           "html": "Ibrahim (AS) laid his son down on his forehead, so that neither would have to watch the other's face. The knife was raised. Father and son had both submitted entirely. And at that moment a voice called out: O Ibrahim! You have fulfilled the dream. Indeed, this is how We reward the doers of good. This was a clear trial, and Allah ransomed the boy with a mighty sacrifice: a ram, sent down to be slaughtered in his place. The father who was willing to give everything was given his son back. Every Eid al-Adha, every Qurbani in every corner of the earth, is the anniversary of that morning."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 37:102-103",
-          "arabic": " فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ",
-          "translation": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" And when they had both submitted and he put him down upon his forehead,",
-          "citation": "Surah 37 &middot; Verses 102-103 &middot; Saheeh International"
         },
         {
           "t": "verse",
@@ -181,13 +194,6 @@ export const chapter = {
           "text": "On the question of which son was to be sacrificed, Ibn Kathir concludes it was Ismail (AS). The glad tidings of the forbearing boy come first, then the story of the sacrifice, and only afterward the glad tidings of Isaac: the sacrifice, in his reading, belongs to the son of the first tidings. This is the scholar&rsquo;s conclusion, not the Quran&rsquo;s wording: the Quran itself does not name the son.",
           "href": "https://quran.com/37:102/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 37:101-113 &middot; quran.com"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;When the Prophet (ﷺ) saw pictures in the Ka&lsquo;ba, he did not enter it till he ordered them to be erased. When he saw the pictures of Abraham and Ishmael carrying the arrows of divination, he said, &lsquo;May Allah curse them (i.e. the Quraish)! By Allah, neither Abraham nor Ishmael practiced divination by arrows.&rsquo;&rdquo;",
-          "narrator": "Narrated by Ibn Abbas (RA)",
-          "href": "https://sunnah.com/bukhari:3352",
-          "label": "Sahih al-Bukhari 3352 &middot; sunnah.com"
         }
       ]
     },
@@ -208,6 +214,10 @@ export const chapter = {
           "t": "p",
           "html": "Ibrahim (AS) visited Makkah again, but Ismail (AS) was out earning his living, and only his wife was home. The old man asked about his son, and then about their life. We are in misery, the wife complained, hardship and destitution. Ibrahim (AS) left a coded message: When your husband returns, give him my greetings, and tell him to change the threshold of his gate. When Ismail (AS) came home he sensed something unusual and asked if anyone had come. She described an old man, and delivered the message. Ismail (AS) understood instantly. That was my father, he said, and you are the threshold of the gate. He has ordered me to divorce you. Go back to your family. A complaining spirit at the door of the house would poison everything built inside it.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The two visits should be read as a pair. At the first door, hardship came out as complaint against their life. At the second door, the same desert life was described with gratitude. Ibrahim (AS) used the threshold as a picture of the spirit that enters a home every day. Ismail (AS) understood the picture at once because he knew his father's way of teaching."
         },
         {
           "t": "p",
@@ -245,8 +255,33 @@ export const chapter = {
           "html": "Ibrahim (AS) pointed to a hillock rising above the surrounding land: Allah has ordered me to build a House here. And so father and son raised the foundations of the Kaaba, on the very spot where the angel had told Hagar a house would one day stand. Ismail (AS) carried the stones and handed them up; Ibrahim (AS) built. When the walls rose too high to reach, Ismail (AS) brought a stone for his father to stand on, and Ibrahim (AS) stood on it and kept building. His footprints pressed into that stone, and it is preserved beside the Kaaba to this day: the Station of Ibrahim. And with every stone, the two of them prayed the same prayer: Our Lord, accept this from us. You are the All-Hearing, the All-Knowing."
         },
         {
+          "t": "verse",
+          "ref": "Quran 2:127",
+          "arabic": " وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+          "translation": "And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], \"Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.",
+          "citation": "Surah 2 &middot; Verse 127 &middot; Saheeh International"
+        },
+        {
           "t": "p",
-          "html": "The Quran honours Ismail (AS) with a title that fits his whole life, from the baby in the valley to the builder on the wall: he was true to his promise, and he was a messenger and a prophet. He used to command his people to pray and to give charity, and he was pleasing to his Lord. The boy left in a barren valley with a pouch of dates became the father of the Arabs and the ancestor of Muhammad ﷺ. Allah had promised his mother He never neglects His people. The Kaaba stands as the proof."
+          "html": "Centuries later, Muhammad ﷺ entered the Kaaba and found pictures of Ibrahim (AS) and Ismail (AS) holding divination arrows. He ordered the pictures erased and said that neither prophet had practiced divination. The builder son was still guarding the House in memory: no false ritual could be attached to his name."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;When the Prophet (ﷺ) saw pictures in the Ka&lsquo;ba, he did not enter it till he ordered them to be erased. When he saw the pictures of Abraham and Ishmael carrying the arrows of divination, he said, &lsquo;May Allah curse them (i.e. the Quraish)! By Allah, neither Abraham nor Ishmael practiced divination by arrows.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3352",
+          "label": "Sahih al-Bukhari 3352 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "The Quran honours Ismail (AS) with a title that fits his whole life, from the baby in the valley to the builder on the wall: he was true to his promise, and he was a messenger and a prophet. He used to command his people to pray and to give charity, and he was pleasing to his Lord."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 14:39",
+          "arabic": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+          "translation": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.",
+          "citation": "Surah 14 &middot; Verse 39 &middot; Saheeh International"
         },
         {
           "t": "verse",
@@ -256,11 +291,8 @@ export const chapter = {
           "citation": "Surah 19 &middot; Verses 54-55 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 2:127",
-          "arabic": " وَإِذْ يَرْفَعُ إِبْرَٰهِـۧمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَـٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
-          "translation": "And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], \"Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.",
-          "citation": "Surah 2 &middot; Verse 127 &middot; Saheeh International"
+          "t": "p",
+          "html": "He is also counted among the patient, admitted into Allah's mercy, and named among the outstanding."
         },
         {
           "t": "verse",
@@ -275,6 +307,10 @@ export const chapter = {
           "arabic": " وَٱذْكُرْ إِسْمَـٰعِيلَ وَٱلْيَسَعَ وَذَا ٱلْكِفْلِ ۖ وَكُلٌّ مِّنَ ٱلْأَخْيَارِ",
           "translation": "And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding.",
           "citation": "Surah 38 &middot; Verse 48 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The boy left in a barren valley with a pouch of dates became the father of the Arabs and the ancestor of Muhammad ﷺ. Allah had promised his mother He never neglects His people. The Kaaba stands as the proof."
         },
         {
           "t": "hadith",

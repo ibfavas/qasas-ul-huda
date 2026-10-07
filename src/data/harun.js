@@ -1,7 +1,7 @@
 /* harun chapter data: Harun (AS), Chapter XV.
    Story format: prose scenes written for young readers, following the
    classical telling of the story. Verse, hadith and tafsir panels
-   sit as dropdowns under each scene. No sources note card. */
+   sit as dropdowns under the passages they support. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XV",
@@ -33,7 +33,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Pharaoh's scribes worked out their arithmetic of murder, slaughtering Israelite baby boys one year and sparing them the next, chance, or rather Allah, arranged the family of Imran like this: the elder son, Harun (AS), was born in a spared year, and the younger, Musa (AS), in a year of slaughter, to be thrown into the Nile. The boys grew up in different worlds: Musa (AS) in the palace of the tyrant, Harun (AS) among his own enslaved people in Egypt. Of the two, Harun (AS) was the speaker: clear, eloquent, persuasive, everything his brother feared he was not.",
+          "html": "Ibn Kathir relates the classical account behind the birth years: when Pharaoh's decree worked out its arithmetic of murder, slaughtering Israelite baby boys one year and sparing them the next, chance, or rather Allah, arranged the family of Imran like this: the elder son, Harun (AS), was born in a spared year, and the younger, Musa (AS), in a year of slaughter, to be thrown into the Nile. The boys grew up in different worlds: Musa (AS) in the palace of the tyrant, Harun (AS) among his own enslaved people in Egypt. Of the two, Harun (AS) was the speaker: clear, eloquent, persuasive, everything his brother feared he was not.",
           "cls": "dropcap"
         }
       ]
@@ -57,14 +57,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "And Allah answered: You have been granted your request, O Musa. We will strengthen you through your brother, and give you both such authority that they cannot touch you. With Our signs, you and those who follow you will prevail. Consider what this means: prophethood for Harun (AS) arrived as an answer to his brother's prayer and an act of his brother's humility. Musa (AS) was not threatened by a more eloquent partner. He requested one. Harun (AS) became a prophet of Allah not as a footnote to Musa (AS) but as his ordained minister, and the Quran pairs their names again and again: the Lord of Musa and Harun, as the magicians cried when they fell in prostration and chose death over going back."
-        },
-        {
-          "t": "p",
-          "html": "Together the brothers stood before Pharaoh, two slaves' sons against the throne of the world, and delivered the demand as one voice: Send the Children of Israel with us, and do not torment them. Together they endured the mockery, the contest, the renewed oppression and the long years of signs, until the night the whole nation walked out of Egypt behind them, and the sea opened, and Pharaoh went down. Harun (AS) was there for all of it: the supporting voice that never once tried to become the lead."
-        },
-        {
           "t": "verse",
           "ref": "Quran 20:29-35",
           "arabic": "وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى هَـٰرُونَ أَخِى ٱشْدُدْ بِهِۦٓ أَزْرِى وَأَشْرِكْهُ فِىٓ أَمْرِى كَىْ نُسَبِّحَكَ كَثِيرًا وَنَذْكُرَكَ كَثِيرًا إِنَّكَ كُنتَ بِنَا بَصِيرًا",
@@ -79,6 +71,10 @@ export const chapter = {
           "citation": "Surah 28 &middot; Verses 33-35 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "And Allah answered: You have been granted your request, O Musa. We will strengthen you through your brother, and give you both such authority that they cannot touch you. With Our signs, you and those who follow you will prevail. Consider what this means: prophethood for Harun (AS) arrived as an answer to his brother's prayer and an act of his brother's humility. Musa (AS) was not threatened by a more eloquent partner. He requested one. Harun (AS) became a prophet of Allah not as a footnote to Musa (AS) but as his ordained minister, and the Quran pairs their names again and again: the Lord of Musa and Harun, as the magicians cried when they fell in prostration and chose death over going back."
+        },
+        {
           "t": "verse",
           "ref": "Quran 20:42-47",
           "arabic": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَـٰتِى وَلَا تَنِيَا فِى ذِكْرِى ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ فَقُولَا لَهُۥ قَوْلًا لَّيِّنًا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ ۖ قَدْ جِئْنَـٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ ۖ وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ",
@@ -86,11 +82,19 @@ export const chapter = {
           "citation": "Surah 20 &middot; Verses 42-47 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The brothers' fear and Allah's answer are recorded as an exchange. Musa (AS) and Harun (AS) said: \"Our Lord, we fear that he may hasten against us or transgress.\" Allah said: \"Do not fear. I am with you both; I hear and I see.\" Only after that assurance did they stand before Pharaoh with the demand that Israel be released and not tormented."
+        },
+        {
           "t": "verse",
           "ref": "Quran 26:16-17",
           "arabic": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ",
           "translation": "Go to Pharaoh and say, 'We are the messengers<sup foot_note=196949>1</sup> of the Lord of the worlds, [Commanded to say], \"Send with us the Children of Israel.\"'\"",
           "citation": "Surah 26 &middot; Verses 16-17 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Together the brothers stood before Pharaoh, two slaves' sons against the throne of the world, and delivered the demand as one voice: Send the Children of Israel with us, and do not torment them. Together they endured the mockery, the contest, the renewed oppression and the long years of signs, until the night the whole nation walked out of Egypt behind them, and the sea opened, and Pharaoh went down. Harun (AS) was there for all of it: the supporting voice that never once tried to become the lead."
         },
         {
           "t": "verse",
@@ -120,19 +124,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Harun (AS) stood against it with everything a man without an army has: his voice. O my people, he cried, you are only being tested by this. Indeed, your Lord is the Most Merciful, so follow me and obey my command. They answered: We will never cease worshipping it until Musa returns to us. And behind the words came the threat that explained his helplessness when his brother descended, tablets in hand, and seized him by the beard in fury: O Harun, what prevented you, when you saw them going astray, from following me? Did you disobey my command? The answer of Harun (AS) is one of the most human moments in the Quran: O son of my mother, do not seize me by my beard or my head. I feared you would say I had divided the Children of Israel, and the people overpowered me and were about to kill me. So do not let the enemies gloat over me, and do not count me among the wrongdoers."
-        },
-        {
-          "t": "p",
-          "html": "Musa's (AS) anger dissolved into prayer: My Lord, forgive me and my brother, and admit us into Your mercy, for You are the Most Merciful of the merciful. The Quran thereby acquits Harun (AS) forever. In other scriptures he is remembered as the calf's maker. In Allah's own telling he is the man who warned, resisted, and was nearly killed for it, and held a fracturing nation together at the cost of being misunderstood by the brother he loved. Samiri was exiled to wander crying 'do not touch me' to every soul he met, the calf was burned and scattered on the sea, and the people were commanded to repent. And when seventy elders of Israel demanded to see Allah outright and were struck dead by the thunderbolt, Musa (AS) prayed them back to life with Harun's (AS) acquittal already written in heaven: My Lord, would You destroy us for what the fools among us did? Forgive us and have mercy on us."
-        },
-        {
           "t": "verse",
           "ref": "Quran 7:142",
           "arabic": "۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةً وَأَتْمَمْنَـٰهَا بِعَشْرٍ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
           "translation": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, \"Take my place among my people, do right [by them],<sup foot_note=196323>1</sup> and do not follow the way of the corrupters.\"",
           "citation": "Surah 7 &middot; Verse 142 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Harun (AS) stood against it with everything a man without an army has: his voice. O my people, he cried, you are only being tested by this. Indeed, your Lord is the Most Merciful, so follow me and obey my command. They answered: We will never cease worshipping it until Musa returns to us. And behind the words came the threat that explained his helplessness when his brother descended, tablets in hand, and seized him by the beard in fury: O Harun, what prevented you, when you saw them going astray, from following me? Did you disobey my command? The answer of Harun (AS) is one of the most human moments in the Quran: O son of my mother, do not seize me by my beard or my head. I feared you would say I had divided the Children of Israel, and the people overpowered me and were about to kill me. So do not let the enemies gloat over me, and do not count me among the wrongdoers."
         },
         {
           "t": "verse",
@@ -149,18 +149,15 @@ export const chapter = {
           "citation": "Surah 20 &middot; Verses 92-94 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Musa's (AS) anger dissolved into prayer: My Lord, forgive me and my brother, and admit us into Your mercy, for You are the Most Merciful of the merciful. The Quran thereby acquits Harun (AS) forever. In other scriptures he is remembered as the calf's maker. In Allah's own telling he is the man who warned, resisted, and was nearly killed for it, and held a fracturing nation together at the cost of being misunderstood by the brother he loved. Samiri was exiled to wander crying 'do not touch me' to every soul he met, the calf was burned and scattered on the sea, and the people were commanded to repent. And when seventy elders of Israel demanded to see Allah outright and were struck dead by the thunderbolt, Musa (AS) prayed them back to life with Harun's (AS) acquittal already written in heaven: My Lord, would You destroy us for what the fools among us did? Forgive us and have mercy on us."
+        },
+        {
           "t": "verse",
           "ref": "Quran 7:151",
           "arabic": "قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ ۖ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
           "translation": "[Moses] said, \"My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.\"",
           "citation": "Surah 7 &middot; Verse 151 &middot; Saheeh International"
-        },
-        {
-          "t": "hadith",
-          "text": "&ldquo;Amir b Sa&rsquo;d b. Abi Waqqas reported (on the authority of his father that Allah&rsquo;s Messenger (ﷺ) addressing &lsquo;Ali said: You are in the same position with relation to me as Aaron (Harun) was in relation to Moses but with (this explicit difference) that there is no prophet after me. Sa&rsquo;d said: I had an earnest desire to hear it directly from Sa&rsquo;d, so I met him and narrated to him what (his son) Amir had narrated to me, whereupon he said: Yes, I did hear it. I said: Did you hear it yourself? Thereupon he placed his fingers upon his ears and said: Yes, and if not, let both my ears become deaf.&rdquo;",
-          "href": "https://sunnah.com/muslim:2404",
-          "label": "Sahih Muslim 2404 &middot; sunnah.com",
-          "narrator": "Narrated on the authority of Sa’d b. Abi Waqqas (RA)"
         }
       ]
     },
@@ -183,17 +180,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "His is the quietest kind of greatness in this entire book. He was not given a scripture of his own, a sea to split, or a mountain of his own. He was given a brother with a knot in his tongue and a nation with a talent for rebellion, and he spent his prophethood strengthening both. The magicians of Egypt fell down and believed in the Lord of Musa and Harun. Heaven itself kept pairing the names. Second in command, first in loyalty: Harun (AS) is the patron of everyone who serves a great cause without needing to be its face."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 21:48-49",
-          "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَـٰرُونَ ٱلْفُرْقَانَ وَضِيَآءً وَذِكْرًا لِّلْمُتَّقِينَ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ",
-          "translation": "And We had already given Moses and Aaron the criterion and a light and a reminder<sup foot_note=196797>1</sup> for the righteous Who fear their Lord unseen,<sup foot_note=196798>1</sup> while they are of the Hour apprehensive.",
-          "citation": "Surah 21 &middot; Verses 48-49 &middot; Saheeh International"
-        },
-        {
           "t": "verse",
           "ref": "Quran 19:51-53",
           "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا وَنَـٰدَيْنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَـٰهُ نَجِيًّا وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَـٰرُونَ نَبِيًّا",
@@ -205,6 +191,32 @@ export const chapter = {
           "text": "Ibn Kathir explains that in granting Harun (AS), Allah answered the request Musa (AS) had made for his brother and made Harun (AS) a prophet as well, out of His mercy. He points to that same request, that Harun (AS) be sent with Musa (AS) as a helper to confirm him, and to the answer that was given to Musa (AS).",
           "href": "https://quran.com/19:53/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 19:53 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir relates that Harun (AS) died before Musa (AS) during the wilderness years. The Quran does not give the scene of his death; it gives the verdict on his life, joining his name to Musa (AS) in favour, rescue, victory, scripture and guidance."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:48-49",
+          "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَـٰرُونَ ٱلْفُرْقَانَ وَضِيَآءً وَذِكْرًا لِّلْمُتَّقِينَ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ",
+          "translation": "And We had already given Moses and Aaron the criterion and a light and a reminder<sup foot_note=196797>1</sup> for the righteous Who fear their Lord unseen,<sup foot_note=196798>1</sup> while they are of the Hour apprehensive.",
+          "citation": "Surah 21 &middot; Verses 48-49 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "His is the quietest kind of greatness in this entire book. He was not given a scripture of his own, a sea to split, or a mountain of his own. He was given a brother with a knot in his tongue and a nation with a talent for rebellion, and he spent his prophethood strengthening both. The magicians of Egypt fell down and believed in the Lord of Musa and Harun. Heaven itself kept pairing the names. Second in command, first in loyalty: Harun (AS) is the patron of everyone who serves a great cause without needing to be its face."
+        },
+        {
+          "t": "p",
+          "html": "The Prophet Muhammad (ﷺ) later used Harun (AS) as the measure of trusted second place. Speaking to Ali ibn Abi Talib, he said: \"You are to me in the position that Harun was to Musa, except that there is no prophet after me.\" The comparison honours Harun (AS) precisely where the Quran honours him: near the messenger, sharing the burden, but never confused with the one who received the direct commission first."
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Amir b Sa&rsquo;d b. Abi Waqqas reported (on the authority of his father that Allah&rsquo;s Messenger (ﷺ) addressing &lsquo;Ali said: You are in the same position with relation to me as Aaron (Harun) was in relation to Moses but with (this explicit difference) that there is no prophet after me. Sa&rsquo;d said: I had an earnest desire to hear it directly from Sa&rsquo;d, so I met him and narrated to him what (his son) Amir had narrated to me, whereupon he said: Yes, I did hear it. I said: Did you hear it yourself? Thereupon he placed his fingers upon his ears and said: Yes, and if not, let both my ears become deaf.&rdquo;",
+          "href": "https://sunnah.com/muslim:2404",
+          "label": "Sahih Muslim 2404 &middot; sunnah.com",
+          "narrator": "Narrated on the authority of Sa’d b. Abi Waqqas (RA)"
         },
         {
           "t": "verse",

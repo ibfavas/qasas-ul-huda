@@ -34,16 +34,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ayyub (AS), known as Job, was a descendant of Ibrahim (AS) blessed with just about everything a man could ask for: vast lands, herds of livestock, servants, fourteen children, a righteous wife named Rahma, and the love and respect of his whole community. Wealth usually spoils a man. Ayyub (AS) was the exception. He was humble, endlessly generous, and famous for his kindness: he fed and clothed the poor, bought slaves in order to set them free, and made the people he helped feel as though they were the ones doing him a favour. Gratitude poured out of him as naturally as his charity.",
+          "html": "Ayyub (AS) came from the blessed line of Ibrahim (AS). Ibn Kathir's telling describes a man loaded with the gifts men usually ask Allah for: land, livestock, servants, wealth, children, health, and the respect of his community. Classical reports name his righteous wife as Rahma. Wealth usually spoils a man, but Ayyub (AS) spent it as if it belonged to the people around him. He fed the poor, clothed them, honoured guests, helped the weak, and set slaves free. Those who came to his door asking were treated with such gentleness that they left feeling they had honoured him by coming.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "One day the angels in the heavens spoke of the best worshipper on earth, and they named Ayyub (AS): a man of noble character and great patience, who never stops remembering his generous Lord. Iblis overheard them, and rage burned in him. He tried whispering worldly temptations to the prophet, but Ayyub (AS) was not moved. So Iblis went higher with his grudge and accused Ayyub (AS) before Allah: he only worships You because You have stuffed his hands with wealth. Take it away, and his tongue will forget Your name."
-        },
-        {
-          "t": "p",
-          "html": "Allah, who knew His servant's heart better than the accuser ever could, permitted the test that would answer the accusation in front of all creation."
         },
         {
           "t": "verse",
@@ -53,11 +45,23 @@ export const chapter = {
           "citation": "Surah 6 &middot; Verses 84-86 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The Quran places Ayyub (AS) where there can be no doubt about his station. He is named among the guided descendants of Ibrahim (AS), and among the prophets to whom Allah gave revelation. His story is not mainly about a rich man losing property. It is about a prophet whose worship was tested after the visible reasons for ease had been stripped away."
+        },
+        {
           "t": "verse",
           "ref": "Quran 4:163",
           "arabic": "۞ إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ ۚ وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَـٰرُونَ وَسُلَيْمَـٰنَ ۚ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا",
           "translation": "Indeed, We have revealed to you, [O Muḥammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants, Jesus, Job, Jonah, Aaron, and Solomon, and to David We gave the book [of Psalms].",
           "citation": "Surah 4 &middot; Verse 163 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir relates that the angels spoke of Ayyub (AS) as a servant constant in prayer, charity, and remembrance. Iblis heard the praise and hated it. His accusation was simple: Ayyub (AS) worshipped Allah because Allah had filled his hands. Remove the wealth, Iblis argued, and the worship would fail with it. The claim struck at the root of the man's religion. Was his gratitude love of Allah, or rent paid for blessings?"
+        },
+        {
+          "t": "p",
+          "html": "Allah knew His servant's heart better than the accuser did. The trial was permitted, but it was fenced. In the classical narration, Iblis was given power over Ayyub's (AS) wealth, then his children, then his body, but not over his heart, tongue, intellect, or soul. Those were the places where knowledge of Allah lived. The enemy could empty the house around the prophet. He could not enter the room where the prophet knew his Lord."
         }
       ]
     },
@@ -76,16 +80,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The losses came in waves. First the wealth: lands, herds, servants and money drained away until the richest man in the region had nothing. Then Iblis came disguised as a wise old man to deliver the taunt: people say you gave too much in charity and wasted your life in prayer. If Allah could protect your wealth, He would have. Ayyub (AS) answered with the creed his whole story is built on: Allah gives to whom He wills and takes from whom He wills. All the wealth was His, and He has every right to take back His own. Then he turned away and went back to thanking and praising Allah.",
+          "html": "The losses came in waves. First, the wealth went: herds destroyed, land lost, servants scattered, until the man whose table had fed a region had almost nothing left. Ibn Kathir relates that Iblis came in the form of an adviser and tried to plant the poison as sympathy. Iblis: \"People say you gave too much away and wasted your life in worship. If Allah could protect your wealth, He would have.\" Ayyub (AS): \"Allah gives to whom He wills and takes from whom He wills. The wealth was His. He has taken back His own.\" Then he returned to praise, and the first attack closed over a heart it could not move.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Next came the blow that breaks fathers. The building where his children lived collapsed, and all fourteen of his beautiful children were killed. Iblis came again, dressed as a sympathiser, dripping poison in the voice of concern: your Lord is not rewarding you properly for all your prayers. Ayyub (AS) replied: Allah gives me what is good for me and takes what He sees is not. Perhaps these children would have become a trial for me. Whatever comes, I will remain firm and thankful to my Creator."
+          "html": "Next came the blow that breaks fathers. News reached him that the house where his children had gathered had collapsed on them. Again, in the narration, Iblis came wearing concern. Iblis: \"Your Lord is not rewarding you properly for all your prayers.\" Ayyub (AS) answered that Allah gives what is good and withholds what He knows is not good, and that even his children were a trust from Allah, not possessions torn from an owner. The words did not mean the grief was light. They meant grief would not be allowed to accuse Allah of injustice."
         },
         {
           "t": "p",
-          "html": "Last of all, Iblis was given authority over Ayyub's body, but never over his soul, his intellect or his heart, for in those places live the knowledge of Allah. A terrible sickness took hold until his body was ruined and people could barely look at him. His heart and tongue, the two organs Allah had fenced off, kept doing what they had always done: remembering and glorifying his Lord. The town began to whisper: if Ayyub were a good man, Allah would not have done this to him. Friends left, relatives left, everyone who had feasted in his generous house left. Only Rahma stayed."
+          "html": "Last of all, sickness took his body. The strong host became a man people avoided. Former friends stopped coming. Relatives who had eaten in his house found reasons to stay away. The town began the cruel arithmetic of the comfortable: if Ayyub (AS) were righteous, they said, Allah would not have done this to him. His heart and tongue kept their old work, remembering Allah and praising Him, while the body failed in public. Only his wife remained beside him. She had shared the palace years. She would also share the years when there was no palace, no table, and no crowd."
         }
       ]
     },
@@ -104,12 +108,22 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "For years, Rahma worked whatever work she could find to feed them both, until even that door closed: the townspeople refused to employ her, fearing her husband's illness. She carried the prophet of Allah on her own back through poverty, sickness and public disgust, and the years dragged on. Finally, worn down by Iblis reminding her of the palaces and children of the past, she broke: O Ayyub, you are the prophet of Allah, the closest of people to Him. Ask Allah to take you out of this harm.",
+          "html": "For years, his wife worked whatever work she could find to feed them both, until even that door narrowed. People feared employing the wife of a man whose sickness they could not bear to look at. She served others, carried what she earned back to him, and bore poverty, exile from society, and the daily sight of a prophet wasting away while his tongue still said Alhamdulillah.",
           "cls": "dropcap"
         },
         {
+          "t": "tafsir",
+          "text": "Ibn Kathir relates that the trials struck Ayyub (AS) in his wealth, his children and his health, until nothing of this world was left to him but his wife, who stayed devoted to him and served people to earn his food. Through it all, he writes, Ayyub (AS) had the utmost patience, and turned his emptied heart to the remembrance and praise of Allah, saying: &ldquo;O Lord, You gave me wealth and children, and there was no one standing at my door complaining of some wrong I had done to him.&rdquo;",
+          "href": "https://quran.com/21:83/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 21:83-84 &middot; quran.com"
+        },
+        {
           "t": "p",
-          "html": "Her husband's answer reveals the most astonishing arithmetic in the history of patience. How long did I enjoy health and wealth? he asked. Eighty years or so, she said. And how long have I been suffering? Seven years. Then I am ashamed to call on my Lord to remove my hardship, he said, when my hardship has not yet lasted as long as my blessings did. But in his pain at her despair he spoke a rash oath: if Allah cures me, I will punish you with a hundred strokes. Then, overwhelmed, he did what he had somehow not done in all those years of loss. He called on Allah for himself: Indeed, Satan has touched me with hardship and torment. And in another telling of the prayer: adversity has truly touched me, and You are the Most Merciful of the merciful."
+          "html": "Finally, worn down by reminders of the palaces and children of the past, she spoke the sentence suffering had been pressing into her chest. His wife: \"O Ayyub (AS), you are the prophet of Allah, the closest of people to Him. Ask Allah to take you out of this harm.\" Ibn Kathir preserves his astonishing reply as an exchange about time. Ayyub (AS): \"How long did I enjoy health and wealth?\" His wife: \"Eighty years or so.\" Ayyub (AS): \"And how long have I been suffering?\" His wife: \"Seven years.\" Ayyub (AS): \"Then I am ashamed to call on my Lord to remove my hardship when my hardship has not yet lasted as long as my blessings did.\" In pain, he had also spoken an oath concerning her, and the moment exposed the last edge of the trial: patience was not silence forever. It was knowing where complaint becomes a door to Allah, and where despair becomes an accusation against Him."
+        },
+        {
+          "t": "p",
+          "html": "Then Ayyub (AS) called on Allah for himself. He did not curse his birth, curse his people, or demand an explanation. He named the pain and fled to mercy. Ayyub (AS): \"Indeed, Satan has touched me with hardship and torment.\" And in words the Quran also preserves: \"Adversity has touched me, and You are the Most Merciful of the merciful.\""
         },
         {
           "t": "verse",
@@ -124,12 +138,6 @@ export const chapter = {
           "arabic": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
           "translation": "And [mention] Job, when he called to his Lord, \"Indeed, adversity has touched me, and You are the most merciful of the merciful.\"",
           "citation": "Surah 21 &middot; Verse 83 &middot; Saheeh International"
-        },
-        {
-          "t": "tafsir",
-          "text": "Ibn Kathir relates that the trials struck Ayyub (AS) in his wealth, his children and his health, until nothing of this world was left to him but his wife, who stayed devoted to him and served people to earn his food. Through it all, he writes, Ayyub (AS) had the utmost patience, and turned his emptied heart to the remembrance and praise of Allah, saying: &ldquo;O Lord, You gave me wealth and children, and there was no one standing at my door complaining of some wrong I had done to him.&rdquo;",
-          "href": "https://quran.com/21:83/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 21:83-84 &middot; quran.com"
         }
       ]
     },
@@ -148,16 +156,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The answer came immediately, as if heaven had been waiting for the words. Strike the ground with your foot. Ayyub (AS) struck, and cold water gushed from the earth at his feet: a spring to wash in, and a cool drink. He drank, and he bathed, and the disease that had eaten him for years fell away. His skin renewed, his body restored, inside and out, until the prophet stood whole, as if the years of sickness had been peeled off him in a single morning.",
+          "html": "The answer came as a command simple enough for a weakened man to obey. Allah told him to strike the ground with his foot. Ayyub (AS) struck, and water came out of the earth: a spring to wash in and a cool drink. He drank and bathed, and the sickness fell away. The body people had turned from was restored, and the servant who had been carried through years of pain stood whole by Allah's mercy.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Rahma returned to their home and found a healthy, radiant man she did not know. Where is Ayyub? she asked. Who are you? You look just like him. Ayyub (AS) smiled: It is me. She embraced him, and thanked Allah for His mercy, and the house of patience became a house of joy in a single hour."
-        },
-        {
-          "t": "p",
-          "html": "Two things remained: his oath, and his poverty. For the oath, Allah Himself provided the gentle solution that protected both the promise and the wife: Take in your hand a bundle of thin grass, and strike with it, and do not break your oath. A hundred blades in one soft bundle: the letter of the vow fulfilled, and not a mark on the woman who had carried him through hell. For the poverty, Allah sent a rain of golden locusts that fell all around him. As Ayyub (AS) gathered them into his garment, Allah called to him: O Ayyub, have I not made you rich enough to not need what you see? He answered: Yes, my Lord, but I cannot turn away Your blessings. And Allah gave him back his family and the like of them with them: he and Rahma were blessed with twenty-eight children, twice the fourteen they had buried."
         },
         {
           "t": "verse",
@@ -167,18 +167,12 @@ export const chapter = {
           "citation": "Surah 38 &middot; Verse 42 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 21:84",
-          "arabic": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ",
-          "translation": "So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh].",
-          "citation": "Surah 21 &middot; Verse 84 &middot; Saheeh International"
+          "t": "p",
+          "html": "When his wife returned and found a healthy man, she did not recognise him at first. His wife: \"Where is Ayyub (AS)? Who are you? You look just like him.\" Ayyub (AS): \"It is me.\" The woman who had fed him when he could not feed himself now saw the answer with her own eyes. The house of patience became a house of joy in a single hour."
         },
         {
-          "t": "verse",
-          "ref": "Quran 38:43",
-          "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
-          "translation": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding.",
-          "citation": "Surah 38 &middot; Verse 43 &middot; Saheeh International"
+          "t": "p",
+          "html": "One matter remained between the healing and the home: the oath. During the illness Ayyub (AS) had sworn that, if Allah cured him, he would strike his wife a hundred times over something she had done. Her years of service could not be repaid with pain. Allah taught him a way to keep the oath without breaking either its form or her honour: take a bundle of thin grass and strike once with it."
         },
         {
           "t": "verse",
@@ -192,6 +186,32 @@ export const chapter = {
           "text": "Ibn Kathir explains that during his illness Ayyub (AS) had sworn that if Allah healed him he would strike his wife a hundred blows over something she had done, and that once he was healed, her devoted service could not be repaid with a beating. So Allah showed him the way out: a bundle of grass with a hundred stems, struck once, fulfilling the oath without breaking it. He adds that the restoration came in return for his patience, steadfastness, humility and constant turning to Allah, a reminder to people of understanding that the consequence of patience is a solution and a way out.",
           "href": "https://quran.com/38:41/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 38:41-44 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Then came restoration beyond the body. Allah gave Ayyub (AS) his family and the like of them with them, as mercy from Him and a reminder for worshippers and people of understanding. The verse does not turn the returned family into a price tag for patience. It calls the restoration mercy, and it calls the whole episode a reminder for those who worship and those who think."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:84",
+          "arabic": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ",
+          "translation": "So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh].",
+          "citation": "Surah 21 &middot; Verse 84 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Surah Sad repeats the gift in its own words, fixing the restored household beside the healed body as part of Allah's mercy, not as a denial that the buried children and lost years had mattered."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 38:43",
+          "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+          "translation": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding.",
+          "citation": "Surah 38 &middot; Verse 43 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The golden locusts belong to the restoration as a small, bright sign of a servant still unable to turn away from his Lord's gifts. The Prophet Muhammad ﷺ told that while Ayyub (AS) was bathing, gold locusts fell around him and he began gathering them into his garment. Allah: \"O Ayyub (AS), have I not made you rich enough to need what you see?\" Ayyub (AS): \"Yes, my Lord, but I cannot dispense with Your blessing.\""
         },
         {
           "t": "hadith",
@@ -217,12 +237,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "That is the whole story: a rich man praised by angels, accused by Satan, stripped of wealth, children, health and society, and found, at the bottom of everything, still saying Alhamdulillah. And Allah gave His own verdict, the sentence every believer hopes to hear at the end of his own trials: Indeed, We found him patient. An excellent servant. Indeed, he was one who always turned back to Allah.",
+          "html": "That is the whole story: a rich man praised by angels, accused by Satan, stripped of wealth, children, health and society, and found, at the bottom of everything, still saying Alhamdulillah. And Allah gave His own verdict, the sentence every believer hopes to hear at the end of his own trials: \"Indeed, We found him patient. An excellent servant. Indeed, he was one who always turned back to Allah.\"",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Ayyub (AS) never cursed his Lord, never blamed his fate, and never stopped being grateful even when gratitude was all he had left. Satan bet that worship was a transaction. Ayyub (AS) proved it was a relationship. When everything he owned was repossessed, the owner of his heart was still at home."
+          "html": "The severity of Ayyub's (AS) trial fits a pattern the Prophet Muhammad ﷺ later taught plainly: the people most severely tried are the prophets, then those nearest them, then those nearest them. A servant is tested according to the strength of his religion, and the trial continues until he walks on the earth without sin."
         },
         {
           "t": "hadith",
@@ -230,6 +250,14 @@ export const chapter = {
           "narrator": "Narrated by Mus&rsquo;ab bin Sa&rsquo;d, from his father",
           "href": "https://sunnah.com/tirmidhi:2398",
           "label": "Jami at-Tirmidhi 2398 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "Ayyub (AS) never cursed his Lord, never blamed his fate, and never stopped being grateful even when gratitude was all he had left. Iblis had bet that worship was a transaction. Ayyub (AS) proved it was a relationship. When everything he owned was repossessed, the Owner of his heart was still at home."
+        },
+        {
+          "t": "p",
+          "html": "The same teaching reaches every smaller wound. No fatigue, disease, sorrow, sadness, hurt, or distress touches a Muslim, not even a thorn's prick, without Allah expiating sins through it. Ayyub (AS) is the towering example at the top of that road, but the road itself runs past every believer's door."
         },
         {
           "t": "hadith",

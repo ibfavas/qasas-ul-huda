@@ -1,7 +1,7 @@
 /* ilyas chapter data: Ilyas (AS), Chapter XIX.
    Story format: prose scenes written for young readers, following the
    classical telling of the story. Verse, hadith and tafsir panels
-   sit as dropdowns under each scene. No sources note card. */
+   sit as dropdowns under the passages they support. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XIX",
@@ -36,6 +36,13 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
+          "t": "verse",
+          "ref": "Quran 6:85",
+          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
+          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
+          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
+        },
+        {
           "t": "p",
           "html": "The Quran does not pretend to be a complete archive of every prophet. It tells us plainly that there are messengers We have related to you and messengers We have not related. Ilyas (AS) stands between the two: a prophet whose words Allah preserved and whose biography He mostly kept to Himself. What He preserved is a confrontation."
         },
@@ -63,8 +70,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The commentators place Ilyas (AS) among the Children of Israel in the generations after Sulayman (AS), a descendant of Harun (AS), sent to a people who had slid back into the oldest sin in this book: statue worship. Their idol was called Baal, a name meaning owner or lord, believed in across Lebanon, Syria and Palestine as a god of fertility and weather: the one who sent the rain and filled the fields. Some reports describe the idol as gold, twenty cubits tall, with four faces. In the city of Baalbek, under kings who encouraged the cult, bowing to Baal had become the religion of the land.",
+          "html": "Ibn Kathir and the commentators place Ilyas (AS) among the Children of Israel in the generations after Sulayman (AS), a descendant of Harun (AS), sent to a people who had slid back into the oldest sin in this book: statue worship. Their idol was called Baal, a name meaning owner or lord, believed in across Lebanon, Syria and Palestine as a god of fertility and weather: the one who sent the rain and filled the fields. Ibn Kathir records the report that Baal was an idol worshipped at Baalbek. Some reports describe the idol as gold, twenty cubits tall, with four faces. In the city of Baalbek, under kings who encouraged the cult, bowing to Baal had become the religion of the land.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The recorded exchange is short, and its power is in its directness. Ilyas (AS) said: \"Will you not fear Allah? Do you call upon Baal and leave the Best of Creators, Allah, your Lord and the Lord of your first forefathers?\" The Quran records no answer from the people at that moment; their answer comes later, when it says that they denied him."
         },
         {
           "t": "p",
@@ -104,10 +115,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "How exactly his people were punished, the Quran does not say, and honesty leaves it there. Other traditions speak of a long drought laid on the land while their weather god sat silent in his temple, a pointed lesson in the difference between a lord of rain and a block of gold. Whether the reckoning came in this world or waits in the next, Allah knows best, and the Quran's silence is part of its teaching: not every prophet's file is opened to us. What is opened is enough. A man stood alone in a city of idolaters, said that the Best of Creators is not made of gold, and heaven has been answering him with the same sentence for a thousand years: Peace be upon Ilyas."
-        },
-        {
           "t": "verse",
           "ref": "Quran 37:127-128",
           "arabic": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
@@ -115,18 +122,15 @@ export const chapter = {
           "citation": "Surah 37 &middot; Verses 127-128 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "How exactly his people were punished, the Quran does not say, and honesty leaves it there. Other traditions speak of a long drought laid on the land while their weather god sat silent in his temple, a pointed lesson in the difference between a lord of rain and a block of gold. Whether the reckoning came in this world or waits in the next, Allah knows best, and the Quran's silence is part of its teaching: not every prophet's file is opened to us. What is opened is enough. A man stood alone in a city of idolaters, said that the Best of Creators is not made of gold, and heaven has been answering him with the same sentence for a thousand years: Peace be upon Ilyas."
+        },
+        {
           "t": "verse",
           "ref": "Quran 37:129-132",
           "arabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
           "translation": "And We left for him [favorable mention] among later generations: \"Peace upon Elias.\"<sup foot_note=197194>1</sup> Indeed, We thus reward the doers of good. Indeed, he was of Our believing servants.",
           "citation": "Surah 37 &middot; Verses 129-132 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 6:85",
-          "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ ٱلصَّـٰلِحِينَ",
-          "translation": "And Zechariah and John and Jesus and Elias - and all were of the righteous.",
-          "citation": "Surah 6 &middot; Verse 85 &middot; Saheeh International"
         }
       ]
     }

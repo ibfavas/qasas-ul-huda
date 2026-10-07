@@ -34,12 +34,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Most prophets in this book were strangers sent to foreign cities. Yunus ibn Matta (AS) was sent to his own. Nineveh, a booming city of more than a hundred thousand souls in northern Iraq, had forgotten Allah for idols and sin, and Allah chose a man born and raised in its streets to call it back. Yunus (AS) knew these people. He preached to neighbours. And they rejected their neighbour with the city's favourite argument: We and our forefathers have worshipped these gods for many years, and no harm has come to us.",
+          "html": "Yunus ibn Matta (AS) was sent to the people of Nineveh, a great city in the land of Mosul. Ibn Kathir describes a people sunk in idol worship and sin, so numerous that the Quran later numbers them at a hundred thousand or more. Yunus (AS) called them to Allah alone. He was not delivering a warning to an abstract crowd. He stood before a whole society that had built its habits around other gods and saw no reason to leave them.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "He persisted anyway, warning them with the archives of the destroyed: the fate of Ad, of Thamud, of the people of Nuh (AS). They laughed and told him they were not in the least afraid of his empty threats. Years of preaching, zero converts, and a prophet's heart can crack in a particular way: not in disbelief, but in conclusion. Yunus (AS) decided their fate was sealed and that the wrath, when it came, should not find him in the city. He left Nineveh, without waiting for his Lord's command to leave. The Quran's sentence for that departure is gentle and devastating: And mention the man of the fish, when he went off in anger, and thought that We would not decree anything upon him. Allah was displeased with His prophet. A post of Allah's choosing can only be abandoned on Allah's orders."
+          "html": "The Quran gives Yunus (AS) two names that carry his trial inside them. He is Dhun-Nun, the man of the fish, and Sahib al-Hut, the companion of the fish. Before the reader reaches the sea, revelation has tied the prophet to the creature that would swallow him, carry him, and release him. His mission began long before the fish, but the fish is where his running ended and his returning began."
         },
         {
           "t": "verse",
@@ -47,6 +47,10 @@ export const chapter = {
           "arabic": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
           "translation": "And indeed, Jonah was among the messengers.",
           "citation": "Surah 37 &middot; Verse 139 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "He persisted, and they rejected him. The Quran does not give us a count of years or converts to measure the pain of that refusal. It gives the decisive act: Yunus (AS) went off in anger, thinking Allah would not decree anything against him for leaving. He warned his people of punishment and departed before the command to depart had come. A post of Allah's choosing can only be abandoned on Allah's orders, and the prophet's anger at a stubborn city did not amount to permission. The story now splits in two: a city about to face the warning, and a prophet travelling away from it by sea."
         }
       ]
     },
@@ -65,19 +69,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the sky over Nineveh changed. The calm heavens darkened and reddened like a face filling with anger, and a city of a hundred thousand remembered, all at once, every sermon it had mocked. Men, women and children climbed to the rooftops and hills with their hands stretched out and their excuses gone, and they did the thing no destroyed nation in this book ever managed to do in time: they believed, wholly, together, and begged Allah's forgiveness before the punishment arrived, not after.",
+          "html": "After Yunus (AS) left, the signs of punishment approached Nineveh. Ibn Kathir relates that the people saw the kind of warning they could no longer laugh away, and the whole city turned. They went out in humility, men, women, and children, and even their animals were part of the scene of need. In some reports the young were separated from their mothers so that cries rose from every side and the city begged Allah with one voice. The important point is not the staging. It is that the people believed before destruction reached them, and they believed together.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "And Allah, who is not obliged to accept a single deathbed apology, lifted the torment of disgrace from Nineveh and let the city live. It stands alone in the Quran as the exception to a bitter rule: Was there any city that believed, and its faith benefited it, except the people of Yunus? When they believed, We removed from them the torment of disgrace in the life of this world, and gave them enjoyment for a while. The only total success in the history of preaching happened after the preacher had given up and left, achieved by the very people who had laughed at him, and they repaid his years of warning in the only coin that mattered: as the skies cleared, Nineveh prayed for its prophet to come home."
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 37:147-148",
-          "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
-          "translation": "And We sent him<sup foot_note=197199>1</sup> to [his people of] a hundred thousand or more. And they believed, so We gave them enjoyment [of life] for a time.",
-          "citation": "Surah 37 &middot; Verses 147-148 &middot; Saheeh International"
+          "html": "Ibn Kathir stresses the scale of the turning. This was not a small group slipping away to believe in secret while the city carried on. The people came out in a body, humbled themselves, and sought Allah's face while the warning still hung over them. Their repentance had fear in it, but fear was not its end. It became faith, and faith became a covering for a city that had mocked its prophet when he stood in front of them."
         },
         {
           "t": "verse",
@@ -85,6 +82,10 @@ export const chapter = {
           "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
           "translation": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time.",
           "citation": "Surah 10 &middot; Verse 98 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Allah lifted from them the torment of disgrace in this world and gave them enjoyment for a time. Nineveh stands alone in the Quran's question: was there any city that believed so its faith benefited it, except the people of Yunus (AS)? Other nations in these stories often understood when the punishment was already on them. Nineveh understood while turning back could still change the ending."
         },
         {
           "t": "tafsir",
@@ -109,12 +110,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The prophet they were praying for was at sea, fleeing as far from Nineveh as a ship could take him. The passage was calm by day; by night a storm stood the ocean on its side. Waves climbed the deck, water flooded in, and the ship began the slow arithmetic of sinking. The captain ordered everything expendable overboard: cargo, luggage, weight. The ship still settled lower. What remained was the ancient, terrible custom of the sea: one life for the rest, chosen by lot.",
+          "html": "The prophet they had rejected was at sea aboard a laden ship. Ibn Kathir explains that the vessel was filled with cargo and passengers, and that the waves rose until those aboard feared drowning. Goods were thrown over to lighten it, but the danger remained. The ship had become the first courtroom in which Yunus (AS) would face the meaning of his departure: he had run toward the sea to escape a mission, and the sea would not carry him away from Allah.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The lots were cast, and the name came up Yunus (AS). The sailors refused it. They knew this passenger: young, righteous, honest, a blessing on the boat. They cast again. Yunus. They cast a third time. Yunus. Three lots, one name, and the prophet understood before anyone spoke. This was not chance. This was his Lord's verdict on a man who had walked away from his post without orders. While the crew still argued for him, Yunus (AS) accepted the judgment and went over the side into the black water, and as his Lord had decreed, the greatest fish of the ocean rose and swallowed him whole as he hit the waves."
         },
         {
           "t": "verse",
@@ -122,6 +119,14 @@ export const chapter = {
           "arabic": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ",
           "translation": "[Mention] when he ran away to the laden ship.",
           "citation": "Surah 37 &middot; Verse 140 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "They drew lots to decide who would be cast out. Ibn Kathir relates that the lot fell on Yunus (AS) again and again, and that the people shrank from throwing a righteous man into the water. Yunus (AS) understood what the repeated lot was saying. This was not random misfortune added to a hard journey. It was his Lord's verdict on a messenger who had left his post without waiting for leave. The fish swallowed him as he was thrown, while he was blameworthy, and Allah preserved him inside it without the fish cutting his flesh or breaking his bones."
+        },
+        {
+          "t": "p",
+          "html": "The repeated lot matters because no one on the ship could turn it into an executioner's choice. The sailors were not hunting for a culprit to hate. They were trying to save a vessel, and the lot kept returning to the one passenger whose hidden flight made the storm intelligible. When Yunus (AS) was cast out, he was not being punished by men's anger. He was meeting the decree he had tried to outrun on land."
         },
         {
           "t": "verse",
@@ -153,12 +158,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He woke inside three layers of darkness at once: the darkness of the night above the sea, the darkness of the deep water, and the darkness of the belly of the fish. At first he thought he was in his grave. Then his senses returned and he understood where he was, and he did something no human being had ever done. He prostrated inside the fish and said: O Allah, I am prostrating to You in a place where no one has ever prostrated to You before, in the stomach of a fish. And he cried out through the darknesses the prayer that believers have borrowed from him ever since: There is no god but You. Glory be to You. Indeed, I have been among the wrongdoers.",
+          "html": "Inside the fish, Yunus (AS) woke within darkness on darkness. Ibn Kathir records the explanation of the darknesses as the belly of the fish, the depths of the sea, and the night. He relates that Yunus (AS) at first thought he had died, then moved and knew he was alive. In that narrow, living prison he prostrated to Allah in a place no servant had prostrated before, and he called out the words that have carried believers out of their own darknesses ever since. Yunus (AS): \"There is no deity except You. Exalted are You. Indeed, I have been among the wrongdoers.\"",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Notice what the prayer does not contain. No complaint about the sailors, the city, the storm, the fish. No list of his years of unthanked preaching. Just Allah's perfection and his own fault, held up side by side. The creatures of the deep heard his glorification and gathered around the whale joining in the praise. And Allah, the Most Merciful, answered with a law that outlived the whale: Had he not been one of those who glorify Allah, he would have remained in its belly until the Day of Resurrection. The fish was commanded to the nearest shore, and it cast Yunus (AS) out onto a bare tract of land, sick, his skin inflamed from the belly that had been his prison, with no shelter from sun or wind. Allah caused a gourd tree to grow over him, broad leaves for shade and fruit for food, until strength returned. Then came the recommission: We sent him to a hundred thousand or more, and they believed, and We gave them enjoyment for a time. The prophet who left a city he thought was finished walked back into the only city in history that had finished repenting before he arrived."
         },
         {
           "t": "verse",
@@ -174,6 +175,10 @@ export const chapter = {
           "label": "Tafsir Ibn Kathir on 21:87 &middot; quran.com"
         },
         {
+          "t": "p",
+          "html": "Notice what the prayer does not contain. No complaint about the sailors, the city, the storm, or the fish. No list of unthanked sermons. Just Allah's perfection and the prophet's fault, held side by side. Allah answered him and saved him from the distress, then made the answer a rule for later believers: \"And thus do We save the believers.\""
+        },
+        {
           "t": "verse",
           "ref": "Quran 21:88",
           "arabic": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَـٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُـۨجِى ٱلْمُؤْمِنِينَ",
@@ -181,11 +186,23 @@ export const chapter = {
           "citation": "Surah 21 &middot; Verse 88 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The Prophet Muhammad ﷺ later taught that this supplication of Dhun-Nun, spoken in the belly of the whale, is a prayer no Muslim uses for a need without Allah responding to him. Yunus (AS) had spoken it for himself in the sea. It became an inheritance for every believer trapped inside the consequences of a wrong turn."
+        },
+        {
           "t": "hadith",
           "text": "&ldquo;The supplication of Dhun-Nun (Prophet Yunus) when he supplicated, while in the belly of the whale was: &lsquo;There is none worthy of worship except You, Glory to You, Indeed, I have been of the transgressors. (Lā ilāha illā anta subḥānaka innī kuntu minaẓ-ẓālimīn)&rsquo; So indeed, no Muslim man supplicates with it for anything, ever, except Allah responds to him.&rdquo;",
           "href": "https://sunnah.com/tirmidhi:3505",
           "label": "Jami` at-Tirmidhi 3505 &middot; sunnah.com",
           "narrator": "Narrated by Sa'd bin Abi Waqqas (RA)"
+        },
+        {
+          "t": "p",
+          "html": "Ibn Kathir also preserves the tenderness inside the judgment. The great fish was sent, but it was not sent to digest a prophet. It swallowed Yunus (AS) without cutting his flesh or breaking his bones, a living vessel rather than a grave. The Quran does not tell us the number of days he remained inside, and the story does not need a number. It needs the sentence Allah gives: if he had not been among those who glorify Him, the belly would have held him until resurrection."
+        },
+        {
+          "t": "p",
+          "html": "Had Yunus (AS) not been among those who glorify Allah, he would have remained in the fish's belly until the Day they are raised. Instead, the fish cast him onto an open shore while he was sick. Allah caused a gourd plant to grow over him, shade over a body with no shelter and food within reach of weakness. Strength returned slowly under leaves, in the open air, far from the city he had left and the sea that had carried him back to obedience."
         },
         {
           "t": "verse",
@@ -200,6 +217,17 @@ export const chapter = {
           "arabic": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
           "translation": "And We caused to grow over him a gourd vine.<sup foot_note=197198>1</sup>",
           "citation": "Surah 37 &middot; Verse 146 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Then the recommission came. Allah sent Yunus (AS) again to the hundred thousand or more, and they believed, so He gave them enjoyment for a time. The prophet who had walked away from a city he thought finished returned to the one city in the Quran whose people had finished repenting before the punishment could finish them."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:147-148",
+          "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+          "translation": "And We sent him<sup foot_note=197199>1</sup> to [his people of] a hundred thousand or more. And they believed, so We gave them enjoyment [of life] for a time.",
+          "citation": "Surah 37 &middot; Verses 147-148 &middot; Saheeh International"
         }
       ]
     },
@@ -218,12 +246,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Yunus (AS) is the only prophet whose entire community accepted the message. Every prophet's file in this book ends with destruction for the deniers, except his, and it ends that way despite his worst moment, not because of his best. The man of the fish is remembered by Allah with a warning to prophets themselves: So be patient for the decision of your Lord, and do not be like the companion of the fish, Muhammad (ﷺ) was told, when he called out while he was distressed. Had not a favour from his Lord reached him, he would have been cast onto the barren shore in disgrace. But his Lord chose him and made him among the righteous.",
+          "html": "Yunus (AS) is the prophet whose people accepted the message as a whole. The ending is mercy, but not amnesia. Allah later told Muhammad ﷺ to be patient for his Lord's decision and not to be like the companion of the fish when he called out in distress. If Allah's favour had not reached Yunus (AS), he would have been cast on the bare shore while censured. Instead, his Lord chose him and placed him among the righteous.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "His prayer outlived his city. There is no god but You, glory be to You, I have been among the wrongdoers is the key believers still turn in their own three darknesses: the night when escape routes close, the deep water of consequences, the belly of a mistake that was entirely our own. Yunus (AS) ran from his post and was retrieved, not with a lecture, but with a coastline, a shade tree, and a city that believed. No one who turns back is ever turned away."
         },
         {
           "t": "verse",
@@ -233,11 +257,19 @@ export const chapter = {
           "citation": "Surah 68 &middot; Verses 48-50 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The Prophet Muhammad ﷺ also guarded the honour of Yunus (AS) against careless comparison, teaching that no one should say, \"I am better than Yunus (AS).\" The warning to prophets and the honour of this prophet stand together. His lapse is named in revelation, and so is his repentance, his rescue, and his return."
+        },
+        {
           "t": "hadith",
           "text": "&ldquo;None of you should say that I am better than Yunus (i.e. Jonah).&rdquo;",
           "href": "https://sunnah.com/bukhari:3412",
           "label": "Sahih al-Bukhari 3412 &middot; sunnah.com",
           "narrator": "Narrated by Abdullah (RA)"
+        },
+        {
+          "t": "p",
+          "html": "His prayer outlived his city. \"There is no god but You, glory be to You, I have been among the wrongdoers\" is the key believers still turn in their own three darknesses: the night when escape routes close, the deep water of consequences, and the belly of a mistake that was entirely our own. Yunus (AS) ran from his post and was retrieved, not with disposal, but with a coastline, a shade plant, and a city that believed. No one who turns back is ever turned away."
         }
       ]
     }

@@ -45,6 +45,10 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "Ibn Kathir cites Ibn Abbas in explaining the turn: after the righteous men died, Satan inspired people to place images in the spots where those men used to sit. At first the images were not worshipped. When later generations forgot why they stood there, worship followed."
+        },
+        {
+          "t": "p",
           "html": "But Shaitan is patient. He can wait a hundred years for a trap. When that generation died, he whispered to their children: Your fathers used to worship these idols. They brought your fathers goodness. And so, for the first time since Adam (AS), people bowed to statues of stone. Idolatry had taken root in the hearts of men, and the idols even had names: Wadd, Suwa, Yaghuth, Ya'uq and Nasr, the names of the righteous men they were carved to remember."
         },
         {
@@ -72,23 +76,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "The poorest and weakest of the city listened first. In the words of Nuh (AS) they found hope, and one by one they entered Islam. But the rich masters of the city watched with anger. We see you as nothing but a man like ourselves, they said. One day they came to him with a bargain: Listen, Nuh. If you want us to believe, send away your believers. They are poor and low. We are rich and elite. One faith cannot hold both us and them."
-        },
-        {
-          "t": "p",
-          "html": "Nuh (AS) answered them calmly, and his answer is a lesson for all time. I ask you for no wealth, he said. My reward is with Allah alone, and I will never drive away those who believe, for they are going to meet their Lord. I do not claim to own Allah's treasures, I do not know the unseen, and I am not an angel. And I will not say that Allah will give no good to the people your eyes look down on. Allah knows what is inside their hearts. If I drove them away, I would be one of the wrongdoers."
-        },
-        {
-          "t": "p",
-          "html": "The chiefs had no answer, so they turned to insults. We see you in plain error, they said. Nuh (AS) replied: There is no error in me. I am a messenger from the Lord of the worlds, bringing you the messages of my Lord and giving you sincere advice. And I know from Allah what you do not know."
-        },
-        {
           "t": "verse",
           "ref": "Quran 71:1",
           "arabic": " إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
           "translation": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment.\"",
           "citation": "Surah 71 &middot; Verse 1 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Nuh (AS): O my people, I am a clear warner to you. Worship Allah, fear Him, and obey me. He will forgive your sins and delay you until an appointed term, for when Allah’s term comes it cannot be delayed."
         },
         {
           "t": "verse",
@@ -98,11 +94,8 @@ export const chapter = {
           "citation": "Surah 71 &middot; Verses 2-4 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 71:5-6",
-          "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
-          "translation": "He said, \"My Lord, indeed I invited my people [to truth] night and day. But my invitation increased them not except in flight [i.e., aversion].",
-          "citation": "Surah 71 &middot; Verses 5-6 &middot; Saheeh International"
+          "t": "p",
+          "html": "Nuh (AS) also urged them to seek forgiveness with a promise joined to mercy: rain in showers, increase in wealth and children, gardens and rivers. The offer was not only escape from punishment; it was a better life under Allah’s forgiveness."
         },
         {
           "t": "verse",
@@ -112,6 +105,10 @@ export const chapter = {
           "citation": "Surah 71 &middot; Verses 10-12 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The poorest and weakest of the city listened first. In the words of Nuh (AS) they found hope, and one by one they entered Islam. But the rich masters of the city watched with anger. We see you as nothing but a man like ourselves, they said. One day they came to him with a bargain: Listen, Nuh. If you want us to believe, send away your believers. They are poor and low. We are rich and elite. One faith cannot hold both us and them."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:27",
           "arabic": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَـٰذِبِينَ",
@@ -119,18 +116,8 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 27 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 11:32",
-          "arabic": "قَالُوا۟ يَـٰنُوحُ قَدْ جَـٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
-          "translation": "They said, \"O Noah, you have disputed [i.e., opposed] us and been frequent in dispute of us. So bring us what you threaten us, if you should be of the truthful.\"",
-          "citation": "Surah 11 &middot; Verse 32 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 7:61-62",
-          "arabic": "قَالَ يَـٰقَوْمِ لَيْسَ بِى ضَلَـٰلَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
-          "translation": "[Noah] said, \"O my people, there is not error in me, but I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord and advise you; and I know from Allāh what you do not know.",
-          "citation": "Surah 7 &middot; Verses 61-62 &middot; Saheeh International"
+          "t": "p",
+          "html": "Nuh (AS) answered them calmly, and his answer is a lesson for all time. I ask you for no wealth, he said. My reward is with Allah alone, and I will never drive away those who believe, for they are going to meet their Lord. I do not claim to own Allah's treasures, I do not know the unseen, and I am not an angel. And I will not say that Allah will give no good to the people your eyes look down on. Allah knows what is inside their hearts. If I drove them away, I would be one of the wrongdoers."
         },
         {
           "t": "verse",
@@ -140,11 +127,52 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 29 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Nuh (AS) then set the limits of his claim. He did not say that Allah’s treasures were with him, that he knew the unseen, or that he was an angel. He would not call the believers worthless when Allah knew what was in their souls."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:31",
           "arabic": "وَلَآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ إِنِّى مَلَكٌ وَلَآ أَقُولُ لِلَّذِينَ تَزْدَرِىٓ أَعْيُنُكُمْ لَن يُؤْتِيَهُمُ ٱللَّهُ خَيْرًا ۖ ٱللَّهُ أَعْلَمُ بِمَا فِىٓ أَنفُسِهِمْ ۖ إِنِّىٓ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ",
           "translation": "And I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel, nor do I say of those upon whom your eyes look down that Allāh will never grant them any good. Allāh is most knowing of what is within their souls. Indeed, I would then be among the wrongdoers [i.e., the unjust].\"",
           "citation": "Surah 11 &middot; Verse 31 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The chiefs answered with weariness and a dare. The chiefs: You have disputed with us and prolonged the dispute, so bring what you promise if you are truthful. Their demand treated warning as a contest."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 11:32",
+          "arabic": "قَالُوا۟ يَـٰنُوحُ قَدْ جَـٰدَلْتَنَا فَأَكْثَرْتَ جِدَٰلَنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+          "translation": "They said, \"O Noah, you have disputed [i.e., opposed] us and been frequent in dispute of us. So bring us what you threaten us, if you should be of the truthful.\"",
+          "citation": "Surah 11 &middot; Verse 32 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The chiefs had no answer, so they turned to insults. We see you in plain error, they said. Nuh (AS) replied: There is no error in me. I am a messenger from the Lord of the worlds, bringing you the messages of my Lord and giving you sincere advice. And I know from Allah what you do not know."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 7:61-62",
+          "arabic": "قَالَ يَـٰقَوْمِ لَيْسَ بِى ضَلَـٰلَةٌ وَلَـٰكِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ أُبَلِّغُكُمْ رِسَـٰلَـٰتِ رَبِّى وَأَنصَحُ لَكُمْ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+          "translation": "[Noah] said, \"O my people, there is not error in me, but I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord and advise you; and I know from Allāh what you do not know.",
+          "citation": "Surah 7 &middot; Verses 61-62 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Looking back over the long call, Nuh (AS) told his Lord that he had invited his people night and day, yet his invitation only increased them in flight. The words carry grief as much as complaint."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 71:5-6",
+          "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+          "translation": "He said, \"My Lord, indeed I invited my people [to truth] night and day. But my invitation increased them not except in flight [i.e., aversion].",
+          "citation": "Surah 71 &middot; Verses 5-6 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Nuh (AS): I am a trustworthy messenger to you, so fear Allah and obey me. I ask no payment from you; my payment is only from the Lord of the worlds. That was the ground he never left."
         },
         {
           "t": "verse",
@@ -174,14 +202,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "The mockery never stopped, and neither did he. But slowly the truth settled in his heart: the believers were not growing, while the disbelievers multiplied. At last he raised his hands to his Lord, not in anger for himself, but in sorrow for them. My Lord, he prayed, they have disobeyed me and followed the wealthy ones whose riches only increase them in loss. They have plotted a mighty plot and said to the people: never leave your gods, never leave Wadd, Suwa, Yaghuth, Ya'uq and Nasr."
-        },
-        {
-          "t": "p",
-          "html": "Then Allah revealed to Nuh (AS) the saddest news of his long life: no one else from your people will believe. The door had closed, not because Allah was unwilling, but because nine centuries of hearts had locked it from the inside. So Nuh (AS) prayed the prayer of a prophet who had tried everything: My Lord, do not leave a single disbeliever on the earth. If You leave them, they will mislead Your servants, and they will raise nothing but wicked disbelievers."
-        },
-        {
           "t": "verse",
           "ref": "Quran 29:14",
           "arabic": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَـٰلِمُونَ",
@@ -189,11 +209,8 @@ export const chapter = {
           "citation": "Surah 29 &middot; Verse 14 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 71:7",
-          "arabic": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
-          "translation": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance.",
-          "citation": "Surah 71 &middot; Verse 7 &middot; Saheeh International"
+          "t": "p",
+          "html": "His methods matched his patience. He called them openly, then announced to them in public and confided to them in private. Group, gathering, and quiet conversation all carried the same message."
         },
         {
           "t": "verse",
@@ -203,11 +220,30 @@ export const chapter = {
           "citation": "Surah 71 &middot; Verses 8-9 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Their answer could be seen before it was heard. Whenever he called them toward forgiveness, they put fingers in their ears, wrapped themselves in their garments, persisted, and swelled with arrogance."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 71:7",
+          "arabic": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
+          "translation": "And indeed, every time I invited them that You may forgive them, they put their fingers in their ears, covered themselves with their garments, persisted, and were arrogant with [great] arrogance.",
+          "citation": "Surah 71 &middot; Verse 7 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The mockery never stopped, and neither did he. But slowly the truth settled in his heart: the believers were not growing, while the disbelievers multiplied. At last he raised his hands to his Lord, not in anger for himself, but in sorrow for them. My Lord, he prayed, they have disobeyed me and followed the wealthy ones whose riches only increase them in loss. They have plotted a mighty plot and said to the people: never leave your gods, never leave Wadd, Suwa, Yaghuth, Ya'uq and Nasr."
+        },
+        {
           "t": "verse",
           "ref": "Quran 71:23",
           "arabic": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
           "translation": "And said, 'Never leave your gods and never leave Wadd or Suwāʿ or Yaghūth and Yaʿūq and Nasr.'",
           "citation": "Surah 71 &middot; Verse 23 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Some reduced him to madness. The people: He is only a man possessed, so wait for a time. It was easier to name the messenger than to face the message."
         },
         {
           "t": "verse",
@@ -217,11 +253,19 @@ export const chapter = {
           "citation": "Surah 23 &middot; Verse 25 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Others moved from mockery to threat. The people: If you do not stop, O Nuh (AS), you will be among those who are stoned. After centuries of preaching, the answer was a warning of violence."
+        },
+        {
           "t": "verse",
           "ref": "Quran 26:116",
           "arabic": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
           "translation": "They said, \"If you do not desist, O Noah, you will surely be of those who are stoned.\"",
           "citation": "Surah 26 &middot; Verse 116 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Then Allah revealed to Nuh (AS) the saddest news of his long life: no one else from your people will believe. The door had closed, not because Allah was unwilling, but because nine centuries of hearts had locked it from the inside. So Nuh (AS) prayed the prayer of a prophet who had tried everything: My Lord, do not leave a single disbeliever on the earth. If You leave them, they will mislead Your servants, and they will raise nothing but wicked disbelievers."
         }
       ]
     },
@@ -244,14 +288,6 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "The people of the city found it hilarious. O Nuh, they laughed, has carpentry become more appealing to you than prophethood? Why build a ship so far from the water? Will you drag it to the sea, or will the wind carry it for you? Every time a group passed by, the joke was repeated. Nuh (AS) did not stop hammering. You mock us now, he told them, but we will mock you as you mock us, and you will soon know who will be covered in shame."
-        },
-        {
-          "t": "p",
-          "html": "While the ark rose plank by plank in the desert, Allah gave Nuh (AS) the sign to watch for: when the oven in his home begins to gush with water, gather the believers and the animals and board the ship. It would be the first signal of the flood that would end the age of the idols."
-        },
-        {
           "t": "verse",
           "ref": "Quran 11:36-37",
           "arabic": "وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَـٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۚ إِنَّهُم مُّغْرَقُونَ",
@@ -259,11 +295,19 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verses 36-37 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The people of the city found it hilarious. O Nuh, they laughed, has carpentry become more appealing to you than prophethood? Why build a ship so far from the water? Will you drag it to the sea, or will the wind carry it for you? Every time a group passed by, the joke was repeated. Nuh (AS) did not stop hammering. You mock us now, he told them, but we will mock you as you mock us, and you will soon know who will be covered in shame."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:38-39",
           "arabic": "وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
           "translation": "And he constructed the ship, and whenever an assembly of the eminent of his people passed by him, they ridiculed him. He said, \"If you ridicule us, then we will ridicule you just as you ridicule. And you are going to know who will get a punishment that will disgrace him [on earth] and upon whom will descend an enduring punishment [in the Hereafter].\"",
           "citation": "Surah 11 &middot; Verses 38-39 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "While the ark rose plank by plank in the desert, Allah gave Nuh (AS) the sign to watch for: when the oven in his home begins to gush with water, gather the believers and the animals and board the ship. It would be the first signal of the flood that would end the age of the idols."
         }
       ]
     },
@@ -282,12 +326,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The day came. Water began to bubble and gush from the oven in the house of Nuh (AS), an impossible sight: water bursting out of the place of fire. Nuh (AS) knew the promise had arrived. He gathered the believers, few as they were after nine hundred and fifty years, and he loaded the ark with pairs of animals, birds and creeping things, two of every kind, male and female, so that life on earth would not end with the flood.",
-          "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "The neighbours watched the strange parade and laughed their last laugh. Nuh has lost his mind, they said. What is he going to do with all those animals? Nuh (AS) boarded the ark with his people, and in the name of Allah they set it ready, for its sailing and its anchoring both belonged to Allah."
+          "html": "Before the sign appeared, Nuh (AS) turned to the Lord who had carried him through centuries of refusal. Nuh (AS): Indeed, I am overpowered, so help. It was the prayer of a servant who had spent every argument he had."
         },
         {
           "t": "verse",
@@ -297,11 +336,20 @@ export const chapter = {
           "citation": "Surah 54 &middot; Verse 10 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The day came. Water began to bubble and gush from the oven in the house of Nuh (AS), an impossible sight: water bursting out of the place of fire. Nuh (AS) knew the promise had arrived. He gathered the believers, few as they were after nine hundred and fifty years, and he loaded the ark with pairs of animals, birds and creeping things, two of every kind, male and female, so that life on earth would not end with the flood.",
+          "cls": "dropcap"
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:40",
           "arabic": "حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ ۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ",
           "translation": "[So it was], until when Our command came and the oven overflowed, We said, \"Load upon it [i.e., the ship] of each [creature] two mates and your family, except those about whom the word [i.e., decree] has preceded, and [include] whoever has believed.\" But none had believed with him, except a few.",
           "citation": "Surah 11 &middot; Verse 40 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The command also separated the saved from the lost inside Nuh’s own house. The Quran later holds up the wife of Nuh (AS) as an example of disbelief: nearness to a prophet did not save her, because she betrayed the message she lived beside."
         },
         {
           "t": "verse",
@@ -311,11 +359,8 @@ export const chapter = {
           "citation": "Surah 66 &middot; Verse 10 &middot; Saheeh International"
         },
         {
-          "t": "verse",
-          "ref": "Quran 54:13-14",
-          "arabic": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
-          "translation": "And We carried him on a [construction of] planks and nails, Sailing under Our observation as reward for he who had been denied.",
-          "citation": "Surah 54 &middot; Verses 13-14 &middot; Saheeh International"
+          "t": "p",
+          "html": "The neighbours watched the strange parade and laughed their last laugh. Nuh has lost his mind, they said. What is he going to do with all those animals? Nuh (AS) boarded the ark with his people, and in the name of Allah they set it ready, for its sailing and its anchoring both belonged to Allah."
         },
         {
           "t": "verse",
@@ -323,6 +368,17 @@ export const chapter = {
           "arabic": "۞ وَقَالَ ٱرْكَبُوا۟ فِيهَا بِسْمِ ٱللَّهِ مَجْر۪ىٰهَا وَمُرْسَىٰهَآ ۚ إِنَّ رَبِّى لَغَفُورٌ رَّحِيمٌ",
           "translation": "And [Noah] said, \"Embark therein; in the name of Allāh [are] its course and its anchorage. Indeed, my Lord is Forgiving and Merciful.\"",
           "citation": "Surah 11 &middot; Verse 41 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The vessel itself was plain and strong: planks and nails sailing under Allah’s observation. Its safety was not in the timber. It was in the promise that watched over it."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 54:13-14",
+          "arabic": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+          "translation": "And We carried him on a [construction of] planks and nails, Sailing under Our observation as reward for he who had been denied.",
+          "citation": "Surah 54 &middot; Verses 13-14 &middot; Saheeh International"
         }
       ]
     },
@@ -345,19 +401,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
-          "t": "p",
-          "html": "Among those who refused the ark were Nuh's own wife and one of his sons. From the deck, Nuh (AS) saw his boy standing apart from the believers and called out to him with a father's breaking heart: O my son, embark with us, and do not be among the disbelievers. The boy called back: I will climb a mountain. It will save me from the water. Nuh (AS) cried: Today there is no protector from the command of Allah, except the one He gives mercy to. And a wave came between them, and the boy was among the drowned. A mountain of water is stronger than a mountain of stone."
-        },
-        {
-          "t": "p",
-          "html": "When every disbeliever had perished, Allah spoke to the sky and the earth: O earth, swallow your water. O sky, hold back your rain. The rain stopped. The waters sank. And the ark came to rest on Mount Judi, safe at last on high ground."
-        },
-        {
           "t": "verse",
           "ref": "Quran 54:11-12",
           "arabic": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
           "translation": "Then We opened the gates of the heaven with rain pouring down And caused the earth to burst with springs, and the waters met for a matter already predestined.",
           "citation": "Surah 54 &middot; Verses 11-12 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Allah kept the ark as a reminder for later ears. A conscious ear would hear more than weather in it; it would hear what happens when warning is refused for generations."
         },
         {
           "t": "verse",
@@ -367,11 +419,19 @@ export const chapter = {
           "citation": "Surah 69 &middot; Verses 11-12 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Among those who refused the ark were Nuh's own wife and one of his sons. From the deck, Nuh (AS) saw his boy standing apart from the believers and called out to him with a father's breaking heart: O my son, embark with us, and do not be among the disbelievers. The boy called back: I will climb a mountain. It will save me from the water. Nuh (AS) cried: Today there is no protector from the command of Allah, except the one He gives mercy to. And a wave came between them, and the boy was among the drowned. A mountain of water is stronger than a mountain of stone."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:42-43",
           "arabic": "وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَـٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَـٰفِرِينَ قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ",
           "translation": "And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], \"O my son, come aboard with us and be not with the disbelievers.\" [But] he said, \"I will take refuge on a mountain to protect me from the water.\" [Noah] said, \"There is no protector today from the decree of Allāh, except for whom He gives mercy.\" And the waves came between them, and he was among the drowned.",
           "citation": "Surah 11 &middot; Verses 42-43 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Nuh (AS) then called to his Lord with a father’s pain. Nuh (AS): My Lord, my son is from my family, and Your promise is true, and You are the most just of judges. Allah answered that the son was not of his family in faith, for his work was unrighteous, and warned Nuh (AS) not to ask about what he had no knowledge of."
         },
         {
           "t": "verse",
@@ -381,11 +441,19 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verses 45-46 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "Nuh (AS) turned back at once. Nuh (AS): My Lord, I seek refuge in You from asking about what I have no knowledge of. Unless You forgive me and have mercy on me, I will be among the losers. Even in grief, the prophet corrected himself before Allah."
+        },
+        {
           "t": "verse",
           "ref": "Quran 11:47",
           "arabic": "قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَـٰسِرِينَ",
           "translation": "[Noah] said, \"My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.\"",
           "citation": "Surah 11 &middot; Verse 47 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "When every disbeliever had perished, Allah spoke to the sky and the earth: O earth, swallow your water. O sky, hold back your rain. The rain stopped. The waters sank. And the ark came to rest on Mount Judi, safe at last on high ground."
         },
         {
           "t": "verse",
@@ -395,25 +463,15 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 44 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "On board, the prayer of gratitude belonged to the landing as much as to the sailing. Praise was for Allah who saved them from the wrongdoing people, and the request was for a blessed place to come down."
+        },
+        {
           "t": "verse",
           "ref": "Quran 23:28-29",
           "arabic": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ",
           "translation": "And when you have boarded the ship, you and those with you, then say, 'Praise to Allāh who has saved us from the wrongdoing people.' And say, 'My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].'\"",
           "citation": "Surah 23 &middot; Verses 28-29 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 11:48",
-          "arabic": "قِيلَ يَـٰنُوحُ ٱهْبِطْ بِسَلَـٰمٍ مِّنَّا وَبَرَكَـٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ ۚ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ",
-          "translation": "It was said, \"O Noah, disembark in security from Us and blessings upon you and upon nations [descending] from those with you. But other nations [of them] We will grant enjoyment; then there will touch them from Us a painful punishment.\"",
-          "citation": "Surah 11 &middot; Verse 48 &middot; Saheeh International"
-        },
-        {
-          "t": "verse",
-          "ref": "Quran 37:76-77",
-          "arabic": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
-          "translation": "And We saved him and his family from the great affliction. And We made his descendants those remaining [on the earth]",
-          "citation": "Surah 37 &middot; Verses 76-77 &middot; Saheeh International"
         }
       ]
     },
@@ -436,8 +494,15 @@ export const chapter = {
           "cls": "dropcap"
         },
         {
+          "t": "verse",
+          "ref": "Quran 11:48",
+          "arabic": "قِيلَ يَـٰنُوحُ ٱهْبِطْ بِسَلَـٰمٍ مِّنَّا وَبَرَكَـٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ ۚ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ",
+          "translation": "It was said, \"O Noah, disembark in security from Us and blessings upon you and upon nations [descending] from those with you. But other nations [of them] We will grant enjoyment; then there will touch them from Us a painful punishment.\"",
+          "citation": "Surah 11 &middot; Verse 48 &middot; Saheeh International"
+        },
+        {
           "t": "p",
-          "html": "From those few believers on Mount Judi, mankind began again. Every human being alive today descends from the people of that ark, which is why Nuh (AS) is called the second father of mankind. The idols of stone lay at the bottom of a drowned world, and the lesson of his nine hundred and fifty years was written into history: Allah's promise always sails, even when it is built in a desert, even when the whole city is laughing."
+          "html": "Allah left his name with peace among later generations. Salam upon Nuh (AS) among the worlds became more than a greeting; it became the verdict on a life spent warning people who would not listen."
         },
         {
           "t": "verse",
@@ -447,11 +512,30 @@ export const chapter = {
           "citation": "Surah 37 &middot; Verses 78-79 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "From those few believers on Mount Judi, mankind began again. Every human being alive today descends from the people of that ark, which is why Nuh (AS) is called the second father of mankind. The idols of stone lay at the bottom of a drowned world, and the lesson of his nine hundred and fifty years was written into history: Allah's promise always sails, even when it is built in a desert, even when the whole city is laughing."
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:76-77",
+          "arabic": "وَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ",
+          "translation": "And We saved him and his family from the great affliction. And We made his descendants those remaining [on the earth]",
+          "citation": "Surah 37 &middot; Verses 76-77 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The Quran calls Nuh (AS) a grateful servant and speaks to the descendants of those carried with him. Gratitude, not bitterness, is the note left over the flood."
+        },
+        {
           "t": "verse",
           "ref": "Quran 17:3",
           "arabic": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُۥ كَانَ عَبْدًا شَكُورًا",
           "translation": "O descendants of those We carried [in the ship] with Noah. Indeed, he was a grateful servant.",
           "citation": "Surah 17 &middot; Verse 3 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Allah made the ark a sign for the worlds. The same religion enjoined on later prophets was first carried through that storm: establish the religion and do not divide in it."
         },
         {
           "t": "verse",
@@ -461,11 +545,19 @@ export const chapter = {
           "citation": "Surah 29 &middot; Verse 15 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The religion carried through the ark was the same call later prophets would carry: establish the worship of Allah and do not split into factions over it."
+        },
+        {
           "t": "verse",
           "ref": "Quran 42:13",
           "arabic": "۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ",
           "translation": "He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muḥammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allāh is that to which you invite them. Allāh chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].",
           "citation": "Surah 42 &middot; Verse 13 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "To Muhammad ﷺ, Allah called this account news of the unseen that neither he nor his people had known before. The command at the end was patience, for the outcome belongs to the righteous."
         },
         {
           "t": "verse",
@@ -475,11 +567,19 @@ export const chapter = {
           "citation": "Surah 11 &middot; Verse 49 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "On the Day when people seek intercession, they will remember Nuh (AS) as the first messenger sent to the people of the earth and as Allah’s grateful servant. He will point to the one invocation he used against his nation and send them onward."
+        },
+        {
           "t": "hadith",
           "text": "&ldquo;So they will go to Noah and say to him: &lsquo;O Noah! You are the first of Allah’s Messengers to the people of the earth, and Allah has named you a thankful slave; please intercede for us with your Lord.&rsquo; He will say: &lsquo;I had the right to make one definitely accepted invocation, and I made it against my nation. Myself! Myself! Myself! Go to someone else; go to Abraham.&rsquo;&rdquo;",
           "narrator": "Narrated Abu Huraira",
           "href": "https://sunnah.com/bukhari:4712",
           "label": "Sahih al-Bukhari 4712 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "Nuh (AS) will also be called to witness that he conveyed the message. When his nation denies that a warner came, Muhammad ﷺ and his followers will testify that the message was delivered."
         },
         {
           "t": "hadith",

@@ -1,7 +1,7 @@
 /* al-yasa chapter data: Al-Yasa (AS), Chapter XX.
    Story format: prose scenes written for young readers, following the
    classical telling of the story. Verse, hadith and tafsir panels
-   sit as dropdowns under each scene. No sources note card. */
+   sit as dropdowns under the passages they support. No sources note card. */
 export const chapter = {
   "hero": {
     "plaque": "Chapter XX",
@@ -32,16 +32,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "If Ilyas (AS) is a mystery, his successor is a whisper. Al-Yasa (AS), known in English as Elisha, is named only twice in the entire Quran, and both times in honour rolls rather than stories. In Surah Al-An'am, Allah groups him with Ismail (AS), Yunus (AS) and Lut (AS) and seals the line: each one We favoured above the worlds. In Surah Sad, the command to the Prophet Muhammad (ﷺ) and to us is simply: Remember. Remember Ismail and Al-Yasa and Dhul-Kifl, and all were among the best.",
+          "html": "If Ilyas (AS) is a mystery, his successor is a whisper. Al-Yasa (AS), known in English as Elisha, is named only twice in the entire Quran, and both times in honour rolls rather than stories. In Surah Al-An'am, Allah groups him with Ismail (AS), Yunus (AS) and Lut (AS) and seals the line: each one We favoured above the worlds.",
           "cls": "dropcap"
-        },
-        {
-          "t": "p",
-          "html": "Think about what that means. Allah, who decides what humanity needs to know, decided Al-Yasa's (AS) name deserved to be remembered, grouped him with the best, and then left out every detail of his life. The Quran's verdict on him is not a story. It is a ranking. And there is not a person alive who would not trade their fame for it."
-        },
-        {
-          "t": "p",
-          "html": "What the commentators add is modest and consistent. Al-Yasa (AS) was of the Children of Israel, of the line of Yusuf (AS), and he succeeded Ilyas (AS), the prophet he had served, sent to guide the same idol-scarred generations to obey Allah's laws and commands."
         },
         {
           "t": "verse",
@@ -49,6 +41,16 @@ export const chapter = {
           "arabic": "وَإِسْمَـٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا ۚ وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَـٰلَمِينَ",
           "translation": "And Ishmael and Elisha and Jonah and Lot - and all [of them] We preferred over the worlds.",
           "citation": "Surah 6 &middot; Verse 86 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir (Abridged), commenting on this passage of Surah Al-An'am, gathers the whole noble list into one description: they are those to whom Allah gave the Book, the judgement and prophethood, bestowing these bounties on them as a mercy for the servants and a kindness to creation. Al-Yasa (AS) is named inside that gathering, and the commentary adds no story of him beyond the company the verse itself places him in.",
+          "href": "https://quran.com/6:86/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 6:86 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "In Surah Sad, the command to the Prophet Muhammad (ﷺ) and to us is simply: Remember. Remember Ismail and Al-Yasa and Dhul-Kifl, and all were among the best."
         },
         {
           "t": "verse",
@@ -59,15 +61,21 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir (Abridged), commenting on this passage of Surah Al-An'am, gathers the whole noble list into one description: they are those to whom Allah gave the Book, the judgement and prophethood, bestowing these bounties on them as a mercy for the servants and a kindness to creation. Al-Yasa (AS) is named inside that gathering, and the commentary adds no story of him beyond the company the verse itself places him in.",
-          "href": "https://quran.com/6:86/tafsirs/en-tafisr-ibn-kathir",
-          "label": "Tafsir Ibn Kathir on 6:86 &middot; quran.com"
-        },
-        {
-          "t": "tafsir",
           "text": "Ibn Kathir (Abridged), on the verse of remembrance in Surah Sad, explains the rank named there: they are among those who have been elected and chosen, and they are the best and the chosen ones. It is in this sense that Al-Yasa (AS) is remembered among the elect, by the testimony of the verse and the agreement of its commentary.",
           "href": "https://quran.com/38:48/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 38:48 &middot; quran.com"
+        },
+        {
+          "t": "p",
+          "html": "Think about what that means. Allah, who decides what humanity needs to know, decided Al-Yasa's (AS) name deserved to be remembered, grouped him with the best, and then left out every detail of his life. The Quran's verdict on him is not a story. It is a ranking. And there is not a person alive who would not trade their fame for it."
+        },
+        {
+          "t": "p",
+          "html": "What the commentators add is modest and consistent. Al-Yasa (AS) was of the Children of Israel, of the line of Yusuf (AS), and he succeeded Ilyas (AS), the prophet he had served, sent to guide the same idol-scarred generations to obey Allah's laws and commands."
+        },
+        {
+          "t": "p",
+          "html": "No speech from Al-Yasa (AS) is preserved in the Quran, so this chapter adds no dialogue for him. What remains is testimony: Allah names him among those favoured above the worlds and among the best, and the classical reports make him the successor who continued the call after Ilyas (AS)."
         }
       ]
     },
