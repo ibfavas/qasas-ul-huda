@@ -245,10 +245,10 @@ export const prophets = [
     "pname": "Isa (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=muhammad",
+    "aria": "Read the story of Muhammad",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M10 36a14 14 0 0 1 28 0\"/><path d=\"M24 12V7\"/><circle cx=\"24\" cy=\"5\" r=\"1.6\" fill=\"currentColor\" stroke=\"none\"/><path d=\"M8 36h32\"/><path d=\"M19 36v-5a5 5 0 0 1 10 0v5\"/>",
     "pnum": "XXV",

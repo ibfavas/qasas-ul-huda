@@ -839,9 +839,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=muhammad",
+      "label": "Next chapter: XXV",
+      "title": "Muhammad \uFDFA: Mercy to the Worlds",
       "arrow": "next"
     }
   ]
