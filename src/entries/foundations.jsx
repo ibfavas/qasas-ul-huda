@@ -2,7 +2,7 @@
    /foundations/?p=iman  or  /foundations/?p=pillars  or  /foundations/?p=quran
    (hash #iman also works) */
 import { createRoot } from 'react-dom/client';
-import { useEffect } from 'react';
+import { useEffect, Fragment } from 'react';
 import { FoundationsPage } from '../pages/Foundations.jsx';
 import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
@@ -35,21 +35,33 @@ function FoundationsIndex() {
         </h1>
         <RuleStar />
         <ul className="story-index-list reveal" data-delay="2">
-          {foundationOrder.map((slug) => (
-            <li key={slug}>
-              {foundations[slug].soon ? (
-                <span className="soon-guide">
-                  <span className="pn-label">Article · being written</span>
-                  <span className="pn-title">{foundations[slug].hero.title}</span>
-                </span>
-              ) : (
-                <a href={'?p=' + slug}>
-                  <span className="pn-label">{foundations[slug].hero.plaque}</span>
-                  <span className="pn-title">{foundations[slug].hero.title}</span>
-                </a>
-              )}
-            </li>
-          ))}
+          {foundationOrder.map((slug, i) => {
+            const showGroup =
+              foundations[slug].group &&
+              (i === 0 || foundations[foundationOrder[i - 1]].group !== foundations[slug].group);
+            return (
+              <Fragment key={slug}>
+                {showGroup ? (
+                  <li aria-hidden="true">
+                    <span className="pn-label">{foundations[slug].group}</span>
+                  </li>
+                ) : null}
+                <li>
+                  {foundations[slug].soon ? (
+                    <span className="soon-guide">
+                      <span className="pn-label">Article · being written</span>
+                      <span className="pn-title">{foundations[slug].hero.title}</span>
+                    </span>
+                  ) : (
+                    <a href={'?p=' + slug}>
+                      <span className="pn-label">{foundations[slug].hero.plaque}</span>
+                      <span className="pn-title">{foundations[slug].hero.title}</span>
+                    </a>
+                  )}
+                </li>
+              </Fragment>
+            );
+          })}
         </ul>
       </main>
       <Footer />

@@ -4,6 +4,7 @@
    Quran.com API. Hadith wordings verified verbatim on sunnah.com. */
 export const foundations = {
   "iman": {
+    "group": "Belief and Practice",
     "hero": {
       "plaque": "Foundations",
       "title": "The Six Articles of Faith",
@@ -197,6 +198,7 @@ export const foundations = {
     ]
   },
   "pillars": {
+    "group": "Belief and Practice",
     "hero": {
       "plaque": "Foundations",
       "title": "The Five Pillars of Islam",
@@ -367,13 +369,195 @@ export const foundations = {
       },
       {
         "label": "Next article",
-        "title": "The Standardization of the Quran",
-        "href": "?p=quran",
+        "title": "The Night the Quran Began",
+        "href": "?p=night",
         "arrow": "next"
       }
     ]
   },
+  "night": {
+  "group": "The Quran",
+  "hero": {
+    "caption": "A symbolic image: the cave above the sleeping valley in the last stillness before dawn.",
+    "img": "../assets/foundations-hira.webp",
+    "imgAlt": "Persian miniature painting of a rocky cave above a valley town under a star filled night sky",
+    "plaque": "Foundations",
+    "sub": "How the revelation began: one word in a cave, a night of decree, and a Book sent down across twenty-three years.",
+    "title": "The Night the Quran Began"
+  },
+  "introHtml": "Before there was a book on a shelf, there was a man alone in a cave above Makkah, and a single command that would change the world: Read. Everything in the Standardization article happened because of what happened that night, so the story of the Quran properly begins here, in the dark, with a heart beating hard enough to tremble.",
+  "prevNext": [
+    {
+      "arrow": "back",
+      "href": "?p=pillars",
+      "label": "Previous article",
+      "title": "The Five Pillars of Islam"
+    },
+    {
+      "arrow": "next",
+      "href": "?p=quran",
+      "label": "Next article",
+      "title": "The Standardization of the Quran"
+    }
+  ],
+  "railLabels": [
+    "In the Cave",
+    "Read",
+    "The Night of Decree",
+    "Sent Down Over Years",
+    "Makkah and Madinah"
+  ],
+  "sections": [
+    {
+      "ariaLabel": "In the Cave",
+      "blocks": [
+        {
+          "html": "Hira, before the dawn",
+          "t": "kicker"
+        },
+        {
+          "html": "In the Cave",
+          "t": "h2"
+        },
+        {
+          "cls": "dropcap",
+          "html": "Aisha (RA), the Mother of the Believers, tells us how it started. First came true dreams, arriving as clear as daylight. Then the Prophet ﷺ grew to love seclusion, withdrawing to the cave of Hira for nights of worship, carrying provisions, returning to Khadija (RA), and going back again. It was in that rhythm of silence that the Truth came to him.",
+          "t": "p"
+        },
+        {
+          "href": "https://sunnah.com/bukhari:3",
+          "label": "Sahih al-Bukhari 3 · sunnah.com",
+          "narrator": "Narrated Aisha",
+          "t": "hadith",
+          "text": "“The commencement of the Divine Inspiration to Allah's Apostle was in the form of good dreams which came true like bright day light, and then the love of seclusion was bestowed upon him. He used to go in seclusion in the cave of Hira where he used to worship (Allah alone) continuously for many days.”"
+        },
+        {
+          "html": "Then the angel came, and with him the most famous first word in the history of the Book.",
+          "t": "p"
+        }
+      ],
+      "id": "in-the-cave",
+      "title": "In the Cave"
+    },
+    {
+      "ariaLabel": "Read",
+      "blocks": [
+        {
+          "html": "The first word",
+          "t": "kicker"
+        },
+        {
+          "html": "Read",
+          "t": "h2"
+        },
+        {
+          "html": "He was commanded to read, and he answered with the truth about himself: I do not know how to read. The angel pressed him, released him, commanded him again, three times, until the words came. The first revelation of the Quran was not a law, not a threat, not a story. It was a command to read, in the name of the Lord who created man from a clinging substance, and who taught by the pen what man did not know.",
+          "t": "p"
+        },
+        {
+          "href": "https://sunnah.com/bukhari:3",
+          "label": "Sahih al-Bukhari 3 · sunnah.com",
+          "narrator": "Narrated Aisha",
+          "t": "hadith",
+          "text": "“The angel came to him and asked him to read. The Prophet replied, ‘I do not know how to read.’ ... Thereupon he caught me for the third time and pressed me, and then released me, and said, ‘Read in the name of your Lord, who has created (all that exists), has created man from a clot. Read! And your Lord is the Most Generous.’”"
+        },
+        {
+          "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+          "citation": "Surah 96 · Verses 1-5 · Saheeh International",
+          "ref": "Quran 96:1-5",
+          "t": "verse",
+          "translation": "Recite in the name of your Lord who created Created man from a clinging substance. Recite, and your Lord is the most Generous - Who taught by the pen Taught man that which he knew not."
+        },
+        {
+          "html": "He returned home with his heart beating severely, asking to be covered, and Khadija (RA) answered him with the words that have comforted believers ever since: Never. By Allah, Allah will never disgrace you. Her cousin Waraqah, who knew the earlier scriptures, recognised what had come to him. The revelation had begun.",
+          "t": "p"
+        }
+      ],
+      "id": "read",
+      "title": "Read"
+    },
+    {
+      "ariaLabel": "The Night of Decree",
+      "blocks": [
+        {
+          "html": "Laylat al-Qadr",
+          "t": "kicker"
+        },
+        {
+          "html": "The Night of Decree",
+          "t": "h2"
+        },
+        {
+          "html": "The Quran names the night of its descent. It was sent down in the Night of Decree, the night hidden in the last days of Ramadan, the month in which, the Quran says, it was revealed as guidance for mankind. One night, better than a thousand months, and the believer still searches for it every year in the dark, the way it first came in the dark.",
+          "t": "p"
+        },
+        {
+          "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+          "citation": "Surah 97 · Verse 1 · Saheeh International",
+          "ref": "Quran 97:1",
+          "t": "verse",
+          "translation": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+        }
+      ],
+      "id": "night-of-decree",
+      "title": "The Night of Decree"
+    },
+    {
+      "ariaLabel": "Sent Down Over Years",
+      "blocks": [
+        {
+          "html": "Piece by piece, heart by heart",
+          "t": "kicker"
+        },
+        {
+          "html": "Sent Down Over Years",
+          "t": "h2"
+        },
+        {
+          "html": "The Quran did not arrive as a finished volume dropped in a single night and then explained for twenty years. After the first verses, it came down piece by piece across the whole prophetic life: answering events, correcting mistakes, comforting the grieving, ruling on questions as they arose. The disbelievers themselves asked why it had not come all at once, and the Quran records both their question and its answer.",
+          "t": "p"
+        },
+        {
+          "arabic": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
+          "citation": "Surah 25 · Verse 32 · Saheeh International",
+          "ref": "Quran 25:32",
+          "t": "verse",
+          "translation": "And those who disbelieve say, \"Why was the Qur’ān not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly."
+        },
+        {
+          "arabic": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
+          "citation": "Surah 17 · Verse 106 · Saheeh International",
+          "ref": "Quran 17:106",
+          "t": "verse",
+          "translation": "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively."
+        }
+      ],
+      "id": "over-years",
+      "title": "Sent Down Over Years"
+    },
+    {
+      "ariaLabel": "Makkah and Madinah",
+      "blocks": [
+        {
+          "html": "Two homes of the revelation",
+          "t": "kicker"
+        },
+        {
+          "html": "Makkah and Madinah",
+          "t": "h2"
+        },
+        {
+          "html": "Because the revelation spanned two cities and two very different struggles, its surahs carry two names. Those revealed before the Hijrah are called Makki, and those after it Madani. In Makkah, where the believers were few and hunted, the verses hammered the foundations: Allah is One, the dead will rise, the stories of earlier prophets stood as warnings and as company. In Madinah, where a community now existed, the verses built its life: prayer and fasting in their rulings, family, trade, justice and war. Read in order of revelation, you can watch a community being raised the way a father raises a child, first the creed that anchors the heart, then the law that orders the day.",
+          "t": "p"
+        }
+      ],
+      "id": "makkah-madinah",
+      "title": "Makkah and Madinah"
+    }
+  ]
+},
   "quran": {
+    "group": "The Quran",
     "hero": {
       "plaque": "Foundations",
       "title": "The Standardization of the Quran",
@@ -676,18 +860,140 @@ export const foundations = {
     "prevNext": [
       {
         "label": "Previous article",
-        "title": "The Five Pillars of Islam",
-        "href": "?p=pillars",
+        "title": "The Night the Quran Began",
+        "href": "?p=night",
         "arrow": "back"
       },
       {
         "label": "Next article",
-        "title": "The Quran That Cannot Be Imitated",
-        "href": "?p=ijaz",
+        "title": "How the Quran Is Recited",
+        "href": "?p=recitation",
         "arrow": "next"
       }
     ]
   },
+  "recitation": {
+  "group": "The Quran",
+  "hero": {
+    "caption": "A symbolic image: seven streams flowing in one direction, merging into a single river of light.",
+    "img": "../assets/foundations-recitation.webp",
+    "imgAlt": "Persian miniature painting of seven streams of golden light flowing over desert dunes at night",
+    "plaque": "Foundations",
+    "sub": "Why the same verse can be recited in more than one beautiful way: the seven ahruf and the transmitted readings of the Quran.",
+    "title": "How the Quran Is Recited"
+  },
+  "introHtml": "One day two companions nearly came to blows in the mosque, each certain the other was reciting the Quran wrongly. The Prophet ﷺ listened to them both, approved them both, and gave this community one of its most merciful gifts: this Quran was revealed to be recited in seven ways. This article explains, simply, what that means, and why you may hear the same verse carried on two different melodies of pronunciation, both of them the Quran.",
+  "prevNext": [
+    {
+      "arrow": "back",
+      "href": "?p=quran",
+      "label": "Previous article",
+      "title": "The Standardization of the Quran"
+    },
+    {
+      "arrow": "next",
+      "href": "?p=ijaz",
+      "label": "Next article",
+      "title": "The Quran That Cannot Be Imitated"
+    }
+  ],
+  "railLabels": [
+    "Seven Ways",
+    "What Is a Harf",
+    "What Is a Qira'ah",
+    "One Text, Many Readings"
+  ],
+  "sections": [
+    {
+      "ariaLabel": "Seven Ways",
+      "blocks": [
+        {
+          "html": "The dispute in the mosque",
+          "t": "kicker"
+        },
+        {
+          "html": "Seven Ways",
+          "t": "h2"
+        },
+        {
+          "cls": "dropcap",
+          "html": "Umar ibn al-Khattab (RA) heard Hisham ibn Hakim (RA) reciting Surah al-Furqan in a way different from what the Prophet ﷺ had taught him. He seized him, brought him before the Prophet ﷺ, and complained. The Prophet ﷺ asked Hisham to recite, approved him, then asked Umar to recite, and approved him too. What looked like an error was a mercy neither of them had yet understood.",
+          "t": "p"
+        },
+        {
+          "href": "https://sunnah.com/bukhari:4992",
+          "label": "Sahih al-Bukhari 4992 · sunnah.com",
+          "narrator": "Narrated Umar ibn al-Khattab",
+          "t": "hadith",
+          "text": "“This Qur’an has been revealed to be recited in seven different ways, so recite of it whichever (way) is easier for you.”"
+        }
+      ],
+      "id": "seven-ways",
+      "title": "Seven Ways"
+    },
+    {
+      "ariaLabel": "What Is a Harf",
+      "blocks": [
+        {
+          "html": "Seven ahruf, explained gently",
+          "t": "kicker"
+        },
+        {
+          "html": "What Is a Harf",
+          "t": "h2"
+        },
+        {
+          "html": "The seven ways are called the seven ahruf. A harf here is a mode or manner of recitation, given so that the different tribes of Arabia, each with its own tongue and habits of speech, could carry the same revelation in the mouth without breaking their teeth on another tribe's pronunciation. Scholars through the centuries have explained the exact shape of the seven in more than one way, and this article does not need to settle their discussion. What stands in the hadith is the gift itself: the Quran came down wide enough for every tongue that first received it, and no Arab was told that his sincere recitation was a mistake because his dialect leaned another way.",
+          "t": "p"
+        }
+      ],
+      "id": "what-is-harf",
+      "title": "What Is a Harf"
+    },
+    {
+      "ariaLabel": "What Is a Qira'ah",
+      "blocks": [
+        {
+          "html": "Readings handed down, not invented",
+          "t": "kicker"
+        },
+        {
+          "html": "What Is a Qira'ah",
+          "t": "h2"
+        },
+        {
+          "html": "Out of that first breadth grew the qira'at, the transmitted readings. A qira'ah is not a scholar's guess and not a later decoration. It is a way of reciting that travels back, teacher to student, generation by generation, to the Prophet ﷺ himself. The differences are mostly in the music of the words: a letter lengthened or softened, a vowel resting in a slightly different place. Sometimes a word opens into two shades of one meaning. In the very first surah, the fourth verse is recited both as Maaliki yawmi-d-deen, Master of the Day of Judgment, and Maliki yawmi-d-deen, King of the Day of Judgment. Master and King. The meanings do not fight. They stand side by side, and the verse grows larger.",
+          "t": "p"
+        },
+        {
+          "html": "The best known readings are named after the great reciters who carried them, and to this day the mushaf in one land may be printed in the reading of Hafs while another land recites Warsh, the same consonants on the page, the same verses in the chest.",
+          "t": "p"
+        }
+      ],
+      "id": "what-is-qiraah",
+      "title": "What Is a Qira'ah"
+    },
+    {
+      "ariaLabel": "One Text, Many Readings",
+      "blocks": [
+        {
+          "html": "Why this is not seven Qurans",
+          "t": "kicker"
+        },
+        {
+          "html": "One Text, Many Readings",
+          "t": "h2"
+        },
+        {
+          "html": "It is important to say plainly what the seven ways are not. They are not seven Qurans, and the readings are not rival scriptures. When Uthman (RA) gathered the community onto one master codex, he fixed the consonantal skeleton of the text, the very skeleton within which the transmitted readings live. A river may run in several channels down one valley, but it is one river, from one spring. So when you hear a reciter in another land pronounce a word with a turn you have never heard, the surprise you feel is the same surprise Umar (RA) felt in the mosque, and it has the same answer now that it had then: recite whichever way is easier for you, for all of it came down as mercy.",
+          "t": "p"
+        }
+      ],
+      "id": "one-text",
+      "title": "One Text, Many Readings"
+    }
+  ]
+},
   "ijaz": {
   "hero": {
     "caption": "A symbolic image: desert dunes moving like waves beneath the night sky, a reminder that the Quran is first received by hearing.",
@@ -959,4 +1265,4 @@ export const foundations = {
   ]
 }
 };
-export const foundationOrder = ["iman", "pillars", "quran", "ijaz"];
+export const foundationOrder = ["iman", "pillars", "night", "quran", "recitation", "ijaz"];
