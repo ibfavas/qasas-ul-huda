@@ -1,5 +1,4 @@
 /* Foundations registry for the single foundations page.
-   Articles: iman, pillars, quran.
    Verse panels: Uthmani Arabic + Saheeh International, pulled from the
    Quran.com API. Hadith wordings verified verbatim on sunnah.com. */
 export const foundations = {
@@ -369,193 +368,305 @@ export const foundations = {
       },
       {
         "label": "Next article",
-        "title": "The Night the Quran Began",
-        "href": "?p=night",
+        "title": "Why Muslims Say: God Is One",
+        "href": "?p=oneness",
         "arrow": "next"
       }
     ]
   },
-  "night": {
-  "group": "The Quran",
-  "hero": {
-    "caption": "A symbolic image: the cave above the sleeping valley in the last stillness before dawn.",
-    "img": "../assets/foundations-hira.webp",
-    "imgAlt": "Persian miniature painting of a rocky cave above a valley town under a star filled night sky",
-    "plaque": "Foundations",
-    "sub": "How the revelation began: one word in a cave, a night of decree, and a Book sent down across twenty-three years.",
-    "title": "The Night the Quran Began"
+  "oneness": {
+    "group": "Belief and Practice",
+    "hero": {
+      "caption": "A symbolic image: one star, one light, over the silent dunes.",
+      "img": "../assets/foundations-oneness.webp",
+      "imgAlt": "Persian miniature painting of a single bright star above desert dunes at night",
+      "plaque": "Foundations",
+      "sub": "The sentence Islam is built on: your God is one God, and there is no deity but Him, the Most Merciful.",
+      "title": "Why Muslims Say: God Is One"
+    },
+    "introHtml": "Ask a Muslim what his religion is, in one sentence, and he will not begin with a rule or a ritual. He will begin with God. One God, without partner, without son, without equal. It sounds simple enough to say in a breath, and entire libraries have been written inside it. This article lets the Quran state its own first principle, in its own words, and shows the respectful door it opens to everyone who worships differently.",
+    "prevNext": [
+      {
+        "label": "Previous article",
+        "title": "The Five Pillars of Islam",
+        "href": "?p=pillars",
+        "arrow": "back"
+      },
+      {
+        "label": "Next article",
+        "title": "The Night the Quran Began",
+        "href": "?p=night",
+        "arrow": "next"
+      }
+    ],
+    "railLabels": [
+      "One God",
+      "None Like Him",
+      "A Word in Common"
+    ],
+    "sections": [
+      {
+        "ariaLabel": "One God",
+        "blocks": [
+          {
+            "html": "The first principle",
+            "t": "kicker"
+          },
+          {
+            "html": "One God",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "The Quran does not argue for God's existence the way philosophy books do. It speaks of Him as the known beginning of everything, and then it guards one boundary with absolute firmness: He is One, and worship belongs to Him alone. Your God is one God, the verse says, and then it joins the oneness to mercy, so that the God who permits no partner is introduced not by His power first, but by His compassion.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+            "citation": "Surah 2 · Verse 163 · Saheeh International",
+            "ref": "Quran 2:163",
+            "t": "verse",
+            "translation": "And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful."
+          }
+        ],
+        "id": "one-god",
+        "title": "One God"
+      },
+      {
+        "ariaLabel": "None Like Him",
+        "blocks": [
+          {
+            "html": "Al-Ikhlas",
+            "t": "kicker"
+          },
+          {
+            "html": "None Like Him",
+            "t": "h2"
+          },
+          {
+            "html": "Four short verses carry the whole doctrine, and generations of theologians have unfolded them line by line. He neither begets nor is born: the Quran refuses, with courtesy and finality, every attempt to make God a magnified creature with a family. Nor is there to Him any equivalent: whatever picture the mind forms of a partner, a rival or a second eternal, this verse has already closed that door.",
+            "t": "p"
+          },
+          {
+            "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "citation": "Surah 112 · Verses 1-4 · Saheeh International",
+            "ref": "Quran 112:1-4",
+            "t": "verse",
+            "translation": "Say, \"He is Allāh, [who is] One, Allāh, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent.\""
+          }
+        ],
+        "id": "none-like-him",
+        "title": "None Like Him"
+      },
+      {
+        "ariaLabel": "A Word in Common",
+        "blocks": [
+          {
+            "html": "The open door",
+            "t": "kicker"
+          },
+          {
+            "html": "A Word in Common",
+            "t": "h2"
+          },
+          {
+            "html": "And then, having drawn its line with total clarity, the Quran does something the caricatures never mention. It turns to the People of the Scripture, Jews and Christians, and proposes a meeting point before it names a disagreement: come to a word that is equitable between us and you. Worship none but God. Associate nothing with Him. Take no human being as a lord beside Him. The invitation assumes the other side can recognise the sentence, because at its root it is the sentence of Abraham. Islam explains itself first, and argues second, and this verse fixes the order.",
+            "t": "p"
+          },
+          {
+            "arabic": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+            "citation": "Surah 3 · Verse 64 · Saheeh International",
+            "ref": "Quran 3:64",
+            "t": "verse",
+            "translation": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh.\" But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\""
+          }
+        ],
+        "id": "word-in-common",
+        "title": "A Word in Common"
+      }
+    ]
   },
-  "introHtml": "Before there was a book on a shelf, there was a man alone in a cave above Makkah, and a single command that would change the world: Read. Everything in the Standardization article happened because of what happened that night, so the story of the Quran properly begins here, in the dark, with a heart beating hard enough to tremble.",
-  "prevNext": [
-    {
-      "arrow": "back",
-      "href": "?p=pillars",
-      "label": "Previous article",
-      "title": "The Five Pillars of Islam"
+  "night": {
+    "group": "The Quran",
+    "hero": {
+      "caption": "A symbolic image: the cave above the sleeping valley in the last stillness before dawn.",
+      "img": "../assets/foundations-hira.webp",
+      "imgAlt": "Persian miniature painting of a rocky cave above a valley town under a star filled night sky",
+      "plaque": "Foundations",
+      "sub": "How the revelation began: one word in a cave, a night of decree, and a Book sent down across twenty-three years.",
+      "title": "The Night the Quran Began"
     },
-    {
-      "arrow": "next",
-      "href": "?p=quran",
-      "label": "Next article",
-      "title": "The Standardization of the Quran"
-    }
-  ],
-  "railLabels": [
-    "In the Cave",
-    "Read",
-    "The Night of Decree",
-    "Sent Down Over Years",
-    "Makkah and Madinah"
-  ],
-  "sections": [
-    {
-      "ariaLabel": "In the Cave",
-      "blocks": [
-        {
-          "html": "Hira, before the dawn",
-          "t": "kicker"
-        },
-        {
-          "html": "In the Cave",
-          "t": "h2"
-        },
-        {
-          "cls": "dropcap",
-          "html": "Aisha (RA), the Mother of the Believers, tells us how it started. First came true dreams, arriving as clear as daylight. Then the Prophet ﷺ grew to love seclusion, withdrawing to the cave of Hira for nights of worship, carrying provisions, returning to Khadija (RA), and going back again. It was in that rhythm of silence that the Truth came to him.",
-          "t": "p"
-        },
-        {
-          "href": "https://sunnah.com/bukhari:3",
-          "label": "Sahih al-Bukhari 3 · sunnah.com",
-          "narrator": "Narrated Aisha",
-          "t": "hadith",
-          "text": "“The commencement of the Divine Inspiration to Allah's Apostle was in the form of good dreams which came true like bright day light, and then the love of seclusion was bestowed upon him. He used to go in seclusion in the cave of Hira where he used to worship (Allah alone) continuously for many days.”"
-        },
-        {
-          "html": "Then the angel came, and with him the most famous first word in the history of the Book.",
-          "t": "p"
-        }
-      ],
-      "id": "in-the-cave",
-      "title": "In the Cave"
-    },
-    {
-      "ariaLabel": "Read",
-      "blocks": [
-        {
-          "html": "The first word",
-          "t": "kicker"
-        },
-        {
-          "html": "Read",
-          "t": "h2"
-        },
-        {
-          "html": "He was commanded to read, and he answered with the truth about himself: I do not know how to read. The angel pressed him, released him, commanded him again, three times, until the words came. The first revelation of the Quran was not a law, not a threat, not a story. It was a command to read, in the name of the Lord who created man from a clinging substance, and who taught by the pen what man did not know.",
-          "t": "p"
-        },
-        {
-          "href": "https://sunnah.com/bukhari:3",
-          "label": "Sahih al-Bukhari 3 · sunnah.com",
-          "narrator": "Narrated Aisha",
-          "t": "hadith",
-          "text": "“The angel came to him and asked him to read. The Prophet replied, ‘I do not know how to read.’ ... Thereupon he caught me for the third time and pressed me, and then released me, and said, ‘Read in the name of your Lord, who has created (all that exists), has created man from a clot. Read! And your Lord is the Most Generous.’”"
-        },
-        {
-          "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
-          "citation": "Surah 96 · Verses 1-5 · Saheeh International",
-          "ref": "Quran 96:1-5",
-          "t": "verse",
-          "translation": "Recite in the name of your Lord who created Created man from a clinging substance. Recite, and your Lord is the most Generous - Who taught by the pen Taught man that which he knew not."
-        },
-        {
-          "html": "He returned home with his heart beating severely, asking to be covered, and Khadija (RA) answered him with the words that have comforted believers ever since: Never. By Allah, Allah will never disgrace you. Her cousin Waraqah, who knew the earlier scriptures, recognised what had come to him. The revelation had begun.",
-          "t": "p"
-        }
-      ],
-      "id": "read",
-      "title": "Read"
-    },
-    {
-      "ariaLabel": "The Night of Decree",
-      "blocks": [
-        {
-          "html": "Laylat al-Qadr",
-          "t": "kicker"
-        },
-        {
-          "html": "The Night of Decree",
-          "t": "h2"
-        },
-        {
-          "html": "The Quran names the night of its descent. It was sent down in the Night of Decree, the night hidden in the last days of Ramadan, the month in which, the Quran says, it was revealed as guidance for mankind. One night, better than a thousand months, and the believer still searches for it every year in the dark, the way it first came in the dark.",
-          "t": "p"
-        },
-        {
-          "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
-          "citation": "Surah 97 · Verse 1 · Saheeh International",
-          "ref": "Quran 97:1",
-          "t": "verse",
-          "translation": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
-        }
-      ],
-      "id": "night-of-decree",
-      "title": "The Night of Decree"
-    },
-    {
-      "ariaLabel": "Sent Down Over Years",
-      "blocks": [
-        {
-          "html": "Piece by piece, heart by heart",
-          "t": "kicker"
-        },
-        {
-          "html": "Sent Down Over Years",
-          "t": "h2"
-        },
-        {
-          "html": "The Quran did not arrive as a finished volume dropped in a single night and then explained for twenty years. After the first verses, it came down piece by piece across the whole prophetic life: answering events, correcting mistakes, comforting the grieving, ruling on questions as they arose. The disbelievers themselves asked why it had not come all at once, and the Quran records both their question and its answer.",
-          "t": "p"
-        },
-        {
-          "arabic": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
-          "citation": "Surah 25 · Verse 32 · Saheeh International",
-          "ref": "Quran 25:32",
-          "t": "verse",
-          "translation": "And those who disbelieve say, \"Why was the Qur’ān not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly."
-        },
-        {
-          "arabic": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
-          "citation": "Surah 17 · Verse 106 · Saheeh International",
-          "ref": "Quran 17:106",
-          "t": "verse",
-          "translation": "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively."
-        }
-      ],
-      "id": "over-years",
-      "title": "Sent Down Over Years"
-    },
-    {
-      "ariaLabel": "Makkah and Madinah",
-      "blocks": [
-        {
-          "html": "Two homes of the revelation",
-          "t": "kicker"
-        },
-        {
-          "html": "Makkah and Madinah",
-          "t": "h2"
-        },
-        {
-          "html": "Because the revelation spanned two cities and two very different struggles, its surahs carry two names. Those revealed before the Hijrah are called Makki, and those after it Madani. In Makkah, where the believers were few and hunted, the verses hammered the foundations: Allah is One, the dead will rise, the stories of earlier prophets stood as warnings and as company. In Madinah, where a community now existed, the verses built its life: prayer and fasting in their rulings, family, trade, justice and war. Read in order of revelation, you can watch a community being raised the way a father raises a child, first the creed that anchors the heart, then the law that orders the day.",
-          "t": "p"
-        }
-      ],
-      "id": "makkah-madinah",
-      "title": "Makkah and Madinah"
-    }
-  ]
-},
+    "introHtml": "Before there was a book on a shelf, there was a man alone in a cave above Makkah, and a single command that would change the world: Read. Everything in the Standardization article happened because of what happened that night, so the story of the Quran properly begins here, in the dark, with a heart beating hard enough to tremble.",
+    "prevNext": [
+      {
+        "label": "Previous article",
+        "title": "Why Muslims Say: God Is One",
+        "href": "?p=oneness",
+        "arrow": "back"
+      },
+      {
+        "label": "Next article",
+        "title": "The Standardization of the Quran",
+        "href": "?p=quran",
+        "arrow": "next"
+      }
+    ],
+    "railLabels": [
+      "In the Cave",
+      "Read",
+      "The Night of Decree",
+      "Sent Down Over Years",
+      "Makkah and Madinah"
+    ],
+    "sections": [
+      {
+        "ariaLabel": "In the Cave",
+        "blocks": [
+          {
+            "html": "Hira, before the dawn",
+            "t": "kicker"
+          },
+          {
+            "html": "In the Cave",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "Aisha (RA), the Mother of the Believers, tells us how it started. First came true dreams, arriving as clear as daylight. Then the Prophet ﷺ grew to love seclusion, withdrawing to the cave of Hira for nights of worship, carrying provisions, returning to Khadija (RA), and going back again. It was in that rhythm of silence that the Truth came to him.",
+            "t": "p"
+          },
+          {
+            "href": "https://sunnah.com/bukhari:3",
+            "label": "Sahih al-Bukhari 3 · sunnah.com",
+            "narrator": "Narrated Aisha",
+            "t": "hadith",
+            "text": "“The commencement of the Divine Inspiration to Allah's Apostle was in the form of good dreams which came true like bright day light, and then the love of seclusion was bestowed upon him. He used to go in seclusion in the cave of Hira where he used to worship (Allah alone) continuously for many days.”"
+          },
+          {
+            "html": "Then the angel came, and with him the most famous first word in the history of the Book.",
+            "t": "p"
+          }
+        ],
+        "id": "in-the-cave",
+        "title": "In the Cave"
+      },
+      {
+        "ariaLabel": "Read",
+        "blocks": [
+          {
+            "html": "The first word",
+            "t": "kicker"
+          },
+          {
+            "html": "Read",
+            "t": "h2"
+          },
+          {
+            "html": "He was commanded to read, and he answered with the truth about himself: I do not know how to read. The angel pressed him, released him, commanded him again, three times, until the words came. The first revelation of the Quran was not a law, not a threat, not a story. It was a command to read, in the name of the Lord who created man from a clinging substance, and who taught by the pen what man did not know.",
+            "t": "p"
+          },
+          {
+            "href": "https://sunnah.com/bukhari:3",
+            "label": "Sahih al-Bukhari 3 · sunnah.com",
+            "narrator": "Narrated Aisha",
+            "t": "hadith",
+            "text": "“The angel came to him and asked him to read. The Prophet replied, ‘I do not know how to read.’ ... Thereupon he caught me for the third time and pressed me, and then released me, and said, ‘Read in the name of your Lord, who has created (all that exists), has created man from a clot. Read! And your Lord is the Most Generous.’”"
+          },
+          {
+            "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+            "citation": "Surah 96 · Verses 1-5 · Saheeh International",
+            "ref": "Quran 96:1-5",
+            "t": "verse",
+            "translation": "Recite in the name of your Lord who created Created man from a clinging substance. Recite, and your Lord is the most Generous - Who taught by the pen Taught man that which he knew not."
+          },
+          {
+            "html": "He returned home with his heart beating severely, asking to be covered, and Khadija (RA) answered him with the words that have comforted believers ever since: Never. By Allah, Allah will never disgrace you. Her cousin Waraqah, who knew the earlier scriptures, recognised what had come to him. The revelation had begun.",
+            "t": "p"
+          }
+        ],
+        "id": "read",
+        "title": "Read"
+      },
+      {
+        "ariaLabel": "The Night of Decree",
+        "blocks": [
+          {
+            "html": "Laylat al-Qadr",
+            "t": "kicker"
+          },
+          {
+            "html": "The Night of Decree",
+            "t": "h2"
+          },
+          {
+            "html": "The Quran names the night of its descent. It was sent down in the Night of Decree, the night hidden in the last days of Ramadan, the month in which, the Quran says, it was revealed as guidance for mankind. One night, better than a thousand months, and the believer still searches for it every year in the dark, the way it first came in the dark.",
+            "t": "p"
+          },
+          {
+            "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+            "citation": "Surah 97 · Verse 1 · Saheeh International",
+            "ref": "Quran 97:1",
+            "t": "verse",
+            "translation": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+          }
+        ],
+        "id": "night-of-decree",
+        "title": "The Night of Decree"
+      },
+      {
+        "ariaLabel": "Sent Down Over Years",
+        "blocks": [
+          {
+            "html": "Piece by piece, heart by heart",
+            "t": "kicker"
+          },
+          {
+            "html": "Sent Down Over Years",
+            "t": "h2"
+          },
+          {
+            "html": "The Quran did not arrive as a finished volume dropped in a single night and then explained for twenty years. After the first verses, it came down piece by piece across the whole prophetic life: answering events, correcting mistakes, comforting the grieving, ruling on questions as they arose. The disbelievers themselves asked why it had not come all at once, and the Quran records both their question and its answer.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا",
+            "citation": "Surah 25 · Verse 32 · Saheeh International",
+            "ref": "Quran 25:32",
+            "t": "verse",
+            "translation": "And those who disbelieve say, \"Why was the Qur’ān not revealed to him all at once?\" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly."
+          },
+          {
+            "arabic": "وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا",
+            "citation": "Surah 17 · Verse 106 · Saheeh International",
+            "ref": "Quran 17:106",
+            "t": "verse",
+            "translation": "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively."
+          }
+        ],
+        "id": "over-years",
+        "title": "Sent Down Over Years"
+      },
+      {
+        "ariaLabel": "Makkah and Madinah",
+        "blocks": [
+          {
+            "html": "Two homes of the revelation",
+            "t": "kicker"
+          },
+          {
+            "html": "Makkah and Madinah",
+            "t": "h2"
+          },
+          {
+            "html": "Because the revelation spanned two cities and two very different struggles, its surahs carry two names. Those revealed before the Hijrah are called Makki, and those after it Madani. In Makkah, where the believers were few and hunted, the verses hammered the foundations: Allah is One, the dead will rise, the stories of earlier prophets stood as warnings and as company. In Madinah, where a community now existed, the verses built its life: prayer and fasting in their rulings, family, trade, justice and war. Read in order of revelation, you can watch a community being raised the way a father raises a child, first the creed that anchors the heart, then the law that orders the day.",
+            "t": "p"
+          }
+        ],
+        "id": "makkah-madinah",
+        "title": "Makkah and Madinah"
+      }
+    ]
+  },
   "quran": {
     "group": "The Quran",
     "hero": {
@@ -873,396 +984,736 @@ export const foundations = {
     ]
   },
   "recitation": {
-  "group": "The Quran",
-  "hero": {
-    "caption": "A symbolic image: seven streams flowing in one direction, merging into a single river of light.",
-    "img": "../assets/foundations-recitation.webp",
-    "imgAlt": "Persian miniature painting of seven streams of golden light flowing over desert dunes at night",
-    "plaque": "Foundations",
-    "sub": "Why the same verse can be recited in more than one beautiful way: the seven ahruf and the transmitted readings of the Quran.",
-    "title": "How the Quran Is Recited"
+    "group": "The Quran",
+    "hero": {
+      "caption": "A symbolic image: seven streams flowing in one direction, merging into a single river of light.",
+      "img": "../assets/foundations-recitation.webp",
+      "imgAlt": "Persian miniature painting of seven streams of golden light flowing over desert dunes at night",
+      "plaque": "Foundations",
+      "sub": "Why the same verse can be recited in more than one beautiful way: the seven ahruf and the transmitted readings of the Quran.",
+      "title": "How the Quran Is Recited"
+    },
+    "introHtml": "One day two companions nearly came to blows in the mosque, each certain the other was reciting the Quran wrongly. The Prophet ﷺ listened to them both, approved them both, and gave this community one of its most merciful gifts: this Quran was revealed to be recited in seven ways. This article explains, simply, what that means, and why you may hear the same verse carried on two different melodies of pronunciation, both of them the Quran.",
+    "prevNext": [
+      {
+        "label": "Previous article",
+        "title": "The Standardization of the Quran",
+        "href": "?p=quran",
+        "arrow": "back"
+      },
+      {
+        "label": "Next article",
+        "title": "The Quran That Cannot Be Imitated",
+        "href": "?p=ijaz",
+        "arrow": "next"
+      }
+    ],
+    "railLabels": [
+      "Seven Ways",
+      "What Is a Harf",
+      "What Is a Qira'ah",
+      "One Text, Many Readings"
+    ],
+    "sections": [
+      {
+        "ariaLabel": "Seven Ways",
+        "blocks": [
+          {
+            "html": "The dispute in the mosque",
+            "t": "kicker"
+          },
+          {
+            "html": "Seven Ways",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "Umar ibn al-Khattab (RA) heard Hisham ibn Hakim (RA) reciting Surah al-Furqan in a way different from what the Prophet ﷺ had taught him. He seized him, brought him before the Prophet ﷺ, and complained. The Prophet ﷺ asked Hisham to recite, approved him, then asked Umar to recite, and approved him too. What looked like an error was a mercy neither of them had yet understood.",
+            "t": "p"
+          },
+          {
+            "href": "https://sunnah.com/bukhari:4992",
+            "label": "Sahih al-Bukhari 4992 · sunnah.com",
+            "narrator": "Narrated Umar ibn al-Khattab",
+            "t": "hadith",
+            "text": "“This Qur’an has been revealed to be recited in seven different ways, so recite of it whichever (way) is easier for you.”"
+          }
+        ],
+        "id": "seven-ways",
+        "title": "Seven Ways"
+      },
+      {
+        "ariaLabel": "What Is a Harf",
+        "blocks": [
+          {
+            "html": "Seven ahruf, explained gently",
+            "t": "kicker"
+          },
+          {
+            "html": "What Is a Harf",
+            "t": "h2"
+          },
+          {
+            "html": "The seven ways are called the seven ahruf. A harf here is a mode or manner of recitation, given so that the different tribes of Arabia, each with its own tongue and habits of speech, could carry the same revelation in the mouth without breaking their teeth on another tribe's pronunciation. Scholars through the centuries have explained the exact shape of the seven in more than one way, and this article does not need to settle their discussion. What stands in the hadith is the gift itself: the Quran came down wide enough for every tongue that first received it, and no Arab was told that his sincere recitation was a mistake because his dialect leaned another way.",
+            "t": "p"
+          }
+        ],
+        "id": "what-is-harf",
+        "title": "What Is a Harf"
+      },
+      {
+        "ariaLabel": "What Is a Qira'ah",
+        "blocks": [
+          {
+            "html": "Readings handed down, not invented",
+            "t": "kicker"
+          },
+          {
+            "html": "What Is a Qira'ah",
+            "t": "h2"
+          },
+          {
+            "html": "Out of that first breadth grew the qira'at, the transmitted readings. A qira'ah is not a scholar's guess and not a later decoration. It is a way of reciting that travels back, teacher to student, generation by generation, to the Prophet ﷺ himself. The differences are mostly in the music of the words: a letter lengthened or softened, a vowel resting in a slightly different place. Sometimes a word opens into two shades of one meaning. In the very first surah, the fourth verse is recited both as Maaliki yawmi-d-deen, Master of the Day of Judgment, and Maliki yawmi-d-deen, King of the Day of Judgment. Master and King. The meanings do not fight. They stand side by side, and the verse grows larger.",
+            "t": "p"
+          },
+          {
+            "html": "The best known readings are named after the great reciters who carried them, and to this day the mushaf in one land may be printed in the reading of Hafs while another land recites Warsh, the same consonants on the page, the same verses in the chest.",
+            "t": "p"
+          }
+        ],
+        "id": "what-is-qiraah",
+        "title": "What Is a Qira'ah"
+      },
+      {
+        "ariaLabel": "One Text, Many Readings",
+        "blocks": [
+          {
+            "html": "Why this is not seven Qurans",
+            "t": "kicker"
+          },
+          {
+            "html": "One Text, Many Readings",
+            "t": "h2"
+          },
+          {
+            "html": "It is important to say plainly what the seven ways are not. They are not seven Qurans, and the readings are not rival scriptures. When Uthman (RA) gathered the community onto one master codex, he fixed the consonantal skeleton of the text, the very skeleton within which the transmitted readings live. A river may run in several channels down one valley, but it is one river, from one spring. So when you hear a reciter in another land pronounce a word with a turn you have never heard, the surprise you feel is the same surprise Umar (RA) felt in the mosque, and it has the same answer now that it had then: recite whichever way is easier for you, for all of it came down as mercy.",
+            "t": "p"
+          }
+        ],
+        "id": "one-text",
+        "title": "One Text, Many Readings"
+      }
+    ]
   },
-  "introHtml": "One day two companions nearly came to blows in the mosque, each certain the other was reciting the Quran wrongly. The Prophet ﷺ listened to them both, approved them both, and gave this community one of its most merciful gifts: this Quran was revealed to be recited in seven ways. This article explains, simply, what that means, and why you may hear the same verse carried on two different melodies of pronunciation, both of them the Quran.",
-  "prevNext": [
-    {
-      "arrow": "back",
-      "href": "?p=quran",
-      "label": "Previous article",
-      "title": "The Standardization of the Quran"
-    },
-    {
-      "arrow": "next",
-      "href": "?p=ijaz",
-      "label": "Next article",
-      "title": "The Quran That Cannot Be Imitated"
-    }
-  ],
-  "railLabels": [
-    "Seven Ways",
-    "What Is a Harf",
-    "What Is a Qira'ah",
-    "One Text, Many Readings"
-  ],
-  "sections": [
-    {
-      "ariaLabel": "Seven Ways",
-      "blocks": [
-        {
-          "html": "The dispute in the mosque",
-          "t": "kicker"
-        },
-        {
-          "html": "Seven Ways",
-          "t": "h2"
-        },
-        {
-          "cls": "dropcap",
-          "html": "Umar ibn al-Khattab (RA) heard Hisham ibn Hakim (RA) reciting Surah al-Furqan in a way different from what the Prophet ﷺ had taught him. He seized him, brought him before the Prophet ﷺ, and complained. The Prophet ﷺ asked Hisham to recite, approved him, then asked Umar to recite, and approved him too. What looked like an error was a mercy neither of them had yet understood.",
-          "t": "p"
-        },
-        {
-          "href": "https://sunnah.com/bukhari:4992",
-          "label": "Sahih al-Bukhari 4992 · sunnah.com",
-          "narrator": "Narrated Umar ibn al-Khattab",
-          "t": "hadith",
-          "text": "“This Qur’an has been revealed to be recited in seven different ways, so recite of it whichever (way) is easier for you.”"
-        }
-      ],
-      "id": "seven-ways",
-      "title": "Seven Ways"
-    },
-    {
-      "ariaLabel": "What Is a Harf",
-      "blocks": [
-        {
-          "html": "Seven ahruf, explained gently",
-          "t": "kicker"
-        },
-        {
-          "html": "What Is a Harf",
-          "t": "h2"
-        },
-        {
-          "html": "The seven ways are called the seven ahruf. A harf here is a mode or manner of recitation, given so that the different tribes of Arabia, each with its own tongue and habits of speech, could carry the same revelation in the mouth without breaking their teeth on another tribe's pronunciation. Scholars through the centuries have explained the exact shape of the seven in more than one way, and this article does not need to settle their discussion. What stands in the hadith is the gift itself: the Quran came down wide enough for every tongue that first received it, and no Arab was told that his sincere recitation was a mistake because his dialect leaned another way.",
-          "t": "p"
-        }
-      ],
-      "id": "what-is-harf",
-      "title": "What Is a Harf"
-    },
-    {
-      "ariaLabel": "What Is a Qira'ah",
-      "blocks": [
-        {
-          "html": "Readings handed down, not invented",
-          "t": "kicker"
-        },
-        {
-          "html": "What Is a Qira'ah",
-          "t": "h2"
-        },
-        {
-          "html": "Out of that first breadth grew the qira'at, the transmitted readings. A qira'ah is not a scholar's guess and not a later decoration. It is a way of reciting that travels back, teacher to student, generation by generation, to the Prophet ﷺ himself. The differences are mostly in the music of the words: a letter lengthened or softened, a vowel resting in a slightly different place. Sometimes a word opens into two shades of one meaning. In the very first surah, the fourth verse is recited both as Maaliki yawmi-d-deen, Master of the Day of Judgment, and Maliki yawmi-d-deen, King of the Day of Judgment. Master and King. The meanings do not fight. They stand side by side, and the verse grows larger.",
-          "t": "p"
-        },
-        {
-          "html": "The best known readings are named after the great reciters who carried them, and to this day the mushaf in one land may be printed in the reading of Hafs while another land recites Warsh, the same consonants on the page, the same verses in the chest.",
-          "t": "p"
-        }
-      ],
-      "id": "what-is-qiraah",
-      "title": "What Is a Qira'ah"
-    },
-    {
-      "ariaLabel": "One Text, Many Readings",
-      "blocks": [
-        {
-          "html": "Why this is not seven Qurans",
-          "t": "kicker"
-        },
-        {
-          "html": "One Text, Many Readings",
-          "t": "h2"
-        },
-        {
-          "html": "It is important to say plainly what the seven ways are not. They are not seven Qurans, and the readings are not rival scriptures. When Uthman (RA) gathered the community onto one master codex, he fixed the consonantal skeleton of the text, the very skeleton within which the transmitted readings live. A river may run in several channels down one valley, but it is one river, from one spring. So when you hear a reciter in another land pronounce a word with a turn you have never heard, the surprise you feel is the same surprise Umar (RA) felt in the mosque, and it has the same answer now that it had then: recite whichever way is easier for you, for all of it came down as mercy.",
-          "t": "p"
-        }
-      ],
-      "id": "one-text",
-      "title": "One Text, Many Readings"
-    }
-  ]
-},
   "ijaz": {
-  "hero": {
-    "caption": "A symbolic image: desert dunes moving like waves beneath the night sky, a reminder that the Quran is first received by hearing.",
-    "img": "../assets/foundations-ijaz.webp",
-    "imgAlt": "Persian miniature painting of moonlit desert dunes flowing like waves under a star filled sky",
-    "plaque": "Foundations",
-    "sub": "The open challenge of the Quran, the beauty of its word arrangement, and the counted patterns that make its verses stay in the ear and in the heart.",
-    "title": "The Quran That Cannot Be Imitated"
+    "hero": {
+      "caption": "A symbolic image: desert dunes moving like waves beneath the night sky, a reminder that the Quran is first received by hearing.",
+      "img": "../assets/foundations-ijaz.webp",
+      "imgAlt": "Persian miniature painting of moonlit desert dunes flowing like waves under a star filled sky",
+      "plaque": "Foundations",
+      "sub": "The open challenge of the Quran, the beauty of its word arrangement, and the counted patterns that make its verses stay in the ear and in the heart.",
+      "title": "The Quran That Cannot Be Imitated"
+    },
+    "introHtml": "Some books ask to be admired. The Quran does something rarer: it asks to be tested. Again and again it turns to the doubter and says, in effect, if this is only human speech, then bring its like. Bring one surah. Bring ten. Gather every helper you can find. The challenge is not hidden in a footnote or saved for scholars. It stands in the open, in the recitation itself, where the sound reaches the ear before the argument reaches the mind.",
+    "prevNext": [
+      {
+        "label": "Previous article",
+        "title": "How the Quran Is Recited",
+        "href": "?p=recitation",
+        "arrow": "back"
+      },
+      {
+        "label": "Next article",
+        "title": "No Compulsion: Faith, War and Peace",
+        "href": "?p=no-compulsion",
+        "arrow": "next"
+      }
+    ],
+    "railLabels": [
+      "The Open Challenge",
+      "From the Whole Book to One Surah",
+      "The Arrangement of Words",
+      "Sound That Stays in the Chest",
+      "Counted Refrains",
+      "The Counted Quran",
+      "Balance and Pairing",
+      "Why the Challenge Still Stands"
+    ],
+    "sections": [
+      {
+        "ariaLabel": "The Open Challenge",
+        "blocks": [
+          {
+            "html": "Where the claim begins",
+            "t": "kicker"
+          },
+          {
+            "html": "The Open Challenge",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "The Quran names the doubt and answers it on the same page. If what was sent down to Muhammad ﷺ is questioned, the response is not anger and not silence. It is a public test: produce a surah like it, and call every witness and helper besides Allah. Then the verse closes the door on every future attempt with words that still sound daring after fourteen centuries: if you do not, and you never will, then fear the Fire.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَـٰفِرِينَ",
+            "citation": "Surah 2 · Verses 23-24 · Saheeh International",
+            "ref": "Quran 2:23-24",
+            "t": "verse",
+            "translation": "And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful. But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers."
+          }
+        ],
+        "id": "open-challenge",
+        "title": "The Open Challenge"
+      },
+      {
+        "ariaLabel": "From the Whole Book to One Surah",
+        "blocks": [
+          {
+            "html": "The bar is lowered",
+            "t": "kicker"
+          },
+          {
+            "html": "From the Whole Book to One Surah",
+            "t": "h2"
+          },
+          {
+            "html": "The challenge is repeated at different heights. In one place the whole company of mankind and jinn is gathered in imagination, helping one another, and still declared unable. In another, the demand is ten surahs. Then it falls to one. The movement matters. The Quran does not make the test impossibly large and then hide behind its size. It reduces the task until the failure, if failure comes, cannot be blamed on the scale of the request.",
+            "t": "p"
+          },
+          {
+            "arabic": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+            "citation": "Surah 17 · Verse 88 · Saheeh International",
+            "ref": "Quran 17:88",
+            "t": "verse",
+            "translation": "Say, \"If mankind and the jinn gathered in order to produce the like of this Qur’ān, they could not produce the like of it, even if they were to each other assistants.\""
+          },
+          {
+            "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَـٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+            "citation": "Surah 11 · Verse 13 · Saheeh International",
+            "ref": "Quran 11:13",
+            "t": "verse",
+            "translation": "Or do they say, \"He invented it\"? Say, \"Then bring ten sūrahs like it that have been invented and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+          },
+          {
+            "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+            "citation": "Surah 10 · Verse 38 · Saheeh International",
+            "ref": "Quran 10:38",
+            "t": "verse",
+            "translation": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+          }
+        ],
+        "id": "whole-to-one",
+        "title": "From the Whole Book to One Surah"
+      },
+      {
+        "ariaLabel": "The Arrangement of Words",
+        "blocks": [
+          {
+            "html": "Nazm: meaning in its place",
+            "t": "kicker"
+          },
+          {
+            "html": "The Arrangement of Words",
+            "t": "h2"
+          },
+          {
+            "html": "Muslim scholars gave the Quran’s inimitability a name: i’jaz. When they searched for where that quality lives, many pointed to nazm, the arrangement of words. The marvel is not rare vocabulary by itself. It is the placing of each word so that sound, image, ruling, warning and mercy arrive together, with no loose thread hanging from the sentence. A verse can command, console and correct in the same breath, and still feel as if nothing could be moved without breaking the balance.",
+            "t": "p"
+          },
+          {
+            "html": "Listen to the opening movement of Ar-Rahman. Four short verses carry the whole doorway into the surah: the Most Merciful, the teaching of the Quran, the creation of man, and the gift of eloquence. The order is part of the beauty. Before man is mentioned, mercy is named. Before speech is praised, the Quran is placed as the teacher. The verses are brief enough to memorize at a glance, yet the ideas are arranged like steps, each one preparing the heart for the next.",
+            "t": "p"
+          },
+          {
+            "arabic": "ٱلرَّحْمَـٰنُ عَلَّمَ ٱلْقُرْءَانَ خَلَقَ ٱلْإِنسَـٰنَ عَلَّمَهُ ٱلْبَيَانَ",
+            "citation": "Surah 55 · Verses 1-4 · Saheeh International",
+            "ref": "Quran 55:1-4",
+            "t": "verse",
+            "translation": "The Most Merciful Taught the Qur’ān, Created man, [And] taught him eloquence."
+          },
+          {
+            "html": "This is one of the Quran’s recurring beauties: compression without thinness. The words do not pile up to impress. They stand in ranks. A short phrase can open into law, history, gratitude and warning, and the listener keeps finding doors in a passage he thought he had finished.",
+            "t": "p"
+          }
+        ],
+        "id": "arrangement",
+        "title": "The Arrangement of Words"
+      },
+      {
+        "ariaLabel": "Sound That Stays in the Chest",
+        "blocks": [
+          {
+            "html": "Heard before it is studied",
+            "t": "kicker"
+          },
+          {
+            "html": "Sound That Stays in the Chest",
+            "t": "h2"
+          },
+          {
+            "html": "The Quran is not only read with the eyes. It is carried by the tongue, timed by the breath and held in the chest. Its verse endings often fall into a measured cadence, so the ear knows when a thought has landed. Long passages can move like a procession, verse after verse keeping a rhythm of endings, while short surahs strike like a hand on a door. The beauty is not decoration added to meaning. The sound helps the meaning stay.",
+            "t": "p"
+          },
+          {
+            "html": "That is why a child can hold whole passages before he can explain them, and why an old man can hear a verse across a room and feel its weight before he translates a word. The arrangement serves memory. Rhyme of ending, balance of phrase and repetition of key words make the text cling to the listener, so that study often begins after the heart has already been reached.",
+            "t": "p"
+          }
+        ],
+        "id": "sound",
+        "title": "Sound That Stays in the Chest"
+      },
+      {
+        "ariaLabel": "Counted Refrains",
+        "blocks": [
+          {
+            "html": "A pattern the reader can count",
+            "t": "kicker"
+          },
+          {
+            "html": "Counted Refrains",
+            "t": "h2"
+          },
+          {
+            "html": "There is also a plainer kind of pattern, one any reader can test with a finger on the page. In Surah Ar-Rahman, after blessing follows blessing, the question returns: “So which of the favors of your Lord would you deny?” It comes again and again through the surah, thirty-one times in seventy-eight verses, like a measured knock at the door of gratitude. The repetition is not filler. Each return lands after new gifts have been named, so the same words grow heavier every time they arrive.",
+            "t": "p"
+          },
+          {
+            "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "citation": "Surah 55 · Verse 13 · Saheeh International",
+            "ref": "Quran 55:13",
+            "t": "verse",
+            "translation": "So which of the favors of your Lord would you deny?"
+          },
+          {
+            "html": "Surah Al-Mursalat carries the opposite temperature. Its warning returns ten times in fifty verses: “Woe, that Day, to the deniers.” Mercy has a refrain, and judgment has a refrain. One teaches the tongue to answer with gratitude. The other teaches it to tremble. Readers sometimes call this the mathematical side of the Quran’s beauty. The safer wonder is the visible architecture: exact returns, placed at intervals, shaping the surah the way pillars shape a hall.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+            "citation": "Surah 77 · Verse 15 · Saheeh International",
+            "ref": "Quran 77:15",
+            "t": "verse",
+            "translation": "Woe, that Day, to the deniers."
+          }
+        ],
+        "id": "counted-refrains",
+        "title": "Counted Refrains"
+      },
+      {
+        "ariaLabel": "The Counted Quran",
+        "blocks": [
+          {
+            "html": "Words weighed, not slogans",
+            "t": "kicker"
+          },
+          {
+            "html": "The Counted Quran",
+            "t": "h2"
+          },
+          {
+            "html": "The same care can be taken with single words. Counted from the Arabic text, with attached words such as “and” or “in” treated as part of the word they join, yawm, the word for day in its singular form, appears 349 times. Its solemn companion yawma’idhin, “that Day,” appears 70 times, and the plural ayyam, days, appears 22 times. These are not magic numbers forced onto the page. They are a reminder of how often the Quran turns the reader toward time, appointment and return.",
+            "t": "p"
+          },
+          {
+            "html": "Other counts, counted the same way, give the article its restraint. Ad-dunya, this world, appears 115 times, and al-akhirah, the Hereafter, appears 116 times in this counting, close enough to make the pairing felt and exact enough to warn us not to bend a number into a claim it cannot carry. Al-hayat, life, appears 71 times, as-salah, the prayer, 68 times, az-zakah, the obligatory charity, 32 times, al-jannah, the Garden, 77 times and an-nar, the Fire, 125 times.",
+            "t": "p"
+          },
+          {
+            "html": "Some popular pairs are therefore left out of this article. Where the ancient spelling makes two different words look the same on the page, a count cannot be honest without explaining the judgment hidden inside it. What can be verified is printed here. What cannot be verified cleanly is not used as proof.",
+            "t": "p"
+          }
+        ],
+        "id": "counted-quran",
+        "title": "The Counted Quran"
+      },
+      {
+        "ariaLabel": "Balance and Pairing",
+        "blocks": [
+          {
+            "html": "Opposites held in one hand",
+            "t": "kicker"
+          },
+          {
+            "html": "Balance and Pairing",
+            "t": "h2"
+          },
+          {
+            "html": "Again and again, the Quran places paired realities side by side: mercy and judgment, guidance and loss, the living and the dead, the seen and the unseen. The pairs are not pasted together as slogans. They arise inside stories, laws and descriptions of the Last Day, so the mind learns to hold both sides of existence at once. Gratitude is never allowed to become carelessness, and fear is never left without a door back to hope.",
+            "t": "p"
+          },
+          {
+            "html": "The language also turns with sudden grace. A passage may speak about people in the third person, then turn and address them directly, then open into prayer or command. Arabic rhetoric knows this turning as a way of waking the listener. In the Quran it often feels like the text refuses to let the reader remain a spectator. The one who was being spoken about discovers that he is now being spoken to.",
+            "t": "p"
+          },
+          {
+            "html": "Even the small words carry weight. Particles of emphasis, pauses at verse endings, and changes from singular to plural can shift the temperature of a passage. Translators labour to carry these turns into another language, and still the Arabic keeps reserves that a translation can only point toward. That gap is part of the experience of every non-Arabic reader: he receives the meaning truly, yet hears from those who know the tongue that the original is still larger.",
+            "t": "p"
+          }
+        ],
+        "id": "balance",
+        "title": "Balance and Pairing"
+      },
+      {
+        "ariaLabel": "Why the Challenge Still Stands",
+        "blocks": [
+          {
+            "html": "The door remains open",
+            "t": "kicker"
+          },
+          {
+            "html": "Why the Challenge Still Stands",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "The enduring power of the challenge is its openness. It was not locked inside one century, one city or one circle of poets. The verses remain recited in public, memorized by children, printed in every land and heard by believers and sceptics alike. Anyone may still read the test in its own words: bring a surah like it. The Quran stakes its claim where language can be examined, where eloquence can be compared, and where failure cannot be hidden behind distance.",
+            "t": "p"
+          },
+          {
+            "html": "For the believer, this is why the Book feels alive in the mouth. It teaches and warns, but it also sings its own proof. The shortest passages carry the same signature as the longest: precision of word, force of image, balance of sound and a meaning that keeps opening after the recitation has ended. The challenge began as an answer to doubt. It remains as an invitation to listen more closely.",
+            "t": "p"
+          }
+        ],
+        "id": "still-stands",
+        "title": "Why the Challenge Still Stands"
+      }
+    ],
+    "group": "The Quran"
   },
-  "introHtml": "Some books ask to be admired. The Quran does something rarer: it asks to be tested. Again and again it turns to the doubter and says, in effect, if this is only human speech, then bring its like. Bring one surah. Bring ten. Gather every helper you can find. The challenge is not hidden in a footnote or saved for scholars. It stands in the open, in the recitation itself, where the sound reaches the ear before the argument reaches the mind.",
-  "prevNext": [
-    {
-      "arrow": "back",
-      "href": "?p=quran",
-      "label": "Previous article",
-      "title": "The Standardization of the Quran"
-    }
-  ],
-  "railLabels": [
-    "The Open Challenge",
-    "From the Whole Book to One Surah",
-    "The Arrangement of Words",
-    "Sound That Stays in the Chest",
-    "Counted Refrains",
-    "The Counted Quran",
-    "Balance and Pairing",
-    "Why the Challenge Still Stands"
-  ],
-  "sections": [
-    {
-      "ariaLabel": "The Open Challenge",
-      "blocks": [
-        {
-          "html": "Where the claim begins",
-          "t": "kicker"
-        },
-        {
-          "html": "The Open Challenge",
-          "t": "h2"
-        },
-        {
-          "cls": "dropcap",
-          "html": "The Quran names the doubt and answers it on the same page. If what was sent down to Muhammad ﷺ is questioned, the response is not anger and not silence. It is a public test: produce a surah like it, and call every witness and helper besides Allah. Then the verse closes the door on every future attempt with words that still sound daring after fourteen centuries: if you do not, and you never will, then fear the Fire.",
-          "t": "p"
-        },
-        {
-          "arabic": "وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَـٰفِرِينَ",
-          "citation": "Surah 2 · Verses 23-24 · Saheeh International",
-          "ref": "Quran 2:23-24",
-          "t": "verse",
-          "translation": "And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful. But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers."
-        }
-      ],
-      "id": "open-challenge",
-      "title": "The Open Challenge"
+  "no-compulsion": {
+    "group": "Faith Among People",
+    "hero": {
+      "caption": "A symbolic image: an olive valley at dawn, the Quran's own picture of peace after hardship.",
+      "img": "../assets/foundations-peace.webp",
+      "imgAlt": "Persian miniature painting of an olive grove valley at dawn",
+      "plaque": "Foundations",
+      "sub": "What the Quran actually commands about faith, fighting and peace, in the verses themselves, including the ones usually quoted alone.",
+      "title": "No Compulsion: Faith, War and Peace"
     },
-    {
-      "ariaLabel": "From the Whole Book to One Surah",
-      "blocks": [
-        {
-          "html": "The bar is lowered",
-          "t": "kicker"
-        },
-        {
-          "html": "From the Whole Book to One Surah",
-          "t": "h2"
-        },
-        {
-          "html": "The challenge is repeated at different heights. In one place the whole company of mankind and jinn is gathered in imagination, helping one another, and still declared unable. In another, the demand is ten surahs. Then it falls to one. The movement matters. The Quran does not make the test impossibly large and then hide behind its size. It reduces the task until the failure, if failure comes, cannot be blamed on the scale of the request.",
-          "t": "p"
-        },
-        {
-          "arabic": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
-          "citation": "Surah 17 · Verse 88 · Saheeh International",
-          "ref": "Quran 17:88",
-          "t": "verse",
-          "translation": "Say, \"If mankind and the jinn gathered in order to produce the like of this Qur’ān, they could not produce the like of it, even if they were to each other assistants.\""
-        },
-        {
-          "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَـٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
-          "citation": "Surah 11 · Verse 13 · Saheeh International",
-          "ref": "Quran 11:13",
-          "t": "verse",
-          "translation": "Or do they say, \"He invented it\"? Say, \"Then bring ten sūrahs like it that have been invented and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
-        },
-        {
-          "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
-          "citation": "Surah 10 · Verse 38 · Saheeh International",
-          "ref": "Quran 10:38",
-          "t": "verse",
-          "translation": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
-        }
-      ],
-      "id": "whole-to-one",
-      "title": "From the Whole Book to One Surah"
+    "introHtml": "No accusation against Islam is older, or louder, than the claim that it was spread by the sword. The honest way to answer it is not with slogans but with the Quran open on the table, all of its verses together, including the hard ones, read in their place. That is what this article does. What emerges is not a faith that compels belief, but a faith that forbids compulsion, permits defence, commands peace the moment the other side inclines to it, and orders kindness to every neighbour who does not fight you.",
+    "prevNext": [
+      {
+        "label": "Previous article",
+        "title": "The Quran That Cannot Be Imitated",
+        "href": "?p=ijaz",
+        "arrow": "back"
+      },
+      {
+        "label": "Next article",
+        "title": "Women in the Quran",
+        "href": "?p=women",
+        "arrow": "next"
+      }
+    ],
+    "railLabels": [
+      "No Compulsion",
+      "Fight Those Who Fight You",
+      "Incline to Peace",
+      "The Sword Verse in Its Place",
+      "Kindness to the Peaceful"
+    ],
+    "sections": [
+      {
+        "ariaLabel": "No Compulsion",
+        "blocks": [
+          {
+            "html": "The ruling sentence",
+            "t": "kicker"
+          },
+          {
+            "html": "No Compulsion",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "Six words in Arabic settle the question of forced faith forever: la ikraha fid-deen, there shall be no compulsion in the religion. The verse does not whisper it as a concession. It gives the reason in the same breath: the right course has become distinct from the wrong. Truth, in the Quran's own logic, does not need a sword at the throat, because a belief forced into the mouth never reaches the heart, and it is the heart that God looks at.",
+            "t": "p"
+          },
+          {
+            "arabic": "لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+            "citation": "Surah 2 · Verse 256 · Saheeh International",
+            "ref": "Quran 2:256",
+            "t": "verse",
+            "translation": "There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing."
+          }
+        ],
+        "id": "no-compulsion",
+        "title": "No Compulsion"
+      },
+      {
+        "ariaLabel": "Fight Those Who Fight You",
+        "blocks": [
+          {
+            "html": "Permission with a fence around it",
+            "t": "kicker"
+          },
+          {
+            "html": "Fight Those Who Fight You",
+            "t": "h2"
+          },
+          {
+            "html": "The Quran was revealed to a community that was tortured in Makkah and attacked in Madinah, and it does permit fighting. But read the permission whole. Fight those who fight against you, and in the very same verse, do not transgress, for Allah does not like transgressors. The permission is fenced at both ends: a cause, aggression answered, and a limit, no excess even then.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَـٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+            "citation": "Surah 2 · Verse 190 · Saheeh International",
+            "ref": "Quran 2:190",
+            "t": "verse",
+            "translation": "Fight in the way of Allāh those who fight against you but do not transgress. Indeed, Allāh does not like transgressors."
+          }
+        ],
+        "id": "fight-who-fight",
+        "title": "Fight Those Who Fight You"
+      },
+      {
+        "ariaLabel": "Incline to Peace",
+        "blocks": [
+          {
+            "html": "The standing order",
+            "t": "kicker"
+          },
+          {
+            "html": "Incline to Peace",
+            "t": "h2"
+          },
+          {
+            "html": "And the moment the other side moves toward peace, the command is not suspicion, delay or revenge. It is a mirror: if they incline to peace, then incline to it, and rely upon Allah. A faith spread by the sword does not talk like this to its own army. This verse talks like a lawgiver who wants the fighting to stop at the first honest chance.",
+            "t": "p"
+          },
+          {
+            "arabic": "۞ وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "citation": "Surah 8 · Verse 61 · Saheeh International",
+            "ref": "Quran 8:61",
+            "t": "verse",
+            "translation": "And if they incline to peace, then incline to it [also] and rely upon Allāh. Indeed, it is He who is the Hearing, the Knowing."
+          }
+        ],
+        "id": "incline-peace",
+        "title": "Incline to Peace"
+      },
+      {
+        "ariaLabel": "The Sword Verse in Its Place",
+        "blocks": [
+          {
+            "html": "Read the page, not the line",
+            "t": "kicker"
+          },
+          {
+            "html": "The Sword Verse in Its Place",
+            "t": "h2"
+          },
+          {
+            "html": "Every honest discussion reaches the verse critics quote alone: when the inviolable months have passed, then kill the polytheists wherever you find them. Read it on its own page and the picture changes completely. The verse before it commands that treaties with those who kept faith be honoured to their last day. The verse itself ends by ordering that any who repent be let go on their way. And the verse after it commands something no army of forced conversion would ever be told: if a polytheist seeks your protection, grant it, let him hear the words of Allah, then deliver him to his place of safety, even if he leaves unconvinced. The passage governs a war with treaty-breakers in seventh century Arabia. Its own neighbours in the text fence it with treaties, repentance and safe passage.",
+            "t": "p"
+          },
+          {
+            "arabic": "إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+            "citation": "Surah 9 · Verse 4 · Saheeh International",
+            "ref": "Quran 9:4",
+            "t": "verse",
+            "translation": "Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him]."
+          },
+          {
+            "arabic": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+            "citation": "Surah 9 · Verse 5 · Saheeh International",
+            "ref": "Quran 9:5",
+            "t": "verse",
+            "translation": "And when the inviolable months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakāh, let them [go] on their way. Indeed, Allāh is Forgiving and Merciful."
+          },
+          {
+            "arabic": "وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
+            "citation": "Surah 9 · Verse 6 · Saheeh International",
+            "ref": "Quran 9:6",
+            "t": "verse",
+            "translation": "And if any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allāh [i.e., the Qur’ān]. Then deliver him to his place of safety. That is because they are a people who do not know."
+          }
+        ],
+        "id": "sword-verse",
+        "title": "The Sword Verse in Its Place"
+      },
+      {
+        "ariaLabel": "Kindness to the Peaceful",
+        "blocks": [
+          {
+            "html": "The neighbour who does not fight you",
+            "t": "kicker"
+          },
+          {
+            "html": "Kindness to the Peaceful",
+            "t": "h2"
+          },
+          {
+            "html": "The article can end where daily life actually happens. Most non-Muslims a believer will ever meet are not armies. They are neighbours, colleagues, in-laws and strangers, and the Quran's instruction for all of them is a single verse that deserves to be as famous as the ones quoted against it: Allah does not forbid you from being righteous and just toward those who do not fight you. Righteous, birr, is the Quran's own word for the highest kindness a child owes a parent. That is the word it chooses for the peaceful neighbour of another faith.",
+            "t": "p"
+          },
+          {
+            "arabic": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهُ يُحِبُّ ٱلْمُقْسِطِينَ",
+            "citation": "Surah 60 · Verse 8 · Saheeh International",
+            "ref": "Quran 60:8",
+            "t": "verse",
+            "translation": "Allāh does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allāh loves those who act justly."
+          }
+        ],
+        "id": "kindness",
+        "title": "Kindness to the Peaceful"
+      }
+    ]
+  },
+  "women": {
+    "group": "Faith Among People",
+    "hero": {
+      "caption": "A symbolic image: a quiet garden courtyard, the dignity this article describes.",
+      "img": "../assets/foundations-women.webp",
+      "imgAlt": "Persian miniature painting of a peaceful garden courtyard with a fountain",
+      "plaque": "Foundations",
+      "sub": "From one soul, equal in creation, equal in reward: what the Quran itself says about women, read in its own words.",
+      "title": "Women in the Quran"
     },
-    {
-      "ariaLabel": "The Arrangement of Words",
-      "blocks": [
-        {
-          "html": "Nazm: meaning in its place",
-          "t": "kicker"
-        },
-        {
-          "html": "The Arrangement of Words",
-          "t": "h2"
-        },
-        {
-          "html": "Muslim scholars gave the Quran’s inimitability a name: i’jaz. When they searched for where that quality lives, many pointed to nazm, the arrangement of words. The marvel is not rare vocabulary by itself. It is the placing of each word so that sound, image, ruling, warning and mercy arrive together, with no loose thread hanging from the sentence. A verse can command, console and correct in the same breath, and still feel as if nothing could be moved without breaking the balance.",
-          "t": "p"
-        },
-        {
-          "html": "Listen to the opening movement of Ar-Rahman. Four short verses carry the whole doorway into the surah: the Most Merciful, the teaching of the Quran, the creation of man, and the gift of eloquence. The order is part of the beauty. Before man is mentioned, mercy is named. Before speech is praised, the Quran is placed as the teacher. The verses are brief enough to memorize at a glance, yet the ideas are arranged like steps, each one preparing the heart for the next.",
-          "t": "p"
-        },
-        {
-          "arabic": "ٱلرَّحْمَـٰنُ عَلَّمَ ٱلْقُرْءَانَ خَلَقَ ٱلْإِنسَـٰنَ عَلَّمَهُ ٱلْبَيَانَ",
-          "citation": "Surah 55 · Verses 1-4 · Saheeh International",
-          "ref": "Quran 55:1-4",
-          "t": "verse",
-          "translation": "The Most Merciful Taught the Qur’ān, Created man, [And] taught him eloquence."
-        },
-        {
-          "html": "This is one of the Quran’s recurring beauties: compression without thinness. The words do not pile up to impress. They stand in ranks. A short phrase can open into law, history, gratitude and warning, and the listener keeps finding doors in a passage he thought he had finished.",
-          "t": "p"
-        }
-      ],
-      "id": "arrangement",
-      "title": "The Arrangement of Words"
-    },
-    {
-      "ariaLabel": "Sound That Stays in the Chest",
-      "blocks": [
-        {
-          "html": "Heard before it is studied",
-          "t": "kicker"
-        },
-        {
-          "html": "Sound That Stays in the Chest",
-          "t": "h2"
-        },
-        {
-          "html": "The Quran is not only read with the eyes. It is carried by the tongue, timed by the breath and held in the chest. Its verse endings often fall into a measured cadence, so the ear knows when a thought has landed. Long passages can move like a procession, verse after verse keeping a rhythm of endings, while short surahs strike like a hand on a door. The beauty is not decoration added to meaning. The sound helps the meaning stay.",
-          "t": "p"
-        },
-        {
-          "html": "That is why a child can hold whole passages before he can explain them, and why an old man can hear a verse across a room and feel its weight before he translates a word. The arrangement serves memory. Rhyme of ending, balance of phrase and repetition of key words make the text cling to the listener, so that study often begins after the heart has already been reached.",
-          "t": "p"
-        }
-      ],
-      "id": "sound",
-      "title": "Sound That Stays in the Chest"
-    },
-    {
-      "ariaLabel": "Counted Refrains",
-      "blocks": [
-        {
-          "html": "A pattern the reader can count",
-          "t": "kicker"
-        },
-        {
-          "html": "Counted Refrains",
-          "t": "h2"
-        },
-        {
-          "html": "There is also a plainer kind of pattern, one any reader can test with a finger on the page. In Surah Ar-Rahman, after blessing follows blessing, the question returns: “So which of the favors of your Lord would you deny?” It comes again and again through the surah, thirty-one times in seventy-eight verses, like a measured knock at the door of gratitude. The repetition is not filler. Each return lands after new gifts have been named, so the same words grow heavier every time they arrive.",
-          "t": "p"
-        },
-        {
-          "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
-          "citation": "Surah 55 · Verse 13 · Saheeh International",
-          "ref": "Quran 55:13",
-          "t": "verse",
-          "translation": "So which of the favors of your Lord would you deny?"
-        },
-        {
-          "html": "Surah Al-Mursalat carries the opposite temperature. Its warning returns ten times in fifty verses: “Woe, that Day, to the deniers.” Mercy has a refrain, and judgment has a refrain. One teaches the tongue to answer with gratitude. The other teaches it to tremble. Readers sometimes call this the mathematical side of the Quran’s beauty. The safer wonder is the visible architecture: exact returns, placed at intervals, shaping the surah the way pillars shape a hall.",
-          "t": "p"
-        },
-        {
-          "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
-          "citation": "Surah 77 · Verse 15 · Saheeh International",
-          "ref": "Quran 77:15",
-          "t": "verse",
-          "translation": "Woe, that Day, to the deniers."
-        }
-      ],
-      "id": "counted-refrains",
-      "title": "Counted Refrains"
-    },
-    {
-      "ariaLabel": "The Counted Quran",
-      "blocks": [
-        {
-          "html": "Words weighed, not slogans",
-          "t": "kicker"
-        },
-        {
-          "html": "The Counted Quran",
-          "t": "h2"
-        },
-        {
-          "html": "The same care can be taken with single words. Counted from the Arabic text, with attached words such as “and” or “in” treated as part of the word they join, yawm, the word for day in its singular form, appears 349 times. Its solemn companion yawma’idhin, “that Day,” appears 70 times, and the plural ayyam, days, appears 22 times. These are not magic numbers forced onto the page. They are a reminder of how often the Quran turns the reader toward time, appointment and return.",
-          "t": "p"
-        },
-        {
-          "html": "Other counts, counted the same way, give the article its restraint. Ad-dunya, this world, appears 115 times, and al-akhirah, the Hereafter, appears 116 times in this counting, close enough to make the pairing felt and exact enough to warn us not to bend a number into a claim it cannot carry. Al-hayat, life, appears 71 times, as-salah, the prayer, 68 times, az-zakah, the obligatory charity, 32 times, al-jannah, the Garden, 77 times and an-nar, the Fire, 125 times.",
-          "t": "p"
-        },
-        {
-          "html": "Some popular pairs are therefore left out of this article. Where the ancient spelling makes two different words look the same on the page, a count cannot be honest without explaining the judgment hidden inside it. What can be verified is printed here. What cannot be verified cleanly is not used as proof.",
-          "t": "p"
-        }
-      ],
-      "id": "counted-quran",
-      "title": "The Counted Quran"
-    },
-    {
-      "ariaLabel": "Balance and Pairing",
-      "blocks": [
-        {
-          "html": "Opposites held in one hand",
-          "t": "kicker"
-        },
-        {
-          "html": "Balance and Pairing",
-          "t": "h2"
-        },
-        {
-          "html": "Again and again, the Quran places paired realities side by side: mercy and judgment, guidance and loss, the living and the dead, the seen and the unseen. The pairs are not pasted together as slogans. They arise inside stories, laws and descriptions of the Last Day, so the mind learns to hold both sides of existence at once. Gratitude is never allowed to become carelessness, and fear is never left without a door back to hope.",
-          "t": "p"
-        },
-        {
-          "html": "The language also turns with sudden grace. A passage may speak about people in the third person, then turn and address them directly, then open into prayer or command. Arabic rhetoric knows this turning as a way of waking the listener. In the Quran it often feels like the text refuses to let the reader remain a spectator. The one who was being spoken about discovers that he is now being spoken to.",
-          "t": "p"
-        },
-        {
-          "html": "Even the small words carry weight. Particles of emphasis, pauses at verse endings, and changes from singular to plural can shift the temperature of a passage. Translators labour to carry these turns into another language, and still the Arabic keeps reserves that a translation can only point toward. That gap is part of the experience of every non-Arabic reader: he receives the meaning truly, yet hears from those who know the tongue that the original is still larger.",
-          "t": "p"
-        }
-      ],
-      "id": "balance",
-      "title": "Balance and Pairing"
-    },
-    {
-      "ariaLabel": "Why the Challenge Still Stands",
-      "blocks": [
-        {
-          "html": "The door remains open",
-          "t": "kicker"
-        },
-        {
-          "html": "Why the Challenge Still Stands",
-          "t": "h2"
-        },
-        {
-          "cls": "dropcap",
-          "html": "The enduring power of the challenge is its openness. It was not locked inside one century, one city or one circle of poets. The verses remain recited in public, memorized by children, printed in every land and heard by believers and sceptics alike. Anyone may still read the test in its own words: bring a surah like it. The Quran stakes its claim where language can be examined, where eloquence can be compared, and where failure cannot be hidden behind distance.",
-          "t": "p"
-        },
-        {
-          "html": "For the believer, this is why the Book feels alive in the mouth. It teaches and warns, but it also sings its own proof. The shortest passages carry the same signature as the longest: precision of word, force of image, balance of sound and a meaning that keeps opening after the recitation has ended. The challenge began as an answer to doubt. It remains as an invitation to listen more closely.",
-          "t": "p"
-        }
-      ],
-      "id": "still-stands",
-      "title": "Why the Challenge Still Stands"
-    }
-  ]
-}
+    "introHtml": "Few subjects attract louder claims and quieter reading than women in Islam. This article takes the slower road. It does not argue with the loudest voice in the room; it opens the Quran and lets it speak about women in its own words: how they were created, how their deeds are weighed, how their worship is named, and the woman whose name became the title of a surah read in every land on earth.",
+    "prevNext": [
+      {
+        "label": "Previous article",
+        "title": "No Compulsion: Faith, War and Peace",
+        "href": "?p=no-compulsion",
+        "arrow": "back"
+      }
+    ],
+    "railLabels": [
+      "From One Soul",
+      "Named in the Promise",
+      "A Good Life, Male or Female",
+      "No Work Lost",
+      "Maryam"
+    ],
+    "sections": [
+      {
+        "ariaLabel": "From One Soul",
+        "blocks": [
+          {
+            "html": "Where the Quran begins the subject",
+            "t": "kicker"
+          },
+          {
+            "html": "From One Soul",
+            "t": "h2"
+          },
+          {
+            "cls": "dropcap",
+            "html": "The Quran opens its longest chapter on family life with creation, and the creation it describes allows no hierarchy of souls. O mankind, fear your Lord, who created you from one soul, and created from it its mate, and dispersed from both of them many men and women. Before any ruling, any role, any law, the foundation is laid: one origin, one Creator watching over all, and the wombs themselves named as a trust. Every later verse about women stands on this floor.",
+            "t": "p"
+          },
+          {
+            "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+            "citation": "Surah 4 · Verse 1 · Saheeh International",
+            "ref": "Quran 4:1",
+            "t": "verse",
+            "translation": "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer."
+          }
+        ],
+        "id": "one-soul",
+        "title": "From One Soul"
+      },
+      {
+        "ariaLabel": "Named in the Promise",
+        "blocks": [
+          {
+            "html": "Ten qualities, spoken twice",
+            "t": "kicker"
+          },
+          {
+            "html": "Named in the Promise",
+            "t": "h2"
+          },
+          {
+            "html": "There is a verse in Surah al-Ahzab that a reader can count on his fingers, because the Quran itself counts it out. The Muslim men and Muslim women, the believing men and believing women, the obedient, the truthful, the patient, the humble, the charitable, the fasting, those who guard their chastity, those who remember Allah often: ten qualities, every one of them spoken twice, once for men and once for women, in a single unbroken sentence. The verse ends by placing them under one roof: for them Allah has prepared forgiveness and a great reward. In a scripture sometimes accused of speaking over women's heads, this verse speaks to them in their own names, quality by quality.",
+            "t": "p"
+          },
+          {
+            "arabic": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+            "citation": "Surah 33 · Verse 35 · Saheeh International",
+            "ref": "Quran 33:35",
+            "t": "verse",
+            "translation": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allāh often and the women who do so - for them Allāh has prepared forgiveness and a great reward."
+          }
+        ],
+        "id": "named-promise",
+        "title": "Named in the Promise"
+      },
+      {
+        "ariaLabel": "A Good Life, Male or Female",
+        "blocks": [
+          {
+            "html": "One condition, one promise",
+            "t": "kicker"
+          },
+          {
+            "html": "A Good Life, Male or Female",
+            "t": "h2"
+          },
+          {
+            "html": "When the Quran makes its most beautiful promise about this world, it makes it without distinction. Whoever does righteousness, whether male or female, while he is a believer, We will surely cause him to live a good life. The condition is faith and righteous work. The promise is a good life here and the best of rewards there. The door, in this verse, is exactly as wide for a daughter of Adam as it is for a son.",
+            "t": "p"
+          },
+          {
+            "arabic": "مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+            "citation": "Surah 16 · Verse 97 · Saheeh International",
+            "ref": "Quran 16:97",
+            "t": "verse",
+            "translation": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do."
+          }
+        ],
+        "id": "good-life",
+        "title": "A Good Life, Male or Female"
+      },
+      {
+        "ariaLabel": "No Work Lost",
+        "blocks": [
+          {
+            "html": "You are of one another",
+            "t": "kicker"
+          },
+          {
+            "html": "No Work Lost",
+            "t": "h2"
+          },
+          {
+            "html": "And when the believers asked, in effect, whether heaven kept two ledgers, the answer came as a response from their Lord Himself. Never will I allow to be lost the work of any worker among you, whether male or female; you are of one another. The verse goes on to honour those who emigrated, were driven from their homes, were harmed, fought and were killed in His cause, a roll of honour the first community read knowing that women stood inside every one of its lines.",
+            "t": "p"
+          },
+          {
+            "arabic": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+            "citation": "Surah 3 · Verse 195 · Saheeh International",
+            "ref": "Quran 3:195",
+            "t": "verse",
+            "translation": "And their Lord responded to them, \"Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allāh, and Allāh has with Him the best reward.\""
+          }
+        ],
+        "id": "no-work-lost",
+        "title": "No Work Lost"
+      },
+      {
+        "ariaLabel": "Maryam",
+        "blocks": [
+          {
+            "html": "A surah bearing a woman's name",
+            "t": "kicker"
+          },
+          {
+            "html": "Maryam",
+            "t": "h2"
+          },
+          {
+            "html": "The Quran's nineteenth surah does not bear the name of a prophet, a king or a battle. It bears a woman's name: Maryam. In it, Maryam (AS) is honoured above the women of the worlds, guarded in her purity, fed by miracles in her chamber, and given a son who would speak from the cradle. The Quran also preserves the women it does not name with the same care: the mother of Musa, to whose heart Allah returned her child; the wife of Pharaoh, who prayed for a house in Paradise while living in the palace of a tyrant, and is held up as an example, the verse says, for the believers. Not for women. For the believers, all of them. That is the company the Quran seats its women in, and it is the note this article ends on.",
+            "t": "p"
+          }
+        ],
+        "id": "maryam",
+        "title": "Maryam"
+      }
+    ]
+  }
 };
-export const foundationOrder = ["iman", "pillars", "night", "quran", "recitation", "ijaz"];
+export const foundationOrder = ["iman","pillars","oneness","night","quran","recitation","ijaz","no-compulsion","women"];
