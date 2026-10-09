@@ -1402,7 +1402,7 @@ export const foundations = {
       },
       {
         "label": "Next article",
-        "title": "Women in the Quran",
+        "title": "Women in Islam",
         "href": "?p=women",
         "arrow": "next"
       }
@@ -1569,10 +1569,10 @@ export const foundations = {
       "img": "../assets/foundations-women.webp",
       "imgAlt": "Persian miniature painting of a peaceful garden courtyard with a fountain",
       "plaque": "Foundations",
-      "sub": "From one soul, equal in creation, equal in reward: what the Quran itself says about women, read in its own words.",
-      "title": "Women in the Quran"
+      "sub": "From one soul, equal in creation and reward, and four women the tradition names among the very best of Paradise, each carrying a lesson for every life.",
+      "title": "Women in Islam"
     },
-    "introHtml": "Few subjects attract louder claims and quieter reading than women in Islam. This article takes the slower road. It does not argue with the loudest voice in the room; it opens the Quran and lets it speak about women in its own words: how they were created, how their deeds are weighed, how their worship is named, and the woman whose name became the title of a surah read in every land on earth.",
+    "introHtml": "Few subjects attract louder claims and quieter reading than women in Islam. This article takes the slower road. It opens the Quran first and lets it speak about women in its own words, then it turns to the women the Prophet ﷺ himself named among the best of the people of Paradise: Khadijah, Fatimah, Maryam and Asiyah. Each life is told from the sources, and each one leaves a lesson clear enough to carry home.",
     "prevNext": [
       {
         "label": "Previous article",
@@ -1586,7 +1586,13 @@ export const foundations = {
       "Named in the Promise",
       "A Good Life, Male or Female",
       "No Work Lost",
-      "Maryam"
+      "Maryam",
+      "The Best of the Women of Paradise",
+      "Khadijah: Loyalty",
+      "Fatimah: Modesty",
+      "Maryam: Purity",
+      "Asiyah: Courage",
+      "Four Lessons, One Standard"
     ],
     "sections": [
       {
@@ -1712,6 +1718,157 @@ export const foundations = {
         ],
         "id": "maryam",
         "title": "Maryam"
+      },
+      {
+        "ariaLabel": "The Best of the Women of Paradise",
+        "blocks": [
+          {
+            "html": "Named in the tradition",
+            "t": "kicker"
+          },
+          {
+            "html": "The Best of the Women of Paradise",
+            "t": "h2"
+          },
+          {
+            "html": "The Quran praises believing women across its pages, and the Sunnah then does something remarkable: it gathers four of them into a single sentence and holds them up as enough of an example for the women of the world. Maryam bint Imran, Khadijah bint Khuwaylid, Fatimah bint Muhammad and Asiyah, the wife of Pharaoh are named together in Jami at-Tirmidhi 3878, and in Musnad Ahmad they are described as the best of the women of Paradise. Four lives, four centuries and circumstances apart, one standard. Their stories are not decorations on the faith. They are part of its teaching.",
+            "t": "p"
+          }
+        ],
+        "id": "best-of-paradise",
+        "title": "The Best of the Women of Paradise"
+      },
+      {
+        "ariaLabel": "Khadijah: Loyalty",
+        "blocks": [
+          {
+            "html": "The lesson: loyalty",
+            "t": "kicker"
+          },
+          {
+            "html": "Khadijah (RA): Loyalty That Believed First",
+            "t": "h2"
+          },
+          {
+            "html": "Khadijah bint Khuwaylid was a wealthy and respected merchant of Makkah when she employed a young Muhammad ﷺ for a trade journey and, impressed by his honesty, proposed marriage herself. When the revelation began and he came down from the cave trembling, the first believer in this message was not a scholar or a warrior. It was his wife. She wrapped him, calmed him and testified to his character before a single verse had been explained to her: Allah would never disgrace a man who kept family ties, carried the burdens of the weak and honoured his guests. She then took him to her cousin Waraqah, and when persecution came, her wealth became the treasury of a community that had nothing. Years after her death, the Prophet ﷺ still sent meat to her friends and said he had been blessed with her love. Heaven answered that devotion in her lifetime: Jibreel brought her greetings of peace from her Lord and glad tidings of a palace in Paradise with no noise and no fatigue in it (Sahih al-Bukhari 3820).",
+            "t": "p"
+          },
+          {
+            "html": "The lesson of Khadijah is loyalty that acts. She believed first, gave first and stood closest when belief cost the most, so Islam remembers its first home as a sanctuary built by a woman.",
+            "t": "p"
+          }
+        ],
+        "id": "khadijah",
+        "title": "Khadijah (RA): Loyalty That Believed First"
+      },
+      {
+        "ariaLabel": "Fatimah: Modesty",
+        "blocks": [
+          {
+            "html": "The lesson: modesty",
+            "t": "kicker"
+          },
+          {
+            "html": "Fatimah (RA): Modesty and Contentment",
+            "t": "h2"
+          },
+          {
+            "html": "Fatimah, the youngest daughter of the Prophet ﷺ and Khadijah, grew up in the hardest years of Makkah and carried that training into a simple home in Madinah. Her house had no servants. She ground grain until the mill marked her hands and carried water until the strap marked her body, and when Ali (RA) urged her to ask her father for a servant, she went to him and, out of shyness, returned without asking. The Prophet ﷺ came to their home himself and gave them something he called better than a servant: SubhanAllah thirty three times, Alhamdulillah thirty three times and Allahu Akbar thirty four times before sleep (Sahih al-Bukhari 3113). That remembrance carries her name to this day. The Prophet ﷺ called her a part of himself, and told her she would be the leader of the women of Paradise (Sahih Muslim 2450).",
+            "t": "p"
+          },
+          {
+            "html": "The lesson of Fatimah is modesty joined to contentment: a dignity that does not beg, does not display itself, and turns hardship into remembrance instead of complaint.",
+            "t": "p"
+          }
+        ],
+        "id": "fatimah",
+        "title": "Fatimah (RA): Modesty and Contentment"
+      },
+      {
+        "ariaLabel": "Maryam: Purity",
+        "blocks": [
+          {
+            "html": "The lesson: purity",
+            "t": "kicker"
+          },
+          {
+            "html": "Maryam (AS): Purity Guarded by Devotion",
+            "t": "h2"
+          },
+          {
+            "html": "Maryam bint Imran was dedicated to the sanctuary before she was born, raised under the care of Zakariya, and fed by provision her guardian could not explain. When the angels addressed her, they did not praise her lineage or her beauty. They praised her purity and her rank: Allah has chosen you and purified you and chosen you above the women of the worlds. She withdrew from people to guard her devotion, faced the hardest trial a woman of her society could face with a miraculous child the world would slander her for, and answered with silence and a sign toward the cradle. The Quran closes her portrait by joining her chastity to her faith: she believed in the words of her Lord and His scriptures and was of the devoutly obedient.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+            "citation": "Surah 3 · Verse 42 · Saheeh International",
+            "ref": "Quran 3:42",
+            "t": "verse",
+            "translation": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds."
+          },
+          {
+            "arabic": "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَـٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَـٰنِتِينَ",
+            "citation": "Surah 66 · Verse 12 · Saheeh International",
+            "ref": "Quran 66:12",
+            "t": "verse",
+            "translation": "And [the example of] Mary, the daughter of ʿImrān, who guarded her chastity, so We blew into [her garment] through Our angel [i.e., Gabriel], and she believed in the words of her Lord and His scriptures and was of the devoutly obedient."
+          },
+          {
+            "html": "The lesson of Maryam is purity with worship inside it: modesty protected her, but it was her belief and her obedience that raised her above the women of the worlds.",
+            "t": "p"
+          }
+        ],
+        "id": "maryam-life",
+        "title": "Maryam (AS): Purity Guarded by Devotion"
+      },
+      {
+        "ariaLabel": "Asiyah: Courage",
+        "blocks": [
+          {
+            "html": "The lesson: courage",
+            "t": "kicker"
+          },
+          {
+            "html": "Asiyah (RA): Faith Inside the Tyrant's House",
+            "t": "h2"
+          },
+          {
+            "html": "Asiyah bint Muzahim had everything the world counts as success: a palace, a crown at her side and the most powerful man on earth as her husband. Pharaoh claimed divinity, slaughtered children and demanded worship, and the one person who slept under his roof refused to believe him. The Quran never records her wealth, her beauty or her influence. It records her prayer, and the prayer is astonishing: she asked Allah for a house near Him in Paradise, and to be saved from Pharaoh, from his deeds and from the wrongdoing people. She traded a palace she could touch for a house she could only believe in. Allah then made her, a woman alone inside tyranny, His chosen example not for women only, but for those who believed, all of them.",
+            "t": "p"
+          },
+          {
+            "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "citation": "Surah 66 · Verse 11 · Saheeh International",
+            "ref": "Quran 66:11",
+            "t": "verse",
+            "translation": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\""
+          },
+          {
+            "html": "The lesson of Asiyah is courage in place. A believer does not need a perfect environment to keep faith, and no palace, pressure or powerful household can excuse surrendering it.",
+            "t": "p"
+          }
+        ],
+        "id": "asiyah",
+        "title": "Asiyah (RA): Faith Inside the Tyrant's House"
+      },
+      {
+        "ariaLabel": "Four Lessons, One Standard",
+        "blocks": [
+          {
+            "html": "What their lives teach together",
+            "t": "kicker"
+          },
+          {
+            "html": "Four Lessons, One Standard",
+            "t": "h2"
+          },
+          {
+            "html": "Set the four portraits side by side and a pattern appears. Khadijah teaches loyalty: stand by the truth first and fund it with what you love. Fatimah teaches modesty and contentment: carry hardship quietly and let remembrance do the work complaint cannot. Maryam teaches purity with devotion: guard the body and fill the guard-post with worship. Asiyah teaches courage: never let your surroundings set the terms of your faith. The Quran and the Sunnah did not preserve these women as ornaments of a male story. They preserved them as the standard, named, praised and promised Paradise, so that every reader, daughter or son, knows exactly what a great life looks like.",
+            "t": "p"
+          }
+        ],
+        "id": "four-lessons",
+        "title": "Four Lessons, One Standard"
       }
     ]
   }
