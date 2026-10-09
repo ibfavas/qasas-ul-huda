@@ -679,8 +679,256 @@ export const foundations = {
         "title": "The Five Pillars of Islam",
         "href": "?p=pillars",
         "arrow": "back"
+      },
+      {
+        "label": "Next article",
+        "title": "The Quran That Cannot Be Imitated",
+        "href": "?p=ijaz",
+        "arrow": "next"
       }
     ]
-  }
+  },
+  "ijaz": {
+  "hero": {
+    "caption": "A symbolic image: desert dunes moving like waves beneath the night sky, a reminder that the Quran is first received by hearing.",
+    "img": "../assets/foundations-ijaz.webp",
+    "imgAlt": "Persian miniature painting of moonlit desert dunes flowing like waves under a star filled sky",
+    "plaque": "Foundations",
+    "sub": "The open challenge of the Quran, the beauty of its word arrangement, and the counted patterns that make its verses stay in the ear and in the heart.",
+    "title": "The Quran That Cannot Be Imitated"
+  },
+  "introHtml": "Some books ask to be admired. The Quran does something rarer: it asks to be tested. Again and again it turns to the doubter and says, in effect, if this is only human speech, then bring its like. Bring one surah. Bring ten. Gather every helper you can find. The challenge is not hidden in a footnote or saved for scholars. It stands in the open, in the recitation itself, where the sound reaches the ear before the argument reaches the mind.",
+  "prevNext": [
+    {
+      "arrow": "back",
+      "href": "?p=quran",
+      "label": "Previous article",
+      "title": "The Standardization of the Quran"
+    }
+  ],
+  "railLabels": [
+    "The Open Challenge",
+    "From the Whole Book to One Surah",
+    "The Arrangement of Words",
+    "Sound That Stays in the Chest",
+    "Counted Refrains",
+    "Balance and Pairing",
+    "Why the Challenge Still Stands"
+  ],
+  "sections": [
+    {
+      "ariaLabel": "The Open Challenge",
+      "blocks": [
+        {
+          "html": "Where the claim begins",
+          "t": "kicker"
+        },
+        {
+          "html": "The Open Challenge",
+          "t": "h2"
+        },
+        {
+          "cls": "dropcap",
+          "html": "The Quran names the doubt and answers it on the same page. If what was sent down to Muhammad ﷺ is questioned, the response is not anger and not silence. It is a public test: produce a surah like it, and call every witness and helper besides Allah. Then the verse closes the door on every future attempt with words that still sound daring after fourteen centuries: if you do not, and you never will, then fear the Fire.",
+          "t": "p"
+        },
+        {
+          "arabic": "وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَـٰفِرِينَ",
+          "citation": "Surah 2 · Verses 23-24 · Saheeh International",
+          "ref": "Quran 2:23-24",
+          "t": "verse",
+          "translation": "And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful. But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers."
+        }
+      ],
+      "id": "open-challenge",
+      "title": "The Open Challenge"
+    },
+    {
+      "ariaLabel": "From the Whole Book to One Surah",
+      "blocks": [
+        {
+          "html": "The bar is lowered",
+          "t": "kicker"
+        },
+        {
+          "html": "From the Whole Book to One Surah",
+          "t": "h2"
+        },
+        {
+          "html": "The challenge is repeated at different heights. In one place the whole company of mankind and jinn is gathered in imagination, helping one another, and still declared unable. In another, the demand is ten surahs. Then it falls to one. The movement matters. The Quran does not make the test impossibly large and then hide behind its size. It reduces the task until the failure, if failure comes, cannot be blamed on the scale of the request.",
+          "t": "p"
+        },
+        {
+          "arabic": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+          "citation": "Surah 17 · Verse 88 · Saheeh International",
+          "ref": "Quran 17:88",
+          "t": "verse",
+          "translation": "Say, \"If mankind and the jinn gathered in order to produce the like of this Qur’ān, they could not produce the like of it, even if they were to each other assistants.\""
+        },
+        {
+          "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَـٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+          "citation": "Surah 11 · Verse 13 · Saheeh International",
+          "ref": "Quran 11:13",
+          "t": "verse",
+          "translation": "Or do they say, \"He invented it\"? Say, \"Then bring ten sūrahs like it that have been invented and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+        },
+        {
+          "arabic": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+          "citation": "Surah 10 · Verse 38 · Saheeh International",
+          "ref": "Quran 10:38",
+          "t": "verse",
+          "translation": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+        }
+      ],
+      "id": "whole-to-one",
+      "title": "From the Whole Book to One Surah"
+    },
+    {
+      "ariaLabel": "The Arrangement of Words",
+      "blocks": [
+        {
+          "html": "Nazm: meaning in its place",
+          "t": "kicker"
+        },
+        {
+          "html": "The Arrangement of Words",
+          "t": "h2"
+        },
+        {
+          "html": "Muslim scholars gave the Quran’s inimitability a name: i’jaz. When they searched for where that quality lives, many pointed to nazm, the arrangement of words. The marvel is not rare vocabulary by itself. It is the placing of each word so that sound, image, ruling, warning and mercy arrive together, with no loose thread hanging from the sentence. A verse can command, console and correct in the same breath, and still feel as if nothing could be moved without breaking the balance.",
+          "t": "p"
+        },
+        {
+          "html": "Listen to the opening movement of Ar-Rahman. Four short verses carry the whole doorway into the surah: the Most Merciful, the teaching of the Quran, the creation of man, and the gift of eloquence. The order is part of the beauty. Before man is mentioned, mercy is named. Before speech is praised, the Quran is placed as the teacher. The verses are brief enough to memorize at a glance, yet the ideas are arranged like steps, each one preparing the heart for the next.",
+          "t": "p"
+        },
+        {
+          "arabic": "ٱلرَّحْمَـٰنُ عَلَّمَ ٱلْقُرْءَانَ خَلَقَ ٱلْإِنسَـٰنَ عَلَّمَهُ ٱلْبَيَانَ",
+          "citation": "Surah 55 · Verses 1-4 · Saheeh International",
+          "ref": "Quran 55:1-4",
+          "t": "verse",
+          "translation": "The Most Merciful Taught the Qur’ān, Created man, [And] taught him eloquence."
+        },
+        {
+          "html": "This is one of the Quran’s recurring beauties: compression without thinness. The words do not pile up to impress. They stand in ranks. A short phrase can open into law, history, gratitude and warning, and the listener keeps finding doors in a passage he thought he had finished.",
+          "t": "p"
+        }
+      ],
+      "id": "arrangement",
+      "title": "The Arrangement of Words"
+    },
+    {
+      "ariaLabel": "Sound That Stays in the Chest",
+      "blocks": [
+        {
+          "html": "Heard before it is studied",
+          "t": "kicker"
+        },
+        {
+          "html": "Sound That Stays in the Chest",
+          "t": "h2"
+        },
+        {
+          "html": "The Quran is not only read with the eyes. It is carried by the tongue, timed by the breath and held in the chest. Its verse endings often fall into a measured cadence, so the ear knows when a thought has landed. Long passages can move like a procession, verse after verse keeping a rhythm of endings, while short surahs strike like a hand on a door. The beauty is not decoration added to meaning. The sound helps the meaning stay.",
+          "t": "p"
+        },
+        {
+          "html": "That is why a child can hold whole passages before he can explain them, and why an old man can hear a verse across a room and feel its weight before he translates a word. The arrangement serves memory. Rhyme of ending, balance of phrase and repetition of key words make the text cling to the listener, so that study often begins after the heart has already been reached.",
+          "t": "p"
+        }
+      ],
+      "id": "sound",
+      "title": "Sound That Stays in the Chest"
+    },
+    {
+      "ariaLabel": "Counted Refrains",
+      "blocks": [
+        {
+          "html": "A pattern the reader can count",
+          "t": "kicker"
+        },
+        {
+          "html": "Counted Refrains",
+          "t": "h2"
+        },
+        {
+          "html": "There is also a plainer kind of pattern, one any reader can test with a finger on the page. In Surah Ar-Rahman, after blessing follows blessing, the question returns: “So which of the favors of your Lord would you deny?” It comes again and again through the surah, thirty-one times in seventy-eight verses, like a measured knock at the door of gratitude. The repetition is not filler. Each return lands after new gifts have been named, so the same words grow heavier every time they arrive.",
+          "t": "p"
+        },
+        {
+          "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "citation": "Surah 55 · Verse 13 · Saheeh International",
+          "ref": "Quran 55:13",
+          "t": "verse",
+          "translation": "So which of the favors of your Lord would you deny?"
+        },
+        {
+          "html": "Surah Al-Mursalat carries the opposite temperature. Its warning returns ten times in fifty verses: “Woe, that Day, to the deniers.” Mercy has a refrain, and judgment has a refrain. One teaches the tongue to answer with gratitude. The other teaches it to tremble. Readers sometimes call this the mathematical side of the Quran’s beauty. The safer wonder is the visible architecture: exact returns, placed at intervals, shaping the surah the way pillars shape a hall.",
+          "t": "p"
+        },
+        {
+          "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+          "citation": "Surah 77 · Verse 15 · Saheeh International",
+          "ref": "Quran 77:15",
+          "t": "verse",
+          "translation": "Woe, that Day, to the deniers."
+        }
+      ],
+      "id": "counted-refrains",
+      "title": "Counted Refrains"
+    },
+    {
+      "ariaLabel": "Balance and Pairing",
+      "blocks": [
+        {
+          "html": "Opposites held in one hand",
+          "t": "kicker"
+        },
+        {
+          "html": "Balance and Pairing",
+          "t": "h2"
+        },
+        {
+          "html": "Again and again, the Quran places paired realities side by side: mercy and judgment, guidance and loss, the living and the dead, the seen and the unseen. The pairs are not pasted together as slogans. They arise inside stories, laws and descriptions of the Last Day, so the mind learns to hold both sides of existence at once. Gratitude is never allowed to become carelessness, and fear is never left without a door back to hope.",
+          "t": "p"
+        },
+        {
+          "html": "The language also turns with sudden grace. A passage may speak about people in the third person, then turn and address them directly, then open into prayer or command. Arabic rhetoric knows this turning as a way of waking the listener. In the Quran it often feels like the text refuses to let the reader remain a spectator. The one who was being spoken about discovers that he is now being spoken to.",
+          "t": "p"
+        },
+        {
+          "html": "Even the small words carry weight. Particles of emphasis, pauses at verse endings, and changes from singular to plural can shift the temperature of a passage. Translators labour to carry these turns into another language, and still the Arabic keeps reserves that a translation can only point toward. That gap is part of the experience of every non-Arabic reader: he receives the meaning truly, yet hears from those who know the tongue that the original is still larger.",
+          "t": "p"
+        }
+      ],
+      "id": "balance",
+      "title": "Balance and Pairing"
+    },
+    {
+      "ariaLabel": "Why the Challenge Still Stands",
+      "blocks": [
+        {
+          "html": "The door remains open",
+          "t": "kicker"
+        },
+        {
+          "html": "Why the Challenge Still Stands",
+          "t": "h2"
+        },
+        {
+          "cls": "dropcap",
+          "html": "The enduring power of the challenge is its openness. It was not locked inside one century, one city or one circle of poets. The verses remain recited in public, memorized by children, printed in every land and heard by believers and sceptics alike. Anyone may still read the test in its own words: bring a surah like it. The Quran stakes its claim where language can be examined, where eloquence can be compared, and where failure cannot be hidden behind distance.",
+          "t": "p"
+        },
+        {
+          "html": "For the believer, this is why the Book feels alive in the mouth. It teaches and warns, but it also sings its own proof. The shortest passages carry the same signature as the longest: precision of word, force of image, balance of sound and a meaning that keeps opening after the recitation has ended. The challenge began as an answer to doubt. It remains as an invitation to listen more closely.",
+          "t": "p"
+        }
+      ],
+      "id": "still-stands",
+      "title": "Why the Challenge Still Stands"
+    }
+  ]
+}
 };
-export const foundationOrder = ["iman", "pillars", "quran"];
+export const foundationOrder = ["iman", "pillars", "quran", "ijaz"];
