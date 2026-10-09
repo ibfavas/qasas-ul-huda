@@ -1,4 +1,5 @@
 /* Homepage v4: original illuminated cover. All artwork generated for Qasas ul-Huda. */
+import { useState } from 'react';
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { foundations, foundationOrder } from '../data/foundations.js';
@@ -32,6 +33,45 @@ function ProphetItem({ p }) {
     <span className="prophet soon" role="listitem">
       {inner}
     </span>
+  );
+}
+
+function FoundationsTabs() {
+  const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
+  const [active, setActive] = useState(groups[0]);
+  const articles = foundationOrder.filter((slug) => foundations[slug].group === active);
+  return (
+    <div className="fct reveal" data-delay="3">
+      <div className="fct-tabs" role="tablist" aria-label="Foundations article groups">
+        {groups.map((group) => (
+          <button
+            key={group}
+            role="tab"
+            aria-selected={active === group}
+            className={'fct-tab' + (active === group ? ' active' : '')}
+            onClick={() => setActive(group)}
+          >
+            {group}
+          </button>
+        ))}
+      </div>
+      <p className="fct-meta">
+        Articles · {articles.length} {articles.length === 1 ? 'resource' : 'resources'}
+      </p>
+      <div className="fct-grid" role="tabpanel" key={active}>
+        {articles.map((slug, i) => (
+          <a className="fct-card" href={'foundations/?p=' + slug} key={slug}>
+            <span className="fct-badge" aria-hidden="true">
+              {String(i + 1).padStart(2, '0')}
+            </span>
+            <span className="fct-title">{foundations[slug].hero.title}</span>
+            <span className="fct-arrow" aria-hidden="true">
+              &rarr;
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
   );
 }
 
@@ -180,22 +220,7 @@ export function HomePage() {
               Short articles on the essentials every story stands on, each one verified from the Quran and authentic
               hadith before it is set down.
             </p>
-            <div className="fc-panel reveal" data-delay="3">
-              {[...new Set(foundationOrder.map((slug) => foundations[slug].group))].map((group) => (
-                <div className="fc-col" key={group}>
-                  <p className="fc-group">{group}</p>
-                  <ul className="fc-list">
-                    {foundationOrder
-                      .filter((slug) => foundations[slug].group === group)
-                      .map((slug) => (
-                        <li key={slug}>
-                          <a href={'foundations/?p=' + slug}>{foundations[slug].hero.title}</a>
-                        </li>
-                      ))}
-                  </ul>
-                </div>
-              ))}
-            </div>
+            <FoundationsTabs />
           </div>
         </section>
 
