@@ -180,13 +180,20 @@ export function HomePage() {
               Short articles on the essentials every story stands on, each one verified from the Quran and authentic
               hadith before it is set down.
             </p>
-            <div className="foundation-rows reveal" data-delay="3">
-              {foundationOrder.map((slug, i) => (
-                <a className="foundation-row" href={'foundations/?p=' + slug} key={slug}>
-                  <span className="fr-numeral" aria-hidden="true">{ROMAN[i]}</span>
-                  <span className="fr-title">{foundations[slug].hero.title}</span>
-                  <span className="fr-arrow" aria-hidden="true">&rarr;</span>
-                </a>
+            <div className="fc-panel reveal" data-delay="3">
+              {[...new Set(foundationOrder.map((slug) => foundations[slug].group))].map((group) => (
+                <div className="fc-col" key={group}>
+                  <p className="fc-group">{group}</p>
+                  <ul className="fc-list">
+                    {foundationOrder
+                      .filter((slug) => foundations[slug].group === group)
+                      .map((slug) => (
+                        <li key={slug}>
+                          <a href={'foundations/?p=' + slug}>{foundations[slug].hero.title}</a>
+                        </li>
+                      ))}
+                  </ul>
+                </div>
               ))}
             </div>
           </div>
