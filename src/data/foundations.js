@@ -712,6 +712,7 @@ export const foundations = {
     "The Arrangement of Words",
     "Sound That Stays in the Chest",
     "Counted Refrains",
+    "The Counted Quran",
     "Balance and Pairing",
     "Why the Challenge Still Stands"
   ],
@@ -876,6 +877,33 @@ export const foundations = {
       ],
       "id": "counted-refrains",
       "title": "Counted Refrains"
+    },
+    {
+      "ariaLabel": "The Counted Quran",
+      "blocks": [
+        {
+          "html": "Words weighed, not slogans",
+          "t": "kicker"
+        },
+        {
+          "html": "The Counted Quran",
+          "t": "h2"
+        },
+        {
+          "html": "The same care can be taken with single words. Counted from the Arabic text, with attached words such as “and” or “in” treated as part of the word they join, yawm, the word for day in its singular form, appears 349 times. Its solemn companion yawma’idhin, “that Day,” appears 70 times, and the plural ayyam, days, appears 22 times. These are not magic numbers forced onto the page. They are a reminder of how often the Quran turns the reader toward time, appointment and return.",
+          "t": "p"
+        },
+        {
+          "html": "Other counts, counted the same way, give the article its restraint. Ad-dunya, this world, appears 115 times, and al-akhirah, the Hereafter, appears 116 times in this counting, close enough to make the pairing felt and exact enough to warn us not to bend a number into a claim it cannot carry. Al-hayat, life, appears 71 times, as-salah, the prayer, 68 times, az-zakah, the obligatory charity, 32 times, al-jannah, the Garden, 77 times and an-nar, the Fire, 125 times.",
+          "t": "p"
+        },
+        {
+          "html": "Some popular pairs are therefore left out of this article. Where the ancient spelling makes two different words look the same on the page, a count cannot be honest without explaining the judgment hidden inside it. What can be verified is printed here. What cannot be verified cleanly is not used as proof.",
+          "t": "p"
+        }
+      ],
+      "id": "counted-quran",
+      "title": "The Counted Quran"
     },
     {
       "ariaLabel": "Balance and Pairing",
