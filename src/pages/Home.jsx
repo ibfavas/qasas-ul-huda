@@ -198,8 +198,7 @@ export function HomePage() {
               The prophets in order
             </h2>
             <p className="lede reveal" data-delay="2">
-              Twenty-five messengers, from the first to the last. Chapters open as they are written: Adam, Idris,
-              Nuh, Hud, Salih and Yusuf are ready to read.
+              Twenty-five messengers, from the first to the last. All twenty-five chapters are ready to read.
             </p>
             <div className="timeline-rail reveal" data-delay="2" role="list" aria-label="Prophets in chronological order">
               {prophets.map((p, i) => (
