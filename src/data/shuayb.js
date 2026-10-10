@@ -34,16 +34,28 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In the region of Madyan stood a trading community beside a dense thicket. The Quran calls its people the Companions of the Wood. Ibn Kathir explains that al-Aykah was a tree they worshipped, and that their wrongdoing was not private unbelief alone. Their markets ran on shortage and deceit: measures were cut, weights were lightened, and goods were passed on for more than they were worth. Their roads were unsafe too, for travellers could be threatened, blocked, or made to pay for passage. It was a town whose wealth looked strong because other people's rights were being quietly taken away.",
+          "html": "In the region of Madyan stood a trading community beside a dense thicket. The Quran calls its people the Companions of the Wood. Ibn Kathir explains that al-Aykah was a tree they worshipped, and that explanation matters because their error was never only a private matter hidden inside the heart. A people may turn away from Allah in belief and then build a whole way of life around that turning away. In Madyan, worship had been displaced, and the marketplace had been shaped by hands that no longer feared the One who sees every measure, every weight, and every hidden intention behind a bargain.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Shuayb (AS) was not sent to strangers who could dismiss him as an outsider. Again and again the Quran calls him their brother. He knew their families, their market, and the habits they defended as normal. That made the message harder to dodge. The man calling them back to Allah and to honest scales was one of their own."
+          "html": "Their wrongdoing reached into ordinary dealings where people expected fairness and found loss instead. Their markets ran on shortage and deceit: measures were cut, weights were lightened, and goods were passed on for more than they were worth. A buyer could come trusting the measure placed before him and leave carrying less than he had paid for, while the seller counted a gain that was not lawfully his. What looked like clever trade was in truth a quiet taking of other people's rights, repeated often enough that cheating had begun to wear the clothing of custom."
         },
         {
           "t": "p",
-          "html": "Allah, in mercy, sent them a prophet from their own community: Shuayb (AS), a man of wisdom, reason and clean hands, in a town where clean hands were going out of business. He did not begin by asking for power or payment. He began with worship, and he joined worship to the scale, the measure, the road, and the rights of every buyer and traveller."
+          "html": "Their roads told the same story as their scales. Travellers could be threatened, blocked, or made to pay for passage, so movement itself became another place where strength took what justice did not allow. A town may call itself prosperous while travellers fear its roads and customers fear its shops. The Quran joins those two worlds together for Madyan: the measure in the hand, the balance on the counter, the goods set out for sale, and the path outside the town were all places where corruption could either be restrained or allowed to spread."
+        },
+        {
+          "t": "p",
+          "html": "It was a town whose wealth looked strong because other people's rights were being quietly taken away. That kind of strength is fragile even when the stores are full and the houses stand firm. If gain depends on depriving people of what is theirs, then every transaction carries a wrong that does not disappear when the coins change hands. The seller may forget the customer after the market closes. The deed remains written, and the right that was shortened remains a claim that honesty would have honoured at the moment of sale."
+        },
+        {
+          "t": "p",
+          "html": "Shuayb (AS) was not sent to strangers who could dismiss him as an outsider. Again and again the Quran calls him their brother. He knew their families, their market, and the habits they defended as normal. That made the message harder to dodge. The man calling them back to Allah and to honest scales was one of their own, not a distant voice passing through with no knowledge of their streets. Kinship removed the excuse that the caller did not understand their life. He understood it well enough to name the point where worship and trade had separated."
+        },
+        {
+          "t": "p",
+          "html": "Allah, in mercy, sent them a prophet from their own community: Shuayb (AS), a man of wisdom, reason and clean hands, in a town where clean hands were going out of business. He did not begin by asking for power or payment. He began with worship, and he joined worship to the scale, the measure, the road, and the rights of every buyer and traveller. That joining is the heart of the chapter. Prayer that never reaches the hand on the balance has left a wide part of life unsubmitted, and wealth gathered by fraud cannot be made clean by calling it success."
         }
       ]
     },
@@ -62,7 +74,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Shuayb (AS): \"O my people, worship Allah. You have no deity other than Him. Clear evidence has come to you from your Lord. So give full measure and weight, and do not deprive people of what is theirs, and do not spread corruption in the earth after it has been set right. That is better for you, if you are believers.\" His message had two halves, and he never separated them. The God who was worshipped in prayer was the God watching the merchant's hand on the scale.",
+          "html": "Shuayb (AS) said: \"O my people, worship Allah. You have no deity other than Him. Clear evidence has come to you from your Lord. So give full measure and weight, and do not deprive people of what is theirs, and do not spread corruption in the earth after it has been set right. That is better for you, if you are believers.\" His message had two halves, and he never separated them. The God who was worshipped in prayer was the God watching the merchant's hand on the scale. The call began with Allah alone, because a measure is only safe when the heart first knows Who commands justice and Who will judge the one who bends it.",
           "cls": "dropcap"
         },
         {
@@ -74,7 +86,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He also called them to look beyond the market day in front of them. Shuayb (AS): \"O my people, worship Allah, expect the Last Day, and do not commit abuse on the earth, spreading corruption.\" A short measure was not a clever trick that vanished when the customer left. It was a deed carried into the next world."
+          "html": "The command to give full measure came after clear evidence had reached them, so the sermon was not a demand made in darkness. The people were being called to recognise their Lord and then to repair the visible dealings through which unbelief had become daily practice. To worship Allah while withholding the due of people would leave the market under another rule altogether: appetite, custom, and fear of losing profit. Shuayb (AS) placed the measure, the weight, and the rights of people inside the same obedience, teaching that corruption on earth often begins in small acts that sellers learn to excuse because each act looks too little to matter."
+        },
+        {
+          "t": "p",
+          "html": "He also called them to look beyond the market day in front of them. Shuayb (AS) said: \"O my people, worship Allah, expect the Last Day, and do not commit abuse on the earth, spreading corruption.\" A short measure was not a clever trick that vanished when the customer left. It was a deed carried into the next world. Expecting the Last Day changes the meaning of a handful of grain or a lightened weight, because the buyer who never discovers the loss is not the only witness. Allah sees the act, records it, and will bring every hidden shortening into judgment."
         },
         {
           "t": "verse",
@@ -85,7 +101,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He spoke as a man who could see both their wealth and its danger. Shuayb (AS): \"I see you in prosperity, but I fear for you the punishment of an encompassing Day. Give full measure and weight in justice.\" Ibn Kathir's explanation of the command is practical: give as you take, and take as you give. The scale had to be straight when grain left the shop and straight when money or goods came in."
+          "html": "He spoke as a man who could see both their wealth and its danger. Shuayb (AS) said: \"I see you in prosperity, but I fear for you the punishment of an encompassing Day. Give full measure and weight in justice.\" Ibn Kathir's explanation of the command is practical: give as you take, and take as you give. The scale had to be straight when grain left the shop and straight when money or goods came in. Prosperity did not prove that all was well with Madyan. It proved that the people had much to answer for if blessing had been met with fraud rather than gratitude."
         },
         {
           "t": "verse",
@@ -96,7 +112,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The command was not only about the size of a container. It reached the balance itself. Shuayb (AS): \"Give full measure and do not be among those who cause loss. Weigh with an even balance.\" A merchant could fill the measure and still steal with the scale, so Allah closed both doors."
+          "html": "The fear Shuayb (AS) named was not fear that honesty would ruin a sound business. It was fear that a prosperous people might meet a Day whose punishment surrounds a person with no road of escape left open by excuses. That warning gives the market command its scale. A dishonest weight is small enough to hide in a palm, yet the one who uses it is trading under the eye of the Lord of that encompassing Day. When the hereafter is kept near, the right of a customer stops looking like an obstacle to profit and becomes a trust that must be returned in full."
+        },
+        {
+          "t": "p",
+          "html": "The command was not only about the size of a container. It reached the balance itself. Shuayb (AS) said: \"Give full measure and do not be among those who cause loss. Weigh with an even balance.\" A merchant could fill the measure and still steal with the scale, so Allah closed both doors. One door was the measure that held the goods. The other was the instrument that declared their weight. Closing both doors left no respectable hiding place for the habit, whether the loss was caused by a shallow scoop, a pressed thumb, an uneven beam, or any device by which a due was made to appear complete while it was not."
         },
         {
           "t": "verse",
@@ -113,7 +133,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The same hatred of hidden fraud remained a mark of Allah's Messenger centuries later. Muhammad ﷺ once passed a heap of food, put his hand inside, and found the hidden part wet. When the seller blamed the rain, he asked why the wet part had not been placed on top for people to see, and warned that whoever deceives is not from his followers. The setting had changed. The sin was the one Shuayb (AS) had confronted in Madyan."
+          "html": "The same hatred of hidden fraud remained a mark of Allah's Messenger centuries later. Muhammad (peace be upon him) once passed a heap of food, put his hand inside, and found the hidden part wet. When the seller blamed the rain, he asked why the wet part had not been placed on top for people to see, and warned that whoever deceives is not from his followers. The setting had changed. The sin was the one Shuayb (AS) had confronted in Madyan. A dry surface arranged to hide a spoiled interior is only another form of a short measure: what the buyer is led to believe is not what the buyer receives."
         },
         {
           "t": "hadith",
@@ -124,7 +144,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Shuayb (AS) did not promise that honesty would make every trader rich by nightfall. He pointed to a cleaner kind of gain. Shuayb (AS): \"What remains lawful from Allah is best for you, if you are believers. But I am not a guardian over you.\" He could warn, teach and call. He would not force their hands onto the scale."
+          "html": "That later scene helps a young reader recognise the sin when it changes its clothes. Fraud is not limited to an ancient market with grain and balances. It appears whenever a seller hides a defect, displays the best portion to cover the worst, shortens what was promised, or uses another person's lack of knowledge as a chance to take more than justice allows. The forms differ by age and trade, but the moral fact does not change. Deception in dealing is a breach of faith before it is a failure in business."
+        },
+        {
+          "t": "p",
+          "html": "Shuayb (AS) did not promise that honesty would make every trader rich by nightfall. He pointed to a cleaner kind of gain. Shuayb (AS) said: \"What remains lawful from Allah is best for you, if you are believers. But I am not a guardian over you.\" He could warn, teach and call. He would not force their hands onto the scale. What remains after a fair dealing, kept within the limits Allah has set, is better than a larger pile gathered by depriving people, because lawful gain can be carried without the burden of a stolen right attached to it."
         },
         {
           "t": "verse",
@@ -135,7 +159,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The merchants heard the second half as an attack on their income, which is exactly what it was. The people: \"O Shuayb (AS), does your prayer command you that we must abandon what our fathers worshipped, or stop doing whatever we like with our own wealth? You think you alone are the sensible, well-guided one!\" Their sarcasm exposed the real dispute. They wanted worship that left property untouched. Shuayb (AS) answered without returning insult for insult: \"O my people, have you considered: if I stand on clear evidence from my Lord, and He has given me good provision, how could I forbid you something and then do it myself? I only intend reform as much as I am able. My success is only from Allah. In Him I trust, and to Him I turn.\""
+          "html": "The merchants heard the second half as an attack on their income, which is exactly what it was. The people said: \"O Shuayb (AS), does your prayer command you that we must abandon what our fathers worshipped, or stop doing whatever we like with our own wealth? You think you alone are the sensible, well-guided one!\" Their sarcasm exposed the real dispute. They wanted worship that left property untouched. They mocked prayer because the prayer of Shuayb (AS) had reached the counter, the coin bag, and the road outside town, and none of those places could remain sovereign once Allah was obeyed there."
+        },
+        {
+          "t": "p",
+          "html": "Shuayb (AS) answered without returning insult for insult: \"O my people, have you considered: if I stand on clear evidence from my Lord, and He has given me good provision, how could I forbid you something and then do it myself? I only intend reform as much as I am able. My success is only from Allah. In Him I trust, and to Him I turn.\" A caller who warns against a wrong while quietly practising it destroys his own call. Shuayb (AS) separated himself from that hypocrisy and then placed the limit of his role before them. He could intend reform and work for it as far as ability reached, but the opening of hearts and the success of the call belonged to Allah alone."
         },
         {
           "t": "verse",
@@ -159,7 +187,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then he reminded them that destroyed nations were not distant legends. Shuayb (AS): \"O my people, let not your opposition to me cause you to be struck by what struck the people of Nuh (AS), or the people of Hud (AS), or the people of Salih (AS). And the people of Lut (AS) are not far from you. Seek your Lord's forgiveness and turn to Him. My Lord is Merciful and Most Loving.\" Their ruined cities were close enough to serve as a warning on the road. Shuayb (AS) was pointing at fresh ruins and asking his town not to become the next one."
+          "html": "Then he reminded them that destroyed nations were not distant legends. Shuayb (AS) said: \"O my people, let not your opposition to me cause you to be struck by what struck the people of Nuh (AS), or the people of Hud (AS), or the people of Salih (AS). And the people of Lut (AS) are not far from you. Seek your Lord's forgiveness and turn to Him. My Lord is Merciful and Most Loving.\" Their ruined cities were close enough to serve as a warning on the road. Shuayb (AS) was pointing at fresh ruins and asking his town not to become the next one."
         },
         {
           "t": "verse",
@@ -167,6 +195,10 @@ export const chapter = {
           "arabic": "وَيَـٰقَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِىٓ أَن يُصِيبَكُم مِّثْلُ مَآ أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَـٰلِحٍ ۚ وَمَا قَوْمُ لُوطٍ مِّنكُم بِبَعِيدٍ",
           "translation": "And O my people, let not [your] dissension from me cause you to be struck by that similar to what struck the people of Noah or the people of Hūd or the people of Ṣāliḥ. And the people of Lot are not from you far away.",
           "citation": "Surah 11 &middot; Verse 89 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The nearness mattered. A warning about people long vanished can be heard as a story. A warning joined to ruins on a known road becomes a sign passed by living eyes. Shuayb (AS) did not ask Madyan to fear a punishment they had no reason to imagine. He asked them to read the geography of judgment around them and then to take the door that was still open. Seeking forgiveness and turning back were placed beside the warning, because the point of recalling destroyed nations was not despair. It was repentance before the pattern completed itself again."
         }
       ]
     },
@@ -185,7 +217,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In Surah Ash-Shu'ara, his opening words strip away any suspicion that he was building a following for himself. Shuayb (AS): \"Will you not fear Allah? I am a trustworthy messenger to you. Fear Allah and obey me. I ask you for no payment for it. My payment is only from the Lord of the worlds.\""
+          "html": "In Surah Ash-Shu'ara, his opening words strip away any suspicion that he was building a following for himself. Shuayb (AS) said: \"Will you not fear Allah? I am a trustworthy messenger to you. Fear Allah and obey me. I ask you for no payment for it. My payment is only from the Lord of the worlds.\" A trustworthy messenger does not sell the truth to the people he calls. He carries the message, stands by what he carries, and leaves his reward with Allah. By refusing payment from them, Shuayb (AS) closed another excuse before it could grow. They could dislike the command, but they could not truthfully say that the caller had come to enrich himself from their pockets.",
+          "cls": "dropcap"
         },
         {
           "t": "verse",
@@ -196,8 +229,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The chiefs answered mercy with muscle. The chiefs: \"O Shuayb (AS), we do not understand much of what you say. We see you as weak among us. If not for your family clan, we would have stoned you. You cannot overpower us.\" In a town of cheats, the honest man was tolerated because his relatives were numerous, not because his words had been answered.",
-          "cls": "dropcap"
+          "html": "Trustworthiness also means that the messenger does not alter the message to keep a safe place among the powerful. The sermon of Shuayb (AS) remained the same in the market, before the chiefs, and under threat. He did not soften the scale into a symbol or turn justice into a suggestion for people who preferred it. The trust placed with a prophet is heavier than popularity, and the refusal to ask for a wage kept that trust visible. His concern was that they fear Allah and obey the truth he brought, not that they gather around his name."
+        },
+        {
+          "t": "p",
+          "html": "The chiefs answered mercy with muscle. The chiefs said: \"O Shuayb (AS), we do not understand much of what you say. We see you as weak among us. If not for your family clan, we would have stoned you. You cannot overpower us.\" In a town of cheats, the honest man was tolerated because his relatives were numerous, not because his words had been answered. Their claim not to understand was not the confession of students seeking clarity. It was a dismissal dressed as confusion, spoken by men who understood enough to know that the message threatened the system protecting their gain."
         },
         {
           "t": "verse",
@@ -208,7 +244,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Shuayb (AS) replied with dignity that cut deeper than their insult. Shuayb (AS): \"O my people, is my clan mightier to you than Allah, that you hold them in awe while you cast Him behind your backs? My Lord encompasses everything you do.\" They feared the family standing behind him, but not the Lord who saw the family, the market, and every hand that shortened a measure."
+          "html": "Calling Shuayb (AS) weak exposed how they measured strength. They counted clan protection, public standing, and the ability to overpower an opponent. They did not count truth, patience, or the support of Allah. In their judgment, a man without force behind him could be ignored until force became convenient. That is why the clan was mentioned at all. The chiefs were admitting that the only restraint they recognised was the social cost of attacking a protected man, not any duty to hear evidence or answer it with fairness."
+        },
+        {
+          "t": "p",
+          "html": "Shuayb (AS) replied with dignity that cut deeper than their insult. Shuayb (AS) said: \"O my people, is my clan mightier to you than Allah, that you hold them in awe while you cast Him behind your backs? My Lord encompasses everything you do.\" They feared the family standing behind him, but not the Lord who saw the family, the market, and every hand that shortened a measure. No clan could hide an act from Allah, and no crowd could place a deed outside His knowledge. The question returned their own scale to them and showed what they had weighed as heavy and what they had treated as light."
         },
         {
           "t": "verse",
@@ -219,7 +259,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He left the next move with them, and with Allah. Shuayb (AS): \"O my people, work according to your way, and I will work according to mine. You will soon know who is struck by a humiliating punishment, and who is the liar. Watch, for I am watching with you.\" It was not a threat he claimed power to carry out himself. It was a warning that Allah's judgment would separate truth from mockery."
+          "html": "To cast Allah behind the back is a picture of deliberate neglect. The chiefs were not claiming that Allah was absent. They were behaving as if His command could be pushed behind them while the opinion of men stood in front of their eyes. Shuayb (AS) reversed that posture in a single sentence. The family they feared was itself encompassed by Allah. The market they controlled was encompassed by Allah. The threats they whispered and the measures they shortened were encompassed by Allah. Nothing they used to feel secure stood outside the reach of the Lord they had neglected."
+        },
+        {
+          "t": "p",
+          "html": "He left the next move with them, and with Allah. Shuayb (AS) said: \"O my people, work according to your way, and I will work according to mine. You will soon know who is struck by a humiliating punishment, and who is the liar. Watch, for I am watching with you.\" It was not a threat he claimed power to carry out himself. It was a warning that Allah's judgment would separate truth from mockery. A prophet may be called weak because he does not answer violence with violence. His restraint is not uncertainty. It is confidence that the final separation between truth and falsehood does not depend on the loudest voice in the town."
         },
         {
           "t": "verse",
@@ -230,7 +274,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They answered with the oldest dismissal given to prophets. The people: \"You are only bewitched. You are a mortal like us, and we think you are a liar. So make a piece of the sky fall on us, if you are truthful.\" Shuayb (AS): \"My Lord knows best everything you do.\" He did not accept their challenge on their terms. The sky belonged to Allah, not to a prophet answering a dare."
+          "html": "They answered with the oldest dismissal given to prophets. The people said: \"You are only bewitched. You are a mortal like us, and we think you are a liar. So make a piece of the sky fall on us, if you are truthful.\" Shuayb (AS) said: \"My Lord knows best everything you do.\" He did not accept their challenge on their terms. The sky belonged to Allah, not to a prophet answering a dare. Demanding a sign as a game is not the same as seeking evidence with a heart ready to submit. Their request named the very kind of punishment they would later rush toward in ignorance, yet Shuayb (AS) left the matter where it belonged, with the Lord who knew their deeds without needing their challenge."
         },
         {
           "t": "verse",
@@ -256,7 +300,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Persistence infuriated the chiefs. Shuayb (AS) would not stop, and his followers were growing. So the ultimatum came down like a gate. The chiefs: \"We will surely banish you, O Shuayb (AS), and those who believe with you from our town, unless you return to our religion.\" To anyone tempted to follow him, they added the warning that those who followed Shuayb (AS) would be utter losers.",
+          "html": "Persistence infuriated the chiefs. Shuayb (AS) would not stop, and his followers were growing. So the ultimatum came down like a gate. The chiefs said: \"We will surely banish you, O Shuayb (AS), and those who believe with you from our town, unless you return to our religion.\" To anyone tempted to follow him, they added the warning that those who followed Shuayb (AS) would be utter losers. When argument failed to protect the market, coercion was brought forward to protect it instead. The truth had not been refuted, so the people who carried it were to be removed or forced back into silence.",
           "cls": "dropcap"
         },
         {
@@ -268,11 +312,19 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Shuayb (AS) refused in words that define the impossibility of a believer un-believing. Shuayb (AS): \"Even if we were unwilling? If we returned to your religion after Allah has rescued us from it, we would have fabricated lies against Allah. We cannot return to it unless Allah, our Lord, wills. Our Lord's knowledge encompasses all things. In Allah we trust.\" Then he prayed the prayer of the cornered and the confident at once: \"Our Lord, judge between us and our people in truth, for You are the best of judges.\""
+          "html": "Banishment is a heavy threat in a world built on kinship, trade routes, houses, and protection. To drive believers from their town was to threaten their homes and livelihoods together, and to warn every hesitant listener that faith in the message of Shuayb (AS) would cost the safety of belonging. The other half of the ultimatum was just as violent in its own way. Returning to the old religion would mean surrendering the truth after Allah had rescued them from it, trading clear guidance for the approval of the chiefs who controlled the gate."
         },
         {
           "t": "p",
-          "html": "The Quran does not turn the next stage into a tale of seized houses or a roadside escape. It lets the threat stand, and then moves to Allah's verdict. Shuayb (AS) and the believers were saved by Allah's mercy when His command came. The prophet had not protected himself with an army, a clan, or a compromise. He had placed the case with the Best of Judges, and he waited for that judgment."
+          "html": "Shuayb (AS) refused in words that define the impossibility of a believer un-believing. Shuayb (AS) said: \"Even if we were unwilling? If we returned to your religion after Allah has rescued us from it, we would have fabricated lies against Allah. We cannot return to it unless Allah, our Lord, wills. Our Lord's knowledge encompasses all things. In Allah we trust.\" Then he prayed the prayer of the cornered and the confident at once: \"Our Lord, judge between us and our people in truth, for You are the best of judges.\""
+        },
+        {
+          "t": "p",
+          "html": "The refusal protected the believers from being treated as a group whose faith could be negotiated by pressure. Shuayb (AS) did not answer banishment by promising to quiet the call, nor did he answer forced return by dressing falsehood as peace. He placed trust in Allah and turned the dispute over to the judgment of Allah. That prayer is the centre of the scene. The prophet and the believers stood before a gate controlled by men, and they appealed to the Judge whose decision no gate could delay or overturn."
+        },
+        {
+          "t": "p",
+          "html": "The Quran does not turn the next stage into a tale of seized houses or a roadside escape. It lets the threat stand, and then moves to Allah's verdict. Shuayb (AS) and the believers were saved by Allah's mercy when His command came. The prophet had not protected himself with an army, a clan, or a compromise. He had placed the case with the Best of Judges, and he waited for that judgment. Silence about the details keeps the lesson clear. Salvation did not rest on a clever plan invented by the threatened believers. It rested on mercy from Allah when His command arrived."
         }
       ]
     },
@@ -291,12 +343,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir relates that a severe heat then settled over Madyan. It pressed on the people in their homes and outside them until a dark cloud appeared. The town that had demanded that pieces of the sky fall came out rejoicing, thinking the shade and rain they wanted had finally arrived. They gathered beneath it, crowded together under what looked like rescue.",
+          "html": "Ibn Kathir relates that a severe heat then settled over Madyan. It pressed on the people in their homes and outside them until a dark cloud appeared. The town that had demanded that pieces of the sky fall came out rejoicing, thinking the shade and rain they wanted had finally arrived. They gathered beneath it, crowded together under what looked like rescue. The report is told as a report, and its force lies in the reversal it describes. The people who had mocked the warning and asked for the sky read the sign of punishment as relief, because desire had already taught them what they wanted the cloud to be.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The cloud was not rain. The day of the Canopy, the Quran calls it, the punishment of an awful day. Fire and lightning came from what had promised shade, and the wrongdoers were seized. Those who had called Shuayb (AS) a liar were left prostrate in their dwellings, as if they had never lived there at all. The markets that cheated every scale went silent in a single morning."
+          "html": "The cloud was not rain. The day of the Canopy, the Quran calls it, the punishment of an awful day. Fire and lightning came from what had promised shade, and the wrongdoers were seized. Those who had called Shuayb (AS) a liar were left prostrate in their dwellings, as if they had never lived there at all. The markets that cheated every scale went silent in a single morning. A town can fill its streets for years and still be emptied in a moment when the command of Allah arrives, leaving houses behind as evidence that presence is not the same as security."
         },
         {
           "t": "verse",
@@ -307,7 +359,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Before that end, Allah's mercy reached the people who had listened. When His command came, He saved Shuayb (AS) and those who believed with him, while the shriek seized those who had wronged. The man driven toward banishment was carried through by mercy. The men who controlled the town gates could not control the outcome."
+          "html": "Before that end, Allah's mercy reached the people who had listened. When His command came, He saved Shuayb (AS) and those who believed with him, while the shriek seized those who had wronged. The man driven toward banishment was carried through by mercy. The men who controlled the town gates could not control the outcome. The two groups are placed side by side so the reader cannot miss the separation. One group had trusted Allah under threat. The other had protected fraud with threats. The command of Allah distinguished between them more exactly than any clan register in Madyan could have done."
         },
         {
           "t": "verse",
@@ -318,7 +370,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Other passages describe the seizure as an earthquake that left them fallen prone in their homes. The wording differs by surah, but the picture is one: the ground, the sky, and the town itself became witnesses against the people who had made corruption their normal way of life."
+          "html": "Other passages describe the seizure as an earthquake that left them fallen prone in their homes. The wording differs by surah, but the picture is one: the ground, the sky, and the town itself became witnesses against the people who had made corruption their normal way of life. No expansion is needed to make the end heavier. The Quran returns to the image of bodies fallen in the very dwellings from which the people had planned, traded, threatened, and refused. Home ground did not shelter wrongdoing once judgment reached it."
         },
         {
           "t": "verse",
@@ -329,7 +381,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Surah Al-Ankabut repeats the report in a single, solemn line. Madyan's end was not a private rumour. It remained in revelation as a public warning to later peoples who would hear the story and recognise their own scales in it."
+          "html": "Surah Al-Ankabut repeats the report in a single, solemn line. Madyan's end was not a private rumour. It remained in revelation as a public warning to later peoples who would hear the story and recognise their own scales in it. Repetition in the Quran does not weaken the account. It fixes it in more than one place, so later readers meet the same warning from different doors: deny the messenger, persist in corruption, and learn too late that the earth is not silent forever under injustice."
         },
         {
           "t": "verse",
@@ -340,7 +392,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah also leaves their place on the road of history. The wrongdoing cities stood by a clear highway, where travellers could pass, see, and learn. Their ruins were not hidden away. They became a sign for people still travelling with time to turn back."
+          "html": "Allah also leaves their place on the road of history. The wrongdoing cities stood by a clear highway, where travellers could pass, see, and learn. Their ruins were not hidden away. They became a sign for people still travelling with time to turn back. A ruin beside a road preaches without a tongue. It tells the traveller that a community once traded there, argued there, filled its houses there, and then was taken away, while the road continued to carry people who still had a choice before them."
         },
         {
           "t": "verse",
@@ -351,7 +403,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then Shuayb (AS) turned away from the ruins with the sadness of a shepherd who had knocked on every door. Shuayb (AS): \"O my people, I conveyed to you my Lord's messages and gave you sincere advice. How can I grieve for a people who would not believe?\""
+          "html": "Then Shuayb (AS) turned away from the ruins with the sadness of a shepherd who had knocked on every door. Shuayb (AS) said: \"O my people, I conveyed to you my Lord's messages and gave you sincere advice. How can I grieve for a people who would not believe?\" The words close the work of the messenger with clarity. The messages had been conveyed. Advice had been given sincerely. What remained was not a failure of delivery but the consequence of refusal, recorded by the prophet who had warned them while return was still possible."
         },
         {
           "t": "verse",
@@ -362,7 +414,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The chiefs had called his followers the losers. Allah reverses the word and fixes it to the deniers. Those who rejected Shuayb (AS) were the losers, the people who kept the town and lost themselves, their homes, and every profit they had protected by fraud."
+          "html": "The chiefs had called his followers the losers. Allah reverses the word and fixes it to the deniers. Those who rejected Shuayb (AS) were the losers, the people who kept the town and lost themselves, their homes, and every profit they had protected by fraud. A false label placed by powerful men does not settle a matter. The chiefs had used the word loser to frighten listeners away from faith. Revelation returned the word to its rightful place, on the people who gained the market for a season and lost everything that would have remained."
         },
         {
           "t": "verse",
@@ -377,7 +429,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The sign remains for every generation that hears it. A nation may call corruption custom, call fraud profit, and call the honest man weak. Surah Ash-Shu'ara ends the account by returning the matter to Allah, mighty to judge and merciful to whoever turns back before the cloud gathers."
+          "html": "The sign remains for every generation that hears it. A nation may call corruption custom, call fraud profit, and call the honest man weak. Surah Ash-Shu'ara ends the account by returning the matter to Allah, mighty to judge and merciful to whoever turns back before the cloud gathers. Might belongs to Allah in judgment, and mercy remains His attribute toward the one who returns. Between those two truths the story leaves its reader with a measure in the hand and a question that cannot be escaped: whether the due of people will be given in full while giving it is still obedience, rather than remembered after the town has gone silent."
         },
         {
           "t": "verse",
@@ -385,6 +437,10 @@ export const chapter = {
           "arabic": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
           "translation": "Indeed in that is a sign, but most of them were not to be believers. And indeed, your Lord - He is the Exalted in Might, the Merciful.",
           "citation": "Surah 26 &middot; Verses 190-191 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

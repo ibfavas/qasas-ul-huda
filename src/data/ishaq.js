@@ -33,16 +33,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ishaq (AS) was the second son of Ibrahim (AS), and his story begins with a laugh of disbelief. His mother Sarah had been unable to have children her whole life, and by the time of this story she and Ibrahim (AS) were both old and white-haired. Then one day three visitors arrived at Abraham's tent. Ibrahim (AS), who fed strangers before he asked their names, ordered a fat calf roasted for them. But as the food was set down, he noticed something that froze him: the guests' hands never reached for the meal.",
+          "html": "Ishaq (AS) was the second son of Ibrahim (AS), and his story begins before his birth, with a laugh of astonished disbelief. His mother Sarah had been unable to have children throughout her life, and by the time of this scene she and Ibrahim (AS) were both old. One day three visitors arrived at the tent of Ibrahim (AS). True to his known generosity, Ibrahim (AS) received strangers before asking who they were, and a fat calf was roasted for them. But when the food was placed before them, he noticed something that made him uneasy: the guests did not reach for the meal. Ordinary travellers eat after a journey. These visitors did not, and their stillness revealed that they were not ordinary men.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Do not be afraid, the visitors said. They were angels, on their way to the people of Lut (AS). And they carried other news as well, the most joyful news that house had ever heard: We give her glad tidings of Ishaq, and beyond Ishaq, of Yaqub. Not just a son. A son, and a grandson after him, both named before either was conceived, both to be prophets."
+          "html": "The visitors reassured him with words recorded in the Quran: do not fear. They were angels, sent onward to the people of Lut (AS), but they also carried joyful news for this household, the most joyful news that house had yet heard. They gave Sarah glad tidings of Ishaq (AS), and beyond Ishaq (AS), of Yaqub (AS). The wonder of the promise lies in its reach. It did not name only a son for an elderly couple. It named a son, and then a grandson who would come after him, before either child had been conceived. In the order of Allah, a family that seemed to have reached its end was being told that generations were still hidden ahead of it."
         },
         {
           "t": "p",
-          "html": "The exchange at the tent should be heard slowly. The visitors said: \"Do not fear.\" Sarah said: \"Woe to me. Shall I bear a child while I am an old woman and this husband of mine is an old man? This is a strange thing.\" The angels answered: \"Do you wonder at the command of Allah? The mercy of Allah and His blessings be upon you, people of the house.\" The promise named the child and then named the grandson who would follow him."
+          "html": "The exchange at the tent should be heard slowly, because every voice in it teaches something. The visitors said, \"Do not fear.\" Sarah cried out in amazement, \"Woe to me. Shall I bear a child while I am an old woman and this husband of mine is an old man? This is a strange thing.\" Her words were not rejection. They were the honest reaction of a woman measuring the promise against everything her body and her years had taught her to expect. The angels answered by turning her attention away from her own limits and toward the command of Allah: \"Do you wonder at the command of Allah? The mercy of Allah and His blessings be upon you, people of the house.\" Nothing is strange when Allah decrees it. What looks impossible to an old woman is not difficult for the Lord who created life in the first place."
         },
         {
           "t": "verse",
@@ -53,7 +53,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And so Ishaq (AS) was born to two old people who had stopped expecting him, the child of a promise that walked into their tent disguised as three travellers."
+          "html": "And so Ishaq (AS) was born to two old people who had stopped expecting him, the child of a promise that had walked into their tent in the form of three travellers. His birth was itself an act of gratitude waiting to be spoken. Ibrahim (AS) praised Allah who had granted him, in old age, Ismail (AS) and Ishaq (AS), and he named the truth that stands behind the whole story: his Lord is the Hearer of supplication. Prayers made across long years had not been lost. They had been heard, kept, and answered at the time Allah chose."
         },
         {
           "t": "verse",
@@ -79,7 +79,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran tells less about the daily life of Ishaq (AS) than about the honour Allah placed on him. It announces him as glad tidings of a prophet, among the righteous, and says of his father and of him: and We blessed him and Ishaq. When Ibrahim (AS) withdrew from his people and their idols, Allah granted him Ishaq (AS) and Yaqub (AS), and made each of them a prophet, and showered them with mercy, and gave them a high and true reputation among mankind.",
+          "html": "The Quran tells less about the daily life of Ishaq (AS) than about the honour Allah placed upon him. It announces him as glad tidings of a prophet from among the righteous, and it joins father and son in one blessing: \"And We blessed him and Ishaq.\" When Ibrahim (AS) withdrew from his people and from the idols they worshipped, Allah granted him Ishaq (AS) and Yaqub (AS), made each of them a prophet, surrounded them with mercy, and gave them a high and truthful reputation among mankind. The language is deliberately repeated. Ishaq (AS) is a gift, a prophet, one of the righteous, and a man whose name would be carried with honour by generations who never saw his face.",
           "cls": "dropcap"
         },
         {
@@ -97,7 +97,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "One personal detail does survive in hadith. Ibrahim (AS) used to seek Allah's protection for Ismail (AS) and Ishaq (AS) with words asking refuge from every devil, poisonous pest and harmful envious eye. Muhammad ﷺ later used the same prayer for al-Hasan and al-Husayn. In that small habit we see Ishaq (AS) as a child prayed over by the Friend of Allah."
+          "html": "One personal detail does survive in authentic hadith, and it is a tender one. Ibrahim (AS) used to seek the protection of Allah for Ismail (AS) and Ishaq (AS), asking refuge in the perfect words of Allah from every devil, from poisonous pests, and from every harmful and envious eye. Generations later, the Prophet Muhammad (peace be upon him) used the same prayer for al-Hasan and al-Husayn, and he told his followers that their forefather Ibrahim (AS) had used it for his own sons. In that small and repeated habit, Ishaq (AS) is seen not first as a public figure, but as a child prayed over by the Friend of Allah."
         },
         {
           "t": "hadith",
@@ -122,7 +122,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "That is how the Quran introduces the descendants of Ibrahim (AS): reputations that travel. Ishaq (AS) grew up in the household of the Friend of Allah, in the land of Canaan in Palestine, far from the Makkah of his brother Ismail (AS). The two sons of Ibrahim (AS) were raised at opposite ends of the prophet's world, one guarding the valley of the Kaaba, one carrying the message among the towns of the blessed land. Between them, they seeded the two great prophetic lines of history."
+          "html": "That is how the Quran introduces the descendants of Ibrahim (AS): as reputations that travel from one generation to the next. Classical telling places Ishaq (AS) growing up in the household of Ibrahim (AS) in the land of Canaan in Palestine, far from the Makkah associated with his brother Ismail (AS). The two sons were therefore raised at opposite ends of their father's world, one linked with the valley of the Kaaba and the other carrying the message among the towns of the blessed land. Between them, they seeded the two great prophetic lines that would carry the worship of Allah into later history."
         },
         {
           "t": "verse",
@@ -148,16 +148,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "For the household details of this scene, the Quran gives the outcome but not a full narrative. Ibn Kathir relates the family account that a wife was sought for Ishaq (AS) from his father's people rather than from the idol worshippers around him, and that Rebekah came from the house of Nahor, the brother of Ibrahim (AS). It is background to the prophetic line, not a Quranic scene.",
+          "html": "For the household details of this scene, the Quran gives the outcome but not a full narrative. Ibn Kathir relates the family account that a wife was sought for Ishaq (AS) from his father's people rather than from the idol worshippers around him, and that Rebekah came from the house of Nahor, the brother of Ibrahim (AS). The detail is best received in that frame. It is classical background to the prophetic line, not a scene described step by step in the Quran, and it should not be dressed with invented journeys, conversations, or meetings that the sources in this chapter do not carry.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "When Ibrahim (AS) sensed that his life was drawing to its close, he turned to one last duty: a righteous wife for his son. He did not want Ishaq (AS) to marry among the Canaanites around them, who were pagans. So he sent his trusted servant back to the family's homeland in Iraq, to find a bride from his own brother's house. The servant chose Rebekah, the daughter of Bethuel and granddaughter of Nahor, the brother of Ibrahim (AS)."
+          "html": "The classical account continues that when Ibrahim (AS) sensed his life drawing toward its close, he turned to one remaining duty: a righteous wife for his son. He did not want Ishaq (AS) to marry among the Canaanites around them, who worshipped idols, so a trusted servant was sent back toward the family's homeland to seek a bride from the house of his brother. Rebekah is named in that account as the daughter of Bethuel and the granddaughter of Nahor, the brother of Ibrahim (AS). Beyond that outline, this draft does not build a romance, a journey diary, or a dialogue at a well. The point the account preserves is simpler: the household of prophethood guarded the faith of the home into which the next generation would be born."
         },
         {
           "t": "p",
-          "html": "The marriage was blessed with twin boys: Al-Eis, the elder, and Yaqub (AS). The father loved both, but the destinies within them were different. Yaqub (AS) was chosen for prophethood, and Al-Eis burned with envy at his brother's favour and future, until his threats grew so severe that Yaqub (AS) would one day have to flee the country to save his life. That storm belongs to the next chapter. For now the house of Ishaq (AS) simply held what the angels had promised in the tent: a son, and after him a son, and after him a nation of prophets."
+          "html": "In the same family telling, the marriage was blessed with twin boys, Al-Eis, the elder, and Yaqub (AS). The father loved both, but the destinies carried within them were different. Yaqub (AS) was chosen for prophethood, and the classical account describes Al-Eis burning with envy at his brother's favour and future, until threats made flight necessary in a later chapter. That storm belongs to the story of Yaqub (AS), not to this one. Here the house of Ishaq (AS) simply holds what the angels had announced in the tent long before: a son, and after him a son, and after him a line through which prophets would continue to come."
         },
         {
           "t": "hadith",
@@ -168,7 +168,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quranic centre of the story is simpler and stronger: from Ishaq (AS) came Yaqub (AS), and from Yaqub (AS) came Yusuf (AS). That is why Muhammad ﷺ called Yusuf (AS) the honourable son of the honourable, naming the line back through Yaqub (AS) and Ishaq (AS) to Ibrahim (AS)."
+          "html": "The Quranic centre of the story is simpler and stronger than any added detail: from Ishaq (AS) came Yaqub (AS), and from Yaqub (AS) came Yusuf (AS). That unbroken chain is why the Prophet Muhammad (peace be upon him) called Yusuf (AS) the honourable son of the honourable, naming the line back through Yaqub (AS) and Ishaq (AS) to Ibrahim (AS). Honour in this family was not wealth, territory, or fame. It was prophethood carried faithfully from father to son."
         }
       ]
     },
@@ -187,16 +187,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "This closing scene stays close to what can be sourced. The Quran does not give Ishaq (AS) a public confrontation, a migration diary or a catalogue of miracles. Classical histories relate that he lived one hundred and eight years and was buried beside Ibrahim (AS) in Hebron, but the lasting record is the line he carried and the worship he passed on.",
+          "html": "This closing scene stays close to what can be sourced. The Quran does not give Ishaq (AS) a public confrontation, a migration diary, or a catalogue of miracles. Classical histories relate that he lived one hundred and eight years and was buried beside Ibrahim (AS) in Hebron, but those particulars are carried here as reports, not as Quranic statements. His lasting record in revelation is the line he carried and the worship he passed on to those who came after him.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Ishaq (AS) lived to one hundred and eight years, guiding the children of his people in the footsteps of his father, in the village of Hebron in Palestine. When he died, he was buried beside Ibrahim (AS), the father who had waited a lifetime for him."
+          "html": "In those classical histories, the long life of Ishaq (AS) is spent guiding his people in the footsteps of his father. When he died, the reports say, he was buried beside Ibrahim (AS), the father who had waited so long for the child announced by angels. There is restraint in leaving the scene there. No deathbed speech is invented for him, no final words are placed in his mouth, and no farewell gathering is described beyond what the reports can support. A prophet does not need invented last words when the Quran itself preserves the testimony his descendants later spoke in his name."
         },
         {
           "t": "p",
-          "html": "His was not a life of fires, floods and overturned cities. The Quran records no great catastrophe for Ishaq (AS), no drowning nation, no burning pit. Sometimes Allah's story for a prophet is not a storm but a bridge. Ishaq (AS) was the bridge: between Ibrahim (AS) and the great line of prophets who came after him, Yaqub (AS), Yusuf (AS), Musa (AS), Dawud (AS), Sulayman (AS), Zakariya (AS), Yahya (AS) and Isa (AS) all walked across him to reach the world. A bridge does not need to be dramatic. It needs to hold. And the promise made to an old woman behind a tent curtain held, generation after generation, for thousands of years."
+          "html": "His was not a life of fires, floods, and overturned cities. The Quran records no great catastrophe for Ishaq (AS), no drowning nation and no burning pit. Sometimes the story Allah gives a prophet is not a storm but a bridge. Ishaq (AS) was that bridge between Ibrahim (AS) and the great line of prophets who followed: Yaqub (AS), Yusuf (AS), Musa (AS), Dawud (AS), Sulayman (AS), Zakariya (AS), Yahya (AS), and Isa (AS) all stand in the history that passed through him. A bridge does not need to be dramatic. It needs to hold. And the promise made to an old woman standing in a tent held, generation after generation, exactly as it had been spoken."
         },
         {
           "t": "verse",
@@ -207,7 +207,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "That line speaks for itself when Yusuf (AS), generations later, says that he follows the religion of his fathers Ibrahim (AS), Ishaq (AS) and Yaqub (AS): one God, with no partners. And when Yaqub (AS) lay dying, his sons named the same chain. Ishaq (AS) is the middle link they all remembered."
+          "html": "That line speaks for itself when Yusuf (AS), generations later, declares that he follows the religion of his fathers Ibrahim (AS), Ishaq (AS), and Yaqub (AS): one God, with no partners associated with Him. And when Yaqub (AS) lay dying and asked his sons what they would worship after him, they named the same chain of fathers and the same single God. Ishaq (AS) is the middle link they all remembered, the quiet prophet through whom the promise passed without breaking."
         },
         {
           "t": "verse",
@@ -215,6 +215,10 @@ export const chapter = {
           "arabic": " أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
           "translation": "Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him.\"",
           "citation": "Surah 2 &middot; Verse 133 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

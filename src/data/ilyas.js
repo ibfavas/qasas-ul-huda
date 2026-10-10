@@ -32,7 +32,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Some prophets fill whole surahs of the Quran. Ilyas (AS) appears in two places, and one of them is enough to build a life on. Allah lists him in Surah Al-An'am among the guided and righteous, in a roll of honour that runs from Nuh (AS) through Dawud (AS), Sulayman (AS), Ayyub (AS), Yusuf (AS), Musa (AS) and Harun (AS), and places Ilyas (AS) in the company of Zakariya (AS), Yahya (AS) and Isa (AS): each of them among the righteous. Then, in Surah As-Saffat, Allah gives us his mission in a few blazing lines, and starts it with an oath of honour: And indeed, Ilyas was one of the messengers.",
+          "html": "Some prophets are given long narratives in the Quran, with childhoods, journeys, families, and years of patient calling described in detail. Ilyas (AS) is not given that kind of biography. He appears in only two places, yet both places place him in honoured company and make his mission unmistakable. In Surah Al-An'am, Allah names him among a line of guided servants that includes Nuh (AS), Ibrahim (AS), Musa (AS), and Harun (AS), and then groups him closely with Zakariya (AS), Yahya (AS), and Isa (AS), declaring that each of them was among the righteous. The list is not a decoration. A few verses later, Allah says of those named prophets that they are the ones whom Allah guided, so their guidance is to be followed as an example. To be entered in that roll is already a testimony to who Ilyas (AS) was, even before his own words are quoted.",
           "cls": "dropcap"
         },
         {
@@ -44,7 +44,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran does not pretend to be a complete archive of every prophet. It tells us plainly that there are messengers We have related to you and messengers We have not related. Ilyas (AS) stands between the two: a prophet whose words Allah preserved and whose biography He mostly kept to Himself. What He preserved is a confrontation."
+          "html": "The second mention, in Surah As-Saffat, gives us the mission itself. That surah moves from one messenger to another, showing different peoples, different trials, and the same call returning in every age. After accounts of earlier messengers and their communities, the passage on Ilyas (AS) begins with a firm declaration that he was indeed among the messengers sent by Allah. The Quran then preserves the opening of his address to his people in a single searching question: \"Will you not fear Allah?\" No long introduction is supplied. No genealogy is laid out in the verses. What Allah preserved is the confrontation between a messenger and a people who had turned from their Creator to an idol, and that preserved core is enough to understand the purpose for which Ilyas (AS) was sent."
+        },
+        {
+          "t": "p",
+          "html": "The Quran itself teaches us not to expect a complete archive of every prophet in equal detail. It tells us that there are messengers whose stories have been related and messengers whose stories have not been related. Ilyas (AS) stands in a telling position between those two groups. Allah did not leave him unmentioned, nor did He open every door of his life to us. He preserved his rank among the righteous, his status as a messenger, the central question he put to his people, the answer they gave, and the greeting that would remain attached to his name among later generations. A restrained account is not an incomplete lesson. Here, the restraint itself focuses the reader: hold fast to the words that were preserved, learn the argument they contain, and do not demand from the sources what they have deliberately withheld."
         },
         {
           "t": "verse",
@@ -70,16 +74,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir and the commentators place Ilyas (AS) among the Children of Israel in the generations after Sulayman (AS), a descendant of Harun (AS), sent to a people who had slid back into the oldest sin in this book: statue worship. Their idol was called Baal, a name meaning owner or lord, believed in across Lebanon, Syria and Palestine as a god of fertility and weather: the one who sent the rain and filled the fields. Ibn Kathir records the report that Baal was an idol worshipped at Baalbek. Some reports describe the idol as gold, twenty cubits tall, with four faces. In the city of Baalbek, under kings who encouraged the cult, bowing to Baal had become the religion of the land.",
+          "html": "Ibn Kathir and the classical commentators place Ilyas (AS) among the Children of Israel in the generations after Sulayman (AS), and reports in the classical books describe him as a descendant of Harun (AS) sent to a people who had returned to idol worship. These placements belong to the historical reports carried by the commentators, while the Quran fixes its attention on the act of worship itself: the people were calling upon Baal. Ibn Kathir records, in the tafsir attached to this passage, that the word Ba'l was understood by early commentators to mean a lord, and he also records the report that Baal was the name of an idol worshipped at Baalbek, a city west of Damascus. A community had taken a created object, given it the standing of a lord, and directed to it the calling that belongs to Allah alone.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The recorded exchange is short, and its power is in its directness. Ilyas (AS) said: \"Will you not fear Allah? Do you call upon Baal and leave the Best of Creators, Allah, your Lord and the Lord of your first forefathers?\" The Quran records no answer from the people at that moment; their answer comes later, when it says that they denied him."
+          "html": "The speech of Ilyas (AS) that the Quran preserves is short, and its strength lies in how directly it cuts through that confusion. He began where every prophetic call begins: \"Will you not fear Allah?\" It is a call to taqwa, to the fear and reverence that restrain a person from giving the rights of Allah to another. Then came the contrast that exposes the idol: \"Do you call upon Baal and leave the Best of Creators, Allah, your Lord and the Lord of your first forefathers?\" He did not argue about the size, age, or fame of the idol. He argued from creation. A creator, in the true sense, brings a thing into being; Allah says to a thing \"Be,\" and it is. Human hands, by contrast, only reshape what Allah has already created. They carve wood that Allah grew, cast metal that Allah placed in the earth, and then bow to the finished shape as if the shape had made itself. The fourfold error is complete in one verse: calling upon what cannot create, abandoning the One who creates best, forgetting the Lord who sustains the present generation, and breaking with the Lord known to the first forefathers who came before."
         },
         {
           "t": "p",
-          "html": "Into that city walked Ilyas (AS) with Allah's question burning in his mouth: Will you not fear Allah? Do you call upon Baal and abandon the Best of Creators: Allah, your Lord and the Lord of your first forefathers? Unpack the argument, because it is one of the sharpest in the Quran. Baal's worshippers called their idol a creator. Ilyas (AS) answered with the definition of one: a creator makes something from nothing. Allah says to a thing 'Be,' and it is. Human beings, and every idol they carve, only rearrange what already exists. We take Allah's wood and make a chair, Allah's rain and claim our god sent it. The four-faced statue had never created so much as the wood it was carved from."
+          "html": "That closing phrase, \"your Lord and the Lord of your first forefathers,\" carries its own quiet rebuke. Ilyas (AS) reminded his people that Allah was not a new claim he had invented for them. The same Lord who created and sustained them had created and sustained the generations from whom they descended. Their forefathers had lived by His provision, died by His decree, and stood in need of Him at every moment, just as they did. To turn to Baal was therefore not only a mistake in the present. It was a severing of continuity with their own origin. The idol had made nothing, given nothing, and inherited nothing to them. Allah alone held all three: He made them, He sustained them, and to Him they would return."
         },
         {
           "t": "verse",
@@ -111,7 +115,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His people gave him the answer so many prophets received before him: they denied him flatly. The Quran closes his account with the fate of the two camps. The deniers, Allah says, will surely be brought to punishment, except for Allah's sincere, chosen servants, who believed their prophet and were saved. And We left for him a good name among later generations: Peace be upon Ilyas. Indeed, this is how We reward the doers of good. Indeed, he was of Our believing servants.",
+          "html": "His people answered as many peoples answered the messengers sent to them before him: they denied him. The Quran records that denial without embellishment, and then draws the line that runs through every prophetic story, the line between those who reject the messenger and the sincere servants of Allah who believe. The deniers, Allah says, will surely be brought forth, while the chosen and sincere servants are excepted from that fate. Ibn Kathir explains that being brought forth here means being brought to the punishment on the Day of Reckoning, and that the exception belongs to those who worshipped Allah alone. The verses do not linger over numbers or names. A whole community is gathered into one denial, and a faithful remnant is sheltered in one exception, and the reader is left to ask which side of that line his own worship places him on.",
           "cls": "dropcap"
         },
         {
@@ -123,7 +127,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "How exactly his people were punished, the Quran does not say, and honesty leaves it there. Other traditions speak of a long drought laid on the land while their weather god sat silent in his temple, a pointed lesson in the difference between a lord of rain and a block of gold. Whether the reckoning came in this world or waits in the next, Allah knows best, and the Quran's silence is part of its teaching: not every prophet's file is opened to us. What is opened is enough. A man stood alone in a city of idolaters, said that the Best of Creators is not made of gold, and heaven has been answering him with the same sentence for a thousand years: Peace be upon Ilyas."
+          "html": "How the denial was answered in this world, the Quran does not describe, and honesty requires that the blank be left exactly where Allah left it. No flood is named here, no wind, no earthquake, and no long worldly penalty is spelled out in these verses. That silence is part of the teaching of this chapter. Faith includes the discipline of stopping where revelation stops, saying \"Allah knows best\" over what has not been opened to us, and resisting the urge to fill a prophetic story with borrowed detail. What is established is sufficient for judgment and for hope: rejection carries a reckoning, sincere servitude carries safety, and the final sorting belongs to Allah, whose knowledge covers what our sources do not."
+        },
+        {
+          "t": "p",
+          "html": "What Allah did open to us is the lasting honour of Ilyas (AS). He tells us that He left for him a favourable mention among later generations, and that mention is a greeting of peace that believers still read in the Quran: \"Peace be upon Ilyas.\" The passage then gives the reason in the measured language Allah uses for His honoured servants. This, He says, is how the doers of good are rewarded, and Ilyas (AS) was indeed among His believing servants. Two titles close the account, and either one would be enough for a lifetime: a doer of good whom Allah rewards, and a believing servant whom Allah claims as His own. The earthly record of Ilyas (AS) in the Quran can be read in a few breaths. The heavenly verdict upon that record has outlasted the city, the kings, and the idol that opposed him, and it will be recited until the end of time."
         },
         {
           "t": "verse",
@@ -131,6 +139,10 @@ export const chapter = {
           "arabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْـَٔاخِرِينَ سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
           "translation": "And We left for him [favorable mention] among later generations: \"Peace upon Elias.\"<sup foot_note=197194>1</sup> Indeed, We thus reward the doers of good. Indeed, he was of Our believing servants.",
           "citation": "Surah 37 &middot; Verses 129-132 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

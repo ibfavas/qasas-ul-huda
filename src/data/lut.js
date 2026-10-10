@@ -35,7 +35,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Lut (AS) was the nephew of Ibrahim (AS), raised under his uncle's care. When the whole world ridiculed Ibrahim (AS), Lut (AS) loved, respected and believed him, and travelled with him across land and sea calling people to Allah. During their migration to Palestine, Allah chose Lut (AS) as a prophet and sent him to a city called Sodom, near the border of Jordan and Palestine, to guide its people back to the worship of Allah.",
+          "html": "Lut (AS) stands near the beginning of the prophetic history as a man whose faith was formed beside another prophet. He was the nephew of Ibrahim (AS), brought up under the care and example of his uncle at a time when Ibrahim (AS) himself was rejected, mocked, and threatened by his own people. Where others saw only danger in following a man who called them away from their idols, Lut (AS) saw truth and held to it. He believed Ibrahim (AS), loved him, and honoured him, and he left with him in migration for the sake of Allah. That early choice matters for everything that follows. Lut (AS) was not carried into prophethood by comfort or by the praise of a city. He was trained in faith while faith was costly, and he learned from Ibrahim (AS) that obedience to Allah can require leaving land, people, and security behind.",
           "cls": "dropcap"
         },
         {
@@ -47,19 +47,23 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Sodom was rich and busy. Travellers and merchants passed through it constantly for trade. It was also the most corrupt city of its age. Travellers were waylaid, robbed and sometimes murdered on its roads. Its men had abandoned the wives Allah created for them and pursued men instead, a shameful immorality no nation on earth had committed before them, and they did it openly and proudly, without a trace of shame. Highway robbery by day, evil deeds in their gatherings, and not one of them was embarrassed by any of it."
+          "html": "That belief was not a passive agreement held in private. Lut (AS) emigrated with Ibrahim (AS), leaving behind the setting in which Ibrahim (AS) had been opposed, and entered a new land as a follower of the truth before he was sent as a messenger himself. The order is instructive. He first submitted, then travelled, then was entrusted. Prophethood in the Quran is never presented as self appointment. Allah chooses, prepares, and sends, and the one who is sent carries a message that is not his own invention. Lut (AS) had already learned that truth may require separation from a corrupt environment, and that lesson would be demanded of him again on the final night in Sodom."
         },
         {
           "t": "p",
-          "html": "Ibn Kathir relates that Lut (AS) travelled with Ibrahim (AS) and believed his call when few others did. After the migration, Allah sent Lut (AS) to the towns of Sodom. The Quran gives us his public words, not a travel diary, and those words begin with fear of Allah and trust in the messenger."
+          "html": "After the migration toward Palestine, Allah chose Lut (AS) as a prophet in his own right and sent him to Sodom, a town placed near the routes that travellers and merchants used between lands. The town was not poor, isolated, or forgotten. It was busy, known, and crossed by people on journeys, and that makes its corruption heavier in the telling. A place that receives strangers has been given a trust. Sodom broke that trust at its root. The Quran describes a people who approached men with desire instead of the wives Allah had created for them, who cut the road against travellers, and who brought evil into their gatherings without shame. Their sin was not hidden as a private failing struggled against in secret. It was practised openly, defended publicly, and turned into the custom of the town."
         },
         {
           "t": "p",
-          "html": "The Quran also gives the shape of his opening address. Lut (AS): \"Will you not fear Allah? I am a trustworthy messenger to you. So fear Allah and obey me. I ask from you no payment for it. My reward is only from the Lord of the worlds.\" Only after that trust was stated did he name the sin plainly, so no one could say the warning came from hatred or hunger for status."
+          "html": "The gravity of the charge is stated by Lut (AS) himself under the guidance of Allah: no people before them had committed this immorality in this way. The point is not curiosity about a strange ancient city. The point is that a community can normalise what Allah has forbidden until the forbidden thing no longer looks forbidden to them. Highway wronging belonged to the same moral ruin. When desire is freed from the limits set by Allah, safety also leaves the road. The traveller is no longer safe, the guest is no longer honoured, and the gathering is no longer a place of counsel. Sodom had wealth and movement, but it had lost fear of Allah, and a town that loses that fear will soon lose mercy among its own people."
         },
         {
           "t": "p",
-          "html": "Lut (AS) settled in Sodom and began his call: Will you not fear Allah? I am a trustworthy messenger to you, so fear Allah and obey me. And I ask you for no reward. My reward is only from the Lord of the worlds. Then he faced their sin directly: Do you approach men, and leave what your Lord created for you as wives? You are a people who have transgressed every limit. And he told them, plainly, that he hated their action with all his heart and warned them of a severe punishment from Allah if they continued."
+          "html": "Ibn Kathir relates that Lut (AS) travelled with Ibrahim (AS) and believed his call when few others did, and that after the migration Allah sent Lut (AS) to the towns of Sodom. The Quran does not give a travel diary for those years, and this telling does not invent one. What the Quran preserves with care is the public word of the prophet when he stood before his people. That is enough to know the man. His message did not begin with insults, threats, or a claim to rank. It began with taqwa, trust, and a clear refusal to sell the warning."
+        },
+        {
+          "t": "p",
+          "html": "The shape of his opening address is preserved in his own recorded words. He called them to fear Allah and told them that he was a trustworthy messenger to them. He told them to fear Allah and obey him in what he conveyed from his Lord. He told them that he asked no payment from them, and that his reward was only from the Lord of the worlds. Only after that trust had been stated plainly did he name their act directly. No one could honestly say that he had come seeking their money, their status, or control over their town. A prophet who asks for no wage cannot be accused of preaching for gain, and a messenger who first establishes trust has removed every excuse for refusing to listen."
         },
         {
           "t": "verse",
@@ -92,7 +96,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The men of Sodom reacted the way corrupt people always react to a clean voice: not with argument, but with threats. If you do not stop, O Lut, you will surely be among those driven out. Year after year he preached, and year after year not a single person in the city embraced the faith. The only household in Sodom that worshipped Allah was his own: Lut (AS) and his daughters stood firm, while even his own wife chose the path of the city and disbelieved.",
+          "html": "The answer of Sodom did not meet argument with argument. Lut (AS) had spoken of fear of Allah, of trust, and of a sin that no nation before them had made its public way. The people answered the purity of the caller rather than the truth of the call. They threatened to drive him and his family out of the town, and they used his cleanliness as the charge against him. In their words, recorded by Allah, the family of Lut (AS) were to be expelled because they were people who kept themselves pure. Few sentences in the Quran expose a society more completely. When purity itself is treated as an offence, corruption is no longer merely present. It has become the law by which everyone else is judged.",
           "cls": "dropcap"
         },
         {
@@ -104,7 +108,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He scolded them with the words of a man who had tried everything: Do you commit the abomination that no one in the world committed before you? You go to men, you rob travellers on the highway, and you commit evil in your gatherings. Their only answer was mockery, the last refuge of people who know they are wrong: Bring us the punishment of Allah, then, if you are truthful."
+          "html": "The insult also reveals why argument alone had ceased to reach them. A people who define themselves against purity have already decided the outcome before the evidence is heard. Lut (AS) could establish that he took no wage, that he feared Allah, and that their act was a transgression without precedent among earlier nations. None of that answered the real attachment of the town, which was not ignorance of the ruling but love of the practice and resentment of anyone whose life exposed it. Their mockery was therefore not a sign that the proof was weak. It was a sign that the proof had been understood well enough to be hated."
+        },
+        {
+          "t": "p",
+          "html": "Year after year, Lut (AS) continued to call them, and the Quran does not show the town softening under that patience. The only household in Sodom that held to the worship of Allah was the household of Lut (AS) himself. He and his daughters remained firm upon faith, while his wife chose the way of the city and disbelieved. That division inside one house is part of the trial of Lut (AS) that should not be passed over quickly. A prophet may stand in the street with a clear message and still return to a home where the message is rejected. Proximity to guidance is not the same as submission to it, and the story will return to that painful truth at the end."
         },
         {
           "t": "verse",
@@ -122,11 +130,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The long call ended where many prophets are driven: not to a new argument, but to prayer. After years of warning a city that answered purity with expulsion and truth with mockery, Lut (AS) asked Allah to save him and his family from what the people were doing."
+          "html": "The long call of Lut (AS) ended where the calls of many prophets are driven when a people refuse every door of return. He did not gather followers, build force, or answer expulsion with violence. He turned to Allah in prayer. After years of warning a city that had answered purity with exile and truth with mockery, he asked his Lord to save him and his family from what the people were doing. The prayer is short, and its shortness is part of its weight. There is no long complaint and no curse uttered in haste. There is a servant who has delivered the message, reached the limit of what speech can do, and placed the outcome with Allah."
         },
         {
           "t": "p",
-          "html": "So the prophet who had hoped for decades raised his hands and prayed the prayer of a man out of arguments: My Lord, support me against the corrupting people. Allah heard him. The answer was already on its way, wearing the form of three travellers."
+          "html": "So Lut (AS) raised his hands with the prayer of a man who had no argument left that his people had not already refused. He asked Allah for support against a corrupting people and for rescue for himself and his family from the consequence of their deeds. Allah heard him. The answer to that prayer was already moving toward Sodom, and it came first to the house of Ibrahim (AS) in the form of guests whose arrival would separate, at last, between the household that believed and the town that had chosen to remain upon its sin."
         },
         {
           "t": "verse",
@@ -152,16 +160,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah sent three angels, Jibreel (AS) among them, in the form of men. On their way to Sodom they stopped first at the home of Ibrahim (AS). The old prophet, generous as ever and not recognising them, prepared a grand feast. But the guests did not eat, and a chill of fear went through him: Who are you?",
+          "html": "Allah sent angels to carry out His command, and on their way to the people of Lut (AS) they came first to Ibrahim (AS). They arrived in the form of men, and Ibrahim (AS), generous as he was known to be and not yet recognising who they were, honoured them as guests are honoured and prepared food for them. When the guests did not eat, unease entered the scene, for a traveller who refuses food in such a setting is not understood as an ordinary traveller. The Quran preserves the concern of Ibrahim (AS) and the moment when the visitors made their identity and mission known. They were not men seeking shelter. They were messengers of Allah, sent with glad tidings for Ibrahim (AS) and with a decree concerning the town to which Lut (AS) had been sent.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The Quran also preserves Ibrahim's concern at that tent. When the angels made their mission clear, Ibrahim (AS) pleaded over the people of Lut (AS), hoping that judgment might turn away. The angels answered: \"O Ibrahim, desist from this. Indeed, the command of your Lord has come, and indeed, there will reach them a punishment that cannot be repelled.\" Ibrahim's mercy argued. Allah's decree had already settled the matter."
+          "html": "The concern of Ibrahim (AS) did not end with the glad tidings given to his own house. When the angels made clear that they had been sent to the people of Lut (AS), Ibrahim (AS) pleaded concerning that people, hoping, in his mercy, that judgment might yet be turned away. His concern is itself a mark of his character. He did not hear of a coming punishment with cold satisfaction, even for a people sunk in corruption. He argued for respite as a prophet who loves that people should return. The angels answered that the command of his Lord had come and that a punishment would reach them that could not be repelled. Mercy may plead, but it does not overturn what Allah has decreed after the proof has been established and refusal has become final."
         },
         {
           "t": "p",
-          "html": "Do not be afraid, they said. We are angels of Allah. We have been sent to the people of Lut, and we have been sent to bring you glad tidings of a son with much knowledge and wisdom. Ibrahim (AS) understood at once what their errand to Sodom meant, and his heart went instantly to his nephew. Indeed, Lut is in that city, he said. They answered: We know better who is in it. Lut (AS) would be saved. The city would not."
+          "html": "Ibrahim (AS) then spoke from the knowledge closest to his heart. He said that Lut (AS) was in that town. The angels replied that they knew better who was in it, and that Lut (AS) and his family would be saved, apart from the one who remained with the people in disbelief. In that exchange, the two errands of the angels stand side by side. For Ibrahim (AS), there was news of a son granted in old age, a sign of Allah giving life and knowledge where human calculation saw no path. For Sodom, there was a command already settled. The same visitors carried mercy to a house of faith and judgment to a town that had expelled purity from its streets. Lut (AS) would be brought out. The city would not be preserved for his sake after it had rejected him for so long."
         },
         {
           "t": "verse",
@@ -169,6 +177,10 @@ export const chapter = {
           "arabic": " وَلُوطًا ءَاتَيْنَـٰهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَـٰهُ مِنَ ٱلْقَرْيَةِ ٱلَّتِى كَانَت تَّعْمَلُ ٱلْخَبَـٰٓئِثَ ۗ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ فَـٰسِقِينَ وَأَدْخَلْنَـٰهُ فِى رَحْمَتِنَآ ۖ إِنَّهُۥ مِنَ ٱلصَّـٰلِحِينَ",
           "translation": "And to Lot We gave judgement and knowledge, and We saved him from the city that was committing wicked deeds. Indeed, they were a people of evil, defiantly disobedient. And We admitted him into Our mercy. Indeed, he was of the righteous.",
           "citation": "Surah 21 &middot; Verses 74-75 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The verse gathers the standing of Lut (AS) before the night of judgment is even described. Allah gave him judgement and knowledge, saved him from the town that practised wicked deeds, admitted him into His mercy, and counted him among the righteous. That description guards the reader against measuring a prophet by the response of his town. Sodom rejected Lut (AS) almost completely, yet rejection by a corrupt people did not diminish his rank with Allah. Success for a messenger is delivery of the message with truthfulness and patience. Acceptance belongs to the hearts of those who hear, and their refusal is recorded against them, not against the one who warned them."
         },
         {
           "t": "hadith",
@@ -194,12 +206,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The angels entered Sodom in the form of handsome young men, and one of Lut's daughters saw them and ran to warn her father. Lut (AS) hurried out to welcome them, hoping to hide them or move them out of the city before anyone noticed, because he knew exactly what the men of Sodom would attempt. But his own wife saw the guests enter the house, and she hurried to spread the news through the city: Lut has handsome young men in his house tonight.",
+          "html": "When the angels reached Sodom, they entered in the form of handsome young men. Lut (AS) was anguished at their coming, not because he begrudged guests, but because he knew his people and he knew what they would attempt when word of such guests spread. The Quran describes that day in his own words as a trying day, a day of distress pressing upon him from every side. He received the visitors with the honour owed to guests while carrying the fear of a host who had no army, no clan strength in that town, and no confidence that the men of Sodom would respect the door of a prophet they had already threatened to expel.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The city came. Men poured to Lut's door from every street, a whole nation banging on one prophet's door, demanding he hand over his guests. Lut (AS) stood between them and the door with nothing but his own body and his shame for them: Do not disgrace me concerning my guests, he cried. Is there not among you a single man of reason? Have we not forbidden you from hosting anyone? they shouted back. The men grew frantic and began breaking the door down. Lut (AS) whispered the helpless truth: If only I had power against you, or could take refuge in a mighty support."
+          "html": "The news did not remain hidden. The household itself became the path by which the city learned of the guests, for the wife of Lut (AS) carried word of their arrival to the people. Then the town came hastening to his house, as the Quran describes them, rushing toward the door of Lut (AS) with the evil they had practised before now gathered into one public assault. Men who had mocked a prophet in their gatherings now stood at his threshold demanding that he surrender those under his protection. In that moment, the whole moral ruin of Sodom stood visible at a single door. The guest, who should have been safest under a roof, had become the object of a mob, and the prophet stood between the mob and his trust with nothing in his hand but his word."
         },
         {
           "t": "verse",
@@ -223,11 +235,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the door, the Quran gives the exchange in sharp lines. Lut (AS): \"O my people, these are my daughters; they are purer for you. Fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason?\" The people: \"You know we have no claim to your daughters, and you know what we want.\" Lut (AS): \"If only I had power against you, or could take refuge in a strong support.\" Ibn Kathir explains the phrase about daughters in the mainstream way: the women of the nation, addressed by their prophet as a father to his people."
+          "html": "At the door, the exchange recorded in the Quran is brief and severe. Lut (AS) appealed to his people not to disgrace him concerning his guests and asked whether there was not among them a single man of reason. They answered that he knew they had no claim upon the women and that he knew what they wanted. Lut (AS) then spoke the words of a man who saw the limit of his human strength: if only he had power against them, or could take refuge in a strong support. The words are not a failure of faith. They are the honest cry of a prophet pressed to the wall of his house, wishing for a support by which the innocent might be protected and the aggression stopped."
         },
         {
           "t": "p",
-          "html": "Then the guests spoke. O Lut, we are messengers of your Lord. They will never reach you. Jibreel (AS) stepped forward and struck the mob, and every man at the door lost his eyesight in an instant. The blinded men stumbled home in rage, blaming Lut (AS) for sorcery and swearing revenge by morning. There would be no morning for Sodom as they knew it."
+          "html": "The duty pressing on Lut (AS) in that hour was not only the general duty of hospitality. A guest who enters a house places himself under the protection of its people, and to hand him over to violence would have been a betrayal of that trust. Lut (AS) had already been threatened with expulsion for his own purity. Now he was being pressed to purchase his safety by surrendering others to the very act he had preached against for years. His refusal to do so, even while he confessed his lack of power, shows the difference between weakness of means and weakness of principle. His means were few. His principle did not move."
+        },
+        {
+          "t": "p",
+          "html": "Then the guests spoke and the scene changed. They told Lut (AS) that they were messengers of his Lord and that the people would never reach him. Classical reports relate that Jibreel (AS) struck those at the door and that their eyesight was taken, in fulfilment of the Quranic statement that Allah blinded their eyes when they demanded his guests. The men who had come rushing in confidence stumbled away in rage, speaking of revenge by morning and blaming Lut (AS) for what had struck them. They still read power as sorcery and warning as insult. They did not know that the morning they invoked in threat had already been appointed for them in judgment, and that there would be no morning for Sodom as they had known it."
         }
       ]
     },
@@ -246,7 +262,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The angels gave Lut (AS) Allah's instruction: Set out with your family in the depth of the night, and let none of you look back. Your appointment with the punishment is the morning. Is the morning not near? And they told him one painful exception: his wife. She had betrayed him to the city, and she would be struck by what struck them. Decades of shared life could not save her, because faith is never inherited from a spouse. The wives of Nuh (AS) and Lut (AS) both lived under the roofs of prophets, and both were told: enter the Fire with those who enter. Living beside righteousness is not the same as believing it.",
+          "html": "The angels then gave Lut (AS) the command of Allah for that night. He was to set out with his family during a portion of the night and none of them was to look back. The command carried a painful exception within it. His wife would not be saved with the household she had lived in, for she had betrayed the trust of that house in faith and had sided with the city against its message. She would be struck by what struck the people she had chosen. The separation is stated without cruelty and without sentimentality. A lifetime lived under the roof of a prophet does not replace belief in the heart of the one who lives there.",
           "cls": "dropcap"
         },
         {
@@ -265,7 +281,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So under cover of darkness, while the blinded city slept off its rage and sharpened its threats, Lut (AS) walked out of Sodom with his daughters and never looked back."
+          "html": "So, under cover of darkness, while the blinded city rested in its anger and prepared threats it would never carry out, Lut (AS) went out from Sodom with his family as Allah had commanded. He did not look back at the town he had called for long years and which had answered him with expulsion. The leaving was obedience in its simplest form: a night journey, at an appointed hour, away from a place where the decree of Allah was about to fall. What saved the household of Lut (AS) that night was not strength, numbers, or influence in the town. It was that they heard the command, believed the messengers, and moved when they were told to move."
         },
         {
           "t": "verse",
@@ -273,6 +289,10 @@ export const chapter = {
           "arabic": " ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
           "translation": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\"",
           "citation": "Surah 66 &middot; Verse 10 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "That example is placed in the Quran as a lasting principle, not only as a detail of one night. The wife of Nuh (AS) and the wife of Lut (AS) were each joined to a righteous servant of Allah, and that nearness did not avail them when they betrayed the faith of the house they lived in. The lesson reaches beyond marriage to every form of borrowed religion. A person is not saved by the piety of a parent, a spouse, a teacher, or a community name. Faith must be entered by the one who claims it, and betrayal of it cannot be covered by the righteousness of someone else."
         },
         {
           "t": "tafsir",
@@ -304,7 +324,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "As dawn broke over Sodom, a loud, piercing Cry shook the city. Jibreel (AS) seized the towns, lifted them high upon the edge of his wing, turned the land upside down, and crashed it into the earth, and Allah rained down on them stones of hard, baked clay, each stone marked for the sinner it was sent to strike. The most corrupt city on earth was wiped off the map in a single morning, its roads, its markets and its mocking crowds buried under its own overturned ground.",
+          "html": "As dawn broke, the command of Allah reached the town that had rushed to the door of Lut (AS) the night before. The Quran describes the punishment in words that leave no room for softening. When the command came, Allah made the highest part of the city its lowest and rained upon them stones of layered hard clay, marked from their Lord for those who had earned them. Classical telling relates that Jibreel (AS) carried out the overturning of the towns, and the Quranic description itself is sufficient to establish the scale of what occurred. A place known for lifting its sin openly was brought down completely, its heights made its depths, its roads and markets and gatherings buried under the ground that had once carried its pride.",
           "cls": "dropcap"
         },
         {
@@ -316,7 +336,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Where Sodom stood, there is now the Dead Sea, a stretch of lifeless water on the high road between Makkah and Syria, passed by travellers to this day. The Quran calls it a sign for believers: these cities were right beside the road you travel. Lut (AS) returned to his uncle Ibrahim (AS), and the two of them continued calling people to Allah together until Lut's (AS) death. The man who could not save his city with a lifetime of preaching was honoured by Allah, while the city that laughed at him became a warning written into the geography of the earth."
+          "html": "Where Sodom stood, later generations have pointed to the desolate region of the Dead Sea on the road travelled between Makkah and Syria, a stretch of lifeless water and barren shore passed by travellers to this day. The Quran directs attention to such places as signs for those who reflect, for the overturned towns lay beside a road still travelled. The point of the sign is not geography alone. A sign is a thing left visible so that those who come after cannot say the story ended in forgetfulness. Lut (AS) was brought out to safety and continued with Ibrahim (AS) in calling people to Allah, while the city that had laughed at purity and demanded his guests became a warning written into the face of the earth itself."
         },
         {
           "t": "verse",
@@ -326,11 +346,19 @@ export const chapter = {
           "citation": "Surah 7 &middot; Verses 83-84 &middot; Saheeh International"
         },
         {
+          "t": "p",
+          "html": "The closing verses return attention to the family that was saved and to the rain that fell on those who had been warned. Lut (AS) and his family were brought out, apart from the wife who remained with the people in her choice, and the others were destroyed after a long period of warning. The contrast is deliberate and restrained. The same town contained a prophet's house and a population that expelled purity, a wife who betrayed and daughters who left in obedience, messengers received as guests and a mob blinded at the door. The judgment did not fall without distinction. Allah separated between belief and disbelief within streets, houses, and even a single family, and He saved those who followed His command in the night He appointed."
+        },
+        {
           "t": "verse",
           "ref": "Quran 26:170-173",
           "arabic": " فَنَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
           "translation": "So We saved him and his family, all, Except an old woman among those who remained behind. Then We destroyed the others. And We rained upon them a rain [of stones], and evil was the rain of those who were warned.",
           "citation": "Surah 26 &middot; Verses 170-173 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

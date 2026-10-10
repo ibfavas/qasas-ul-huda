@@ -38,20 +38,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Long before there were people on the earth, Allah spoke to the angels in the heavens. He told them something brand new: He was going to place a khalifah on the earth, a ruler who would live there and be followed by children and grandchildren, generation after generation.",
+          "html": "Before there were villages, roads, graves, or names written on stone, before any human eye had seen the morning or any human tongue had formed a word, Allah (Subhanahu wa Ta'ala) announced a new creation to the angels. He told them that He would place a khalifah on the earth. The word carries weight. A khalifah is not merely a creature who lives on the land, eats from it, and dies upon it. A khalifah succeeds, follows, carries responsibility, and leaves the earth to those who come after. Adam (AS) would not be placed on earth as an owner without trust. He would be placed there as a bearer of trust, and his children would inherit both the earth and the test of caring for it.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The angels were surprised. Angels always obey Allah and never disobey Him, so their question was not an argument. It was wonder. Would this new creature spread trouble on the earth and shed blood, they asked, while the angels praised Allah day and night?"
+          "html": "The angels asked about this new being with the humility of creatures who know the limits of their knowledge. Their question was not rebellion, for angels do not disobey Allah. It was wonder at what they had been shown. Would this creature spread corruption on the earth and shed blood, while the angels glorified Allah with praise and declared His perfection? They saw one side of the human future: envy, greed, anger, oppression, and the long record of man harming man. What they did not yet see was the other side, hidden in the knowledge of Allah: repentance after failure, truthfulness under pressure, mercy shown by the strong, knowledge carried from teacher to student, and servants who would choose Allah when their own desires pulled them elsewhere."
         },
         {
           "t": "p",
-          "html": "Allah answered them with words that open the whole human story: I know what you do not know. He knew what this creation would carry inside it: a mind that could learn, a heart that could love Him by choice, and the chance to earn a place higher than obedience that never had a choice."
+          "html": "Allah answered them with a sentence that stands at the gate of the whole human story: \"Indeed, I know that which you do not know.\" The answer did not deny that blood would be shed. It did not pretend that every child of Adam (AS) would be righteous. It taught something deeper: the worth of this creation would not be measured only by its failures. Man would be able to fall and return. He would be able to learn what he did not know, admit what he had done, ask forgiveness, and begin again. The angels had obedience without the struggle of choice. Adam (AS) would carry choice, and with choice would come the possibility of a love for Allah that is chosen, tested, and proven."
         },
         {
           "t": "p",
-          "html": "The Quran gives the exchange with speaker and answer held close together. The angels asked whether this creature would spread corruption and shed blood while they praised Allah. Allah answered: I know what you do not know."
+          "html": "This is why the announcement matters before Adam (AS) is even formed. The story does not begin with clay. It begins with divine knowledge. It begins with Allah declaring that the human being, fragile and forgetful as he may be, has a place in His design that the angels could not fully measure. The earth would become a field of trial. Generations would rise and pass on. The first man would be a father, a prophet, a teacher, and a warning, all gathered in one life."
         },
         {
           "t": "verse",
@@ -77,12 +77,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then Allah created the first man, Adam (AS). He shaped him from clay gathered from different parts of the earth, which is why Adam's children come in every colour of the earth, light and dark and in between, soft and strong. For a long time the figure of clay lay still, without life. Iblis would walk around it and tap it, and it rang like pottery. Inside, Iblis burned with envy. He had already decided: if this creature ever stood above him, he would never obey him.",
+          "html": "Then Allah created Adam (AS) from the earth itself. The Quran speaks of clay, dust, and a form shaped by Allah, and authentic reports describe Adam (AS) as created from material taken from the earth, which helps explain why his descendants differ in colour, temperament, and strength. Humanity carries the earth in its body and the command of Allah in its calling. People are not all cast in one shade or one softness. Some are gentle, some are firm, some are quick, some are slow to move. The lesson is not that one colour is nobler than another. The lesson is that all of them return to the same origin, and nobility is not in the clay but in taqwa.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "When the time came, Allah breathed a soul into Adam (AS), and the first man opened his eyes to life. His very first act was a sneeze, and his very first words were praise: Alhamdulillah, all praise belongs to Allah. His Lord answered him, May Allah have mercy on you, O Adam. The first exchange between man and his Creator was praise on one side and mercy on the other."
+          "html": "For a time, the form of Adam (AS) was without life. Classical reports describe Iblis looking upon this new form with hostility before Adam (AS) had even opened his eyes. The Quran does not make Iblis an angel; it identifies him as one of the jinn, present among the angels by Allah's permission and honoured by proximity, yet carrying a heart that would soon be exposed. His envy did not begin at the command to prostrate. The command only revealed what pride had already prepared. When the soul was breathed into Adam (AS), the first human life began by the will of Allah, and the still form became a living man who could hear, see, learn, speak, and worship."
+        },
+        {
+          "t": "p",
+          "html": "Authentic reports tell that Adam (AS) sneezed when life entered him and praised Allah, and that Allah answered him with mercy. Whether a reader lingers on that report or on the Quranic command that follows, the meaning is fitting for the first moment of mankind: the first human breath is received as a gift, and the first human response taught by the story is gratitude. Before Adam (AS) ruled anything, before he named anything, before he ate or chose or erred, he was a servant receiving life from his Lord."
+        },
+        {
+          "t": "p",
+          "html": "Allah then commanded the angels to prostrate to Adam (AS) when He had proportioned him and breathed into him of His created soul. This prostration was not worship of Adam (AS), for worship belongs to Allah alone. It was an act of obedience to Allah and an honour shown to the one Allah had honoured. Every angel prostrated. Iblis refused. His refusal was not confusion. He did not say that he had not heard, nor that he needed time. He measured himself against Adam (AS) by material: fire against clay. That is the first arrogance in the story, and it is the seed of every later arrogance that judges worth by origin, race, wealth, family, or appearance instead of obedience to Allah."
         },
         {
           "t": "verse",
@@ -93,7 +101,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then Allah gave the command He had announced beforehand: when I have breathed into him, fall down before him in prostration. Every angel obeyed at once, all of them together. Every one, that is, except Iblis. He stood still, too proud to bow. I am better than him, he said. You created me from fire, and You created him from clay."
+          "html": "The refusal stood alone in a heaven filled with surrendered angels. The command had been clear, the company had obeyed, and Iblis remained upright by his own choice. Allah asked him what prevented him from prostrating when He had commanded him. The question exposed the crime; it did not seek information from one whose heart Allah already knew. Iblis answered with the words of pride: he claimed to be better than Adam (AS), because he was created from fire while Adam (AS) was created from clay. In that answer, obedience was weighed on the scale of self importance and found too light."
         },
         {
           "t": "verse",
@@ -104,7 +112,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah asked him why he had not joined those who prostrated, and Iblis answered with open arrogance: it is not for me to bow to a human made from mud. So Allah cast him out and cursed him. But Iblis made one last request. He asked to live until the Day of Judgment so that he could spend his time trying to pull Adam's children away from Allah. Allah granted him the time, and warned him: over My true servants you will have no power. Only those who choose to follow you will be yours. And so the oldest enemy of mankind began his long war, and Adam (AS) had seen him face to face."
+          "html": "Because of this arrogance, Iblis was cast down from honour. Yet even in disgrace he asked for respite until the Day of Resurrection. Allah granted him time, not victory. Iblis then declared his intention to come to the children of Adam (AS) from before them and from behind them, from their right and their left, and to make disobedience attractive to them. Allah answered with a boundary that Iblis could never cross: he would have no authority over the sincere servants of Allah. He could whisper, adorn, delay, and deceive, but he could not force a heart that holds to its Lord. The war began before the first human family had a home on earth, and its rules were announced at the start: suggestion belongs to Satan, choice belongs to man, and protection belongs to Allah for the one who seeks Him."
         },
         {
           "t": "verse",
@@ -112,10 +120,6 @@ export const chapter = {
           "arabic": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
           "translation": "[Allāh] said, &quot;What prevented you from prostrating when I commanded you?&quot; [Satan] said, &quot;I am better than him. You created me from fire and created him from clay [i.e., earth].&quot;",
           "citation": "Surah 7 &middot; Verse 12 &middot; Saheeh International"
-        },
-        {
-          "t": "p",
-          "html": "The Quran then records Iblis asking for time until the Day of Resurrection, and Allah granting him respite. Iblis swore to mislead Adam (AS) and his children, and Allah answered that Iblis would have no authority over His true servants."
         }
       ]
     },
@@ -134,16 +138,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Adam (AS) soon showed the gift the angels did not have. Allah taught him the names of all things, the names of the creatures and the plants, the sky and the water and the trees, knowledge fitted inside a human mind. The angels could only name what Allah had taught them. Adam (AS) could learn, and remember, and teach.",
+          "html": "After honour came knowledge. Allah taught Adam (AS) the names of all things. The verse is brief, but its meaning opens wide. To name a thing is to recognise it, distinguish it, remember it, and pass knowledge of it to another. A child learns the world through names. A student enters every science through terms. A farmer knows seed from weed, a shepherd knows pasture from danger, a physician knows illness from health, because names allow the mind to hold reality in order. Adam (AS) was given a capacity that would make human civilisation possible: language joined to understanding, memory joined to teaching.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Allah showed the angels things and asked them for their names. They answered honestly: Glory be to You. We know only what You have taught us. Then Allah turned to Adam (AS) and said: O Adam, tell them their names. And Adam (AS), the brand new creature made of clay, stood before the angels of heaven and taught them. Allah said: Did I not tell you that I know the secrets of the heavens and the earth?"
+          "html": "Allah presented the things to the angels and asked them to inform Him of their names if they were truthful. The angels answered with perfect honesty: glory be to Allah, they had no knowledge except what He had taught them. Their answer is itself a lesson. Knowledge is not made noble by pretending to possess it. The angels did not guess. They did not protect their status. They confessed the boundary of what they had been given. Then Allah called Adam (AS): \"O Adam, inform them of their names.\" Adam (AS) spoke what he had been taught, and the wisdom behind the announcement in heaven became visible. The creature of clay could learn, retain, and teach in a way fitted for the trust of earth."
         },
         {
           "t": "p",
-          "html": "Angels: Glory be to You. We know only what You have taught us. Allah: O Adam (AS), tell them their names. Adam (AS) named them, and the gift of learning stood clear before the angels."
+          "html": "This did not make Adam (AS) greater than the angels in every respect, nor did it turn knowledge into a cause for boasting. It showed that Allah distributes gifts as He wills. The angels had their rank and their obedience. Adam (AS) had a mind prepared for names, signs, crafts, agriculture, building, and the long human work of learning from experience. The same gift that would let his children read the stars and heal wounds would also let them deceive, forge weapons, and spread falsehood. Knowledge, like earth itself, would be a trust."
         },
         {
           "t": "verse",
@@ -154,7 +158,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Adam (AS) also learned the greeting of his children forever. Allah sent him to a group of angels and told him to say: As-salamu alaykum, peace be upon you. They answered: Wa alaykum as-salam wa rahmatullah, and upon you be peace and the mercy of Allah. This, Allah told him, is your greeting, and the greeting of your children after you. The very first lesson taught to mankind was how to wish each other peace."
+          "html": "Adam (AS) also received the greeting by which his children would meet one another until the end of time. In the authentic report, Allah sent him to a company of angels and told him to listen to their reply, for it would be his greeting and the greeting of his offspring. Adam (AS) said, \"As-salamu alaykum,\" peace be upon you. They replied with peace and the mercy of Allah added. The first social lesson of mankind is not competition. It is peace named aloud, mercy added to peace, and a greeting that teaches strangers to become safe with one another."
         },
         {
           "t": "hadith",
@@ -165,7 +169,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "But Adam (AS) was often alone. The angels were busy with their worship and their duties, and the first man felt the quiet ache of loneliness. So Allah created for him a companion, a wife, so that he could find rest and comfort with her. One day Adam (AS) woke from sleep and found a woman beside him. Who are you? he asked. A woman, she replied. Why were you created? So that you can find tranquillity in me. The angels asked Adam (AS) her name, and he said: Hawwa, because she was created from something living. And the two of them were placed together in the gardens of Paradise."
+          "html": "Yet Adam (AS) was alone among creatures unlike himself. The angels worshipped and served, but they were not companions for a human heart. Allah created for Adam (AS) a spouse, so that he might find sakinah, a settled rest, with her. The Quran speaks of the mate created from the same soul and of affection placed between spouses; classical reports name her Hawwa and describe Adam (AS) finding her near him after sleep. The exact details are kept within what the sources carry, but the meaning is clear: human life was never meant to be a solitary trial. Companionship is part of the design. The first society began not with a market, an army, or a throne, but with a man and a woman placed together in trust, gratitude, and obedience."
         }
       ]
     },
@@ -184,8 +188,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Life in Paradise was perfect freedom. Adam (AS) and Hawwa could walk anywhere in its gardens, eat from any tree, drink from any stream, enjoy everything they saw. There was no hunger, no thirst, no tiredness, no sorrow. Allah gave them only one single command, one line they must not cross: do not go near this one tree. If they did, they would be among the wrongdoers.",
+          "html": "Adam (AS) and Hawwa were placed in Paradise, and the command given to them was astonishing in its generosity. They were told to dwell there and eat from wherever they wished. The garden was not described as a narrow allowance measured out with anxiety. It was abundance. Shade, fruit, rivers, beauty, and safety surrounded them. There was no hunger pressing them, no thirst driving them, no labour exhausting them, no sickness weakening them, and no fear hunting them from place to place. In such a place, obedience was not tested by deprivation. It was tested by a boundary inside plenty.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The boundary was one tree. Allah did not forbid them the garden. He did not forbid them joy. He forbade approach to a single tree and warned that crossing that line would make them among the wrongdoers. The Quran does not name the tree, and the story does not need a name for it. What matters is that a command was clear, the forbidden thing was limited, and everything else was lawful. This is the pattern of divine law for the children of Adam (AS) as well: the lawful is wide, the forbidden is marked, and the test often stands beside abundance rather than in a desert of nothing."
         },
         {
           "t": "verse",
@@ -196,15 +204,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "One rule, in a garden of endless gifts. That one rule was the test, and Iblis knew exactly where to aim. He could not enter their hearts by force, because Allah had promised him no power over His servants. But he could whisper. And whispering is what he began to do, day after day, with patience as old as his grudge."
+          "html": "Iblis understood where to strike. He could not enter by force, because Allah had denied him authority over His servants. He could not cancel the command, so he worked to make the command seem small, suspicious, and secretly unfair. Satan whispered to them both, not only to Adam (AS), and aimed first at a hidden shame that would appear after disobedience. He told them that their Lord had forbidden the tree only to prevent them from becoming angels or immortal. The lie was built from two human longings: the longing to rise higher and the longing not to die. He took desires that are not evil in themselves and tied them to a forbidden path."
         },
         {
           "t": "p",
-          "html": "Then Satan swore an oath to make the lie sound safe. Satan: I am truly among the sincere advisers to you. The oath was part of the trap, because a false promise can sound gentle while it leads to loss."
+          "html": "He also clothed himself as an adviser. The Quran tells that he swore to them that he was among the sincere advisers to them both. A false oath can make poison sound like medicine. Iblis did not say, \"Come, disobey your Lord.\" He said, in effect, \"Come, take what is being kept from you.\" That is still his method. He renames greed as ambition, arrogance as self respect, and disobedience as freedom. He rarely begins by denying Allah. He begins by making the command of Allah feel like an insult to human dignity."
         },
         {
           "t": "p",
-          "html": "Shall I show you the tree of eternity, he whispered, and a kingdom that never ends? Your Lord only forbade you this tree so that you would not become angels, or live forever. And then he swore to them both: I am truly a sincere adviser to you. He dressed the lie in the clothes of a friend. That is how Iblis still works today: he never says, come and disobey. He says, come and take what is being kept from you."
+          "html": "The tragedy of the scene is not that Adam (AS) and Hawwa lacked information. They knew the command. They knew the enemy. They had been warned. The whisper worked through nearness and repetition until the forbidden tree looked different from what Allah had said it was. Every child of Adam (AS) knows that movement of the heart. A sin first appears as a distant line. Then it becomes a question. Then it becomes a possibility. Then it becomes a story in which we are the exception. Paradise had one tree, but the doorway was the same doorway through which temptation still enters: a command doubted after it was understood."
         },
         {
           "t": "verse",
@@ -230,12 +238,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Slowly, the whisper worked. Adam (AS) forgot. That is the honest word the Quran uses about him: he forgot, and his resolve weakened, as it weakens in all of us. One day the two of them ate from the tree that Allah had forbidden.",
+          "html": "The Quran speaks of Adam (AS) with honesty and mercy. It says that Adam (AS) forgot and that firm resolve was not found in him at that moment. This is not told to lower him. It is told to teach his children how their father fell and how he returned. Adam (AS) was a prophet honoured by Allah, yet the slip came through forgetfulness and weakened resolve under an enemy's persistent whisper. The dignity of Adam (AS) is seen not in pretending he could not slip, but in what he did when the slip was laid bare: he did not persist, he did not mock the command, and he did not build a defence out of pride.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The change was instant. The moment they tasted it, they became aware of themselves and felt a deep shame they had never known. They rushed to gather leaves from the trees of Paradise and covered themselves, hiding like children who know they have done wrong. Then came the voice of their Lord: Did I not forbid you from that tree, and tell you that Satan is a clear enemy to you?"
+          "html": "When they tasted of the tree, the consequence appeared at once. Their private parts became apparent to them, and they began to fasten leaves of Paradise over themselves. Shame entered human experience as a sign that something sacred had been disturbed. Modesty was not invented by society. It rose in the first man and woman the moment disobedience uncovered them. They covered themselves with leaves because the human conscience, before it finds words, already knows that wrongdoing exposes."
+        },
+        {
+          "t": "p",
+          "html": "Then their Lord called to them: \"Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?\" The call was not the voice of a stranger. It was the voice of the Lord who had created them, housed them, fed them, warned them, and now held them to account. Accountability after sin is also mercy, because it stops the sinner from sleeping inside the sin. Adam (AS) and Hawwa were not left to decorate the act with excuses. They were called back to truth while return was still possible."
         },
         {
           "t": "verse",
@@ -246,7 +258,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They did not argue. They did not blame each other, and they did not blame Iblis, though he had tricked them. They blamed themselves, and they said the words that every sinner since has borrowed from them: Our Lord, we have wronged ourselves. If You do not forgive us and have mercy on us, we will surely be among the losers."
+          "html": "Their answer became the inheritance of every repentant sinner after them. They said: \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" Notice what is absent. They did not say that Satan alone was to blame, though Satan had deceived them. They did not blame one another, though both had eaten. They did not ask Allah to change the judgment because the desire had felt strong. They named the wrong as theirs, placed their hope in forgiveness and mercy, and admitted that without both they would be lost. Iblis had answered exposure with arrogance. Adam (AS) answered exposure with confession. That difference is the difference between the road of Satan and the road of the prophets."
         },
         {
           "t": "verse",
@@ -257,7 +269,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "It is the oldest prayer of forgiveness in the world, and it was answered. Allah turned to Adam (AS) in forgiveness. But the life of ease in Paradise was over. Allah sent them down to the earth, Adam (AS), Hawwa, and Iblis with them, enemies to one another. On the earth you will live, Allah told them, and there you will die, and from it you will be brought back to life. The test that began with one tree would now continue for every child of Adam (AS) until the end of time."
+          "html": "Allah accepted the repentance of Adam (AS). He received words from his Lord, and Allah turned to him in forgiveness, for Allah is the Accepting of Repentance, the Merciful. But forgiveness did not mean that the earthly mission was cancelled, nor that life would continue in the same ease. Adam (AS), Hawwa, and Iblis were sent down, with enmity between them, and earth became the place of living, dying, and resurrection. The descent was not the end of mercy. It was the beginning of history under a promise: guidance would come, and whoever followed it would have no fear and no grief. The first sin did not close the door of return. It taught mankind where the door is."
         },
         {
           "t": "verse",
@@ -283,12 +295,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Earth was nothing like Paradise. Food did not appear by wish. Adam (AS) had to search and work and sweat for every meal, find clothing against the cold, and make shelter for his family. Wild animals roamed a land that had never known people. And behind every hardship stood the whispering of Shaitan, who had sworn to spend his endless years pulling humans away from their Lord.",
+          "html": "Earth received the family of Adam (AS) with a different law from Paradise. Food would be sought, not simply taken from endless plenty. The body would tire. Weather would change. Shelter would matter. Death would enter the horizon of every living thing. Yet Adam (AS) did not arrive on earth abandoned. He arrived forgiven, instructed, and warned. The same Lord who called him to account in the garden now promised that guidance would reach his descendants. Earth would be a place of danger, but not a place without light.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "But Adam (AS) held firm. The man who had slipped once did not slip into despair. He worked the earth, he worshipped his Lord, and he became the first teacher of the human race. When children came, and then grandchildren, Adam (AS) taught them everything he knew: who their Lord was, how to pray to Him, and how dangerous their hidden enemy was. He told them his own story, the garden, the tree, the whisper, so that they would not be fooled the way he had been fooled."
+          "html": "Adam (AS) became the first teacher of his children in the school of earth. He knew the names of things, but now his children had to learn through effort, seasons, hunger, and mistake. He taught them who their Lord was, how to turn to Him, and how severe the enmity of Iblis would be. No father after him would teach from a story so close to his own skin. He could tell them of honour in heaven, obedience among angels, the sweetness of Paradise, the narrowness of one forbidden tree, and the bitterness of a whisper believed too long. His life was the first curriculum."
+        },
+        {
+          "t": "p",
+          "html": "The command to descend was joined to the promise that defines all later revelation. Allah said that when guidance came from Him, whoever followed His guidance would have no fear concerning them, nor would they grieve. Fear looks toward what is coming; grief looks back at what has passed. Revelation heals both directions of the human heart. It tells man what awaits him if he obeys, and it tells him how to return after he has failed. From Adam (AS) to the final Prophet, the line of guidance is one line: Allah does not leave mankind to guess at the purpose for which they were made."
         },
         {
           "t": "verse",
@@ -299,7 +315,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Sahih Muslim also ties Adam (AS) to Friday: the day of his creation, his entry into Paradise, and his expulsion from it. For his children, Friday became a weekly reminder of where the human story began."
+          "html": "Friday carries the memory of this beginning into every week. The Prophet Muhammad (peace be upon him) taught that Friday is the best day on which the sun has risen, for on it Adam (AS) was created, on it he was made to enter Paradise, and on it he was expelled from it. The weekly rhythm of the believers therefore carries the memory of creation, gift, loss, and return. A day of gathering and prayer stands over the calendar like a signpost back to the first father."
         },
         {
           "t": "hadith",
@@ -310,7 +326,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And the family grew. The first children born on earth were twins, and among them were two sons whose story the Quran tells to every generation: Qabil, who worked the land as a farmer, and Habil, who raised sheep and cattle. The two brothers were as different as fire and water. Habil was gentle, obedient, and God-fearing. Qabil was proud, selfish, and quick to anger."
+          "html": "As the family grew, the test changed its shape. The whisper that had approached Adam (AS) and Hawwa beside a tree would approach their children through envy inside a house. The Quran tells of the two sons of Adam (AS) without naming them in the passage; classical telling names them Qabil and Habil. One worked the land, the other tended animals. Their story should not be rushed, because it shows how soon the human heart can move from worship to rivalry. The father had repented after being deceived. The sons would now show two ways of meeting acceptance and refusal: gratitude with sincerity, or rage against the one whose offering was taken."
         }
       ]
     },
@@ -329,12 +345,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the boys grew up, Allah commanded something that tested both hearts. Each brother was to offer a sacrifice to Allah from the best of what he had. Habil the shepherd chose his finest, fattest lamb, the best animal he owned, and offered it gladly. Qabil the farmer gathered the worst of his harvest, the crop he did not want himself, and offered that.",
+          "html": "The two sons of Adam (AS) each presented an offering to Allah. The Quran does not describe the offering by spectacle. It directs attention to the inward state. An offering was accepted from one of them and not accepted from the other. Classical reports fill the scene with the shepherd bringing from his flock and the farmer bringing from his produce, but the Quran keeps the moral centre clear: Allah accepts only from the God conscious. A gift can be large and empty. A gift can be simple and alive. What reaches Allah is not the smoke, the meat, or the grain as a physical thing, but the taqwa carried inside the act.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Allah accepted the offering of Habil, because He accepts only from those who are sincere and careful in their obedience. Qabil's offering was refused. Instead of asking what was wrong with his own heart, Qabil turned on his brother in fury. I will kill you, he said."
+          "html": "The brother whose offering was not accepted turned toward the other with a threat: \"I will surely kill you.\" The answer he received is among the most restrained speeches in the Quran. The accepted brother did not answer envy with envy. He explained the principle and then refused retaliation before it had even occurred. If his brother stretched out his hand to kill him, he would not stretch out his hand in return, because he feared Allah, Lord of the worlds. He would rather meet Allah without his brother's blood on his hand than preserve his life by becoming a killer."
+        },
+        {
+          "t": "p",
+          "html": "This calm was not weakness. It was strength governed by fear of Allah. Habil, as classical telling names him, understood that a wrong suffered does not license a wrong committed. He also warned that the murderer would carry his own sin and the sin committed against the victim, and would become among the companions of the Fire. The words did not soften the other heart. A person can hear the truth clearly and still choose the darkness that flatters his anger. That is part of the terror of the story: guidance can be present, spoken by a brother's mouth, in a father's house, and still be refused."
         },
         {
           "t": "verse",
@@ -345,7 +365,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Qabil: I will kill you. Habil: Allah accepts only from the righteous. If you raise your hand against me, I will not raise mine against you, for I fear Allah, Lord of the worlds."
+          "html": "The accepted brother's refusal to retaliate sets a measure for every later quarrel. He does not deny the danger. He names it. He does not pretend that innocence will always rescue the body. He chooses innocence anyway. In a world that often calls revenge manhood and restraint humiliation, the son of Adam (AS) speaks with a nobler courage: I fear Allah, Lord of the worlds. His life may be taken, but his hand will not be stained."
         },
         {
           "t": "verse",
@@ -356,7 +376,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Habil answered with words so calm and so brave that the Quran recorded them forever. Allah only accepts from the devout, he said. If you raise your hand to kill me, I will not raise my hand to kill you. I fear Allah, Lord of the worlds. I would rather you carry your sin against me along with your own sins, and become one of the people of the Fire, for that is the reward of the wrongdoers. He would not fight his brother, even to save his own life."
+          "html": "The quarrel also reveals how envy works after disappointment. The rejected brother did not first ask why his offering had failed. He did not examine his intention, improve his gift, or seek the counsel of Adam (AS). He looked sideways at the accepted one and made him the problem. This is envy in its oldest clothing. It cannot celebrate another's acceptance, so it tries to erase the accepted person. The offering had exposed the heart; the threat exposed it further."
         }
       ]
     },
@@ -375,8 +395,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hatred won. Qabil killed his brother Habil, and so the first murder in human history was committed by the son of the first prophet, against his own flesh and blood, in a rage over a gift refused. When the anger drained out of him, horror filled its place. He did not even know what to do with the body of his brother. No human being had ever died before.",
+          "html": "Then the soul of the rejected brother permitted him to kill his brother, and he killed him. The Quran's wording is precise. It does not say that anger killed Habil while Qabil watched helplessly. It says his soul made the act seem possible, then easy, then done. Sin often enters by permission given quietly inside. A thought is entertained, a grievance is fed, a threat is repeated, and at last the hand obeys what the heart has already approved. Qabil became among the losers at the moment the earth received the first unjust blood.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "No human being had died before. The killer stood before a problem he had not imagined when rage was speaking. What is done with a body when breath has left it and honour still demands covering? Allah sent a crow scratching in the ground to show him how to hide the body of his brother. The teacher was a bird. The lesson was burial. The shame was complete: the son of Adam (AS) learned from a crow what reverence required after his own hand had destroyed reverence."
+        },
+        {
+          "t": "p",
+          "html": "He cried out in woe against himself: had he failed even to be like this crow and hide the disgrace of his brother? He became among the regretful. Regret after murder is not the same as the repentance of Adam (AS) after the tree. Adam (AS) turned back with words of confession and hope. Qabil is shown crushed by consequence, burying the evidence of what envy had made of him. The Quran does not open his later fate for us in this passage, and the story does not need to invent one. It leaves him with a grave he dug after being taught by a bird, and with a warning carried in blood."
         },
         {
           "t": "verse",
@@ -384,10 +412,6 @@ export const chapter = {
           "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
           "translation": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers.",
           "citation": "Surah 5 &middot; Verse 30 &middot; Saheeh International"
-        },
-        {
-          "t": "p",
-          "html": "Then Allah sent a crow. Qabil watched the bird scratch at the ground, dig a hole, place its dead companion inside, and cover it with earth. Shame crushed him. Woe to me, he cried. Have I failed to be even like this crow, to hide the body of my brother? And he buried Habil, and he became one of the regretful."
         },
         {
           "t": "verse",
@@ -398,7 +422,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Adam (AS) grieved as no father had ever grieved. One son was dead, and the other was lost to the devil who had once whispered to Adam (AS) himself. He prayed for his children, and he carried on with his mission, warning his growing family about Iblees and calling them to worship Allah alone. The whisper that began in Paradise had claimed its first life on earth, and the old prophet knew the war would outlive him."
+          "html": "Adam (AS) now faced a grief no father before him had known. One son was dead. The other bore the mark of the first murder. The enemy who had whispered in Paradise had now reached into the first household on earth and found an opening through envy. Yet grief did not end the mission of Adam (AS). He remained a prophet to his children, calling them to Allah, teaching them the danger of Satan, and showing them that a household can be wounded by sin without being abandoned by guidance. The father who had returned from his own slip by repentance now had to lead a family in a world where murder had entered."
+        },
+        {
+          "t": "p",
+          "html": "The burden of that first act did not end with the burial. The Prophet Muhammad (peace be upon him) taught that whenever a person is murdered unjustly, there is a share of the burden on the first son of Adam (AS), because he was the first to establish the practice of murder. A deed can become a road. A righteous deed can become a road too. The story therefore presses every reader to ask what road his habits are paving for people he will never meet."
         },
         {
           "t": "hadith",
@@ -424,20 +452,24 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Many years passed, and the children of Adam (AS) spread across the earth. Adam (AS) grew old, the first teacher of mankind, still guiding his descendants to their Lord. When his final illness came, his children gathered around the man through whom every human being on earth had come.",
+          "html": "Years passed over the earth, and the children of Adam (AS) multiplied. Fields were worked, families spread, languages grew from the first teaching of names, and the memory of Paradise travelled with an old man's testimony. Adam (AS) remained what he had been from the beginning: a servant created from earth, honoured by knowledge, tried by an enemy, forgiven by his Lord, and sent to guide his descendants. His greatness is not that he never faced loss. His greatness is that loss did not turn him away from Allah.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The angels came down for him, carrying his shroud and the things needed to prepare his body, the honours of heaven for the father of mankind. They took his soul, washed him, wrapped him, dug his grave and buried him, and they taught his children what to do when death visits a family: O children of Adam, this is your tradition at the time of death."
+          "html": "When his appointed time approached, the story returns to honour. Ibn Kathir relates a narration from Ubayy ibn Ka'b (RA) concerning the final illness of Adam (AS). In that narration, Adam (AS) longed for fruit from Paradise, his children went out seeking it, and they met angels carrying his shroud and burial needs. The angels told them to return, because the end of their father had come. When they reached him, Hawwa recognised the angels and drew close to Adam (AS), but Adam (AS) told her to leave him with the angels of his Lord. His soul was taken, and the angels washed him, shrouded him, prayed over him, dug his grave, and buried him. Then they taught his children that this was their tradition at death."
         },
         {
           "t": "p",
-          "html": "Ibn Kathir relates a narration from Ubayy ibn Ka’b about Adam’s final illness. Adam (AS) longed for the fruit of Paradise, and his children met angels carrying his shroud. The angels told them to return, for their father’s end had come. Adam (AS) would not let Hawwa come between him and the angels of his Lord. After his soul was taken, the angels washed him, wrapped him, prayed over him, buried him, and told his children that this was their tradition at death."
+          "html": "The details are carried as a classical narration, and the scene is told with restraint. The first man, whose body came from earth, was returned to earth by angelic hands while his children watched and learned. Burial was not left as a custom invented by grief. It was taught as dignity for the dead and discipline for the living. The same creation that began with a divine announcement ended its first chapter with children standing at a grave, learning that death is not disposal. It is a return carried out with washing, covering, prayer, and earth."
         },
         {
           "t": "p",
-          "html": "Before he died, Adam (AS) appointed his son Seth (AS) to lead the people after him, and Seth (AS) too was chosen as a prophet to guide mankind to the path of Allah. The first chapter of humanity closed with a grave dug by angels, a son carrying his father's mission, and a promise that still stands over every descendant of Adam (AS): whoever follows Allah's guidance will have no fear, and will not grieve."
+          "html": "Before his death, Adam (AS) is reported in classical telling to have entrusted Seth (AS) with leadership after him, and Seth (AS) is counted among the early prophets who guided mankind. The Quran does not pause to give Seth (AS) a separate narrative here, so the draft does not build scenes upon what is thin. What stands firm is continuity: Adam (AS) did not leave his children with only a memory. He left them with worship, warning, burial, family, and the promise that guidance from Allah would continue to come."
+        },
+        {
+          "t": "p",
+          "html": "The Quran seals the afterlife of this story with the sanctity of a single soul. After the account of the two sons and the first murder, Allah declares the law for the Children of Israel: whoever kills a soul without right is as if he had killed mankind entirely, and whoever saves one is as if he had saved mankind entirely. The verse is placed here in the chapter order as the final panel, and its position is fitting. The story that began with one man created from clay ends by teaching that one life is never small. The first father is buried, the first murderer is left to the judgment of Allah, and the descendants of Adam (AS) are sent forward with a measure for every generation: protect life, refuse envy, fear Allah, and follow the guidance when it comes, so that there will be no fear and no grief."
         },
         {
           "t": "verse",
@@ -445,6 +477,10 @@ export const chapter = {
           "arabic": "مِّنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
           "translation": "Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.",
           "citation": "Surah 5 &middot; Verse 32 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

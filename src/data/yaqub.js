@@ -35,7 +35,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) was named before he was born. When the angels brought Sarah the news of a son in her old age, they added words that reached one generation further: glad tidings of Ishaq (AS), and beyond Ishaq (AS), Yaqub (AS). His life began inside a promise spoken at his grandparents' tent.",
+          "html": "Yaqub (AS) was named in glad tidings before he was born. The Quran tells of the guests who came to Ibrahim (AS) and of his wife standing by when the news reached her. She was given tidings of a son, Ishaq (AS), though she was old, and beyond that son the words reached one generation further still: after Ishaq (AS), Yaqub (AS). A child and then a grandchild were announced together in the same breath. That is uncommon honour in the Quran. A boy is often promised to his parents, but here the promise looks past the son to the son who will come from him, and it places Yaqub (AS) inside the line of prophethood before he had taken his first breath. His life therefore begins inside a house already marked by faith, travel, sacrifice and trial, the house of Ibrahim (AS), the friend of Allah who had left idols behind and carried the worship of One God from land to land.",
           "cls": "dropcap"
         },
         {
@@ -47,11 +47,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir relates that Yaqub (AS) was born to Ishaq (AS) and Rebekah as a twin with his brother al-Eis. The classical histories then tell of strain between the brothers and of Yaqub (AS) travelling to his uncle Laban in Haran, where his family grew before he returned to the land of his fathers. The Quran does not build its account on those household details, so they remain background. Its focus is the prophet, the father and the patience that defined him."
+          "html": "Ibn Kathir relates that Yaqub (AS) was born to Ishaq (AS) as a twin, and classical histories then tell of strain between brothers in his youth, a journey to Haran, the growth of his family there, and his return to the land of his fathers. Those household details are carried as classical reports, and this telling keeps them in the background where they belong, because the Quran does not build its account of Yaqub (AS) on them. Its focus is narrower and stronger: a prophet, a father, and a patience that would be tested across decades. Yaqub (AS) is also the one the Quran calls Israel, the father whose children are named again and again as Banu Israel, the Children of Israel. When the Quran speaks of that people, it is speaking of the descendants of this one man."
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) was the son of Ishaq (AS) and the grandson of Ibrahim (AS): a prophet born into a house of prophets. He carried the message of Allah's oneness that his grandfather had carried out of Babylon, and Allah blessed him with twelve sons. Ten were born to his first wife, and the two youngest, Yusuf (AS) and Binyamin, to his second."
+          "html": "Yaqub (AS) was the son of Ishaq (AS) and the grandson of Ibrahim (AS): a prophet born into a house of prophets. He carried the same message of the oneness of Allah that his grandfather had carried, and Allah blessed him with twelve sons. Among them were Yusuf (AS) and his younger brother Binyamin, and the rest of the brothers whose actions fill Surah Yusuf with envy, loss and eventual repentance. Twelve sons at one father's table may sound like only a family, but in the design of Allah it became the root of a nation. A household became tribes, and tribes became a people through whom many prophets would later be sent. The greatness of the house was not land or wealth at its beginning. It was faith handed from father to son, and a promise that kept unfolding after the ones who first heard it had grown old."
         },
         {
           "t": "verse",
@@ -62,7 +62,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Those twelve boys were not just a family. They were the seed of a nation. From them came the twelve tribes of Banu Israel, the Children of Israel, the people through whom so many prophets would come. The Quran names the descendants of Yaqub (AS) among the revelations given to the prophets, and generations later, when Musa (AS) struck the rock in the desert, twelve springs gushed out, one for each tribe of Yaqub's house. Everything that happens in the rest of this book, every king and prophet of the Israelites, traces back to this one father's dinner table."
+          "html": "Those twelve boys were not just a family. They were the seed of the twelve tribes of Banu Israel, and the Quran returns to their number long after Yaqub (AS) himself has passed. Generations later, when Musa (AS) struck the rock by the command of Allah, twelve springs gushed out, and the Quran notes that each group knew its own drinking place. The number was not accidental. It traced the later nation back to the sons of one father. Prophet after prophet among the Children of Israel would stand in this line, and the honour of the line is gathered in the report that follows: honour upon honour, a prophet who was the son of a prophet, who was the son of a prophet, who was the son of the friend of Allah. The chain is Yusuf (AS), son of Yaqub (AS), son of Ishaq (AS), son of Ibrahim (AS). Four generations, and nobility at every step measured not by blood alone but by prophethood, truthfulness and nearness to Allah."
         },
         {
           "t": "hadith",
@@ -88,7 +88,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Yusuf (AS) was a little boy, he came to his father one morning with shining eyes. O my father, I have seen eleven stars and the sun and the moon. I saw them all prostrating to me. Yaqub (AS), who had the gift of interpreting dreams, felt joy flood his chest. He knew what the dream meant: Allah had chosen this child for a special purpose, to carry the legacy of the prophets after him. The eleven stars were his eleven brothers. The sun and the moon were his parents. And the boy at the centre of it all would one day stand above them in honour.",
+          "html": "When Yusuf (AS) was a young boy, he came to his father with a dream that the Quran preserves in the child's own words: \"O my father, indeed I have seen eleven stars and the sun and the moon; I saw them prostrating to me.\" The surah opens with this scene for a reason. Before wells, prisons, palaces and thrones, there is a small boy speaking to his father in trust, and a father who listens with knowledge. Yaqub (AS) was given insight into the meaning of dreams, and the words that follow in the surah show that he understood this dream as a sign of choosing and teaching from Allah. The eleven stars pointed to the eleven brothers, the sun and the moon to the parents, and the prostration to an honour that would come only after many years and much pain. The dream was true, but its time had not yet come.",
           "cls": "dropcap"
         },
         {
@@ -100,15 +100,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The warning was gentle and exact. Yaqub (AS) did not deny the dream, and he did not praise the boy in a way that would feed pride. He protected the meaning by hiding it from envy: \"Do not relate your vision to your brothers, or they will contrive against you a plan.\" A prophet's son had received a sign. A father's duty was to guard both the child and the sign."
+          "html": "The warning Yaqub (AS) gave was gentle and exact: \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.\" He did not deny the dream, he did not mock it as a child's imagination, and he did not spread it as a boast over his other sons. He guarded it. This is prophetic fatherhood in a single sentence. A gift from Allah is not always to be announced the moment it is received. Some gifts must be carried quietly until Allah opens their time. Yaqub (AS) also named the real danger plainly. A plan would come through human hands, but behind the plan stood the open enemy of mankind, Satan, who has worked through envy since he first refused to bow and then whispered to Adam (AS) and his wife beside the forbidden tree."
         },
         {
           "t": "p",
-          "html": "But Yaqub (AS) also knew his other sons. He treated all his boys the same, but equality of treatment does not cure envy of the heart, and the brothers had already begun to resent the little one their father loved so openly. So the old prophet wrapped the dream in a warning: My son, do not relate your vision to your brothers, or they will plot against you. Truly, Satan is an open enemy to man. A father can see a storm coming years before it breaks. He just cannot always stop it."
+          "html": "Yaqub (AS) also knew his other sons, and the Quran lets the reader hear the resentment already forming in their own words. They said that Yusuf (AS) and his brother were more beloved to their father than they were, while they were a strong group. Love seen from the outside can feed a false story on the inside, and envy rarely asks whether the story is fair. Yaqub (AS) treated his children as a prophet and father must, but equal care does not by itself cure a diseased heart. The dream therefore entered a house where love, favour as the brothers perceived it, and the whisper of Satan were already pressing against one another. The warning was not fear without cause. It was a father reading the house he lived in and trying to keep a spark away from dry grass. This is also why his warning names Satan before it names any brother. The brothers would be responsible for their choice, but the prophet taught his youngest son to see the older enemy behind the nearer danger, so that guarding the dream became an act of worship and not merely family caution."
         },
         {
           "t": "p",
-          "html": "The envy ripened as the boys grew. And one day the older sons came to their father with a careful request: Why do you not trust us with Yusuf, when we truly wish him well? Send him with us tomorrow to enjoy himself and play. We will surely watch over him."
+          "html": "The envy ripened as the plan took shape among the older brothers, and part of that story is told fully in the chapter of Yusuf (AS). Here the focus stays on Yaqub (AS) and on the approach made to him. The brothers came with a request that sounded reasonable on its surface: \"Why do you not send Yusuf (AS) with us? Indeed, we are to him sincere counselors. Send him with us tomorrow that he may eat well and play. And indeed, we will be his guardians.\" Every word was chosen to lower a father's guard. They offered care, food, play and protection. The father who had warned his youngest son not to speak of the dream now had to answer sons who spoke as if nothing but kindness moved them."
         }
       ]
     },
@@ -127,20 +127,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) resisted exactly as long as a loving father could. It saddens me that you should take him, he said, and I fear a wolf will eat him while you are heedless. If a wolf devoured him while we are such a strong group, they laughed, then we would truly be losers! At last he let the little boy go, with a parent's whole heart tied in a knot.",
+          "html": "Yaqub (AS) resisted with the words of a loving father who already sensed loss before it arrived: \"Indeed, it saddens me that you should take him, and I fear that a wolf would eat him while you are of him unaware.\" His answer joined two truths at once. Separation from Yusuf (AS) would grieve him, and danger away from his sight was real to him. The brothers answered the fear by turning it into a challenge to their pride: \"If a wolf should eat him while we are a strong clan, indeed, we would then be losers.\" They did not answer grief with reassurance. They answered it with numbers, as if a strong group could not fail a trust. At last Yusuf (AS) went with them, and the Quran soon makes clear that the brothers had agreed to place him in the bottom of a well, while Allah inspired the boy that a day would come when he would inform them of this affair while they did not recognise him.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The request and refusal show the house under strain. The brothers said: \"Send him with us tomorrow to enjoy himself and play. We will surely guard him.\" Yaqub (AS) answered: \"It saddens me that you take him, and I fear that a wolf will eat him while you are unaware of him.\" They replied: \"If a wolf eats him while we are a strong group, then we would indeed be losers.\" Every speaker knew more than the words admitted."
+          "html": "The request and the refusal show a house under strain, and the exchange matters because every speaker said more than the surface of his words. The brothers asked for trust they had not earned and promised guarding they did not intend to give. Yaqub (AS) spoke of a wolf, and the word stayed in the brothers' mouths because it gave them a story ready made for the evening. He spoke of sadness, and that sadness would stretch across years until it reached his eyes. Nothing in the reply of Yaqub (AS) was theatrical. He did not forbid them as a tyrant, and he did not surrender Yusuf (AS) as a careless man. He was a father pressed between sons demanding trust and a heart that had been warned by a dream."
         },
         {
           "t": "p",
-          "html": "That evening, the brothers came home weeping. O our father, we went racing and left Yusuf with our belongings, and a wolf devoured him. But you will not believe us even if we are truthful. And they held out the little boy's shirt, ripped and smeared with blood."
+          "html": "That evening the brothers came home weeping. Their recorded words were a performance built to sound like accident and helplessness: \"O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful.\" Even their defence admitted that belief would be hard. They brought the shirt of Yusuf (AS) with false blood upon it, hoping that a stained garment would speak louder than an absent boy. Tears, a story and a piece of cloth were placed before an old prophet as proof, and the Quran itself calls the blood false before Yaqub (AS) answers. The lie was complete in its parts and empty in its truth."
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) looked at the shirt, and at the sons, and he knew. He knew the blood was a lie and the wolf was a story. Your souls have tempted you to something evil, he said. Then he spoke the words his whole chapter is remembered by, words Muslims still borrow in their worst moments: So beautiful patience is what I will bear. And it is Allah's help that I seek against what you describe. He did not scream. He did not curse his sons. He did not accept the lie either. He grieved with dignity, certain of two things at once: that his sons had sinned, and that Yusuf (AS) was alive under Allah's protection. Both certainties would prove true."
+          "html": "Yaqub (AS) answered in the words by which his whole life is remembered: \"Rather, your souls have enticed you to something, so patience is most fitting. And Allah is the one sought for help against that which you describe.\" He did not accept the wolf, and he did not tear his house apart in rage. He named the act for what it was, a temptation their souls had made attractive to them, and then he turned the matter to the only help that could carry it. This patience, sabr jamil, beautiful patience, is not silence because there is nothing to say. It is speech governed by faith at the moment when anger, accusation and despair all present themselves as easier roads. Muslims still borrow these words in their worst moments because Yaqub (AS) spoke them at the first stroke of a loss that would last for years."
         },
         {
           "t": "verse",
@@ -166,7 +166,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years passed, and Yaqub (AS) never stopped grieving in quiet. He wept so long for Yusuf (AS) that his eyes turned white and his sight faded. But listen carefully: he never lost hope, and he never accused Allah. Hope and grief lived in the same heart for decades, which is exactly what beautiful patience means. It is not the absence of tears. It is tears that never turn into despair.",
+          "html": "Years passed, and Yaqub (AS) never stopped grieving in quiet. The Quran later describes his eyes turning white from grief while he suppressed his sorrow, a phrase that holds tears and restraint together in one picture. Beautiful patience was never the absence of pain for him. It was pain that refused to become accusation against Allah, refused to become despair of His mercy, and refused to be poured out as complaint before people. He wept for Yusuf (AS) across a long separation, yet his tongue kept returning to trust, to help sought from Allah alone, and to knowledge that he carried from Allah which his sons did not share. Hope and grief lived in the same heart for decades, and that is exactly what makes his patience prophetic rather than merely endured. The authentic teaching placed in the panel after this paragraph sets the measure for such moments for this community: true patience is shown at the first stroke of calamity, before the soul has time to arrange its grief into complaint against the decree of Allah. Yaqub (AS) had already spoken that measure on the night of the false shirt, when his first recorded answer was not a curse or a collapse but beautiful patience and help sought from Allah alone. His later tears therefore do not break the rule. They show that patience can continue to weep while it continues to trust.",
           "cls": "dropcap"
         },
         {
@@ -178,7 +178,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then famine struck Egypt and the lands around it, and Yaqub (AS) sent ten sons to buy grain from the storekeeper of the Egyptian king. They returned with a problem: the storekeeper had sworn to sell them nothing more unless they brought their youngest brother, Binyamin. Yaqub (AS) was furious at the very idea. Shall I trust you with him as I trusted you with his brother before? Allah is the best of protectors, and He is the Most Merciful of the merciful. He only relented when they showed him their money mysteriously returned in their bags, and when his sons swore him a solemn oath before Allah to bring the boy back unless utterly overpowered. Then he added the advice of a man who trusts Allah and takes precautions at the same time: O my sons, do not enter the city through one gate. Enter through separate gates. I cannot avail you against Allah at all. The decision is only Allah's. In Him I trust, and in Him let the trusting trust."
+          "html": "Then famine struck Egypt and the lands around it, and Yaqub (AS) sent his sons to buy grain from the storekeeper of Egypt, not knowing that the man who controlled the measure was Yusuf (AS) himself. They returned with a hard condition: no further measure would be given unless their youngest brother Binyamin came with them. Yaqub (AS) answered with a memory that had never healed: \"Should I entrust you with him except as I entrusted you with his brother before? But Allah is the best guardian, and He is the most merciful of the merciful.\" The past was named, but trust was placed above the past, in Allah. Only after the returned money was found in their sacks and after his sons gave him a solemn promise by Allah to bring Binyamin back unless they were utterly overcome did he allow the boy to go. Even then he added counsel that joined precaution to reliance: enter the city not through one gate but through separate gates, while admitting at once that he could not avail them against Allah at all, that the decision belongs to Allah alone, and that upon Him he relied. The classical commentators note the balance in that counsel: a father may require an oath, divide the gates of entry, read the returned money with caution and still confess that no arrangement reaches beyond the decree of Allah. Taking means is not a rival to trust. It is obedience shaped by experience, while the heart leaves the outcome where Yaqub (AS) leaves it in his own words, with Allah as the best guardian and as trustee over what is said and done."
         },
         {
           "t": "verse",
@@ -196,11 +196,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The second loss made the pattern impossible to miss. When the brothers returned without Binyamin, Yaqub (AS) used almost the same answer he had used years before, but now it carried hope for more than one missing son: \"Rather, your souls have enticed you to something. So patience is most fitting. Perhaps Allah will bring them all to me together.\" Then came the sentence that reveals his private worship: \"I only complain of my suffering and my grief to Allah.\""
+          "html": "The second journey ended in fresh loss. Binyamin was accused over the king's cup and detained in Egypt, and the eldest brother refused to leave the land until his father permitted him or Allah judged for him. When the remaining brothers returned without Binyamin, Yaqub (AS) answered with almost the same words he had used on the night of the false blood, but now the sentence opened wider: \"Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allah will bring them to me all together. Indeed, it is He who is the Knowing, the Wise.\" Them all. Not Yusuf (AS) alone, not Binyamin alone, but every missing piece of the house gathered in one hope. The man who had been lied to twice refused to let the second lie shrink his expectation of Allah."
         },
         {
           "t": "p",
-          "html": "The second journey ended in fresh disaster. Binyamin was accused of stealing the king's cup and detained in Egypt. The brothers came home with the news, and the old man's answer rose from the same deep well as before, but fuller now: Your souls have tempted you to something. So beautiful patience. Perhaps Allah will bring them all back to me. Truly, He is the All-Knowing, the All-Wise. Then he turned away from them and whispered the words that would crack anyone's heart: Alas for Yusuf. His sons lost their tempers: By Allah, you will never stop remembering Yusuf until you waste away or die. He answered them with the manifesto of every broken believer: I only complain of my anguish and sorrow to Allah. And I know from Allah what you do not know."
+          "html": "Then came the sentence that reveals his private worship: \"I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.\" He turned away from his sons and said, \"Oh, my sorrow over Joseph,\" and his eyes became white from grief, for he was a suppressor of sorrow. His sons spoke sharply to him: \"By Allah, you will not cease remembering Joseph until you become fatally ill or become of those who perish.\" The reply was not anger at their tone. It was direction for his own heart and instruction for theirs. Complaint has a proper door, and for Yaqub (AS) that door was Allah. He did not deny sorrow, and he did not perform it for sympathy. He carried it upward, to the One who knew the dream, the well, the years and the end that had not yet been shown to anyone else in that room. The Quran calls him a suppressor of sorrow, and the word carries dignity rather than numbness. He held back despair, held back complaint to creation and held back any word that would make grief into a charge against his Lord. What he released was directed prayer, and then a command that still startles after so much loss: go and search, and do not despair of the relief of Allah."
         },
         {
           "t": "verse",
@@ -232,12 +232,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the blind old prophet did something no one expected. He did not sit down to die. He gave an order: O my sons, go and search for Yusuf and his brother, and do not despair of Allah's mercy. No one despairs of Allah's mercy except the disbelieving people. The boys obeyed, and the long story turned, though that turning belongs to Yusuf's own chapter. Even before the travellers returned, Yaqub (AS) stiffened and said: I truly sense the smell of Yusuf, though you may think me senile. The family scoffed: By Allah, you are still in your old error.",
+          "html": "Then the blind old prophet did something no one who had given up would do. He did not sit down to die over a closed story. He gave an order: \"O my sons, go and find out about Joseph and his brother and despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.\" The command came from a man whose eyes had lost their light and whose house had been torn by the very sons he was sending out again. Yet he sent them toward the missing, not away from hope. They obeyed, and the long turning of the story in Egypt belongs in full to the chapter of Yusuf (AS). What belongs here is the moment the caravan had barely departed from Egypt and Yaqub (AS), far away, said: \"Indeed, I find the smell of Joseph if you did not think me weakened in mind.\" Those around him answered as they had answered before: \"By Allah, indeed you are in your same old error.\" That exchange matters because hope in Yaqub (AS) was never a passing mood that other people could argue away. It rested on what Allah had shown through the dream and on the character of Allah Himself, whose relief he had just forbidden his sons to despair of. He spoke of scent before sight and of life before proof had reached the house, and the Quran lets the reader sit with that tension before the bearer of good news enters.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Then the bearer of good news arrived with Yusuf's shirt and threw it over the old man's face, and his sight returned. Sight, for scent, for a son presumed dead for decades. Did I not tell you, said Yaqub (AS), that I know from Allah what you do not know? His grown sons, the same men who had lied with a bloody shirt in their hands, stood before him now with lowered heads: O our father, ask forgiveness for our sins. Truly, we have been sinners. And Yaqub (AS), who had every right to refuse, answered: I will ask my Lord to forgive you. Truly, He is the All-Forgiving, the Most Merciful."
+          "html": "Then the bearer of good news arrived with the shirt of Yusuf (AS) and cast it over the face of Yaqub (AS), and he returned to seeing. Sight for scent, and a son lost for decades behind both. The father who had once been handed a shirt carrying false blood now received a shirt carrying life, and the contrast is written into the surah itself. Yaqub (AS) said: \"Did I not tell you that I know from Allah that which you do not know?\" His grown sons stood before him with a confession very different from the racing story of their youth: \"O our father, ask for us forgiveness of our sins; indeed, we have been sinners.\" Yaqub (AS), who had every human reason to turn away from the men whose lie had cost him his sight and his son's youth, answered: \"I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.\" Forgiveness did not erase the past by pretending. It closed the past by mercy after truth had finally been spoken."
         },
         {
           "t": "verse",
@@ -248,7 +248,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Yusuf (AS) received his family in Egypt with open gates: Enter Egypt, Allah willing, in safety. He raised his parents high on his throne, and they fell in honour before him, and the little boy's dream of eleven stars and the sun and the moon closed its circle in front of the whole family. O my father, said Yusuf (AS), this is the meaning of my dream from long ago. My Lord has made it true."
+          "html": "Yusuf (AS) received his family in Egypt with safety and honour: \"Enter Egypt, Allah willing, safe and secure.\" He took his parents to himself and raised them upon the throne, and they fell before him in the prostration of greeting known in that time, as the classical commentators explain it, not as worship owed to Allah alone. Then the little boy's dream closed its circle in front of the whole family, and Yusuf (AS) said: \"O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you here from bedouin life after Satan had induced estrangement between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.\" The eleven stars and the sun and the moon had taken their places at last, after a well, a false shirt, a prison, blindness and a famine had all been woven into the road toward them."
         },
         {
           "t": "verse",
@@ -274,16 +274,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Classical histories relate that Yaqub (AS) then lived in Egypt for years with his family gathered around him. The Quran closes his story not with land, wealth or revenge, but with worship. The father who had once been promised as a grandson in a tent now gathered his own sons at the edge of death.",
+          "html": "Classical histories relate that Yaqub (AS) then lived in Egypt for years with his family gathered around him, the tribes of his house settled under the protection of Yusuf (AS) by the permission of Allah. The Quran, however, closes his story not with land, wealth, rank or revenge, but with worship. The father who had first been promised as a grandson beside a tent, who had warned a child not to tell a dream, who had answered a bloody shirt with beautiful patience and blindness with hope, now approached the end of his life with the same concern that had governed its beginning. What a man asks about at death reveals what he lived for, and Yaqub (AS) asked about God.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Yaqub (AS) spent his final days in Egypt, reunited with the son he had mourned for most of a lifetime. And when his death approached, the father of twelve tribes gathered his sons for the only question he had ever really been asking: What will you worship after me?"
+          "html": "Yaqub (AS) spent his final days in Egypt, reunited with the son he had mourned for most of a lifetime. And when death approached, the father of twelve tribes gathered his sons for the only question he had ever really been asking beneath every other question of travel, food, safety and return: \"What will you worship after me?\" Grain runs out. Thrones pass. Even sight restored can be dimmed again by age. Worship remains, and a prophet who had held his family together through famine and exile would not leave them without naming the ground on which they must stand after his voice was gone."
         },
         {
           "t": "p",
-          "html": "They answered with the creed of the whole family line: We will worship your God and the God of your fathers, Ibrahim and Ismail and Ishaq, one God, and to Him we submit. The boy who had been promised behind a tent curtain, the man who had lost a son to a lie and prayed through blindness, handed his children the same torch his grandfather carried out of the fire. That is the life of Yaqub (AS): a man who lost almost everything except his certainty, and discovered at the end that certainty was the thing that brought everything back."
+          "html": "They answered with the creed of the whole family line: \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac, one God. And we are Muslims in submission to Him.\" The names reach backward across the story of the prophets, and the answer reaches forward into every generation of Banu Israel that would need to hear it again. The boy who had been promised behind a tent curtain, the man who lost a son to a lie and prayed through blindness, handed his children the same submission his grandfather Ibrahim (AS) had enjoined upon his sons before him. That is the life of Yaqub (AS) as the Quran frames it: a man who lost almost everything except his certainty, and who learned at the end that the certainty itself, held with beautiful patience, was the road by which Allah brought everything back."
         },
         {
           "t": "verse",
@@ -304,6 +304,10 @@ export const chapter = {
           "arabic": " وَٱذْكُرْ عِبَـٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَـٰرِ إِنَّآ أَخْلَصْنَـٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ",
           "translation": "And remember Our servants, Abraham, Isaac and Jacob - those of strength and [religious] vision. Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter]. And indeed they are, to Us, among the chosen and outstanding.",
           "citation": "Surah 38 &middot; Verses 45-47 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

@@ -34,8 +34,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After the people of Nuh (AS) came a tribe that inherited the earth: the people of Ad, descendants of Nuh (AS) living among the sandy hills in the south of Arabia, between the lands of Yemen and Oman today. They were given blessings other tribes could only dream of. Their bodies were tall and powerful, and their builders raised structures with lofty pillars like nothing seen anywhere else in the land. Their cities glittered with strength.",
+          "html": "After the people of Nuh (AS) had passed, Allah raised another people to inherit the earth, and among them were the tribe of Ad, descendants of Nuh (AS) settled among the curved sandy hills in the south of Arabia, in the region the Quran calls al-Ahqaf, between the lands known today as Yemen and Oman. The Quran does not tell their story as a lesson in geography. It tells it as a moral history. A people can live in hard land and still be showered with gifts, and a people can be strong in body while weak in gratitude and obedience.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Ad were not struggling to survive. The Quran presents them as a people given stature and power beyond those around them. Their bodies were tall and firm. Their builders raised dwellings on lofty pillars. Their strength could be seen before a word was spoken, in their height, their constructions, and their power over the valleys where they lived. When later generations heard of Iram of the pillars, the name carried the memory of a civilisation that seemed unmatched in its land."
+        },
+        {
+          "t": "p",
+          "html": "That unmatched quality is the centre of the warning. A blessing that should have led to humility became a cause of pride. They looked at what their hands had raised and forgot the One who gave their hands strength. Power not tied to obedience soon forms its own creed, that might is proof of right, height is proof of honour, and survival is proof that judgment will never come. The Quran cuts through it by calling the reader to consider what their Lord did with Ad, with Iram of the lofty pillars, the like of which had never been created in the land. The verse invites more than admiration. It invites reflection on an end."
         },
         {
           "t": "verse",
@@ -46,7 +54,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir’s discussion of Iram keeps the wonder tied to the people themselves: unmatched strength, firm dwellings, and power that made obedience the real test. The pillars impressed the eye; the hearts were the question."
+          "html": "Ibn Kathir, in his discussion of these verses, keeps the focus on the people themselves rather than on a lost city of legend. He records that Ad were the mightiest people of their time in physique and power, dwelling in houses raised on firm pillars, and he prefers the view that the unmatched likeness refers to the tribe and its strength itself. The reading matters. The pillars impressed the eye, but the hearts were the question. A firm house can stand while faith inside it collapses. A tall body can stand upright while the soul bows to stone. Hud (AS) would remind them that the Lord who gave such strength asked that it be spent in obedience, not in display and tyranny."
+        },
+        {
+          "t": "p",
+          "html": "But blessings without gratitude turn into pride. The rulers of Ad were unjust tyrants, and their power was not questioned by those who shared in it. The tribe that should have remembered the flood of Nuh (AS) and the mercy of being made successors on earth instead followed its own desires. Though the name of Allah was still known among them, they carved idols with their own hands and worshipped them beside Him, as if life, rain, children, and victory had come from blocks their tools had shaped. The corruption was not confined to the place of worship. It reached the council of chiefs and the way strength struck those weaker than itself without fear of account."
         },
         {
           "t": "tafsir",
@@ -56,7 +68,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "But blessings without gratitude turn into pride. The rulers of Ad were unjust tyrants, and their power was never questioned. And though the people still knew the name of Allah, they carved idols with their own hands and worshipped those idols beside Him, as if the gifts had come from blocks of stone."
+          "html": "The Quran names their inner slogan plainly. They were arrogant upon the earth without right and said, who is greater than us in strength? It is the sentence of every age that mistakes capacity for immunity. They could build higher, strike harder, and endure where others broke. From those facts they drew a false conclusion, that the One who created them could not overpower them. They rejected the signs of Allah not because the signs were unclear, but because accepting them required surrender. Arrogance rarely calls itself rebellion. It calls itself confidence that truth will never arrive."
         },
         {
           "t": "verse",
@@ -67,7 +79,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So Allah sent them a prophet, and He chose him from their own blood: their brother Hud (AS). He sent him to call the mightiest people on earth back to the One who had made them mighty."
+          "html": "So Allah sent them a prophet from their own blood, their brother Hud (AS). He was not a foreign conqueror, nor a stranger whose speech they could dismiss. He was known to them in kinship, honesty, and character. Mercy came before punishment, as it does in the stories of the prophets. A familiar voice would call the mightiest people on earth back to the One who made them mighty, and they would have no excuse that the message never reached them in a form they could understand."
         }
       ]
     },
@@ -86,7 +98,8 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After Nuh (AS), Allah raised another generation and sent among them a messenger from themselves. The pattern was mercy before punishment: a familiar voice, a clear call, and time to return."
+          "html": "The pattern after Nuh (AS) was mercy repeated, not withdrawn. Allah produced another generation and sent among them a messenger from themselves, with the call every prophet carries: worship Allah, you have no deity other than Him, will you not fear Him? The familiarity of the messenger is part of the test. When guidance comes through a stranger, people hide behind distance. When it comes through a brother whose life they have watched, the issue is no longer information. It is whether pride will allow the heart to submit to what it already knows is true.",
+          "cls": "dropcap"
         },
         {
           "t": "verse",
@@ -97,8 +110,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) stood before his own tribespeople and spoke the message every prophet carries: O my people, worship Allah. You have no god besides Him. Will you not fear Him? He asked them to think, just to think. How could they worship things their own hands had carved, when it was Allah who gave them life and death, Allah who gave them their towering strength and their builders' skill? He alone deserved their worship.",
-          "cls": "dropcap"
+          "html": "Hud (AS) stood before his tribespeople with the clarity of a man who had nothing to gain from flattery. O my people, worship Allah. You have no deity other than Him. You are not but inventors of falsehood. The words were a diagnosis, not an insult for effect. An idol does not become a god because hands carve it, fathers honour it, or chiefs defend it. It remains an invention, a name given authority it never possessed. How could they worship things their hands had made, when Allah gave them life and death, towering stature, the skill of builders, children, and provision in a difficult land? He alone deserved worship, and worship given elsewhere was not noble tradition. It was fabrication dressed as heritage."
         },
         {
           "t": "verse",
@@ -109,7 +121,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In Al-Ahqaf, the sand-curved land of Ad, Hud (AS) warned them not to worship anything besides Allah. Hud (AS): I fear for you the punishment of a terrible day. The warning came from a brother, not a stranger."
+          "html": "In al-Ahqaf, Hud (AS) warned them to worship none besides Allah, and his warning carried the concern of kinship. I fear for you the punishment of a terrible day. A prophet does not warn a people he despises. He warns a people he fears for. Hud (AS) had grown up among their houses and gatherings. He knew their strength, temper, and pride from inside the tribe. Warners had passed before him and would come after him, but to Ad the warner was their own brother, a man whose honesty they had never faulted before his message touched their idols."
         },
         {
           "t": "verse",
@@ -120,7 +132,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS): Will you not fear Allah? I am a trustworthy messenger to you, so fear Allah and obey me. He joined warning to trust: the man they knew was not inventing a new master, he was calling them back to their Lord."
+          "html": "Hud (AS) joined warning to trust and trust to obedience. Will you not fear Allah? I am to you a trustworthy messenger, so fear Allah and obey me. He asked for no tax, no throne, and no privilege for his household. He called them back to their Lord, whose favours surrounded them in body and building. Obedience to the messenger was not praise of Hud (AS). It was the end of self praise. A trustworthy messenger does not invent a master. He points away from himself to the One who sent him."
         },
         {
           "t": "verse",
@@ -131,7 +143,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He also rebuked the way strength had become display. Do you build a sign on every height for amusement, take strongholds as if you would live forever, and strike as tyrants when you strike? Their buildings preached pride before their tongues did."
+          "html": "He also rebuked the way strength had become display, for a society shows its beliefs in what it builds when nothing forces it to build. Do you construct on every elevation a sign, amusing yourselves, and take palaces and fortresses as if you might abide eternally? And when you strike, do you strike as tyrants? The rebuke gathers three marks: building for show, building as if death were meant for others, and striking without restraint. The buildings preached pride before the tongues did. A tower raised only to be seen is a sermon in stone, and Ad preached to every traveller that they intended never to fall."
         },
         {
           "t": "verse",
@@ -142,7 +154,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And he made one thing clear from the first day: I do not ask you for any reward. My reward is only from the One who created me. A prophet has nothing to sell. He only delivers."
+          "html": "He made one thing clear from the first day, so no one could claim his call had been a bargain. I do not ask you for any reward. My reward is only from the One who created me. Will you not reason? A prophet has nothing to sell. He only delivers. To that freedom he joined an open door. O my people, ask forgiveness of your Lord and repent to Him. He will send rain upon you in showers and increase you in strength added to your strength. Do not turn away as criminals. The offer answered their boast on its own ground. They prized strength, and he told them strength grows through repentance. They prized continuity, and he told them rain and life continue through forgiveness, not through idols that can neither send a cloud nor hold back a wind."
         },
         {
           "t": "verse",
@@ -153,7 +165,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The chiefs of Ad answered with laughter. The eminent ones who disbelieved said to the people: we see you in foolishness, and we think you are one of the liars. Their own brother, whose honesty they had known all his life, was suddenly a fool and a liar, the moment his words threatened their idols."
+          "html": "The chiefs answered with laughter, the first refuge of leaders who do not wish to answer an argument. The eminent ones who disbelieved said, we see you in foolishness, and we think you are of the liars. Their brother, whose honesty they had known all his life, became a fool and a liar when his words threatened their idols and their standing. The insult reveals the true conflict. This was not a neutral audience waiting for evidence. It was an establishment whose authority rested on the falsehood Hud (AS) had come to remove."
         },
         {
           "t": "verse",
@@ -164,7 +176,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) answered without anger: O my people, there is no foolishness in me. I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord, and I am a trustworthy adviser to you. Do you wonder that a reminder has come to you from your Lord through a man from among yourselves? Remember when He made you successors after the people of Nuh, and increased you greatly in stature. So remember the favours of Allah, that you might succeed."
+          "html": "Hud (AS) answered without anger and without retreat. O my people, there is no foolishness in me. I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord, and I am to you a trustworthy adviser. He called them to remember the favour they treated as ordinary. Allah had made them successors after the people of Nuh (AS) and increased them greatly in stature. Remember the favours of Allah, that you might succeed. A people who remember being rescued rarely worship the work of their hands. A people who forget rescue soon call their warner a liar."
         },
         {
           "t": "verse",
@@ -175,7 +187,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The answer hardened into habit. The people: It is the same to us whether you advise or do not advise. This is only the custom of the former peoples, and we will not be punished. Ancestry became their argument."
+          "html": "Their answer hardened into identity. It is the same to us whether you advise or not. This is only the custom of the former peoples, and we will not be punished. Ancestry became the argument, and custom the shield. When a caller cannot be refuted, he is mocked, then ignored, then placed among matters the forefathers settled. They did not prove their idols created them. They did not disprove resurrection. They declared the old way enough and punishment a story for other peoples."
         },
         {
           "t": "verse",
@@ -186,7 +198,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) replied that defilement and anger had already fallen on them from their Lord. Do you dispute with me over names you and your fathers invented, names for which Allah sent no authority? Then wait; I am waiting with you."
+          "html": "Hud (AS) replied that defilement and anger had already fallen upon them from their Lord as the consequence of persisting in invented worship. Do you dispute with me over names you and your fathers invented, for which Allah sent down no authority? Then wait. I am with you among those who wait. The scene closes without compromise. The prophet had offered rain through repentance, strength through obedience, and success through remembrance. The chiefs offered ridicule, custom, and denial. Between those offers a civilisation had to choose, and the choice would soon be read in the sky."
         },
         {
           "t": "verse",
@@ -212,24 +224,28 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) did not only speak of idols. He warned them of a day they refused to imagine: the Day of Judgment, when Allah will raise every soul and ask each person about what he did on earth. He also reassured them that their Lord was the most forgiving, ready to pardon anyone who honestly repented. It was a warning and a door, both open at once.",
+          "html": "Hud (AS) did not speak only of idols. He warned them of a day they refused to imagine, when Allah will raise every soul and bring hidden deeds into the open. Without that day, warnings about arrogance, tyranny, and invented worship could be dismissed as opinion. With that day, they became matters of survival. A people certain they will never stand before their Lord can strike as tyrants and build as if death will spare them. A people who expect that standing must weigh every act by another measure.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The exchange shows the real divide. The chiefs treated resurrection as a tale too far away to fear. Hud (AS) treated the return to Allah as the fact that gave every warning its weight."
+          "html": "Beside the warning he held open a door, for a prophet never brings warning alone. He told them their Lord forgives the one who turns back honestly and seeks pardon. The two truths belong together. Judgment makes repentance serious. Forgiveness makes judgment bearable to hear. Ad were not called to despair over what they had done. They were called to stop before the time for return gave way to the time for consequence."
         },
         {
           "t": "p",
-          "html": "The chiefs sneered at the warning. Does he promise you that after you have died and turned into dust and bones, you will be brought out alive again? How far fetched, how far fetched is what you are promised! Life is only this worldly life. We die and we live, and we will never be resurrected. He is only a man who has invented a lie about Allah, and we will not believe him."
+          "html": "The exchange shows the deeper divide in the tribe. The chiefs treated resurrection as a distant tale belonging to old stories. Hud (AS) treated return to Allah as the fact that gave every warning weight. One side measured life by the valley and the strength in their arms. The other measured life by the meeting after death. Between those measures no lasting agreement was possible."
         },
         {
           "t": "p",
-          "html": "Their comfort had blinded them. They ate what he ate and drank what he drank, so they decided he could not possibly be telling the truth. And when argument failed, Hud (AS) did what every prophet does: he turned to the only One who had ever helped him. My Lord, he prayed, help me, because they have denied me. And Allah answered: soon they will be regretful."
+          "html": "So the chiefs sneered in the language comfort teaches. Does he promise that after you die and become dust and bones, you will be brought out alive? How far fetched is what you are promised. Life is only this worldly life. We die and we live, and we will never be resurrected. He is only a man who invented a lie about Allah. The mockery rested on sameness. Hud (AS) ate what they ate and drank what they drank, so they decided he could not bring a truth larger than their experience. Familiarity, which should have confirmed his honesty, became their excuse to call his message invention."
         },
         {
           "t": "p",
-          "html": "He stopped preaching to those who would never listen, and he waited on his Lord."
+          "html": "Comfort had blinded them by stages. Gifts became pride, pride became tyranny, and tyranny became a custom defended as the way of the former peoples. Denial of resurrection sealed the system, for a man certain he will never be raised can call any warning foolish without fear. Hud (AS) kept calling, but hearts trained to laugh at accountability heard advice as noise from a brother who had shamed the tribe by refusing to bow where others bowed."
+        },
+        {
+          "t": "p",
+          "html": "When argument would not move those who had chosen not to listen, Hud (AS) turned to the One who had always helped him. My Lord, help me, because they have denied me. The prayer marks a turn in the story. The warner who stood in their assemblies now placed their denial before Allah. Allah answered that soon they would regret. Hud (AS) waited upon his Lord, not in despair and not in hatred, but in certainty that the One who sent him would not let truth and falsehood end alike."
         }
       ]
     },
@@ -248,20 +264,24 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The punishment came quietly at first, not as fire or flood, but as an empty sky. A terrible drought settled over the land of Ad. The skies stayed clear and cloudless while the sun scorched the desert. Crops failed, trees yellowed, and the mighty tribe that feared nothing began to thirst.",
+          "html": "Punishment came quietly at first, not as fire or flood, but as an empty sky. A severe drought settled over Ad. The sky stayed clear while the sun scorched the desert, and valleys that had echoed with building began to echo with thirst. Crops failed and trees yellowed. The tribe that had asked who was greater than them in strength learned how little strength helps when heaven is withheld by the command of Allah.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Ibn Kathir also relates a report that, when the drought tightened, Ad sent men toward Makkah to ask for rain and were given clouds to choose from. They chose the black cloud, thinking it heavy with water. The report ends where the Quran begins its scene: the chosen cloud came toward their valleys carrying punishment."
+          "html": "Drought is a slow teacher. It does not shatter a tower in a night. It empties a people by degrees, until pride speaks more quietly because the throat is dry. Fathers who raised signs on every height now scanned the horizon. Chiefs who dismissed a warner with laughter watched for clouds as a matter of life and death. Yet hardship alone does not create repentance. It reveals what the heart reaches for when comfort is removed. Ad reached for any means that would keep their idols and still bring rain."
         },
         {
           "t": "p",
-          "html": "Even then, Hud (AS) kept the door open. O my people, he called to them, ask forgiveness of your Lord and repent to Him. He will send rain from the sky upon you in showers and add strength to your strength. Do not turn away as criminals. The way out of the drought was not a new idol. It was repentance."
+          "html": "Ibn Kathir relates a report that when the drought tightened, Ad sent men toward Makkah to seek rain and were given clouds to choose from. They chose the black cloud, thinking it heavy with water. The report ends where the Quran takes up the scene, with that cloud coming toward their valleys carrying what they had not imagined. It is carried here as a classical report, not as the foundation of the chapter. The Quranic fact is firm enough. A drought stricken people saw a cloud and read it by desire, while Allah had already given it its true name."
         },
         {
           "t": "p",
-          "html": "They refused with an insult: O Hud, you have brought us no clear proof, and we will not leave our gods because of your words, and we are not believers in you. We think some of our gods have possessed you with evil. Hud (AS) declared himself free of their idols before them all, and spoke words of trust that believers still repeat: I have put my trust in Allah, my Lord and your Lord. There is no creature He does not hold by its forelock. Indeed, my Lord is on the straight path."
+          "html": "Even then, Hud (AS) kept the door open, for a prophet's mercy does not end at the first sign of punishment. O my people, ask forgiveness of your Lord and repent to Him. He will send rain in showers and add strength to your strength. Do not turn away as criminals. The way out was not a new delegation or a louder boast. It was the same door opened at the start of his call. Repentance would have made the sky a mercy. The strength they praised in themselves would have been increased by the Lord they refused to worship alone."
+        },
+        {
+          "t": "p",
+          "html": "They refused, now with an accusation meant to end discussion. O Hud, you have brought us no clear proof, and we will not leave our gods for your words, nor are we believers in you. Some of our gods have afflicted you with evil. The reversal is stark. Idols that could not send rain were credited with harming a prophet, while the prophet who pointed to the Lord of rain was dismissed as proof-less. Hud (AS) declared himself free of their idols and spoke words of trust believers still repeat when standing alone. I have put my trust in Allah, my Lord and your Lord. There is no creature He does not hold by its forelock. My Lord is on a straight path."
         },
         {
           "t": "verse",
@@ -272,7 +292,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) answered by placing himself and them before Allah as witnesses. Hud (AS): I call Allah to witness, and you witness too, that I am free of what you associate besides Him. Plot against me all together and give me no respite. I have trusted in Allah, my Lord and your Lord."
+          "html": "Hud (AS) placed himself and them before Allah as witnesses, so his position could not later be blurred. I call Allah to witness, and you witness, that I am free of what you associate besides Him. Plot against me together and give me no respite. I have trusted in Allah, my Lord and your Lord. This was not recklessness. It was the calm of a man who knew forelocks are not held by chiefs or stone. Every hand raised against him and every tongue that mocked him was already in the grip of his Lord. A prophet alone among his people is not unprotected when his Protector cannot be resisted."
         },
         {
           "t": "verse",
@@ -283,7 +303,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The people: Have you come to us so that we worship Allah alone and abandon what our fathers worshipped? Then bring what you promise us, if you are truthful. The demand was repeated until it sounded brave."
+          "html": "The people reduced his mission to a single charge. Have you come so we worship Allah alone and abandon what our fathers worshipped? Then bring what you promise, if you are truthful. Repetition made the demand sound brave. It is what proud people say when they want warnings replaced by performance on their terms. Exclusive worship was framed as theft from ancestry. In truth, ancestry had taken what belonged to Allah, and Hud (AS) had come to restore it."
         },
         {
           "t": "verse",
@@ -294,7 +314,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Still their hearts stayed locked behind their pride, and they threw down the challenge that proud people always throw: bring us what you promise us, if you are truthful."
+          "html": "Their hearts stayed locked behind pride, and they repeated the challenge delay had taught them to love. Bring us what you promise, if you are truthful. The words appear in more than one surah because the attitude filled more than one assembly. Because punishment had not fallen at the first warning, they concluded it would never fall. Because drought came slowly, they imagined the end would negotiate. Hud (AS) told them to wait with him. They waited as challengers, not servants, and a people who dare their Lord to hasten punishment have announced their ending."
         },
         {
           "t": "verse",
@@ -320,7 +340,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then one day clouds rolled toward their valley, dark and heavy. The people of Ad poured out in joy. At last! This is a cloud bringing us rain! They were already celebrating the end of the drought, already imagining their fields green again.",
+          "html": "Then a cloud formation rolled toward their valley, dark and heavy. After months of clear sky, the sight struck Ad like a promise kept. They poured out in joy. This is a cloud bringing us rain. Celebration began before a drop had fallen. In their minds fields were already green and cisterns filling, and the drought was already a story for children. Desire named the cloud before knowledge could. They saw what they had begged for and did not ask what had truly been sent.",
           "cls": "dropcap"
         },
         {
@@ -332,7 +352,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) shattered their celebration with the truth: No. It is what you asked to be hastened: a wind carrying a painful punishment, destroying everything by the command of its Lord."
+          "html": "Hud (AS) broke the celebration with truth that returned their own challenge to them. No. It is what you asked to be hastened, a wind carrying painful punishment, destroying everything by the command of its Lord. The cloud they read as mercy answered the words thrown at their prophet in assembly after assembly. Bring us what you promise. Allah brought it, not in the form longing had painted, but in the form defiance had earned. Morning would leave nothing visible except their dwellings, left only as evidence. Thus Allah recompenses the criminal people, in that age and in every age that repeats their pattern."
         },
         {
           "t": "verse",
@@ -343,7 +363,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The wind is called barren because it brought no living rain behind it. It passed over a thing and left it like crumbled ruin, a fitting answer to a people who trusted in what their hands had raised."
+          "html": "The wind is called barren because it brought no living rain and left no growth behind it. Ordinary wind can carry seed and cool a valley. This wind carried no mercy of that kind. It passed over a thing and left it like crumbled ruin, dry, broken, and unable to rise. The description answers a people who trusted what their hands had raised. What hands raise, wind can scatter. What pride plants, a single command can reduce to dust that looks ancient as it falls."
         },
         {
           "t": "verse",
@@ -354,7 +374,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The scorching air turned stinging cold, and the wind arrived like a screaming army. It uprooted trees and ripped through the land for seven nights and eight days without stopping. The towering pillars of Ad, the pride of Arabia, were nothing before it. When the wind finally died, the mighty tribe lay fallen like hollow trunks of palm trees, and nothing of them could be seen except their empty dwellings."
+          "html": "The scorching air turned stinging cold, and the wind came like a screaming force that would not tire or stop at any fortress. Allah imposed it for seven nights and eight days in succession, uprooting trees and casting down bodies that height had made seem untouchable. The pillars of Ad were nothing before it. When the wind died, the tribe lay fallen like hollow trunks of palm trees, tall in form and empty within, and the ruin raised the Quranic question whether any remains of them could be seen. A civilisation that filled its land with signs of permanence had become a sign of the opposite."
         },
         {
           "t": "verse",
@@ -365,7 +385,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "It tore people up as if they were palm trunks ripped from the ground. The image is violent and exact: height, roots, and strength meant nothing once the command came."
+          "html": "It tore people up as palm trunks ripped from the ground, roots exposed and crowns broken. The image is violent and exact. Palms stand for height, rootedness, and provision in desert land, and Ad trusted those gifts as guarantees. The wind turned the tallest living things in their landscape into a picture of their fall. Height meant nothing once the command came, and no council of chiefs could vote the wind away on a day of continuous misfortune."
         },
         {
           "t": "verse",
@@ -376,7 +396,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Abbas reported that Allah’s Messenger ﷺ was helped by the east wind, while Ad was destroyed by the west wind. The same air that can carry relief can carry ruin when Allah sends it."
+          "html": "Ibn Abbas (RA) reported that the Messenger of Allah (peace be upon him) was helped by the east wind, while Ad were destroyed by the west wind. The report teaches humility in reading weather. The same air can carry relief to one people and ruin to a rebellious nation when Allah sends it. Wind is neither a god nor a power beyond control. It is a creature under command, and the believer asks Allah for its good and seeks refuge from its evil because he knows who commands it."
         },
         {
           "t": "hadith",
@@ -387,7 +407,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Only Hud (AS) and the small band of believers with him were saved. They left that ruined land and settled in Hadramaut, where they lived in peace worshipping Allah. The strongest people on earth had been erased by wind, and the brother they called a fool was the only one left standing."
+          "html": "Only Hud (AS) and the believers with him were saved, and the Quran describes their rescue as mercy, not as skill or strength. When the command came, Allah saved Hud (AS) and those who believed with him by mercy from Him, and saved them from a harsh punishment. The contrast is deliberate. The strongest people on earth were erased by wind, and the brother called a fool and a liar was left standing because his Lord had covered him. Those who followed obstinate tyrants shared the curse that followed Ad in this world and on the Day of Resurrection. Away with Ad, the people of Hud (AS), is the severe epitaph of a people warned clearly and often. Later telling places Hud (AS) and the believers in Hadramaut after their deliverance, living in peace in worship. The Quran fixes the essential fact without geography completing it. Truth survived the wind. Falsehood did not."
         },
         {
           "t": "verse",
@@ -398,7 +418,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah named them the first Ad when their end is remembered in brief. A whole civilisation can be carried in one sentence after it refuses every warning."
+          "html": "Allah calls them the first Ad when their end is told in brief, as a warning to later peoples who might think a later version could succeed where the first failed. And He destroyed the first Ad. A whole civilisation of pillars, assemblies, craftsmen, children, and storehouses can be carried in one sentence after it refuses every warning. The brevity is part of the lesson. People who built signs on every height so no traveller would forget them are remembered by how completely the land forgot them."
         },
         {
           "t": "verse",
@@ -409,7 +429,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Nothing was seen of them except their dwellings. The houses remained as evidence, while the voices that filled them were gone."
+          "html": "Nothing was seen of them except their dwellings. Houses remained as evidence while the voices that filled them with boasting and laughter at a prophet were gone. A dwelling without its people argues quietly that shelter is not safety, and walls raised against weather cannot stand against a command. The verse returns to the image so the reader will not rush past it. Destroying everything by its Lord's command, until morning left only dwellings visible. Thus Allah recompenses the criminal people, in fallen bodies and in a landscape left to teach strangers."
         },
         {
           "t": "verse",
@@ -420,7 +440,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Abbas also reported the Prophet’s ﷺ words: I was given victory with the east wind, and Ad was destroyed by the west wind. For later believers, wind itself became a reminder to ask Allah for its good and seek refuge from its evil."
+          "html": "Ibn Abbas (RA) also reported the Prophet (peace be upon him) saying he was given victory with the east wind, and Ad was destroyed by the west wind. For later believers, wind became remembrance rather than meaning-less fear. When a storm rose, the Prophet (peace be upon him) asked Allah for its good and sought refuge from its evil, teaching that no force in creation is independent of its Lord. Ad looked at a cloud and saw only the rain they wanted. The believer is taught to remember mercy and judgment together and to ask the Commander of the wind to make it carry good. The people who trusted strength were scattered by air. The people who trust Allah ask even the air to be made a mercy."
         },
         {
           "t": "hadith",
@@ -428,6 +448,10 @@ export const chapter = {
           "narrator": "Narrated Ibn &lsquo;Abbas",
           "href": "https://sunnah.com/bukhari:1035",
           "label": "Sahih al-Bukhari 1035 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

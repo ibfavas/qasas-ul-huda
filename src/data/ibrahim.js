@@ -39,12 +39,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In the ancient land of Babylon, in present day Iraq, people carved gods out of stone and wood and then bowed to the things their own hands had made. They liked gods they could control. If you make your own god, after all, it never tells you that you are wrong. Into this world a boy named Ibrahim (AS) was born, in a family that did not only worship idols. His father Azar carved them.",
+          "html": "In the ancient land of Babylon, in present day Iraq, people bowed to gods they had made with their own hands. Their temples held statues of stone and wood, figures with eyes that could not see, ears that could not hear, and hands that could not lift even the dust from their own faces. Worshippers brought them food, spoke to them in need, feared their anger, and hoped for their favour, yet the statues remained exactly what their makers had left them: shaped matter, honoured beyond its worth.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Ibrahim (AS) was not like the other children. Allah had given him wisdom early in life, and the boy watched the temples with a mind full of questions. Men would carry in statues that could not eat, drink or speak, then stand before them wailing and pleading for help. How could a thing that cannot lift its own hand lift anyone else's troubles?"
+          "html": "Such gods suited people who wanted religion without correction. A god carved by human hands does not command what the worshipper dislikes. It does not forbid injustice, demand honesty, or call the proud to account. It stays where it is placed and receives whatever honour people choose to give it. Into this world Ibrahim (AS) was born, and his own household stood close to the centre of the error. His father Azar did not only worship idols. He carved them for others to worship."
+        },
+        {
+          "t": "p",
+          "html": "Allah had given Ibrahim (AS) sound judgment early in life, and the boy looked at the religion of his people with a mind that would not settle for inherited answers. He saw men carrying statues into the temple that could not walk, then standing before them asking for provision, protection, and help. The contradiction was plain to him. How could a thing that cannot move its own hand move the affairs of those who made it? How could an object that needs to be carried carry the burdens of a city?"
+        },
+        {
+          "t": "p",
+          "html": "His questions were not the rebellion of a child who enjoys opposing elders. They came from a heart being drawn to certainty. Allah showed him the dominion of the heavens and the earth, the ordered rising and setting of created lights, the vastness above and the life below, so that he would be among those who are certain in faith. Before Ibrahim (AS) called his people, Allah taught him how to read the signs around them."
         },
         {
           "t": "verse",
@@ -55,11 +63,19 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He searched for the truth the way a thirsty man searches for water. One night he looked at a shining star and said: This is my lord. But the star faded and set, and Ibrahim (AS) said: I do not love things that set and disappear. Then he saw the moon rise, big and beautiful, and said: This is my lord. But the moon set too, and he said: If my Lord does not guide me, I will surely be among the lost. Then came the sun, greater than both, and he said: This is my lord, this is the greatest. And when the sun also sank and vanished, the argument was complete."
+          "html": "Then came the night that the Quran preserves as a lesson in reasoning. When darkness covered him, Ibrahim (AS) saw a shining star. His people honoured heavenly bodies, so he took up their claim in the form in which they presented it and let its own weakness appear. He said, \"This is my lord.\" But the star set and disappeared, and he said that he did not love things that set. A lord who vanishes, who is overtaken by darkness and ruled by a cycle he cannot escape, cannot be the Lord of all things."
         },
         {
           "t": "p",
-          "html": "Ibrahim (AS) announced it to his people: I am free of everything you worship beside Allah. I have turned my face to the One who created the heavens and the earth, and I will never associate partners with Him. The star sets. The moon sets. The sun sets. Allah remains. That is the logic of a boy that has split kingdoms ever since."
+          "html": "The moon then rose, large and beautiful in the night sky, brighter than the star and calmer in its light. Again the claim was tested by the same measure. The moon too set. Ibrahim (AS) said that unless his Lord guided him, he would surely be among the people gone astray. The words carry humility inside the argument. Guidance is not manufactured by the human mind alone. The mind can see that false gods fail, but the heart still needs Allah to guide it to Himself."
+        },
+        {
+          "t": "p",
+          "html": "Then the sun rose, greater than the star and the moon, filling the horizon with light and heat. If size and splendour were proof of divinity, the sun would have the strongest claim of the three. Yet by evening it also sank and vanished. At that point the argument stood complete before anyone who was willing to think. Star, moon, and sun are magnificent creations, but each one sets. Each one obeys a limit placed upon it. Whatever sets is governed, and whatever is governed cannot be God."
+        },
+        {
+          "t": "p",
+          "html": "Classical commentators such as Ibn Kathir explain this scene with care for the honour of Ibrahim (AS). He was not a worshipper moving from one false god to another, collecting mistakes until he finally found the truth. Allah had already shown him the kingdom of the heavens and the earth and had granted him certainty. In these words Ibrahim (AS) was leading his people step by step out of their own claims, speaking from inside the examples they revered so that the failure of each example would be undeniable. The star they praised set. The moon they praised set. The sun they praised set. So he announced his freedom from what they associated with Allah and turned his face to the One who created the heavens and the earth."
         },
         {
           "t": "verse",
@@ -70,7 +86,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir draws out the force of the scene: Ibrahim (AS) was not collecting gods and changing his mind. He was leading minds step by step. A star can shine, but it sets. The moon can rule the night, but it sets. The sun can fill the sky, but it also sets. Whatever sets is ruled by a cycle, and whatever is ruled cannot be the Lord of all things."
+          "html": "The force of the scene is its simplicity. Ibrahim (AS) did not ask his people to begin with what they could not yet see. He began with what rose before their eyes every morning and disappeared before them every night. He taught them to ask one honest question of anything they worship: does it remain, does it rule itself, can it hear, can it help, or is it itself in need? A created thing may be beautiful, useful, and worthy of gratitude as a sign, but a sign points beyond itself. It is not the destination."
+        },
+        {
+          "t": "p",
+          "html": "That is why this night belongs at the opening of his story. Before the axe, before the fire, before the debate with a king, Ibrahim (AS) learned and taught the measure by which every false god would be judged. What sets cannot be worshipped. What is made cannot be the Maker. What cannot benefit or harm cannot be Lord. Allah remains when the star has set, when the moon has faded, and when the sun has gone down."
         }
       ]
     },
@@ -89,8 +109,16 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Before he argued with the town, Ibrahim (AS) went to the person he loved most: his father. Listen to the gentleness of a son who knew his father was heading for the Fire and could not bear it. O my father, he said, again and again, ya abati, why do you worship something that cannot hear, cannot see, and cannot help you at all? O my father, knowledge has come to me that has not come to you, so follow me, and I will guide you to a straight path. O my father, do not worship Satan, for Satan has always disobeyed the Most Merciful. O my father, I fear that a punishment from the Most Merciful will touch you, and you will become a companion of Satan.",
+          "html": "Before Ibrahim (AS) argued with the town, he went to the person whose danger grieved him most: his father. The Quran commands that he be mentioned in the Book as a man of truth and a prophet, and the first great scene of his calling shows both qualities together. He was truthful with Azar about idolatry, and he was gentle with Azar in the way he spoke. Four times in the passage of Surah Maryam his address returns: \"O my father.\" The repetition is not decoration. It is affection holding fast while the message becomes more serious.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "He asked why his father worshipped that which does not hear, does not see, and cannot benefit him at all. The question joins love to logic. An idol cannot hear the prayer spoken to it, so it cannot answer. It cannot see the one bowing before it, so it cannot know his need. It cannot benefit him, so hope placed in it is hope placed in emptiness. Then Ibrahim (AS) told him that knowledge had come to him which had not come to his father, and he invited him to follow, promising guidance to an even path. The son was not boasting over the father. He was offering to lead him out of danger."
+        },
+        {
+          "t": "p",
+          "html": "He warned him not to worship Satan, for Satan has ever been disobedient to the Most Merciful. Idolatry is never presented in the Quran as a harmless custom. Behind the statue stands a path of obedience to the enemy who refused to bow when Allah commanded him. Ibrahim (AS) then spoke of fear, not hatred: he feared that a punishment from the Most Merciful would touch his father and that he would become an associate of Satan. This is the speech of a son who can see the Fire ahead of someone he loves and cannot bear to stay silent."
         },
         {
           "t": "verse",
@@ -115,19 +143,19 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Azar's answer was a slammed door: Ibrahim, have you rejected my gods? If you do not stop, I will stone you. Leave me, and never come back. The father had dreamed his son would join the priesthood of the idols. Instead his son had challenged the gods to their faces. Ibrahim (AS) was disowned by his own house for telling the truth in it."
+          "html": "Azar answered with rejection and threat. He asked whether Ibrahim (AS) had turned away from his gods, warned that if he did not stop he would stone him, and ordered him to leave for a long time. The father who carved idols had expected his son to inherit his craft and his standing. Instead the son had named the family trade as manifest error. The house itself became the first place where truth cost Ibrahim (AS) something dear."
         },
         {
           "t": "p",
-          "html": "The Quran lets us hear the painful exchange. Azar said: \"Do you turn away from my gods, O Ibrahim? If you do not stop, I will stone you. Leave me for a long time.\" Ibrahim (AS) answered: \"Peace be upon you. I will ask my Lord to forgive you. Indeed, He has always been kind to me.\" The son refused the father's gods, but he did not refuse his father dignity."
+          "html": "It is worth pausing over what Ibrahim (AS) did not do. He did not answer contempt with contempt. He did not curse his father, mock his age, or treat prophethood as permission for harshness at home. The disagreement was complete, but the manners remained noble. He refused the gods without refusing his father the dignity owed to a parent. That balance is one of the lasting lessons of the chapter: a believer may be required to reject what a loved one worships, but rejection of falsehood does not require cruelty toward people."
         },
         {
           "t": "p",
-          "html": "And how did the son answer the threat of stoning? Peace be upon you, he said. I will ask my Lord to forgive you. My Lord has always been kind to me. He walked out of his father's house with a broken heart and an unbroken faith, still praying for the man who had just promised to kill him. There are people who win arguments. Ibrahim (AS) won arguments and prayed for his opponents in the same breath."
+          "html": "When Azar threatened stoning and expulsion, Ibrahim (AS) answered, \"Peace be upon you.\" He promised to ask his Lord to forgive his father, and he spoke of Allah as One who had ever been gracious to him. Then he withdrew from them and from what they called upon besides Allah. The son walked away from the house with obedience intact and love still alive in the form of prayer. He could not carry his father into faith by force. He could only call, warn, speak peace, supplicate while supplication remained open, and leave the outcome to Allah."
         },
         {
           "t": "p",
-          "html": "Ibn Kathir also explains what happened to that prayer over time. Ibrahim (AS) kept asking forgiveness for Azar while hope remained, but when it became clear that Azar had died as an enemy of Allah, Ibrahim (AS) stopped and cleared himself of that request. Love for a parent is deep, but it does not stand above obedience to Allah."
+          "html": "Ibn Kathir explains the later boundary of that prayer. Ibrahim (AS) sought forgiveness for his father because of a promise he had made to him, and he continued while there remained hope. But when it became clear to him that Azar was an enemy of Allah who had died upon disbelief, Ibrahim (AS) disassociated himself from that request. The change was not coldness. It was submission to a limit set by Allah. Love for a parent is profound, and the Quran honours it, but it does not stand above loyalty to Allah. The same son who said \"O my father\" with tenderness also accepted that intercession and forgiveness cannot be demanded for one who dies as an enemy of Allah."
         }
       ]
     },
@@ -146,8 +174,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Arguments alone were not moving the town. The people admitted the idols could not speak, then said the words that end every debate: we found our forefathers worshipping them, and that is enough for us. So Ibrahim (AS) decided to show them, with one unforgettable demonstration, exactly what their gods were made of. By Allah, he declared, I will surely plan against your idols after you have turned and gone away.",
+          "html": "Arguments alone were not moving the town. Ibrahim (AS) asked his father and his people what these statues were to which they remained devoted. Their answer ended discussion before it could begin: they had found their fathers worshipping them. Ancestral custom was placed where proof should have been. The reply is familiar in every age. A practice feels true because it is old, because parents did it, because the whole town would be unsettled if it were questioned.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Ibrahim (AS) answered that they and their fathers had been in manifest error. Then he resolved upon a demonstration that would say in broken stone what words had not yet achieved. He declared by Allah that he would surely plan against their idols after they had turned and gone away. The plan was not vandalism for its own sake, nor anger looking for an outlet. It was a public lesson arranged so that the people would return, see the helplessness of their gods, and be forced to question the beings they claimed could protect others when they could not protect themselves."
         },
         {
           "t": "verse",
@@ -158,11 +190,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The chance came on the day of a great festival in a neighbouring town. The whole population poured out to celebrate, leaving the streets empty. Ibrahim (AS) stayed behind. He walked into the silent temple alone, carrying an axe, and stood before the rows of idols with the food offerings still sitting in front of them."
+          "html": "The opportunity came on a festival day, when the people poured out of the town to celebrate and the temple stood empty. Ibrahim (AS) remained behind. When they had called him to go with them, he used the words that the Prophet Muhammad (peace be upon him) later mentioned among his three statements: \"I am sick.\" Ibn Kathir relates that the people left him behind among their idols, which was exactly the opening required for the lesson. The statement is treated by commentators with care for the truthfulness and honour of Ibrahim (AS): it belonged to speech used for the sake of Allah in a setting of confrontation with idolatry, not to ordinary deceit for personal gain."
         },
         {
           "t": "p",
-          "html": "When the townsmen called him to go out with them, Ibrahim (AS) used the words later mentioned by the Prophet Muhammad ﷺ: \"I am sick.\" Ibn Kathir relates that the people left him behind among their idols, which was exactly the opening Ibrahim (AS) wanted. He was not running from the festival. He was waiting for the temple to empty."
+          "html": "Alone in the silent temple, Ibrahim (AS) stood before the rows of idols with food offerings placed before them. He addressed the statues as their worshippers addressed them, and the silence exposed the fraud. Would they not eat? What was wrong with them that they did not speak? No mouth moved. No hand reached for the food. Then he raised the axe and struck the idols down, reducing them to fragments, all except the largest among them. That one he left standing, with the axe placed upon it, so that the people might return to it and question it."
+        },
+        {
+          "t": "p",
+          "html": "The scene is deliberate in every detail. The small idols lay broken by a human hand, and the chief idol stood untouched as a silent witness arranged by Ibrahim (AS). If the people believed these beings possessed power, let them begin with the largest. If they did not believe it, let them admit why. He walked out and waited for the town to discover what its gods could not prevent."
         },
         {
           "t": "hadith",
@@ -170,10 +206,6 @@ export const chapter = {
           "narrator": "Narrated by Abu Huraira (RA)",
           "href": "https://sunnah.com/bukhari:3358",
           "label": "Sahih al-Bukhari 3358 &middot; sunnah.com"
-        },
-        {
-          "t": "p",
-          "html": "He mocked them first, as a teacher mocks a wrong answer so the class remembers it. Will you not eat the food placed before you? The idols said nothing. What is wrong with you, why do you not speak? Silence. Then Ibrahim (AS) raised the axe and smashed every idol in the temple to pieces, every one except the biggest of them all. That one he left standing, and he hung the axe over its shoulder. Then he walked out and waited."
         },
         {
           "t": "verse",
@@ -199,8 +231,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The townspeople came home to a wrecked temple and shattered gods. Who has done this to our gods? they roared. He must be a wicked man! Some remembered the young preacher: we heard a youth speaking against them. He is called Ibrahim. Bring him before the eyes of the people, they ordered, so everyone can witness his trial.",
+          "html": "The people returned to a temple of ruins. Their gods lay shattered, and the question burst from them: who had done this to their gods? Whoever he was, they declared, he must be among the wrongdoers. Anger moved faster than thought. Before asking how beings called gods had allowed themselves to be broken, they demanded the name of the man who had broken them.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Some recalled the young preacher who had spoken against their worship. They said they had heard a youth mention them, and he was called Ibrahim (AS). So they ordered that he be brought before the eyes of the people, that they might testify. The trial was meant to shame him publicly and restore the honour of the idols by punishing the one who had exposed them. Ibrahim (AS) came with a defence already prepared, not a denial of his act in cowardice, but an answer that would turn the courtroom into a mirror."
         },
         {
           "t": "verse",
@@ -211,7 +247,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim (AS) knew the summons was coming and felt no fear. If harm reached him, it would only be by Allah's permission, and he had a defence ready that no court could answer. Are you the one who did this to our gods, Ibrahim? He pointed at the one idol standing untouched, axe on its shoulder: No. This one, the biggest of them, did it. So ask them, if they can speak."
+          "html": "They asked him directly whether he had done this to their gods. He replied by pointing to the largest idol still standing with the axe upon it: rather, this chief of theirs had done it, so they should ask them, if they could speak. The answer was a challenge built from their own claims. If the idols were gods, let the chief explain. Let the fragments testify. Let the worshipped ones speak in their own defence. If they could not speak, then the people had been bowing to silence."
+        },
+        {
+          "t": "p",
+          "html": "For a moment the argument reached the place Ibrahim (AS) had intended. The Quran says they returned to themselves and said that they were indeed the wrongdoers. The spell of custom cracked. They saw, if only briefly, that anger at the breaker of stones could not restore life to the stones. A god that needs an axe to be avenged, a guard to be protected, and a worshipper to speak on its behalf has already confessed its weakness."
         },
         {
           "t": "verse",
@@ -222,7 +262,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "For one shining moment, the trap closed on the whole town. They turned on each other and said: it is you who are the wrongdoers. The spell broke. They knew. Then pride rushed back in, as it always does, and they reversed themselves: you know perfectly well these things cannot speak! Ibrahim (AS) delivered the verdict their own mouths had written: Then do you worship, instead of Allah, things that can neither benefit you nor harm you at all? Shame on you, and on what you worship instead of Allah. Do you not use your reason?"
+          "html": "Then they reversed themselves. Pride rushed back where recognition had begun to grow, and they answered that he knew well these things do not speak. With their own mouths they supplied the verdict. Ibrahim (AS) only drew the conclusion aloud: did they then worship besides Allah that which does not benefit them at all or harm them? Shame on them and on what they worshipped besides Allah. Would they not use reason?"
+        },
+        {
+          "t": "p",
+          "html": "The exchange leaves no shelter for ancestral imitation. The people admitted the idols could not speak after having demanded worship for beings they treated as aware and powerful. They knew the statues could not defend themselves, yet they prepared to defend the statues by harming a man. That is the inversion idolatry always produces: powerless objects are protected by powerful emotions, and the living are sacrificed to keep the dead stones honoured."
         },
         {
           "t": "verse",
@@ -233,7 +277,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They had lost the argument in front of the whole city. So they stopped arguing."
+          "html": "They had lost the argument in front of the whole city, so they stopped arguing. Reason had spoken clearly enough that continuing the debate would only deepen their exposure. What remained to them was force. The next scene begins where persuasion was refused, with a people choosing fire because they could not answer truth."
         }
       ]
     },
@@ -252,7 +296,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Burn him, and defend your gods, if you are men of action. The town dug a great pit and spent days gathering firewood. Even the sick begged to donate wood, hoping to be part of the punishment. They built a catapult to throw Ibrahim (AS) into the centre of the blaze, because no human could stand close enough to push him in. The fire they lit was so huge its flames reached into the sky, and the whole town gathered at a safe distance to watch the young troublemaker burn.",
+          "html": "The answer of the people was violence: burn him, and support your gods, if you are to act. They prepared a structure and a burning fire into which Ibrahim (AS) would be cast. The Quran keeps the centre of the event clear. They intended a plan against him, and Allah made them the greatest losers. A community that could not defend its gods with speech tried to defend them with flames, as if heat could prove what reason had disproved.",
           "cls": "dropcap"
         },
         {
@@ -264,15 +308,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir preserves the exchange at the catapult as a test of where a believer turns for help."
+          "html": "Ibn Kathir preserves reports of the moment before Ibrahim (AS) was thrown into the fire as a test of where a believer turns for help. Those reports describe him bound and placed ready to be cast in, with the blaze beyond ordinary approach. The draft keeps that classical framing brief and does not build upon folk details about the size of the pit, the days of gathering, or the crowd at its edge, because the Quran itself fixes attention on the command of Allah to the fire and on the failure of the plot."
         },
         {
           "t": "p",
-          "html": "As Ibrahim (AS) lay bound on the catapult, the angel Jibreel came to him and asked: O Ibrahim, do you need anything? The fire was so close it was scorching the air around the witnesses. Ibrahim (AS) answered with the words believers have borrowed at every disaster since: Nothing from you. His need was with Allah alone, and Allah was enough."
+          "html": "In the report preserved by the commentators, the angel Jibreel came to Ibrahim (AS) and asked whether he had any need. Ibrahim (AS) answered that from him he had no need. His need was with Allah alone. Authentic narration also carries the words associated with Ibrahim (AS) at the casting into the fire: Allah is sufficient for us, and He is the best Disposer of affairs. The statement is not despair. It is the purest form of trust, spoken when every visible means has been removed and Allah remains."
         },
         {
           "t": "p",
-          "html": "The catapult fired. Ibrahim (AS) flew into the heart of the inferno. And Allah spoke to the fire itself, and fire has obeyed its Creator since the day it was made: O fire, be coolness and safety upon Ibrahim. The raging pit became a garden of cool air around him. Ibrahim (AS) sat in the middle of the flames glorifying his Lord, untouched, unburned, at peace. The crowd watched the fire rage on, sure he was ashes. They had planned his end, and Allah turned their weapon into his resting place. They intended to harm him, the Quran says, but We made them the worst of losers."
+          "html": "Then he was cast into the fire, and Allah addressed the fire itself. Fire burns by the command of its Creator, and on that day its Creator commanded otherwise: \"O fire, be coolness and safety upon Ibrahim.\" The flames did not become a harmless illusion. They became, by Allah's word, coolness and safety around the one whom the people had meant to destroy. Ibrahim (AS) emerged unharmed, while the plot of his enemies turned back upon them. They had intended to make an example of him. Allah made him a sign."
         },
         {
           "t": "verse",
@@ -283,7 +327,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the fire finally burned itself out, the people crept forward. And out of the pit walked Ibrahim (AS), not a hair singed, his face bright while the onlookers' faces were blackened with soot. The gods of stone had not saved themselves from an axe. The God of Ibrahim (AS) had saved him from a furnace."
+          "html": "When the fire had spent itself, the truth stood visible before the town. The idols of stone had not saved themselves from an axe. The Lord of Ibrahim (AS) had saved him from a furnace. Yet even a sign of this scale does not compel hearts that have resolved against belief. The Quran calls the rescue signs for a people who believe, teaching that miracles open a door but do not drag anyone through it. Some see and submit. Others see and harden. The fire had cooled for Ibrahim (AS); the hearts around it remained to be judged by what they did with the light they had witnessed."
         },
         {
           "t": "verse",
@@ -309,20 +353,24 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Word of the miracle reached the king of the land, Namrud, a tyrant so proud that he claimed to be a god himself. A subject who could not be burned was a threat to a throne built on fear, so he summoned Ibrahim (AS) to the palace and demanded to know about this Lord of his.",
+          "html": "Word of the confrontation reached the ruler of the land, a tyrant whom the commentators name Namrud. The Quran does not name him; it presents him simply as the one who argued with Ibrahim (AS) about his Lord because Allah had given him kingship. Earthly power had swollen into a claim of divinity. A subject who could not be burned, who spoke of a Lord above every throne, was a danger to a king whose authority rested on being feared as ultimate.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The commentators relate how Namrud tried to make his claim look true. Two prisoners were brought. One was put to death and the other was released, and the king called that giving life and causing death. It was the power of a ruler over prisoners, not power over life itself. Ibrahim (AS) answered by moving from the prison yard to the whole sky."
+          "html": "The king summoned Ibrahim (AS) and argued with him about his Lord. Ibrahim (AS) said that his Lord is the One who gives life and causes death. The claim was comprehensive. Allah originates life where there was none, sustains it for its appointed term, and ends it by His decree. No human ruler stands inside that power except as one who is himself given life and will himself be caused to die."
         },
         {
           "t": "p",
-          "html": "The exchange was short. Ibrahim (AS): \"My Lord is the One who gives life and causes death.\" Namrud: \"I give life and cause death.\" Ibrahim (AS) did not argue over prisoners. He raised the matter to a height no throne could reach. Ibrahim (AS): \"Allah brings the sun from the east. So bring it from the west.\""
+          "html": "The commentators relate that the king tried to make his counterclaim visible by means of prisoners: one man was executed and another spared, and this was presented as giving life and causing death. Even where the details are carried as commentary rather than Quran, the weakness of the display is plain. Sparing a prisoner is not creating life, and killing a living man is not owning death. A jailer can open or shut a door. He cannot give a soul to dust, restore the slain by his word, or exempt himself from the grave."
         },
         {
           "t": "p",
-          "html": "The king of Babylon, god in his own imagination, sat silenced before a young man with nothing. The Quran ends the debate in one line: the disbeliever was overwhelmed, dumbstruck. Thrones can command armies. They cannot command the sunrise."
+          "html": "Ibrahim (AS) did not remain trapped in the prison yard illustration. He raised the argument to the order of the heavens: Allah brings the sun from the east, so let the king bring it from the west. Every morning the whole world witnesses a movement no army commands and no throne reverses. The sun does not ask permission from kings. It rises by the system Allah created, over palace and prison alike."
+        },
+        {
+          "t": "p",
+          "html": "The disbeliever was overwhelmed and dumbstruck. The Quran ends the debate there, without describing armies, threats, or escape, and the silence is enough. A man who claimed the powers of lordship could not move the sunrise by one horizon. Kingship had given him wealth, soldiers, and fear, but it had not given him the smallest share in the government of the universe. Thrones can command subjects for a time. They cannot command the sun."
         },
         {
           "t": "verse",
@@ -348,8 +396,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In his whole homeland, almost no one followed him. His father had disowned him, his town had tried to burn him, and years of preaching had gathered only two souls firmly to the truth: Sarah, who became his wife and his pillar, and his nephew Lut (AS), who would one day be a prophet himself. So Ibrahim (AS) made a decision that changed the map of faith forever: I will emigrate for the sake of my Lord. He left Babylon with Sarah and Lut (AS), travelling through Ur and Haran to Palestine, preaching as he went, a stranger carrying the truth from city to city.",
+          "html": "In his homeland, the call of Ibrahim (AS) gathered only a small company. His father had rejected him, his town had tried to burn him, and a king had been silenced without being guided. Lut (AS) believed in him, and Sarah believed and became his wife and support. Years of preaching among people who answered truth with threat taught Ibrahim (AS) that remaining among them was no longer the path Allah had opened. He declared that he would emigrate to his Lord, trusting that Allah, the Exalted in Might and the Wise, would guide his steps and place his call where it could grow.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "Migration for the sake of Allah is not presented in his story as escape from hardship alone. It is the movement of a prophet carrying worship from a land that tried to burn it toward a land Allah blessed for the worlds. Ibrahim (AS) left with Sarah and Lut (AS), travelling and calling people as he went, a stranger whose home was obedience rather than soil. The Quran keeps the focus on deliverance and destination: Allah delivered Ibrahim (AS) and Lut (AS) to the blessed land. Exact stages of the road and the order of cities are reported with variation in historical material, so this telling keeps to what the Quran secures and does not build scenes upon disputed itinerary."
         },
         {
           "t": "verse",
@@ -367,15 +419,19 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibn Kathir describes the road as a migration with preaching along the way, not a silent escape. Ibrahim (AS) left a land that had tried to burn the truth, carrying the call to new towns. The Quran keeps the focus clear: Allah delivered Ibrahim (AS) and Lut (AS) to a land blessed for the worlds."
+          "html": "Ibn Kathir describes the journey as migration with preaching along the way, not a silent flight. That picture fits the life already seen. Ibrahim (AS) did not hide the truth in Babylon, and he did not become silent on the road. Wherever the small company stopped, the call remained the same: worship Allah alone, leave what hands have made, and turn to the Creator of the heavens and the earth. The earthly result looked tiny beside empires, two believers beside a prophet, but Allah was preparing from that travelling household a line that would fill centuries."
         },
         {
           "t": "p",
-          "html": "In Egypt, their journey met a trial. A tyrant there had a habit of seizing beautiful women, and word reached him of the lovely lady travelling with Ibrahim (AS). Ibrahim (AS), knowing the man's evil, had told Sarah: this tyrant will ask about you. I have said you are my sister, for there are no believers on the face of the earth besides you and me, so do not contradict me. The tyrant summoned Sarah to his palace. When he reached out to seize her, his hand stiffened and locked, as if turned to wood. In terror he begged: pray to Allah for me, and I will not harm you. Sarah prayed, and his hand was freed."
+          "html": "In Egypt their journey met another trial, preserved in authentic narration. A tyrant there used power to seize women, and word reached him about Sarah. Knowing the danger of the man, Ibrahim (AS) told Sarah that if the tyrant asked her, she should say she was his sister, explaining that there were no believers on the face of the earth besides the two of them. The statement is understood in the narration and by commentators as sisterhood in faith, used to protect her from a ruler who would have taken a wife by force while showing restraint toward a sister. It is counted in the same hadith tradition among the three statements of Ibrahim (AS), and it is read by scholars in a manner that preserves his truthfulness and his honour."
         },
         {
           "t": "p",
-          "html": "He broke his word and reached for her again, and his hand stiffened worse than before. Again he begged, again Sarah prayed for the very man threatening her, and again he was cured. Shaken to his core, the tyrant sent her back untouched, saying to his guard: you did not bring me a human being. You brought me a devil. And he gave Sarah a servant girl named Hagar, who would become one of the most honoured mothers in history. Allah had defended the wife of His prophet without a single sword being drawn."
+          "html": "Sarah was summoned to the tyrant. When he reached toward her, his hand stiffened and he was confounded. He begged her to pray to Allah for him and promised not to harm her. She prayed, and he was released. He broke faith and tried again, and his hand seized more severely than before. Again he asked for prayer, again she prayed for the very man threatening her, and again Allah freed him. The protection did not come from an army at the gate or a sword in Sarah's hand. It came from Allah, who defended the wife of His prophet and turned the tyrant's own body into a warning he could not ignore."
+        },
+        {
+          "t": "p",
+          "html": "The ruler sent her back untouched and, shaken by what he had experienced, gave Sarah a servant girl named Hagar. He told his guard, in the words carried by the narration, that they had not brought him a human being but a devil, meaning one guarded by a power beyond his control. Ibrahim (AS) and Sarah left with honour preserved, and Hagar entered their household. Neither Sarah nor Ibrahim (AS) could yet see the place Hagar would hold in sacred history: mother of Ismail (AS), runner between Safa and Marwah, and one of the most honoured mothers in the story of Makkah. Allah had defended His prophet's house without a single sword being drawn, and He had brought into that house the woman through whom its next great trial and blessing would come."
         },
         {
           "t": "hadith",
@@ -401,8 +457,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years passed, and Sarah could not have children. The loneliness of it sat on her heart: she watched her husband love his nephew like a son, and she longed to give the prophet of Allah an heir. Generously, she offered her servant Hagar to Ibrahim (AS) in marriage. And Hagar bore a son: Ismail (AS), who would become a prophet of Allah and the father of the Arab nations. Every Arab alive descends from that baby boy in the house of the old prophet.",
+          "html": "The prayer for righteous offspring runs through the later life of Ibrahim (AS) like a thread. He had left his father's house, survived fire, faced a king, migrated as a stranger, and grown old without a child to carry the call after him. Sarah had not borne children, and she watched her husband love his nephew Lut (AS) while longing to give the prophet of Allah an heir. In classical telling, Sarah offered her servant Hagar to Ibrahim (AS) in marriage, an act of generosity inside a household shaped by trust in Allah. Hagar bore Ismail (AS), who would become a prophet of Allah and, through his descendants, the father of the Arab nations.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The Quran frames the gift through the prayer of Ibrahim (AS) himself. He said he would go to where his Lord ordered him and that his Lord would guide him, then he asked: \"My Lord, grant me a child from among the righteous.\" Allah gave him glad tidings of a forbearing boy. Forbearance matters in the description. The son to come would not merely continue a bloodline. He would be tested in patience beside his father, and his character is named before his story is told."
         },
         {
           "t": "verse",
@@ -413,7 +473,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The settling of Hagar and the baby in Makkah was one of the hardest parts of that trust. Ibrahim (AS) left them near the site of the House with dates and water, then turned away. Hagar followed him and asked again and again where he was going. At last she asked the question that uncovered everything. Hagar: \"Has Allah ordered you to do this?\" Ibrahim (AS): \"Yes.\" Hagar: \"Then He will not neglect us.\" She went back to her child, and Ibrahim (AS) prayed for the barren valley once he was out of sight."
+          "html": "The settling of Hagar and the infant Ismail (AS) in Makkah was among the hardest acts of trust in the household. Ibrahim (AS) brought them to a place near the site of the House, under a tree at the spot of Zamzam, and left them there with a small supply of dates and water. The valley had no cultivation and no settled people to sustain them. Then he turned and walked away. Hagar followed him, asking again and again where he was going and whether he was leaving them in a place with no person and nothing. He did not look back. At last she asked the question that uncovered the whole matter: \"Has Allah ordered you to do this?\" He said yes. She said, \"Then He will not neglect us,\" and returned to her child."
+        },
+        {
+          "t": "p",
+          "html": "Her sentence is the hinge of the scene. Hagar did not pretend the valley was safe by ordinary means. She rested her safety on the command itself: the One who ordered the leaving would not abandon those left. Ibrahim (AS), once out of their sight, faced the Kaaba's place and prayed for the descendants he had settled in an uncultivated valley near the sacred House, asking Allah to make hearts incline toward them and to provide them from fruits so they might be grateful. The father left in silence before his family, then poured out his heart in dua where only Allah heard him."
         },
         {
           "t": "hadith",
@@ -431,7 +495,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the water was gone, Hagar climbed Safa, crossed the valley, climbed Marwah, and repeated that desperate search seven times. Ibn Abbas describes the baby kicking in thirst and the angel striking the earth at Zamzam until water flowed. The mother's run became worship, and the spring became the first heartbeat of Makkah."
+          "html": "When the water was finished, Hagar's trust took the form of desperate action. She saw her baby suffering in thirst and could not bear to watch without searching. She climbed Safa, the nearest mountain, and looked for help. Then she crossed the valley and climbed Marwah, looking again. She repeated the search between the two hills seven times, running where the valley pressed her haste, until Allah opened the spring of Zamzam. In the narration, an angel struck the earth at the place of Zamzam with his heel or his wing, and water flowed. Hagar gathered it, drank, and suckled her child. The angel told her not to fear neglect, for there was the House of Allah which this boy and his father would build, and Allah does not neglect His people."
+        },
+        {
+          "t": "p",
+          "html": "The mother's search did not create the water, but Allah honoured her striving by making it a rite remembered by pilgrims until the end of time. The Prophet Muhammad (peace be upon him) said that this is the origin of the people's walking between Safa and Marwah. In the continuation of the same narration, birds circling the water drew the tribe of Jurhum to the valley. They asked Hagar's permission to settle near the water, and she granted it while keeping ownership of the spring. Ismail (AS) grew among them, learned Arabic from them, and the barren valley of Ibrahim's (AS) prayer began to become Makkah. The hearts inclining toward them had begun to arrive."
         },
         {
           "t": "hadith",
@@ -442,7 +510,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years later, when Ismail (AS) could work beside his father, came the dream that tested them together. Ibrahim (AS) spoke honestly to his son, and the Quran records the words. Ibrahim (AS): \"O my son, I see in a dream that I am offering you in sacrifice. So consider what you think.\" Ismail (AS): \"O my father, do what you are commanded. You will find me, if Allah wills, among the patient.\" Both submitted, and Allah ransomed the son with a great sacrifice."
+          "html": "Years later, when Ismail (AS) had reached the age of working alongside his father, came the dream that tested them together. The Quran does not present the father hiding the matter from his son. Ibrahim (AS) spoke the dream plainly: \"O my son, indeed I have seen in a dream that I must sacrifice you, so see what you think.\" The dreams of the prophets are revelation, and the command carried a weight no parent can measure. Yet the father addressed the son with honesty, and the son answered with submission that mirrors his father's life: \"O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.\""
+        },
+        {
+          "t": "p",
+          "html": "When they had both submitted and Ibrahim (AS) had laid him down upon his forehead, Allah called to him that he had fulfilled the vision. The trial was declared clear, and the son was ransomed with a great sacrifice. Peace is then pronounced upon Ibrahim (AS) among the later generations. The Quran does not name the son in this passage, and it does not specify the animal of the ransom, so this telling does not build upon those details beyond the scholar's panel that follows. What the passage fixes beyond uncertainty is the submission of father and son, the intervention of Allah at the moment of fulfilment, and the reward of those who do good."
         },
         {
           "t": "verse",
@@ -473,7 +545,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then, when Ibrahim (AS) and Sarah were both white-haired and long past the age of children, three strangers arrived at their door. Ibrahim (AS), generous to guests as always, ordered a fat calf roasted for them without even asking their names. But when the food was placed before them, he noticed their hands never reached for it, and fear crept into him. Do not be afraid, they said. We are angels. And they brought the old couple the most impossible news of their lives: a son, Ishaq (AS), and after him a grandson, Yaqub (AS), prophets both."
+          "html": "Then, when Ibrahim (AS) and Sarah were both advanced in age, strangers arrived at their dwelling with glad tidings. Ibrahim (AS), generous to guests before asking who they were, returned their greeting of peace and did not delay in bringing a roasted calf. Hospitality in his house was immediate and honourable: the guest was fed before he was questioned. But when he saw that their hands did not reach toward the food, he distrusted them and felt apprehension. Guests who do not eat are not ordinary guests. They told him not to fear, for they were messengers sent to the people of Lut (AS), and with them came news that would overturn what age seemed to have closed."
         },
         {
           "t": "verse",
@@ -484,7 +556,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Sarah, standing behind, gasped: shall I bear a child while I am an old woman, and this husband of mine is an old man? The angels answered: do you wonder at the command of Allah? The mercy of Allah and His blessings be upon you, people of this house. From those two boys, Ismail (AS) and Ishaq (AS), would come nations of prophets. Allah called Ibrahim (AS) the father of the prophets, and his line had only just begun."
+          "html": "Sarah was standing nearby and smiled at the tidings, for she was given news of Ishaq (AS), and after Ishaq (AS), Yaqub (AS). Her words came out in astonishment: would she bear a child while she was an old woman and her husband an old man? This was indeed an amazing thing. The messengers answered her wonder with a gentle correction that has comforted believers ever since: do you wonder at the decree of Allah? They invoked the mercy of Allah and His blessings upon the people of the house, and they named Allah as Praiseworthy and Honourable. The promise was not limited to a single late born son. Ishaq (AS) would be a prophet, and after him Yaqub (AS), so that from the old couple a household of prophets would open. From Ismail (AS) and Ishaq (AS) together, the lines of prophethood would spread until Ibrahim (AS) was known as the father of the prophets."
         },
         {
           "t": "verse",
@@ -495,7 +567,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "On a later return to Makkah, Ibrahim (AS) brought the command to raise the House. The hadith records their short exchange beside the hillock. Ibrahim (AS): \"O Ismail, Allah has given me an order.\" Ismail (AS): \"Do what your Lord has ordered you to do.\" Ibrahim (AS): \"Will you help me?\" Ismail (AS): \"I will help you.\" Then the son carried stones, the father built, and both prayed for acceptance."
+          "html": "On a later return to Makkah, Ibrahim (AS) brought his grown son a command greater than any they had yet carried together. The hadith preserves their brief exchange beside the raised ground. Ibrahim (AS) said that Allah had given him an order. Ismail (AS) answered that he should do what his Lord had ordered. Ibrahim (AS) asked whether he would help him. Ismail (AS) said he would help. Then the father built while the son brought and handed him the stones, and when the walls rose high, Ismail (AS) brought the stone on which his father stood to continue building. Both of them worked while supplicating: \"Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing.\""
+        },
+        {
+          "t": "p",
+          "html": "The scene gathers the whole life into labour and dua. The man who once smashed false houses now raised the House of Allah. The son once ransomed from sacrifice now carried stones for the sanctuary. Their prayer was not only for completion of walls, but for acceptance, for submission for themselves, for a submitting nation from their descendants, for the rites to be shown to them, for repentance to be accepted, and for a messenger to be sent among their descendants who would recite Allah's verses, teach the Book and wisdom, and purify the people. Every pilgrim who circles that House walks inside a prayer made by a father and son handing stones to one another."
         },
         {
           "t": "hadith",
@@ -520,7 +596,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The covenant was wider than one building. Allah tried Ibrahim (AS) with commands, and he completed them. Then Allah made him a leader for mankind. A hadith also records a late and painful act of obedience: Ibrahim (AS) circumcised himself with an adze at the age of eighty. The Friend of Allah did not treat age as an excuse from a command."
+          "html": "The covenant was wider than one building. Allah tried Ibrahim (AS) with words, meaning commands, and he fulfilled them completely. Then Allah declared that He would make him a leader for the people. Ibrahim (AS) asked about his descendants, loving for them the honour he had been given, and Allah taught him the boundary of the covenant: it does not include the wrongdoers. Prophetic descent is an honour, but leadership in Allah's covenant is never inherited by injustice. Even the children of Ibrahim (AS) would be measured by submission, not by lineage alone."
+        },
+        {
+          "t": "p",
+          "html": "Authentic narration records a late act of obedience that shows the same completeness in his body. Ibrahim (AS) circumcised himself with an adze at the age of eighty. The report is brief and this telling leaves it brief. The Friend of Allah did not treat age as an exemption from a command, and the act stands in the sources as evidence that his submission was not a mood of youth but a habit carried into old age."
         },
         {
           "t": "verse",
@@ -538,7 +618,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "By now the shape of the life was clear. The boy who had argued with star worshippers had become a father of prophets, a builder of Allah's House and a man tested in his child, his body and his wealth. He had trusted Allah with anything, and Allah had never let him down."
+          "html": "By now the shape of the life is clear. The boy who questioned star worship had become a builder of Allah's House, a father of prophets, a man tested in his family, his body, his wealth, and his homeland. He had been disowned, threatened, cast into fire, made a stranger on the road, separated from his infant son, tested in the dream, and given children when age had closed the door. In every place the pattern held: Ibrahim (AS) obeyed, and Allah did not neglect him."
         }
       ]
     },
@@ -557,16 +637,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "As Ibrahim (AS) grew older, a question of pure wonder rose in his heart. He believed in the resurrection with all his being; he simply longed to see how it would happen, the way a child who trusts his father still asks to watch him work. My Lord, he said, show me how You give life to the dead. Allah asked: do you not believe? Ibrahim (AS) answered honestly: Yes, I believe, but I ask so that my heart may be at rest. Allah never rebuked the question. He honoured it with a demonstration.",
+          "html": "As Ibrahim (AS) grew older, his certainty in the resurrection was already complete. He was the man who had said to a king that his Lord gives life and causes death. Yet belief in a truth and witnessing its manner are not the same thing, and the Quran preserves his request for the second without treating it as a defect in the first. He said: \"My Lord, show me how You give life to the dead.\" Allah asked whether he had not believed. Ibrahim (AS) answered honestly: yes, he believed, but he asked so that his heart would be satisfied.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Ibn Kathir is careful with this request. It was not a crack in faith. Ibrahim (AS) already believed that Allah gives life to the dead. He asked to witness the manner of it, so knowledge would become sight and his heart would rest in what it saw."
+          "html": "The exchange protects two truths at once. The first is that Ibrahim (AS) did not doubt the power of Allah. The second is that a prophet may ask to move from knowledge held in the heart to sight witnessed by the eye, and Allah may honour that longing. Ibn Kathir is careful with this request for exactly that reason. It was not a crack in faith. It was a desire to see how the One he already believed would gather what death had scattered."
         },
         {
           "t": "p",
-          "html": "Take four birds, Allah told him. Tame them to yourself. Then slaughter them and place a portion of them on every hill, and call them. The scattered pieces joined together, and the birds came flying back to Ibrahim (AS) alive, in haste, exactly as summoned. And know, said his Lord, that Allah is Mighty, Wise. The Friend of Allah stood among the hills watching life obey its Giver, his heart set at rest by sight itself."
+          "html": "Allah told him to take four birds, to commit them to himself, then to slaughter them and place a portion of them on every hill, then to call them. The Quran does not name the species of the birds, and reports that assign particular kinds are not needed for the lesson, so this telling leaves them simply as four birds. Ibrahim (AS) did what he was commanded. The separated portions were set on the hills, and he called. The birds came to him in haste, alive and joined, exactly as summoned by the permission of Allah. Death had divided them across distance. Life returned at a call."
+        },
+        {
+          "t": "p",
+          "html": "The closing command of the passage is knowledge: know that Allah is Exalted in Might and Wise. Might, because no scattering places a creature beyond His power to gather. Wisdom, because every act of giving life follows His perfect knowledge and decree. The Friend of Allah stood among the hills and watched the resurrection made small before his eyes, not to be convinced against doubt, but to rest in the satisfaction of sight. His heart had believed on the road, in the fire, and before the king. Now it rested with the evidence of birds flying back from the hills."
         },
         {
           "t": "verse",
@@ -592,8 +676,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Look back at the road of this one man. Disowned by his father. Mocked by his town. Thrown into the biggest fire his people could build. Silencing a king and then walking out of his homeland with two followers and a tent. Allah's verdict on that lonely life is the warmest title given to any human being in the Quran: and Allah took Ibrahim as an intimate friend. Khalilullah, the Friend of Allah.",
+          "html": "Look back at the road of this one man. He was opposed by his father, rejected by his town, and cast into the largest fire his people could prepare. He silenced a king and walked out of his homeland with a household small enough to count. He buried his hopes in a barren valley at Allah's command, received them back as Zamzam and a son, surrendered that son in a dream until Allah ransomed him, and raised the foundations of the House with the same boy grown. On that lonely and tested life, Allah placed the warmest title given to a human being in the Quran: He took Ibrahim (AS) as an intimate friend, Khalilullah, the Friend of Allah.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The Quran calls him an ummah in himself, a comprehensive leader, devoutly obedient to Allah, inclining toward truth, never among those who associate partners with Allah, and grateful for His favours. Allah chose him and guided him to a straight path. The description answers the beginning of his story. A boy alone among idol worshippers became himself a nation in weight, because one person wholly turned to Allah can carry guidance for generations who have not yet been born."
         },
         {
           "t": "verse",
@@ -604,11 +692,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He went from being alone with no children, threatened and cast out, to becoming the father of nations. Through Ismail (AS) came the Arabs and, at the end of the line, Muhammad ﷺ, who loved his forefather so dearly that he named his own little son Ibrahim. Through Ishaq (AS) came Yaqub (AS), Yusuf (AS), Musa (AS), Dawud (AS), Sulayman (AS), Zakariya (AS), Yahya (AS) and Isa (AS), nearly every prophet in this book. One man, who simply refused to bow to anything except Allah, became the grandfather of them all."
+          "html": "From being alone without children, threatened and cast out, Ibrahim (AS) became the father of nations. Through Ismail (AS) came the Arabs and, at the end of that line, Muhammad (peace be upon him), who loved his forefather and named his own little son Ibrahim. Through Ishaq (AS) came Yaqub (AS), and from his line Yusuf (AS), Musa (AS), Dawud (AS), Sulayman (AS), Zakariya (AS), Yahya (AS), and Isa (AS), so that nearly every prophet named in this book walks within the house of one man. The preacher who left home with almost no followers became the grandfather of prophets."
         },
         {
           "t": "p",
-          "html": "His father's ending remained part of his pain. The Prophet Muhammad ﷺ told that on the Day of Resurrection Ibrahim (AS) will meet Azar with dust and darkness on his face. Ibrahim (AS) will remind him of the warning and plead over the disgrace of a father far from Allah, but Allah will declare that Paradise is forbidden to the disbelievers. The tenderness of \"O my father\" could not be carried beyond death into rebellion against Allah."
+          "html": "His father's ending remained part of his earthly pain. The Prophet Muhammad (peace be upon him) told that on the Day of Resurrection Ibrahim (AS) will meet Azar with darkness and dust upon his face. Ibrahim (AS) will remind him that he warned him not to disobey, and when Azar answers that today he will not disobey, Ibrahim (AS) will plead concerning the disgrace of a father who is far from Allah. Allah will declare that Paradise has been forbidden to the disbelievers. The tenderness of \"O my father\" is fully honoured in the scene, and so is its limit. Filial love may plead, weep, and remember, but it cannot carry a person beyond death into rebellion against the judgment of Allah."
         },
         {
           "t": "hadith",
@@ -619,7 +707,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Other reports fix his honour in the world to come. He will be the first to be clothed on the Day of Resurrection. When mankind runs to the prophets seeking intercession, people will come to Ibrahim (AS) as Allah's Messenger and Khalil, and he will send them onward to Musa (AS), remembering his own shortcomings with fear of Allah."
+          "html": "Other authentic reports fix his honour in the world to come and he places that honour inside awe of Allah. He will be the first to be clothed on the Day of Resurrection, after mankind is gathered barefoot, naked, and uncircumcised, and the Prophet Muhammad (peace be upon him) recited the verse of creation begun and repeated to establish that gathering. In the long narration of intercession, people will come to Ibrahim (AS) as Allah's Messenger and His Khalil from among the people of the earth, asking him to intercede with his Lord. He will send them onward to Musa (AS), remembering his own three statements with fear of Allah and saying, \"Myself, myself, myself.\" The commentators read those statements in a manner that preserves his prophetic honour, and the scene itself teaches his humility: even the Friend of Allah stands in need before the anger and majesty of his Lord."
         },
         {
           "t": "hadith",
@@ -637,7 +725,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And in this world, Muhammad ﷺ met him again on the Night Journey. In the seventh heaven, Ibrahim (AS) welcomed him as a son and a prophet, near al-Bayt al-Ma'mur, the heavenly house visited by angels every day. The man who raised the foundations of the earthly House was seen beside the house of the heavens."
+          "html": "In this world, Muhammad (peace be upon him) was brought to him again on the Night Journey. In the seventh heaven, Ibrahim (AS) welcomed him as a son and a prophet beside al-Bayt al-Ma'mur, the much frequented heavenly house into which seventy thousand angels enter every day to pray and never return. The man who on earth raised the foundations of the Kaaba was seen in the heavens near the house of the angels. Pilgrims below circle the House his hands raised. Angels above enter the House that never empties. Between the two stands the Friend of Allah, honoured in both worlds by nearness to the worship of his Lord."
         },
         {
           "t": "hadith",
@@ -648,7 +736,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And the Quran tells Muhammad ﷺ himself, and through him all of us: follow the way of Ibrahim, who turned away from all falsehood to Allah alone. Abraham was neither a Jew nor a Christian. He was a Muslim, wholly devoted to Allah, and he was never among those who associate partners with Him. The loneliest believer in Babylon became the model for every believer who came after. The bigger the test, the bigger the reward, and no one was tested, or rewarded, quite like the Friend of Allah."
+          "html": "The Quran tells Muhammad (peace be upon him), and through him every believer after him, to follow the way of Ibrahim (AS). He was neither a Jew nor a Christian, for those names and divisions came after him. He was one inclining toward truth, a Muslim submitting to Allah, and he was never among the polytheists. The loneliest believer in Babylon became the model for every believer surrounded by a majority that worships something else, whether stone, star, king, ancestor, wealth, or self. His story leaves the reader with his own measure. Whatever sets cannot be Lord. Whatever is made cannot be worshipped. Whatever Allah commands can be trusted, even in fire, even in a barren valley, even in old age. The bigger the test, the greater the nearness for the one who submits, and no life in the Quran shows that nearness more tenderly than the life of the Friend of Allah."
         },
         {
           "t": "verse",
@@ -656,6 +744,10 @@ export const chapter = {
           "arabic": " مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَـٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
           "translation": "Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.",
           "citation": "Surah 3 &middot; Verse 67 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

@@ -38,7 +38,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The life of Muhammad ﷺ opened in a year Arabia remembered by an army and an elephant. An army advanced toward Makkah to strike at the House of Allah and draw pilgrims toward another sanctuary. Makkah had no force able to meet it, yet the invaders never reached their goal. Allah turned their plan aside, sent birds in flocks against them and left the proud expedition like eaten straw. The protected city then received a child whose coming had been promised long before.",
+          "html": "The life of Muhammad ﷺ opened in a year Arabia remembered by an army and an elephant. An expedition advanced toward Makkah to strike at the House of Allah and pull pilgrims toward another sanctuary, as if sacred geography could be seized by force. Makkah had no army able to meet it in open battle. Yet the proud march never reached its goal. Allah turned the scheme aside, sent birds in successive flocks against the invaders, and left their strength like eaten straw. Before the child was known to the city, the city itself had been taught that the Kaaba was protected by more than walls, tribes, and spears.",
           "cls": "dropcap"
         },
         {
@@ -50,11 +50,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Muhammad ﷺ was born into Banu Hashim in that Year of the Elephant. His father Abdullah had died while Amina was carrying him, so the child entered the world already fatherless. By the custom of Makkah's families he was placed with Halima of Banu Sa'd in the desert, and the years with her became part of the tender, unadorned beginning of a life that would be marked by loss, trust and preparation."
+          "html": "In that protected year, Muhammad ﷺ was born into Banu Hashim of Quraysh. His father Abdullah had died while Amina was carrying him, so he entered the world already fatherless, inside a clan of honour but without the first shelter most children know. By the custom of Makkah, infants of notable families were sent to the desert for cleaner air, stronger speech, and hardier bodies. Muhammad ﷺ was placed with Halima of Banu Sa'd, and the years in the desert became part of the quiet preparation of a life that would be marked by loss, truthfulness, and trust. There was no palace guarding the cradle of the final prophet. There was a bereaved mother, a clan watching its standing, and a child carried toward a foster home while heaven's promise moved unseen."
         },
         {
           "t": "p",
-          "html": "Long before Makkah recognised him, the earlier scriptures had described the unlettered prophet who would command right, forbid wrong, make good things lawful, forbid what is corrupt and lift burdens and shackles from people. Isa (AS) had announced a messenger named Ahmad, and the Quran presents Muhammad ﷺ as the one written in the Torah and Gospel. Heaven's expectation did not make his childhood easy. It made his preparation meaningful."
+          "html": "Long before Makkah recognised him, the earlier scriptures had described the unlettered prophet who would follow what was revealed to him, command what is right, forbid what is wrong, make good things lawful, prohibit corrupt things, and lift from people the burdens and shackles that had weighed them down. Isa (AS) had already given good tidings of a messenger named Ahmad who would come after him. The Quran therefore presents Muhammad ﷺ not as a stranger breaking into sacred history, but as the one written in the Torah and the Injil and awaited by those who truly recognised the signs."
         },
         {
           "t": "verse",
@@ -65,7 +65,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His place in the line was also spoken by Muhammad ﷺ himself. In the hadith he describes Allah granting distinction to Kinana among the descendants of Ismail (AS), to Quraysh among Kinana, to Banu Hashim among Quraysh, and to him from Banu Hashim. The noble descent did not spare him orphanhood. It located the final messenger inside the very city and family that would first resist him."
+          "html": "Muhammad ﷺ himself described his place in that line of descent. Allah granted distinction to Kinana among the descendants of Ismail (AS), then to Quraysh among Kinana, then to Banu Hashim among Quraysh, and then to him from Banu Hashim. Noble descent did not spare him orphanhood. It placed the final messenger inside the very city and family that would first test, resist, and expel him, so that his truthfulness could be measured by people who had known him before they heard his claim."
         },
         {
           "t": "hadith",
@@ -73,6 +73,14 @@ export const chapter = {
           "narrator": "Narrated Wathila ibn al-Asqa",
           "href": "https://sunnah.com/muslim:2276",
           "label": "Sahih Muslim 2276 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "Makkah in that year was a sanctuary city and a trading city at once. The Kaaba drew pilgrims from Arabia, while caravans moved between Yemen and Syria under the protection of tribal agreements and sacred months. Honour was guarded fiercely, poetry carried public memory, and idols stood around the House that Ibrahim (AS) and Ismail (AS) had raised for the worship of Allah alone. This contrast stands at the gate of the story. The final prophet was born in the city of the ancient House, among people who honoured its stones while forgetting its purpose. His birth in the Year of the Elephant therefore carries two memories together: Allah defended the sanctuary from an army, and He placed in that same city a child through whom the sanctuary would be purified."
+        },
+        {
+          "t": "p",
+          "html": "Arabian memory gave great weight to lineage, fosterage, and the protection of clan elders. A child placed among Banu Sa'd was expected to return with the clear speech and toughness of the desert, while a child of Banu Hashim carried standing in Makkah even before he could speak for himself. Muhammad ﷺ received both inheritances and was denied the ease that might have come with them. His descent located him. His orphanhood humbled the location. By the time Quraysh later argued over his claim, no one could honestly say that they had not known the man before the message. They had watched the orphan become the trustee of their goods."
         }
       ]
     },
@@ -91,7 +99,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Loss followed Muhammad ﷺ early. His mother Amina died at Abwa when he was six, leaving him an orphan of both parents. His grandfather Abdul Muttalib took him in and loved him openly, but the old chief died within about two years. Custody then passed to his uncle Abu Talib, who raised him with care and later protected him through decades of danger. Allah would later remind him of this shelter in words that turn biography into gratitude.",
+          "html": "Loss followed Muhammad ﷺ early and repeatedly. His mother Amina died at Abwa when he was six, leaving him bereaved of both parents while still a small child. His grandfather Abdul Muttalib took him in with open affection and gave him a place near the centre of Makkah's honour, but the old chief died within about two years. Care then passed to his uncle Abu Talib, who raised him with loyalty and later shielded him through decades when protection carried real cost. Allah would later remind Muhammad ﷺ of these shelters in words that turn biography into gratitude: the orphan was found, guided, and made sufficient by his Lord.",
           "cls": "dropcap"
         },
         {
@@ -103,7 +111,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The reminder widens. Allah had opened his chest, removed his burden and raised his repute. The orphan who had been carried from one guardian to another was not being prepared for obscurity. Every refuge after loss became part of the pattern by which Allah found him, guided him and made him sufficient."
+          "html": "The reminder widens beyond shelter. Allah had opened his chest, removed his burden, and raised his mention. The child carried from one guardian to another was not being prepared for obscurity or bitterness. Every refuge after loss became part of a pattern by which Allah taught him dependence without despair. He learned early that people can be removed from a life while care still remains, because the true Guardian does not die. That lesson would later hold a community together when its visible centre was taken from it."
         },
         {
           "t": "verse",
@@ -114,7 +122,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Like other prophets before him, Muhammad ﷺ shepherded sheep. When he later spoke of it, the exchange stayed in memory. The Prophet ﷺ said: “Allah did not send any prophet but that he shepherded sheep.” His companions asked: “Did you do the same?” Muhammad ﷺ replied: “Yes, I used to shepherd the sheep of the people of Makkah for some qirats.” The work fitted a future guide: patience, watchfulness and responsibility for creatures that wander."
+          "html": "Like prophets before him, Muhammad ﷺ shepherded sheep. When he later spoke of it, the exchange remained in the memory of his companions. He said that Allah did not send a prophet except that he shepherded sheep. They asked whether he had done the same, and he answered that he used to shepherd the sheep of the people of Makkah for some qirats. The work fitted a future guide of people: vigilance over what wanders, patience with weakness, movement through heat and distance, and responsibility for creatures that cannot protect themselves."
         },
         {
           "t": "hadith",
@@ -125,7 +133,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He grew into trade and earned the name by which even opponents knew him: al-Amin, the Trustworthy. Khadijah, a capable and wealthy merchant, entrusted him with a caravan to Syria. He returned with profit and with a report of honesty that outweighed the goods. Marriage followed, and for twenty-five years Khadijah remained his only wife, his supporter, financier and first believer. Allah describes him as being upon a tremendous character, and the people who watched him before prophethood had already seen the evidence."
+          "html": "He grew into trade and earned the name by which even opponents knew him: al-Amin, the Trustworthy. Khadijah (RA), a woman of judgement, wealth, and commercial standing, entrusted him with a caravan to Syria. Muhammad ﷺ returned with profit and with a report of honesty that weighed more than the merchandise. Marriage followed, and for twenty five years Khadijah (RA) remained his only wife, his supporter, his financier, and the first believer in his message. Allah describes Muhammad ﷺ as being upon a tremendous character, and the people who watched him before prophethood had already seen its evidence in contracts, speech, restraint, and loyalty."
         },
         {
           "t": "verse",
@@ -136,7 +144,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years later Aisha was asked about that character in the house of prophethood itself. Sa'd ibn Hisham asked about the character of the Messenger of Allah. Aisha replied: “Do you not read the Quran?” Then she said: “The character of the Messenger of Allah was the Quran.” The description leaves no distance between revelation and conduct. What he taught, he embodied in anger and ease, in public leadership and private rooms."
+          "html": "Years later, inside the house of prophethood itself, Aisha (RA) was asked about that character. Sa'd ibn Hisham asked about the character of the Messenger of Allah ﷺ. Aisha (RA) answered by directing him to the Quran, then said that the character of the Messenger of Allah ﷺ was the Quran. The sentence leaves no distance between revelation and conduct. What Muhammad ﷺ taught with his tongue, he carried in anger and ease, in public leadership and private rooms, in hunger and authority."
         },
         {
           "t": "hadith",
@@ -147,7 +155,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "That is why the Quran holds him up as an excellent pattern for whoever hopes in Allah and the Last Day and remembers Allah often. His pattern is not presented as an unreachable performance. It is a lived measure for speech, family, contracts, worship, courage and mercy across an entire society."
+          "html": "That is why the Quran holds Muhammad ﷺ up as an excellent pattern for whoever hopes in Allah and the Last Day and remembers Allah much. The pattern is not presented as a distant performance for admiration only. It is a lived measure for speech, family life, promises, worship, courage, anger, wealth, and mercy across an entire society. People could imitate what they had witnessed because the teaching did not arrive as theory from a stranger."
         },
         {
           "t": "verse",
@@ -158,7 +166,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His gentleness was strength under command. Allah tells Muhammad ﷺ that by mercy he was lenient with his followers, for a harsh heart would have scattered them. He was commanded to pardon them, seek forgiveness for them and consult them, then trust Allah once a matter was decided. Leadership in his pattern is not the absence of firmness. It is firmness without cruelty."
+          "html": "His gentleness was strength under command. Allah tells Muhammad ﷺ that by mercy from Him he was lenient with his followers, for if he had been harsh and hard hearted they would have scattered from around him. He was commanded to pardon them, seek forgiveness for them, consult them in the matter, and then rely upon Allah when a decision had been taken. Leadership in his pattern is not the absence of firmness. It is firmness without cruelty, counsel without weakness, and trust in Allah after human means have been honoured."
         },
         {
           "t": "verse",
@@ -169,7 +177,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The believers felt that care from the inside. A messenger from among themselves had come, one grieved by their suffering, deeply concerned for them and kind and merciful to the believers. The title al-Amin began in Makkah's markets. Prophethood revealed its full reach: trustworthy with property, trustworthy with revelation and trustworthy with people."
+          "html": "The believers felt that care from within. A messenger from among themselves had come to them, one who felt their suffering heavily, was deeply concerned for their welfare, and was kind and merciful to the believers. The title al-Amin had begun in the markets of Makkah. Prophethood revealed its full reach: Muhammad ﷺ was trustworthy with property, trustworthy with revelation, and trustworthy with human beings."
         },
         {
           "t": "verse",
@@ -177,6 +185,10 @@ export const chapter = {
           "arabic": "لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ",
           "translation": "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.",
           "citation": "Surah 9 &middot; Verse 128 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The orphan years should not be read as a sad prelude quickly passed over. They formed a pattern of reliance that the Quran itself later recalled to Muhammad ﷺ. A child who has no father, then loses his mother, then loses the grandfather who delighted in him, learns early that every human shelter is temporary. Abu Talib's care was real, and Khadijah (RA) would later become a shelter of another kind, but neither replaced the lesson written underneath them all: Allah had carried him before he could carry anything. This is why the later reminders in Surah Ad-Duha and Surah Ash-Sharh do not sound like distant theology. They are the Lord naming the road by which His messenger had already been brought through loss into trust."
         }
       ]
     },
@@ -195,8 +207,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "As Muhammad ﷺ approached forty, he began withdrawing to the cave of Hira above Makkah, carrying provisions and worshipping in seclusion. On a night in Ramadan the silence changed. Jibreel came to him and commanded: “Read.” Muhammad ﷺ answered that he did not know how to read. The angel embraced him until the effort was severe, released him and commanded again. After the third embrace came the first revealed words, joining creation, the pen and knowledge in one opening.",
+          "html": "As Muhammad ﷺ approached forty, he began withdrawing to the cave of Hira above Makkah. He would take provisions, remain in seclusion, and worship away from the noise of a city filled with idols, trade disputes, tribal pride, and inherited religion. The cave was not escape from responsibility. It was preparation for a burden that could not be carried by habit or applause.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "On a night in Ramadan, the silence changed. Jibreel came to Muhammad ﷺ and commanded him to read. Muhammad ﷺ answered that he did not know how to read. The angel embraced him until the effort was severe, released him, and commanded again. After the third embrace came the first revealed words, joining the creation of man, the teaching by the pen, and knowledge given to one who did not know. The final revelation began not with a sword or a throne, but with reading, creation, and the pen."
         },
         {
           "t": "verse",
@@ -207,7 +223,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He returned with his heart beating hard and went to Khadijah. Muhammad ﷺ said: “Cover me, cover me.” When the fear eased he told her what had happened and said he feared something might happen to him. Khadijah answered: “Never. By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously and assist the deserving calamity-afflicted ones.” She did not ask for proof before she believed the man she knew."
+          "html": "Muhammad ﷺ returned with his heart beating hard and came to Khadijah (RA). He said: Cover me, cover me. When the trembling eased, he told her what had happened and said that he feared something might happen to him. Khadijah (RA) answered with the certainty of a woman who had measured the man before she heard the claim. She said that Allah would never disgrace him, because he kept ties with kin, helped the poor and destitute, served guests generously, and assisted those struck by calamity. She did not demand a sign before believing the truthful one she already knew."
         },
         {
           "t": "hadith",
@@ -218,11 +234,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Khadijah took him to her cousin Waraqa ibn Nawfal, an aged scholar who recognised the visitor as the angel who had come to Musa (AS). Waraqa wished he could live to support Muhammad ﷺ when his people drove him out. Muhammad ﷺ asked: “Will they drive me out?” Waraqa answered that no one had brought such a message without opposition. He died soon after, and the first circle remained small: Khadijah first, with Abu Bakr, Ali and Zayd among the earliest believers."
+          "html": "Khadijah (RA) took Muhammad ﷺ to her cousin Waraqa ibn Nawfal, an aged man of scripture who recognised the visitor as the angel who had come to Musa (AS). Waraqa wished that he could live and be strong when Muhammad ﷺ would be driven out by his people. Muhammad ﷺ asked whether they would drive him out. Waraqa answered that no man had brought such a message without being opposed. He died soon after, and the first circle remained small: Khadijah (RA) first, with Abu Bakr (RA), Ali (RA), and Zayd (RA) among the earliest to believe. The final summons began in a trembling room, not in a public square."
         },
         {
           "t": "p",
-          "html": "Khadijah's place is sealed by the Prophet's own praise. Muhammad ﷺ said: “The best of the women of her time was Maryam, daughter of Imran, and the best of the women of her time was Khadijah, daughter of Khuwailid.” Before armies, treaties or public victories, the final revelation was received into a home where a wife believed first and steadied a trembling prophet with truth."
+          "html": "The praise of Khadijah (RA) was later sealed by Muhammad ﷺ himself. He said that the best of the women of her time was Maryam, daughter of Imran, and the best of the women of her time was Khadijah (RA), daughter of Khuwailid. Before armies, treaties, or victories, revelation had been received into a home where a wife believed first and steadied a shaken prophet with truth about his own life."
         },
         {
           "t": "hadith",
@@ -230,6 +246,14 @@ export const chapter = {
           "narrator": "Reported by Abdullah ibn Ja`far, from Ali",
           "href": "https://sunnah.com/muslim:2430",
           "label": "Sahih Muslim 2430 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "The seclusion at Hira also needs to be seen against the city below. Makkah had religion in abundance: rites, ancestors, idols, pilgrimage customs, and pride in custodianship of the sanctuary. What it lacked was submission to Allah free of partners. Muhammad ﷺ withdrew not because he hated people, but because a heart being prepared for revelation needed distance from inherited noise. The cave stood above the markets and clan assemblies, close enough to see the city and far enough to hear a command without bargaining. When Jibreel came, the command was not to found a tribe, enrich a family, or seize the sanctuary. It was to read in the name of the Lord who created. The final message began by returning knowledge, worship, and human origin to Allah."
+        },
+        {
+          "t": "p",
+          "html": "Khadijah (RA) deserves to be seen in this scene as more than the first comforter. She was the first witness from inside the house of Muhammad ﷺ, a woman whose wealth had moved through caravans and whose judgement was trusted in trade. Her belief was not the credulity of someone who knew nothing of men. She had employed Muhammad ﷺ, married him, watched him under obligation, and seen him when no crowd was present to reward virtue. When she answered his fear with his character, she was giving evidence. The first public of Islam was therefore unusual and exact: a wife who knew the private man, an old scholar who recognised the pattern of revelation, a loyal friend in Abu Bakr (RA), a young cousin in Ali (RA), and a freed servant in Zayd (RA). Allah gathered the beginning from a household before He shook a city."
         }
       ]
     },
@@ -248,7 +272,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After an interval, the command moved from private reception to public warning. Muhammad ﷺ was wrapped in his garment when the summons came to arise, magnify his Lord, purify his garments, abandon defilement and endure patiently for his Lord. The cave's silence gave way to a city's noise. Retreat had prepared him, but the mission would now be tested in markets, houses and tribal councils.",
+          "html": "After an interval, the command moved from private reception to public warning. Muhammad ﷺ was wrapped in his garment when the summons came: arise and warn, magnify his Lord, purify his garments, abandon defilement, do not give favour seeking more in return, and endure patiently for his Lord. The quiet of Hira gave way to the noise of Makkah. Seclusion had prepared him, but the mission would now be tested in markets, clan councils, family gatherings, and streets where he had once been praised as al-Amin.",
           "cls": "dropcap"
         },
         {
@@ -260,7 +284,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The first public circle was the nearest one. Allah commanded him to warn his closest kindred while lowering his wing in kindness to the believers who followed him. If they disobeyed, he was to declare himself free of what they did. Prophethood did not begin by flattering the clan. It began by placing family affection under truth."
+          "html": "The first public circle was also the nearest circle. Allah commanded Muhammad ﷺ to warn his closest kindred, to lower his wing to the believers who followed him, and, if the rest disobeyed, to declare himself free of what they did. Prophethood did not begin by flattering the clan or purchasing safety with silence. Truth was placed before family pride while affection was still commanded toward those who believed."
         },
         {
           "t": "verse",
@@ -271,7 +295,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the message was proclaimed openly, mockery came first, then bargains, then pressure against the weak and a boycott that confined Banu Hashim and Banu Muttalib to hunger in a ravine. Allah told Muhammad ﷺ to declare what he was commanded, turn away from the idolaters and trust that Allah was sufficient against the mockers who set up another god beside Him. Revelation did not promise him a painless road. It promised him company on it."
+          "html": "When the message was proclaimed openly, mockery came first, then offers, then pressure against the weak, then boycott and hunger for Banu Hashim and Banu Muttalib in the ravine. Allah told Muhammad ﷺ to proclaim what he was commanded, turn away from the idolaters, and rest in the sufficiency of Allah against the mockers who set up another god beside Him. Revelation did not promise its bearer a painless road. It promised him the company of Allah upon it."
         },
         {
           "t": "verse",
@@ -282,7 +306,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Year of Sorrow took Khadijah and Abu Talib close together. Muhammad ﷺ went to Taif seeking people who might receive the call, but its leaders rejected him and he left wounded by stones. Aisha later asked about his hardest day, and the answer led to the Angel of the Mountains. The angel said: “O Muhammad, order what you wish. If you like, I will let the two mountains fall on them.” Muhammad ﷺ said: “No, but I hope that Allah will let them beget children who will worship Allah alone, and worship none besides Him.”"
+          "html": "The Year of Sorrow took Khadijah (RA) and Abu Talib close together, removing both the home that believed him and the uncle who shielded him. Muhammad ﷺ went to Taif seeking a people who might receive the call, but its leaders rejected him and he left wounded by stones thrown by those sent after him. Aisha (RA) later asked about a day harder for him than Uhud, and the account led to Taif and the Angel of the Mountains. The angel offered that, if Muhammad ﷺ wished, the two mountains could be brought down upon the people. Muhammad ﷺ refused and hoped that Allah would bring from their descendants people who would worship Allah alone and associate nothing with Him."
         },
         {
           "t": "hadith",
@@ -293,7 +317,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "That refusal explains the name heaven gave his mission. Wounded, bereaved and refused by two cities, he asked for the future children of the people who had driven him out. Allah had sent Muhammad ﷺ only as a mercy to the worlds, and Taif shows what that mercy looks like when revenge is placed directly in his hand."
+          "html": "That refusal explains the name heaven gave his mission. Wounded, bereaved, and refused by two cities, Muhammad ﷺ asked for the unborn children of the people who had driven him out. Allah had sent him only as a mercy to the worlds, and Taif shows what that mercy looks like when revenge is placed in the hand of the wronged and is declined for the sake of guidance not yet born."
         },
         {
           "t": "verse",
@@ -301,6 +325,10 @@ export const chapter = {
           "arabic": "وَمَآ أَرْسَلْنَـٰكَ إِلَّا رَحْمَةً لِّلْعَـٰلَمِينَ",
           "translation": "And We have not sent you, [O Muḥammad], except as a mercy to the worlds.",
           "citation": "Surah 21 &middot; Verse 107 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The public call turned private certainty into social conflict. Quraysh could tolerate a trustworthy merchant and praise a truthful neighbour. What they could not tolerate was a message that judged their idols, their ancestors, their markets, and their claim to religious rank. The boycott against Banu Hashim and Banu Muttalib showed how Makkah protected its order: hunger, isolation, and family pressure were used to make revelation expensive. Muhammad ﷺ endured while protecting the weak who had followed him and while refusing to purchase safety by softening the call. When Khadijah (RA) died, the house lost its first believer and strongest comfort. When Abu Talib died, the public shield thinned. Taif then revealed the depth of his mercy. A lesser man might have measured prophethood by immediate acceptance. Muhammad ﷺ measured the future by what Allah could bring from the children of those who rejected him."
         }
       ]
     },
@@ -319,7 +347,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In one night Muhammad ﷺ was taken from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings Allah has blessed, so that he might be shown some of Allah's signs. The journey joined Makkah and Jerusalem in a single night and placed the final prophet inside the long geography of revelation. What had begun in a cave above Makkah now opened onto the sacred history of the prophets before him.",
+          "html": "In one night Muhammad ﷺ was taken from Al-Masjid Al-Haram to Al-Masjid Al-Aqsa, whose surroundings Allah has blessed, so that he might be shown some of His signs. The journey joined Makkah and Jerusalem in a single night and placed the final prophet inside the sacred geography of the prophets before him. What had begun in a cave above Makkah now opened onto a wider horizon of revelation, prayer, and prophetic brotherhood.",
           "cls": "dropcap"
         },
         {
@@ -331,7 +359,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "From there came the ascent. Muhammad ﷺ greeted prophets in the heavens, including Adam (AS), Yahya (AS) and Isa (AS) together, Yusuf (AS), Idris (AS), Harun (AS), Musa (AS) and Ibrahim (AS). At the Lote Tree of the Utmost Boundary, near the Garden of Refuge, his sight did not swerve or exceed its limit. He saw some of the greatest signs of his Lord, and the vision stayed measured under the weight of what it showed."
+          "html": "From there came the ascent through the heavens. Muhammad ﷺ met prophets who had carried the call before him, among them Adam (AS), Yahya (AS), Isa (AS), Yusuf (AS), Idris (AS), Harun (AS), Musa (AS), and Ibrahim (AS). At the Lote Tree of the Utmost Boundary, near the Garden of Refuge, when there covered the Lote Tree what covered it, his sight did not swerve and did not exceed its limit. He saw some of the greatest signs of his Lord. The Quran's restraint is part of the awe here. The vision is affirmed, the gaze is disciplined, and the reader is not invited to turn the unseen into spectacle."
         },
         {
           "t": "verse",
@@ -342,7 +370,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "On that journey fifty daily prayers were prescribed. Musa (AS) counselled Muhammad ﷺ to return and ask for reduction, knowing the weakness of communities, and the number came down again and again until five remained with the reward of fifty. Back in Makkah, opponents tried to make the report a trap. Abu Bakr answered with the loyalty that earned him the name as-Siddiq: if Muhammad ﷺ said it, then it was true. The Night Journey had sorted belief from bargaining in a single morning."
+          "html": "On that journey fifty daily prayers were prescribed. Musa (AS), knowing the weakness of communities, counselled Muhammad ﷺ to return and ask for reduction. The number was lessened again and again until five remained with the reward of fifty. When the report reached Makkah, mockers tried to make it a trap for belief. Abu Bakr (RA) answered with the loyalty that earned him the name As-Siddiq: if Muhammad ﷺ had said it, then it was true. The Night Journey sorted belief from bargaining in a single morning, and prayer entered the community as a gift carried down from an ascent no enemy could follow."
+        },
+        {
+          "t": "p",
+          "html": "The Night Journey should not be turned into a catalogue of marvels detached from its fruit. Its immediate gift to the community was prayer, five times a day, carried back from an ascent and repeated in ordinary rooms, deserts, markets, and battlefields. Its wider meaning was consolation after loss. Khadijah (RA) was gone, Abu Talib was gone, Taif had answered with stones, and Makkah was closing. Before the Hijrah opened a new city, Allah honoured Muhammad ﷺ with nearness and signs beyond the reach of his enemies. The believers who accepted the report learned that a prophet rejected by a town could still be received in the heavens, and that history is not decided only by those who control the roads below."
+        },
+        {
+          "t": "p",
+          "html": "The cave of Thawr stands between two cities in more than distance. Behind Muhammad ﷺ lay Makkah, the sanctuary of his birth, the grave of Khadijah (RA), the clan that had protected and then failed to protect, and the streets where his followers had been beaten for prayer. Ahead lay a town he had not ruled, tribes that had invited him as a judge and prophet, and dangers no map could settle. In the cave there were only two men and a promise. That is why the sentence to Abu Bakr (RA) carries such force. It does not deny that pursuers were near. It denies that nearness decides the outcome. The Hijrah begins with hidden weakness under divine company, and Madinah is built from that certainty."
         }
       ]
     },
@@ -361,7 +397,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Quraysh moved from pressure to assassination, Allah opened the road to Madinah. Ali slept in the Prophet's bed as a decoy, and Muhammad ﷺ left with Abu Bakr. For three days the two hid in the cave of Thawr while searchers moved over the hills. Abu Bakr feared that a glance downward would expose them. Muhammad ﷺ said: “Do not grieve; indeed, Allah is with us.” Allah sent down tranquillity and supported him with forces unseen, making the word of the disbelievers lowest and the word of Allah highest.",
+          "html": "When Quraysh moved from pressure to assassination, Allah opened the road to Madinah. Ali (RA) slept in the bed of Muhammad ﷺ as a decoy, and Muhammad ﷺ left Makkah with Abu Bakr (RA). For three days the two remained hidden in the cave of Thawr while search parties moved over the hills. Abu Bakr (RA) feared that if one of the pursuers looked down at his feet, they would be seen. Muhammad ﷺ answered with the sentence that carried the Hijrah: do not grieve; indeed, Allah is with us. Allah sent down His tranquillity upon him and supported him with forces the pursuers could not see, making the word of those who disbelieved the lowest and the word of Allah the highest.",
           "cls": "dropcap"
         },
         {
@@ -373,7 +409,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Madinah received more than refugees. Muhammad ﷺ helped raise the mosque, bound the tribes through covenant and joined the Emigrants and Helpers in a brotherhood that reached into homes, harvests and daily care. The community that formed there was not built only by victory. It was built by prayer in common, promises written down and people made responsible for one another. The Islamic calendar begins with the Hijrah because the message had found a home where it could become a society."
+          "html": "Madinah received more than refugees fleeing danger. Muhammad ﷺ helped raise the mosque, established covenants among tribes, and bound the Emigrants and the Helpers in a brotherhood that reached into houses, harvests, debts, marriages, and daily care. The community was not built by victory first. It was built by prayer in common, rights written down, disputes carried to a just centre, and men and women made responsible for one another before Allah. The Islamic calendar begins with the Hijrah because the message had found a home where it could become a society. In Makkah the believers had been formed by endurance. In Madinah they would be formed by trust."
+        },
+        {
+          "t": "p",
+          "html": "The Hijrah changed the scale of responsibility. In Makkah, Muhammad ﷺ had called individuals and clans to worship Allah while enduring harm. In Madinah, he became responsible for a community with markets, neighbours, treaties, poor people, hypocrites, allies, enemies, and borders. The mosque was raised before palaces because the centre of the new society was prayer and judgement under revelation, not the house of a ruler. Brotherhood between the Emigrants and Helpers joined men who had left wealth behind to men who opened homes and date groves. Covenants did not erase difference in one night. They placed difference under duties that could be named, witnessed, and judged."
         }
       ]
     },
@@ -392,7 +432,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Madinah's covenant was soon tested in war. At Badr the believers stood heavily outnumbered, and Allah reminded them that victory was not a simple count of hands. The verse takes even the Prophet's cast out of human ownership: you did not throw when you threw, but Allah threw, so that He might test the believers with a good trial. Badr became a sign that aid belongs to Allah, not a licence to confuse numbers with causes.",
+          "html": "Madinah's covenant was soon tested in war. At Badr the believers stood heavily outnumbered against a force confident in number and equipment. Allah reminded them that victory was not a simple count of hands. Even the cast of Muhammad ﷺ was taken out of human ownership: he did not throw when he threw, but Allah threw, so that He might test the believers with a goodly trial. Badr became a sign that aid belongs to Allah, not a permission to confuse visible means with the true cause of victory.",
           "cls": "dropcap"
         },
         {
@@ -404,7 +444,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Uhud taught the harder lesson. Allah had fulfilled His promise while the believers obeyed, but courage faltered, dispute broke out and archers left the order after seeing what they desired. Some wanted the world and some the Hereafter, and Allah turned them back as a test, then forgave them. The wounded community learned that revelation does not make obedience optional after the first success."
+          "html": "Uhud taught the harder lesson. Allah had fulfilled His promise while the believers held to obedience, but when courage faltered, dispute appeared, and the archers left their position after seeing what they desired, the day turned. Some wanted the world and some wanted the Hereafter, and Allah turned them back as a test, then forgave them. The wounded community learned that revelation does not make obedience optional after an early success. A command remains a command when spoils glitter, and defeat can become instruction when a community refuses to hide from its own fault."
         },
         {
           "t": "verse",
@@ -415,7 +455,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When confederate forces threatened Madinah, the believers dug the trench on the open side, a defence unfamiliar in Arabia, and the siege failed. Later the road to pilgrimage stopped at Hudaybiyyah, where a treaty that looked like retreat opened years of safer calling. Under the tree the believers pledged allegiance, and Allah, knowing what was in their hearts, sent down tranquillity and promised a near conquest."
+          "html": "When confederate forces later threatened Madinah, the believers followed the counsel to dig a trench across the open approach, a defence unfamiliar in Arabia, and the siege dissolved under cold, hunger, division, and wind. After that came the road to pilgrimage and the stop at Hudaybiyyah, where a treaty many companions felt as humiliation opened years of safer calling. Beneath the tree, the believers pledged allegiance to Muhammad ﷺ. Allah, knowing what was in their hearts, sent down tranquillity upon them and rewarded them with a near conquest."
         },
         {
           "t": "verse",
@@ -426,7 +466,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Heaven named the treaty itself before Makkah fell. Allah had given Muhammad ﷺ a clear conquest, completing His favour and guiding him on a straight path. What companions had felt clause by clause as humiliation became, in Allah's naming, an opening. The years of peace carried the message further than confrontation had, and invitations went out beyond Arabia while Madinah grew stronger."
+          "html": "Heaven named the treaty before Makkah fell. Allah had granted Muhammad ﷺ a clear conquest, that He might forgive for him what preceded of his sin and what followed, complete His blessing upon him, and guide him on a straight path. What had been felt clause by clause as concession became, in Allah's naming, an opening. The years of peace carried the message further than confrontation had done, letters went outward, delegations came inward, and Madinah grew in strength while Makkah's certainty slowly weakened."
         },
         {
           "t": "verse",
@@ -434,6 +474,10 @@ export const chapter = {
           "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
           "translation": "Indeed, We have given you, [O Muḥammad], a clear conquest<sup foot_note=197389>1</sup> That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path",
           "citation": "Surah 48 &middot; Verses 1-2 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "The wars of Madinah are therefore not told here as raids for glory. Badr taught dependence when numbers were small. Uhud taught obedience when desire for spoils broke formation and joy turned into wounds. The Trench taught counsel, labour, and patience when the enemy expected panic. Hudaybiyyah taught that apparent retreat can be a conquest when Allah writes the outcome beyond the feelings of a single day. Muhammad ﷺ accepted counsel, dug with his people, wept over the fallen, forgave where forgiveness served truth, and punished treachery where covenant and security demanded it. The point is not that war made the community noble. The point is that revelation disciplined power before power grew large enough to enter Makkah."
         }
       ]
     },
@@ -452,12 +496,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the treaty was broken, Muhammad ﷺ marched toward Makkah with an army large enough to make resistance collapse. The city that had boycotted his clan, driven him out and hunted him now waited for judgement. At the moment of greatest power he announced amnesty in the spirit of Yusuf (AS): “No blame shall rest upon you today. Go, for you are free.” He entered in gratitude with his head lowered, and the idols around the Kaaba fell as truth displaced falsehood. The conquest was remembered less for blood than for restraint.",
+          "html": "When the treaty was broken, Muhammad ﷺ marched toward Makkah with an army large enough to make resistance collapse before the city that had boycotted his clan, driven him out, assaulted his followers, and hunted him across Arabia. The people who had once held power over his life now waited for judgement. At the moment when vengeance would have been easiest to justify by the customs of men, Muhammad ﷺ announced pardon in the spirit of Yusuf (AS): no blame would rest upon them that day. He entered with his head lowered in gratitude, and the idols around the Kaaba were brought down as truth displaced falsehood. The conquest was remembered less for blood than for restraint.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Allah's command after victory did not turn triumph into self praise. When the help of Allah and the conquest came, and people entered His religion in crowds, Muhammad ﷺ was told to glorify his Lord's praises and seek His forgiveness. The surah taught the community how to read success: gratitude first, repentance always, and no ownership of what Allah had opened."
+          "html": "Allah's command after victory did not turn triumph into self praise. When the help of Allah and the conquest came, and people were seen entering His religion in crowds, Muhammad ﷺ was commanded to glorify the praises of his Lord and seek His forgiveness. The surah taught the community how to read success. Gratitude comes first. Repentance remains necessary. No victory is owned by the hands that were present when Allah opened the door."
         },
         {
           "t": "verse",
@@ -468,7 +512,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the Farewell Pilgrimage, Muhammad ﷺ addressed the people on the sanctity of life and property, the trust of women, and the equality of mankind from Adam (AS), with no superiority except by righteousness. He asked whether he had conveyed the message, and when the people answered that he had, he called Allah to witness. On that journey the verse descended announcing that Allah had perfected the religion, completed His favour and approved Islam as the religion."
+          "html": "At the Farewell Pilgrimage, Muhammad ﷺ addressed the people on the sanctity of life and property, the trust owed to women, the rejection of usury and blood feuds, and the equality of mankind from Adam (AS), with no superiority of Arab over non-Arab or white over black except by righteousness. He asked whether he had conveyed the message. When the people answered that he had, he called Allah to witness. On that journey descended the verse announcing that Allah had perfected the religion, completed His favour upon the believers, and approved Islam as their religion."
         },
         {
           "t": "verse",
@@ -479,7 +523,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Umar later explained to a questioner exactly when that verse came. Umar said: “We know when and where this verse was revealed to the Prophet. It was Friday and the Prophet was standing at Arafat.” The detail fixes the completion of the message inside the Farewell days, with the community gathered and the messenger near the end of his earthly task."
+          "html": "Umar (RA) later explained to a questioner exactly when that verse had come. He said that they knew the day and place in which it was revealed to Muhammad ﷺ: it was Friday, and Muhammad ﷺ was standing at Arafat. The detail fixes the completion of the religion inside the Farewell days, with the pilgrims gathered, the messenger near the end of his earthly task, and the community being handed a trust it would have to carry without his visible presence."
         },
         {
           "t": "hadith",
@@ -487,6 +531,14 @@ export const chapter = {
           "narrator": "Umar ibn al-Khattab, reported by Tariq ibn Shihab",
           "href": "https://sunnah.com/bukhari:45",
           "label": "Sahih al-Bukhari 45 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "The conquest of Makkah gathered all the earlier scenes into one test. The orphan who had left in the night now returned with an army. The clan that had boycotted him waited inside the city he had been forced to leave. The sanctuary filled with idols stood before the man who had prayed in a cave because those idols offended the truth. Customs of Arabia would have understood revenge. Muhammad ﷺ chose pardon for the general people, purification of the House, and gratitude to Allah. At the Farewell Pilgrimage he then fixed the moral order for those who would remain after him: blood and property are sacred, trusts must be returned, women are a trust to be treated with good, and nobility is by righteousness rather than descent."
+        },
+        {
+          "t": "p",
+          "html": "Before the farewell, Muhammad ﷺ had already taught his community how to continue when emotion ran ahead of truth. At Uhud he buried the martyrs and corrected the living. At Hudaybiyyah he accepted a treaty his companions found bitter and then watched Allah name it victory. At Makkah he forgave when revenge was available. In the Farewell Pilgrimage he returned rights to their owners and placed his own example before the people as a trust to be carried, not a memory to be frozen. So when Abu Bakr (RA) spoke after the death, the community was not hearing a new doctrine. It was being recalled to the discipline Muhammad ﷺ had built into them for years: hold to Allah, hold to the message, and let love remain obedience rather than collapse."
         }
       ]
     },
@@ -505,7 +557,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "During the final illness Muhammad ﷺ was too weak to lead every prayer and appointed Abu Bakr to lead the people. He asked to be nursed in Aisha's room, and near the end his words joined concern for prayer with yearning for the company beyond. Aisha heard him while he leaned against her, asking Allah for forgiveness and mercy and to be joined with the highest companions.",
+          "html": "During the final illness, Muhammad ﷺ grew too weak to lead every prayer and appointed Abu Bakr (RA) to lead the people. He asked to be nursed in the room of Aisha (RA), and near the end his speech joined concern for prayer and the community with longing for the company beyond this world. Aisha (RA) heard him, while he leaned against her, asking Allah for forgiveness and mercy and to join him with the highest companions. The man who had carried revelation for twenty three years left it with prayer on his concern and mercy on his tongue.",
           "cls": "dropcap"
         },
         {
@@ -517,7 +569,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He died in Madinah in the eleventh year after the Hijrah, leaving almost no worldly estate; even his armour was pledged for barley for his family. Grief shook the community until Abu Bakr stood before them and separated the messenger from the message's Lord. Abu Bakr said: “Whoever worshipped Muhammad, then Muhammad is dead, but whoever worshipped Allah, then Allah is Alive and shall never die.”"
+          "html": "Muhammad ﷺ died in Madinah in the eleventh year after the Hijrah, leaving almost no worldly estate behind him. Even his armour was pledged for barley for his family. Grief shook the community with a force that required immediate truth. Abu Bakr (RA) stood before the people and separated the messenger from the Lord who sent him. He said that whoever worshipped Muhammad ﷺ should know that Muhammad ﷺ had died, but whoever worshipped Allah should know that Allah is Alive and never dies. The sentence did not diminish love. It protected love from becoming worship, and turned a stunned community back toward the Living God."
         },
         {
           "t": "hadith",
@@ -528,7 +580,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran had already given believers the sentence they needed for that day. Muhammad ﷺ was only a messenger, and messengers had passed before him. If he died or was killed, the grateful would not turn back on their heels and harm Allah at all. His death was a test of whether the community worshipped a presence it could see or the Living God who had sent him."
+          "html": "The Quran had already given believers the sentence they would need on that day. Muhammad ﷺ was only a messenger, and messengers had passed away before him. If he died or was killed, the grateful would not turn back on their heels, and whoever turned back would not harm Allah at all. His death became a test of whether the community had attached itself to a visible presence or to the revelation that presence had delivered."
         },
         {
           "t": "verse",
@@ -539,7 +591,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah addressed the end plainly to Muhammad ﷺ himself: you will die, and they will die. Prophethood did not remove him from the human road. It made his trust, patience and obedience a pattern for everyone who must walk it after him."
+          "html": "Allah had also addressed the end plainly to Muhammad ﷺ himself: indeed, you will die, and indeed, they will die. Prophethood did not remove him from the human road. It made his trust, patience, and obedience a pattern for everyone who must walk the same road after him, from the cave of Hira to the room in Madinah where the final words were heard."
         },
         {
           "t": "verse",
@@ -550,7 +602,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His place in the long line is final. Muhammad ﷺ was not the father of any man among them, but the Messenger of Allah and the seal of the prophets. The chain that began with Adam (AS) and passed through the prophets of this book closes with him, and Allah knows all things."
+          "html": "His place in the long line is final. Muhammad ﷺ was not the father of any man among his people in the sense addressed by the verse, but he was the Messenger of Allah and the Seal of the Prophets. The chain that began with Adam (AS) and passed through prophet after prophet closes with him, and Allah has knowledge of all things. No later claimant can reopen what heaven has sealed, and no follower honours him by treating his death as the end of guidance."
         },
         {
           "t": "verse",
@@ -561,7 +613,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "What remains commanded is love expressed as blessing. Allah and His angels confer blessing upon the Prophet, and the believers are told to ask Allah to confer blessing and peace upon him. The orphan carried from guardian to guardian, the trustworthy merchant, the trembling man in Khadijah's house, the fugitive in the cave and the conqueror who forgave Makkah is remembered by the duty he never claimed for himself: mercy to the worlds."
+          "html": "What remains commanded is love expressed as blessing. Allah and His angels confer blessing upon the Prophet ﷺ, and the believers are commanded to ask Allah to confer blessing and peace upon him. The orphan carried from guardian to guardian, the trustworthy merchant of Makkah, the trembling man in the house of Khadijah (RA), the fugitive in the cave, the patient caller at Taif, and the conqueror who forgave Makkah is remembered by the duty he never claimed for himself: mercy to the worlds."
         },
         {
           "t": "verse",
@@ -569,6 +621,14 @@ export const chapter = {
           "arabic": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
           "translation": "Indeed, Allāh confers blessing upon the Prophet, and His angels [ask Him to do so]. O you who have believed, ask [Allāh to confer] blessing upon him and ask [Allāh to grant him] peace.",
           "citation": "Surah 33 &middot; Verse 56 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "His death returned the community to the first lesson of his life. The orphan had been carried by Allah through guardians who died. The prophet was now taken, and the believers had to learn the same truth at the scale of an ummah. Abu Bakr (RA) did not deny grief. He ordered it. Muhammad ﷺ was to be loved, followed, defended, and blessed, but not worshipped. Allah remains when messengers pass, when caliphs pass, when generations pass. That is why the final scene belongs beside Surah Aal-e-Imran and Surah Az-Zumar rather than beside worldly inheritance. The armour pledged for barley, the room of Aisha (RA), the appointment of Abu Bakr (RA) to lead prayer, and the command to send blessings upon Muhammad ﷺ all point one way: the message remains, the Lord remains, and the messenger is honoured by obedience after he is gone."
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }

@@ -32,8 +32,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "If Ilyas (AS) is a mystery, his successor is a whisper. Al-Yasa (AS), known in English as Elisha, is named only twice in the entire Quran, and both times in honour rolls rather than stories. In Surah Al-An'am, Allah groups him with Ismail (AS), Yunus (AS) and Lut (AS) and seals the line: each one We favoured above the worlds.",
+          "html": "Some prophets enter the Quran with journeys that fill chapter after chapter. Their childhoods are described, their confrontations are recorded, their prayers are quoted, and generations know the shape of their lives. Al-Yasa (AS) enters differently. If Ilyas (AS) is surrounded by silence, Al-Yasa (AS) is almost a whisper beside him. He is named only twice in the entire Quran, and neither mention opens a narrative. There is no confrontation with a king, no prayer at a moment of danger, and no sign performed before a crowd. Instead, his name appears inside lists of the honoured, as if revelation wished to settle his rank before inviting any curiosity about his days.",
           "cls": "dropcap"
+        },
+        {
+          "t": "p",
+          "html": "The first mention comes in Surah Al-An'am, in a passage where Allah (Subhanahu wa Ta'ala) recalls gift after gift given through the family of Ibrahim (AS): guidance, descendants, the Book, judgement and prophethood. Name follows name across generations, households and missions, until the verse gathers Ismail (AS), Al-Yasa (AS), Yunus (AS) and Lut (AS) in one line and seals them with words no human praise can equal: and all of them We preferred over the worlds. The statement is brief, but it is not small. Preference here is the choice of Allah, who raises His messengers, entrusts them with guidance and makes their obedience a light for people who may never praise them in their own lifetime."
         },
         {
           "t": "verse",
@@ -50,7 +54,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In Surah Sad, the command to the Prophet Muhammad (ﷺ) and to us is simply: Remember. Remember Ismail and Al-Yasa and Dhul-Kifl, and all were among the best."
+          "html": "The Quran instead moves to a second roll and gives a command: Remember. In Surah Sad, after the believers are called to remember servants of Allah known for strength, patience and devotion, the verse gathers Ismail (AS) and Al-Yasa (AS) and Dhul-Kifl (AS), and declares that all were among the best. The word used for their rank, al-akhyar, points to those who are chosen and outstanding. Remembrance in the Quran is never a museum label. It is an instruction to keep a name present in the heart so that its pattern can guide conduct when guidance is needed."
         },
         {
           "t": "verse",
@@ -67,15 +71,15 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Think about what that means. Allah, who decides what humanity needs to know, decided Al-Yasa's (AS) name deserved to be remembered, grouped him with the best, and then left out every detail of his life. The Quran's verdict on him is not a story. It is a ranking. And there is not a person alive who would not trade their fame for it."
+          "html": "Think about what that means. Allah, who decides what humanity needs to know, decided that the name of Al-Yasa (AS) deserved to be remembered, grouped him with the best, and then left out every detail later readers might have used to build a legend. The verdict of the Quran on him is not a story. It is a ranking. No archive made by people can confer what that ranking confers, and no obscurity among people can remove it. A person may leave the world with a library written about him and still not possess one sentence of praise from his Lord equal to being counted by Allah among the outstanding."
         },
         {
           "t": "p",
-          "html": "What the commentators add is modest and consistent. Al-Yasa (AS) was of the Children of Israel, of the line of Yusuf (AS), and he succeeded Ilyas (AS), the prophet he had served, sent to guide the same idol-scarred generations to obey Allah's laws and commands."
+          "html": "What the commentators add beyond the two verses is modest and, in its modesty, consistent. Classical reports place Al-Yasa (AS) among the Children of Israel, of the line of Yusuf (AS), and make him the successor of Ilyas (AS), the prophet whom he had accompanied and served. He was sent to guide generations already scarred by idolatry, calling them back to the laws and commands of Allah. That is the firm outline. It gives a people, a predecessor, a mission and a rank. It does not give a diary, and an honest telling should not pretend otherwise."
         },
         {
           "t": "p",
-          "html": "No speech from Al-Yasa (AS) is preserved in the Quran, so this chapter adds no dialogue for him. What remains is testimony: Allah names him among those favoured above the worlds and among the best, and the classical reports make him the successor who continued the call after Ilyas (AS)."
+          "html": "No speech from Al-Yasa (AS) is preserved in the Quran. No dua of his is quoted, no debate is recorded, no private complaint is opened for us, and no miracle is attached to his name by revelation. This chapter therefore adds no dialogue for him. What remains is testimony stronger than reconstructed conversation: Allah names him among those preferred over the worlds and among the best, and the classical reports make him the successor who continued the call after Ilyas (AS)."
         }
       ]
     },
@@ -94,12 +98,20 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "It was not an inheritance anyone would envy. Ibn Kathir describes the era that followed Ilyas (AS) as one of spreading fracture: dissension rose, events gathered momentum, sins multiplied, and the number of tyrants grew, men who made a sport of hunting prophets. Some reports say Al-Yasa (AS) had sheltered with Ilyas (AS) in a cave on Mount Qasiun, hiding from the king of Baalbek, and stepped into the open to take up the mission when his teacher passed. Whether from cave or city, the pattern of his prophethood is the part all the sources agree on, and it is almost offensively undramatic: he lived among his people, and he called them, again and again, to obey the laws and commands of Allah.",
+          "html": "It was not an inheritance anyone would envy. To succeed a prophet is to receive his people as they are, not as one wishes they had become. Ibn Kathir describes the days after Ilyas (AS) as a time when fracture spread among the Children of Israel. Dissension rose, events gathered momentum, sins multiplied, and the number of tyrants grew, men who made a sport of hunting prophets. A successor in such an age does not step onto a prepared road. He steps into a society learning to resent the very voices sent to save it.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "No sea parted for Al-Yasa (AS). No giant fell, no throne teleported, no whale surfaced. In a generation of tyrants who killed prophets, he did the most dangerous ordinary thing available to a believer: he stayed, in public, on the straight path, saying what Ilyas (AS) had said, to the children of the people who had rejected Ilyas (AS). The Quran has a word for people who do the right thing consistently, in public and in private, without an audience and without a miracle. It calls them the righteous, and it says Al-Yasa (AS) was favoured above the worlds. The succession of a prophet does not always look like glory. Sometimes it looks like continuing."
+          "html": "Some reports say that Al-Yasa (AS) had sheltered with Ilyas (AS) in a cave on Mount Qasiun, hiding from the king of Baalbek, and that he came into the open to take up the mission when his teacher passed. The report is carried here only in that restrained form. It does not become in this telling a cave scene with voices, footsteps and pursuers added for colour. Whether his days of concealment were long or brief, and whether the open call began from that refuge or from a town already known to him, the pattern on which the sources agree is clearer than the scenery: he lived among his people and called them, again and again, to obey the laws and commands of Allah."
+        },
+        {
+          "t": "p",
+          "html": "This is why his prophethood can look almost offensively undramatic to readers who expect every messenger to arrive with a public wonder. No sea parted for Al-Yasa (AS). No giant fell before him, no throne was carried across a distance, and no whale rose from the deep. Those wonders belong to other prophets by the permission of Allah, and their absence from his record is not a defect in his rank. In a generation when tyrants killed prophets, the most dangerous ordinary thing a believer could do was remain in public on the straight path, saying what Ilyas (AS) had said, to the children of the people who had rejected Ilyas (AS)."
+        },
+        {
+          "t": "p",
+          "html": "Succession, in this light, is not a lesser epilogue after a greater life. It is a form of courage that rarely receives applause. Teachers pass, generations change, and corruption learns new names, yet the call of Allah must still be spoken in ordinary streets by someone willing to remain. The Quran has a settled honour for people who do what is right consistently, in public and in private, without an audience and without a miracle to silence their opponents. It counts Al-Yasa (AS) among those preferred over the worlds. Sometimes the continuation of truth looks less like a spectacle and more like a man who stayed."
         }
       ]
     },
@@ -118,12 +130,24 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Since heaven left us his character instead of his biography, it is worth reading the Quran's definition of the thing he embodied. Righteousness is not turning your faces toward the east or the west, Allah says. True righteousness is the one who believes in Allah, the Last Day, the angels, the Book and the prophets; who gives wealth, despite loving it, to relatives, orphans, the needy, the traveller and those who ask; who establishes prayer and gives zakah; who keeps his promise when he promises; and who is patient in poverty, in illness and in battle. Those are the ones who have been true. Those are the righteous.",
+          "html": "Since heaven has left us his rank more clearly than his biography, it is fitting to end by listening to the Quran describe the quality his name is made to carry. Righteousness, Allah teaches, is not merely turning faces toward the east or the west. True righteousness belongs to the one who believes in Allah, the Last Day, the angels, the Book and the prophets; who gives wealth, despite loving it, to relatives, orphans, the needy, the traveller and those who ask; who establishes prayer and gives zakah; who keeps a promise when he promises; and who is patient in poverty, in illness and in battle. Those are the ones who have been true, Allah says. Those are the righteous.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "That is the whole estate of Al-Yasa (AS), and it turns out to be more useful than a chronicle. Kings get biographies. Servants who stayed faithful through an unrecorded lifetime of tyrants get something better: they get summed up by Allah Himself in four words, all were among the best. There are people in every generation whose names never reach a history book: the teacher who keeps teaching, the elder who keeps praying, the neighbour who keeps his promise at cost to himself. Al-Yasa (AS) is their prophet, proof that heaven keeps a different ledger, and in heaven's ledger, showing up righteously for an unglamorous lifetime outranks almost everything."
+          "html": "Read slowly, that definition refuses to let righteousness become a direction, a costume or a reputation. It begins with belief hidden in the heart and then proves itself where life becomes costly. Wealth is given while the hand still loves it. Prayer is established when the day is crowded. Zakah is paid as a duty, not displayed as generosity. A promise is kept when breaking it would be easier and more profitable. Patience is held when poverty presses, when illness weakens the body and when conflict shakes the soul. The Quran does not describe righteousness as a mood that visits a person. It describes a life practiced until truthfulness becomes visible."
+        },
+        {
+          "t": "p",
+          "html": "These words are not presented as a list of public incidents from the days of Al-Yasa (AS), because revelation has not handed down such incidents for him. They are the Quran's own measure of righteous character, and Al-Yasa (AS) is honoured by name among the best. To read the measure beside his name is to understand why the absence of anecdotes does not leave him empty. Allah did not preserve for us the scenes of his days. He preserved the standard by which his days were judged and the verdict that he stood among the outstanding."
+        },
+        {
+          "t": "p",
+          "html": "Kings receive biographies because kingdoms keep records of power. Servants who remain faithful through an unrecorded lifetime under tyrants receive something better: a summary written by Allah Himself. All were among the best. There are people in every generation whose names never reach a history book: the teacher who keeps teaching when students drift away, the elder who keeps praying when strength is leaving him, the neighbour who keeps his promise at cost to himself. Al-Yasa (AS) stands as a prophet for such hidden faithfulness, proof that heaven keeps a different ledger. In that ledger, a righteous lifetime without applause is not a small life. It is a life Allah has chosen to make mankind remember."
+        },
+        {
+          "t": "p",
+          "html": "##"
         }
       ]
     }
