@@ -204,6 +204,91 @@ export const pearls = [
     lesson:
       'She watched until she had enough, and he never hurried her. That is what it looks like when someone loves your happiness as their own.',
   },
+  {
+    slug: 'khadijah-remembered',
+    title: 'He Never Stopped Saying Her Name',
+    teaser: 'Years after Khadijah was gone, her name was still on his tongue.',
+    category: 'Love',
+    era: 'Madinan Years',
+    order: 10,
+    source: {
+      label: 'Sahih al-Bukhari 3818',
+      url: 'https://sunnah.com/bukhari:3818',
+      narrator: 'Aisha (RA)',
+    },
+    body: [
+      'Aisha (RA) never met Khadijah (RA). Khadijah died before Aisha married the Prophet ﷺ. And yet Aisha said she was jealous of none of his wives the way she was jealous of Khadijah.',
+      'Why? Because he mentioned her very often. Whenever he slaughtered a sheep, he would cut it into portions and send them to Khadijah\u2019s women friends. Her friends, eating from his table, years after she was gone.',
+      'Once Aisha said to him, almost exasperated: it is as if there is no woman on earth except Khadijah! He answered quietly: Khadijah was such-and-such, and from her I had children.',
+      'He did not argue. He did not apologize for loving her. He simply kept her name alive, and kept honoring the people she had loved.',
+    ],
+    lesson:
+      'Long after she was gone, he still spoke her name and fed her friends. True love does not end at the grave.',
+  },
+
+  {
+    slug: 'same-cup',
+    title: 'Where Her Lips Had Been',
+    teaser: 'She handed him the cup, and he drank from where her lips had been.',
+    category: 'Love',
+    era: 'Madinan Years',
+    order: 11,
+    source: {
+      label: 'Sahih Muslim 300',
+      url: 'https://sunnah.com/muslim:300',
+      narrator: 'Aisha (RA)',
+    },
+    body: [
+      'Aisha (RA) tells us something so small it would be easy to miss, and so tender it is impossible to forget. When she was menstruating, she would drink from a vessel and hand it to the Prophet ﷺ. He would place his mouth exactly where hers had been, and drink.',
+      'She would eat meat from a bone and hand it to him, and he would put his mouth where hers had been.',
+      'In a state where others kept their distance, he drew closer. No disgust. No distance. Just a husband who wanted even his drink to touch the place her lips had touched.',
+    ],
+    lesson:
+      'She handed him the cup, and he drank from where her lips had been. Love does not keep its distance.',
+  },
+
+  {
+    slug: 'part-of-me',
+    title: 'A Part of Me',
+    teaser: 'Fatimah is a part of me, he said. Whoever angers her, angers me.',
+    category: 'Love',
+    era: 'Madinan Years',
+    order: 12,
+    source: {
+      label: 'Sahih al-Bukhari 3714',
+      url: 'https://sunnah.com/bukhari:3714',
+      narrator: 'Al-Miswar bin Makhrama (RA)',
+    },
+    body: [
+      'The Prophet ﷺ said it plainly, for everyone to hear: Fatimah is a part of me. Whoever angers her, angers me.',
+      'His daughter was not only beloved to him. She was part of him. Her hurt was his hurt. Her honor was his honor.',
+      'Ali (RA), who had married into this love, lived inside it. The man who held Fatimah\u2019s hand was holding a part of the Prophet ﷺ himself.',
+    ],
+    lesson:
+      'She was a part of him. To love someone that deeply is to feel their hurt as your own.',
+  },
+
+  {
+    slug: 'under-one-cloak',
+    title: 'Under One Cloak',
+    teaser: 'He wrapped Ali, Fatimah, Hasan and Husayn under his own cloak.',
+    category: 'Love',
+    era: 'Madinan Years',
+    order: 13,
+    source: {
+      label: 'Sahih Muslim 2424',
+      url: 'https://sunnah.com/muslim:2424',
+      narrator: 'Aisha (RA)',
+    },
+    body: [
+      'One morning the Prophet ﷺ went out wearing a striped cloak of black camel hair. Hasan (RA) came to him, and he wrapped him under it. Then Husayn (RA) came, and he wrapped him under it too.',
+      'Then Fatimah (RA) came, and he took her under it. Then Ali (RA) came, and he took him under it as well.',
+      'Four beloved people, gathered one by one under his own cloak. Then he said: O Allah, these are my household. And he recited the verse: Allah only wishes to remove all impurity from you, O people of the household, and to purify you completely.',
+      'He did not just pray for them from afar. He pulled them close first.',
+    ],
+    lesson:
+      'He gathered them under his own cloak, Ali among them, and asked Allah to purify them. Family, held close.',
+  },
 ];
 
 export const pearlOrder = pearls
