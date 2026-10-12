@@ -1479,6 +1479,7 @@ body::after {
 .pearl-ribbon { display: flex; gap: 18px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 10px 4px 22px; scrollbar-width: thin; }
 .pearl-ribbon-card { scroll-snap-align: start; flex: 0 0 290px; background: var(--card); border-radius: 14px; padding: 24px 22px; text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 8px; align-items: center; text-align: center; box-shadow: 0 4px 16px rgba(0,0,0,0.25); transition: transform 0.25s ease; }
 .pearl-ribbon-card:hover { transform: translateY(-4px); }
+.pearl-ribbon-card .pearl-cat { margin-top: auto; }
 .pearl-ribbon-card .pearl-emblem { width: 40px; height: 40px; }
 .pearl-ribbon-card .pearl-title { font-size: 1.3rem; }
 .pearl-ribbon-card .pearl-teaser { font-size: 0.9rem; }
