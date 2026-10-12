@@ -1435,7 +1435,7 @@ body::after {
 
 /* Pearls of the Seerah: timeline index */
 .pearl-index { max-width: 860px; margin: 0 auto; padding: 40px 22px 80px; }
-.pearl-index > p:first-child { text-align: center; }
+.pearl-plaque-row { text-align: center; }
 .pearl-index h1 { text-align: center; }
 .pearl-timeline { position: relative; margin-top: 44px; padding: 10px 0 30px; }
 .pearl-timeline::before { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 2px; margin-left: -1px; background: linear-gradient(var(--gold-light), var(--gold), var(--gold-light)); opacity: 0.7; }

@@ -19,7 +19,7 @@ export function PearlsIndex() {
   return (
     <main className="pearl-index">
       <Headpiece />
-      <p className="reveal">
+      <p className="reveal pearl-plaque-row">
         <span className="chapter-plaque">Qasas ul-Huda</span>
       </p>
       <p className="kicker reveal" data-delay="1">Short stories, verified</p>
