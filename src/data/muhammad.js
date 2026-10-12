@@ -50,6 +50,14 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "The Arabs of that time named their years after the great events that marked them, and this year carried the name of the elephant that had marched on Makkah. Muhammad ﷺ was born on a Monday, the twelfth of Rabi al-Awwal, in the year we now count as 570. His mother was Aminah, daughter of Wahb, of the family of Zahrah. His father was Abdullah, son of Abdul Muttalib, and Abdullah had died while Aminah was still carrying the child. So the boy who would be called the final messenger entered the world with no father to hold him, and the line of his fathers was counted back, generation upon generation, to Ismail, son of Ibrahim (AS), some forty links in the chain."
+        },
+        {
+          "t": "p",
+          "html": "There is something deliberate in the pairing that this story keeps returning to. In the same year that Allah broke an army before it could touch the House, He placed inside that city the child through whom the House would be cleansed. The birds had defended the stones. The child would defend the meaning of the stones. Makkah did not know it yet, but the two great mercies of that year belonged together: protection from without, and purification from within."
+        },
+        {
+          "t": "p",
           "html": "In that protected year, Muhammad ﷺ was born into Banu Hashim of Quraysh. His father Abdullah had died while Amina was carrying him, so he entered the world already fatherless, inside a clan of honour but without the first shelter most children know. By the custom of Makkah, infants of notable families were sent to the desert for cleaner air, stronger speech, and hardier bodies. Muhammad ﷺ was placed with Halima of Banu Sa'd, and the years in the desert became part of the quiet preparation of a life that would be marked by loss, truthfulness, and trust. There was no palace guarding the cradle of the final prophet. There was a bereaved mother, a clan watching its standing, and a child carried toward a foster home while heaven's promise moved unseen."
         },
         {
@@ -119,6 +127,30 @@ export const chapter = {
           "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ وَوَضَعْنَا عَنكَ وِزْرَكَ ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ وَرَفَعْنَا لَكَ ذِكْرَكَ",
           "translation": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=197780>1</sup> And We removed from you your burden<sup foot_note=197781>1</sup> Which had weighed upon your back And raised high for you your repute.",
           "citation": "Surah 94 &middot; Verses 1-4 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "When Muhammad ﷺ was twelve, his uncle Abu Talib took him on a trading journey to Syria, and they travelled as far as Busra. There a Christian monk named Bahira met the boy and studied him long, and he is reported to have warned Abu Talib to take the boy home and guard him well, for a great future awaited his nephew. The caravan returned to Makkah, and the boy went back to the ordinary work of his uncle's house. Abu Talib, like the rest of Banu Hashim, had lost much of his wealth, and Muhammad ﷺ spent part of his youth watching his uncle's flocks in the hills around the city."
+        },
+        {
+          "t": "p",
+          "html": "He grew up watching his city closely, and much of what he saw grieved him. At the great fair of Ukaz, tribes gathered for poetry and trade, and the gatherings often collapsed into sudden quarrels and bloodshed. The Quraysh prided themselves on their idols and customs, while strangers in Makkah could be robbed of their goods and even of their families with no one to defend them. The young Muhammad ﷺ, known for correct manners and a purity of conduct rare among his people, felt the misery of it in his heart. The city agreed on one thing about him: he could be trusted. By common consent they gave him the name al-Amin, the Trustworthy."
+        },
+        {
+          "t": "p",
+          "html": "At twenty five he travelled to Syria again, this time as the trusted agent of Khadijah, a noble and wealthy widow of Quraysh. He managed her goods with the same honesty he brought to everything, returned with profit, and soon after, Khadijah offered him marriage. She was his senior by years, but the marriage proved singularly happy, and for twenty five years she remained his only wife. She gave him a loving heart that consoled him in despair and kept the flame of hope alive in him when no man believed in him and the world looked dark in his eyes."
+        },
+        {
+          "t": "p",
+          "html": "Before prophethood he was already spending his standing for the weak. When a wronged stranger found no justice in Makkah, Muhammad ﷺ helped revive an old league called the Federation of Fudul, a pact to defend every oppressed person, whether Meccan or stranger, free or slave, against any wrong done within the territories of Makkah. And when he was thirty five and the Quraysh rebuilt the Kaaba, the tribes nearly went to war over who should lift the Black Stone into its place. They agreed to accept the judgement of the first man to enter by a certain gate. The first man was Muhammad, al-Amin. He spread a cloth, set the stone upon it, and had each tribe take hold of a side and lift together. The honour was shared, the swords stayed sheathed, and the House was completed in peace."
+        },
+        {
+          "t": "p",
+          "html": "His house also knew mercy in private. Khadijah had given him a young servant named Zayd ibn Haritha, who had been brought captive to Makkah and sold. When Zayd's father arrived with ransom money, Muhammad ﷺ said: let Zayd come here, and if he chooses to go with you, take him without ransom, but if he chooses to stay with me, why should I not keep him? Zayd chose to stay. Muhammad ﷺ took him by the hand to the Black Stone and announced before the people that Zayd was his son, and the father went home satisfied. And when Abu Talib later fell into hardship, Muhammad ﷺ, now comfortable through Khadijah, took the man's young son Ali into his own house to raise, and later took another son, Aqil. The orphan was now sheltering the children of his guardian."
+        },
+        {
+          "t": "p",
+          "html": "Khadijah bore him three sons and four daughters. All three sons died in childhood, and in loving Ali he found consolation. These are nearly all the public acts recorded of his first fifteen years of marriage. His private life was what the city already knew: helpful to the needy, loyal to his uncle's house, and true in every trust. When revelation came, it did not come to a stranger. It came to al-Amin."
         },
         {
           "t": "p",
@@ -223,6 +255,14 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "Before the seclusion, there were dreams. The first signs came as true dreams, clear as the break of daylight, and then Allah placed in his heart the love of solitude. He would take provisions for days at a time and climb to the small cave on Mount Hira, a few miles from Makkah, and sit in worship of Allah alone. Sometimes he went with his family. Sometimes he went alone and spent whole nights in deep thought, looking down at a city loud with idols and trade and tribal pride, and lifting his heart to the Unseen who knows all."
+        },
+        {
+          "t": "p",
+          "html": "Waraqa did not live long after that night, but his last wish stayed with the story. The old scholar, blind and bent over his books, had kissed the younger man on the forehead and said he wished he could be alive and strong on the day Muhammad ﷺ would be driven out by his people, so that he could stand and fight beside him. Then Waraqa died, and after him the revelation paused for a while. The silence weighed heavily on Muhammad ﷺ, until the command came that moved him from the cave to the city: arise and warn."
+        },
+        {
+          "t": "p",
           "html": "Muhammad ﷺ returned with his heart beating hard and came to Khadijah (RA). He said: Cover me, cover me. When the trembling eased, he told her what had happened and said that he feared something might happen to him. Khadijah (RA) answered with the certainty of a woman who had measured the man before she heard the claim. She said that Allah would never disgrace him, because he kept ties with kin, helped the poor and destitute, served guests generously, and assisted those struck by calamity. She did not demand a sign before believing the truthful one she already knew."
         },
         {
@@ -246,6 +286,10 @@ export const chapter = {
           "narrator": "Reported by Abdullah ibn Ja`far, from Ali",
           "href": "https://sunnah.com/muslim:2430",
           "label": "Sahih Muslim 2430 &middot; sunnah.com"
+        },
+        {
+          "t": "p",
+          "html": "Those years of withdrawal had their own weight. Below him lay a country torn by the wars of tribes, and a city sunk in the worship of idols, rites, and superstitions, with all the old desert virtues curdled into lawlessness and cruelty. His two journeys to Syria had shown him the wider world tearing itself apart over rival creeds, the hatred spilling into the valleys of Hijaz. He did not withdraw because he despised his people. He withdrew because a heart about to carry revelation needed quiet first, and because pity, if it is real, must sometimes climb a mountain to learn how to descend again."
         },
         {
           "t": "p",
@@ -295,6 +339,10 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "The persecution was not only decrees and boycotts. It followed him into the street. Quraysh barred him from praying at the Kaaba, pursued him where he walked, threw dirt and filth over him and his companions while they prayed, and scattered thorns in the paths where he went for devotion. Through all of it he did not waver and did not answer filth with filth. He kept his confidence in the mission even when his life was in open danger, and the faith, against every effort to stamp it out, kept gaining ground."
+        },
+        {
+          "t": "p",
           "html": "When the message was proclaimed openly, mockery came first, then offers, then pressure against the weak, then boycott and hunger for Banu Hashim and Banu Muttalib in the ravine. Allah told Muhammad ﷺ to proclaim what he was commanded, turn away from the idolaters, and rest in the sufficiency of Allah against the mockers who set up another god beside Him. Revelation did not promise its bearer a painless road. It promised him the company of Allah upon it."
         },
         {
@@ -303,6 +351,30 @@ export const chapter = {
           "arabic": "فَٱصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ ٱلْمُشْرِكِينَ إِنَّا كَفَيْنَـٰكَ ٱلْمُسْتَهْزِءِينَ ٱلَّذِينَ يَجْعَلُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۚ فَسَوْفَ يَعْلَمُونَ",
           "translation": "Then declare what you are commanded<sup foot_note=196603>1</sup> and turn away from the polytheists.<sup foot_note=196602>2</sup> Indeed, We are sufficient for you against the mockers Who make [equal] with Allāh another deity. But they are going to know.",
           "citation": "Surah 15 &middot; Verses 94-96 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Quraysh tried to buy him first. They sent Utba ibn Rabi'a, a man of standing, with an open offer: if Muhammad ﷺ wanted riches, they would gather for him a fortune greater than any man's in Makkah; if he wanted honour, they would make him their chief and do nothing without him; if he wanted dominion, they would make him their king; and if some spirit possessed him, they would fetch doctors and pay them until he was cured. Muhammad ﷺ listened to the whole of it without interrupting, then said: now listen to me. And he recited the opening of Surah Fussilat, about a revelation from the Most Merciful, giving glad tidings and warning, and the fate of Ad and Thamud who had turned away. When he finished he said: that is my reply to your offer. Choose what course you will."
+        },
+        {
+          "t": "p",
+          "html": "When the pressure moved to his uncle, Abu Talib spoke to him gently and asked him to spare them both this trial. Muhammad ﷺ answered with words that Makkah never forgot: O my uncle, if they placed the sun in my right hand and the moon in my left to make me abandon this matter, I would not abandon it until Allah made it prevail or I perished in the attempt. Then, overcome by the thought that his uncle and protector might desert him, he turned to depart. Abu Talib called him back loudly and said: say whatever you please, for by the Lord, I shall never desert you."
+        },
+        {
+          "t": "p",
+          "html": "Then came two conversions that changed the balance of the city. Hamza, the Prophet's uncle, a hunter and a man of famous courage, accepted Islam and became its lion in battle, the one the Muslims would honour as the Lion of Allah. And Umar ibn al-Khattab, who had set out in anger meaning harm to his own sister for becoming Muslim, heard the Quran recited in her house and was overcome by it. The fierce opponent became a fearless believer, and the Muslims, who had prayed in hiding, began to pray openly."
+        },
+        {
+          "t": "p",
+          "html": "When the suffering of the unprotected became unbearable, Muhammad ﷺ pointed them to Abyssinia, where a Christian king, the Negus, was known for justice and mercy. About fifteen crossed the sea first, and more followed until they numbered eighty three men and eighteen women. Quraysh sent envoys demanding their return. The Negus summoned the refugees and asked what this new religion was. Ja'far ibn Abi Talib stood and spoke for them: we were a people sunk in ignorance, worshipping idols, eating carrion, careless of our neighbours, ruled only by the strong, until Allah raised among us a man whose truthfulness and purity we knew. He called us to worship Allah alone, to speak truth, keep trusts, show mercy, honour neighbours, pray, give charity, and fast. For this our people persecute us. The king heard him out and sent the envoys of Quraysh back empty handed, and the exiles lived in his land in peace and comfort."
+        },
+        {
+          "t": "p",
+          "html": "Quraysh answered with the boycott. In the seventh year of the mission they wrote a covenant against Banu Hashim and Banu Muttalib: no marriage with them, no trade with them, no dealings of any kind until Muhammad ﷺ was handed over. The two clans withdrew to a ravine on the edge of Makkah and lived there for three years. Their provisions ran out, and only occasional help from kinder hearts kept them from perishing. Then, through the efforts of men whose consciences woke, the covenant was broken and the families returned to Makkah. But Abu Talib, who had shielded Muhammad ﷺ through it all, was failing, and Khadijah, his comfort, was failing too."
+        },
+        {
+          "t": "p",
+          "html": "Even in those years he did not stop calling. In the pilgrimage season he walked among the tents of the tribes, inviting them to Allah. Quraysh sent men ahead of him on the roads to warn the strangers first: do not listen to him, he is a dangerous magician who divides families. But the travellers carried home the very news Quraysh wanted buried: that a man in Makkah was calling people, at the risk of his own life, to abandon their idols."
         },
         {
           "t": "p",
@@ -370,7 +442,23 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "The journey was full of signs, and one of them was a choice. Vessels were brought before him: one of wine, one of milk, one of honey. Muhammad ﷺ took the milk, and Jibreel said: you have chosen the natural way, the way of Islam, for yourself and your people. Then he was raised through the heavens, and at each gate the angels asked who came, and Jibreel answered: Muhammad, and he has been called. At each heaven a prophet of Allah greeted him: Adam in the first, Yahya and Isa in the second, Yusuf in the third, Idris in the fourth, Harun in the fifth, Musa in the sixth, and Ibrahim in the seventh. Each welcomed him as a righteous brother, and Adam and Ibrahim welcomed him as a righteous son."
+        },
+        {
+          "t": "p",
+          "html": "Then he was brought to the Lote Tree of the Utmost Boundary, beyond which no creature passes. Its fruits hung like great jars and its leaves spread wide like the ears of elephants. Four rivers ran beneath it: two hidden, which are rivers of Paradise, and two seen, the Nile and the Euphrates. There the sight of Muhammad ﷺ did not swerve and did not overstep its limit, and he saw of the greatest signs of his Lord."
+        },
+        {
+          "t": "p",
+          "html": "When morning came in Makkah and he told what had happened, the mockers laughed and some doubters turned back. Abu Bakr was asked: do you believe your companion claims he went to Jerusalem and back in a single night? He said: if he said it, then it is true. From that day the believers called him As-Siddiq, the great confirmer of truth, and the Night Journey became a line drawn between those who measured revelation by their own reach and those who measured their reach by revelation."
+        },
+        {
+          "t": "p",
           "html": "On that journey fifty daily prayers were prescribed. Musa (AS), knowing the weakness of communities, counselled Muhammad ﷺ to return and ask for reduction. The number was lessened again and again until five remained with the reward of fifty. When the report reached Makkah, mockers tried to make it a trap for belief. Abu Bakr (RA) answered with the loyalty that earned him the name As-Siddiq: if Muhammad ﷺ had said it, then it was true. The Night Journey sorted belief from bargaining in a single morning, and prayer entered the community as a gift carried down from an ascent no enemy could follow."
+        },
+        {
+          "t": "p",
+          "html": "The gift of prayer came through a negotiation that shows the mercy inside the command. Fifty prayers a day were first enjoined, and on his way back Muhammad ﷺ passed Musa, who knew the weakness of communities from long experience. Go back and ask for less, Musa counselled, for your people cannot bear it. He went back, and ten were lifted. Again Musa counselled him, and again he returned, until five remained. When Musa counselled him once more, Muhammad ﷺ said: I have asked my Lord again and again, and now I am ashamed to ask further; I am satisfied and I submit. Then a voice declared: My order is passed, and I have lightened the burden of My worshippers. Five prayers remained, with the reward of fifty."
         },
         {
           "t": "p",
@@ -409,7 +497,35 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "The road to Madinah had been prepared before the Hijrah, pledge by pledge. In the twelfth year of the mission, twelve men of Yathrib met Muhammad ﷺ at Aqaba and gave him their oath: they would worship none but Allah, steal nothing, commit no adultery, kill no children, forge no lies, and obey him in what is right. He sent Mus'ab ibn Umayr back with them to teach, and Mus'ab taught so well that hardly a house in Yathrib remained without Muslims in it."
+        },
+        {
+          "t": "p",
+          "html": "The next year, seventy three men and two women came in the pilgrimage season and met him by night at the same place. His uncle al-Abbas, not yet a Muslim but loyal to his blood, came with him and warned the men of Yathrib plainly: do not take him unless you will protect him as you protect your own wives and families. They pledged to worship Allah alone, obey the Prophet in what is right, and defend him. They asked: what do we receive if we are killed in this cause? He said: Paradise. They said: we accept. He chose twelve of them as his deputies, and the people of Yathrib went home to wait for him."
+        },
+        {
+          "t": "p",
+          "html": "Makkah decided on murder. The chiefs agreed that one young man should be taken from every tribe, and all should strike together, so that the guilt would rest on all tribes equally and Banu Hashim could never take revenge. On the appointed night the assassins ringed his house and watched, waiting to strike at dawn. Muhammad ﷺ had been warned. He told Ali to sleep in his bed, wrapped in his green cloak, and he himself slipped out past them. They watched the sleeping figure till morning, and when Ali rose, they knew they had been outwitted. Quraysh set a price of a hundred camels on the fugitive's head."
+        },
+        {
+          "t": "p",
+          "html": "One hunter took the prize seriously. Suraqa ibn Malik rode out after the two travellers, and as he closed in, his horse stumbled and threw him. He cast his divining arrows to ask whether he should go on, and the arrows forbade him, but he rode on regardless. Then the forelegs of his horse sank into the earth up to the knees, and when the animal rose, its hooves threw dust into the sky like smoke. Suraqa called out for safety. When the two stopped, he told them of the reward on their heads and offered them provisions for the road. They refused to take anything and asked only one thing: do not tell anyone about us. Then, at his request, a written promise of safety was given to him on a parchment, and the hunter rode home while the hunted went on."
+        },
+        {
+          "t": "p",
+          "html": "The people of Madinah had been walking out to the lava fields every morning, watching for him until the noon heat drove them back. One day a man on a rooftop saw two figures in white emerging from the desert haze and shouted at the top of his voice: O Arabs, here is the great man you have been waiting for. They received him at Quba, where he stayed ten nights and raised a mosque, the mosque founded on piety. He carried the unbaked bricks with his own hands, saying: O Allah, the true reward is the reward of the Hereafter, so show mercy to the Helpers and the Emigrants."
+        },
+        {
+          "t": "p",
+          "html": "Then his camel carried him into Madinah and knelt at last on a yard where dates were dried, belonging to two orphan boys in the care of As'ad ibn Zurara. Muhammad ﷺ said: this place, Allah willing, will be our abiding place. He insisted on paying the boys its price, and there he built his mosque, and beside it the small rooms that would be his home. He joined the Emigrants and the Helpers in brotherhood, pairing man with man as closely as brothers born of the same parents, with himself as their guardian. And he wrote a charter for the city: the believers are one nation; the Jews who join them keep their religion freely and share in the defence; the wrongdoer is pursued though he be the nearest of kin; and every dispute is brought to Allah and His Messenger."
+        },
+        {
+          "t": "p",
           "html": "Madinah received more than refugees fleeing danger. Muhammad ﷺ helped raise the mosque, established covenants among tribes, and bound the Emigrants and the Helpers in a brotherhood that reached into houses, harvests, debts, marriages, and daily care. The community was not built by victory first. It was built by prayer in common, rights written down, disputes carried to a just centre, and men and women made responsible for one another before Allah. The Islamic calendar begins with the Hijrah because the message had found a home where it could become a society. In Makkah the believers had been formed by endurance. In Madinah they would be formed by trust."
+        },
+        {
+          "t": "p",
+          "html": "Not everyone in Madinah was sincere. Among the Helpers were lukewarm converts who kept a hidden fondness for the old ways, led by Abdullah ibn Ubayy, a man of some standing in the city. They joined Islam openly but worked against it quietly, and they were a source of real danger to the newborn community, needing constant watchfulness. Toward them Muhammad ﷺ always showed patience and forbearance, hoping in the end to win them over. The community would be held together by justice and mercy, not by hunting for hypocrites."
         },
         {
           "t": "p",
@@ -444,6 +560,10 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "Even the gains of victory were ordered by revelation. After Badr the division of the spoils caused dispute among the warriors, and the Prophet divided it equally among all for the moment. Then a rule came down for all time: a fifth set aside for the public treasury and the poor and needy, and the rest left to the discretion of the head of the state. War in this community would never be a private business. Its gains belonged to a trust, and the trust had rules."
+        },
+        {
+          "t": "p",
           "html": "Uhud taught the harder lesson. Allah had fulfilled His promise while the believers held to obedience, but when courage faltered, dispute appeared, and the archers left their position after seeing what they desired, the day turned. Some wanted the world and some wanted the Hereafter, and Allah turned them back as a test, then forgave them. The wounded community learned that revelation does not make obedience optional after an early success. A command remains a command when spoils glitter, and defeat can become instruction when a community refuses to hide from its own fault."
         },
         {
@@ -474,6 +594,22 @@ export const chapter = {
           "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًا مُّسْتَقِيمًا",
           "translation": "Indeed, We have given you, [O Muḥammad], a clear conquest<sup foot_note=197389>1</sup> That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path",
           "citation": "Surah 48 &middot; Verses 1-2 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "At Badr the numbers told the whole story: a thousand men of Quraysh against a little over three hundred believers, most of them on foot. The Muslims took the wells and the valley, and Allah sent down calm and unseen help. When it was over, the prisoners were treated in a way Arabia had never seen. Muhammad ﷺ gave strict orders that kindness be shown to them, and the order was kept so faithfully that one prisoner later said: blessing be on the men of Madinah, they made us ride while they themselves walked, and they gave us wheat bread to eat while they contented themselves with dates."
+        },
+        {
+          "t": "p",
+          "html": "Uhud came a year later, and it came as a wound. Quraysh marched with three thousand men under Abu Sufyan. Muhammad ﷺ set out with a thousand, but Abdullah ibn Ubayy turned back with three hundred waverers, leaving seven hundred. At the mountain the Prophet placed fifty archers on the hill behind the army and commanded them: do not leave your post even if you see birds snatching at us. The Muslims had the better of the fighting at first, and then the archers saw the enemy fleeing and the spoils lying open, and most of them ran down for the plunder. The enemy horsemen swept round the hill and struck from behind. Seventy Muslims fell, among them Hamza, and the Prophet himself was struck in the face and wounded. When Abu Sufyan shouted his triumph and called on his idols, Muhammad ﷺ told his companions to answer: Allah is Higher and more Sublime, and Allah is our Helper and you have no helper."
+        },
+        {
+          "t": "p",
+          "html": "Then came the confederates: ten thousand men marching on Madinah, Quraysh and their allies together, while the Muslims could gather only three thousand. On the counsel of Salman they dug a deep trench across the open ground before the city, a kind of defence Arabia had never used. For twenty days the great army stared at a ditch it could not cross, while cold and hunger ate at its camp. Then a night wind tore at their tents, put out their fires, and filled the camp with confusion. By morning the confederates were gone, and the trench had won without a pitched battle."
+        },
+        {
+          "t": "p",
+          "html": "Six years after the Hijrah, Muhammad ﷺ set out for Makkah with his companions unarmed, in pilgrim dress, to visit the House. Quraysh barred the road. At Hudaybiyyah a treaty was written: no fighting for ten years, the Muslims would turn back that year and return for pilgrimage the next, and any tribe might join either side freely. Many companions felt the terms as a humiliation. But beneath a tree the believers gave Muhammad ﷺ their pledge, and Allah sent down calm into their hearts. The Quran named that treaty a clear victory, and the years of peace that followed carried Islam further than the swords had done."
         },
         {
           "t": "p",
@@ -534,6 +670,30 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "From Madinah the call went out to kings. To Heraclius, the emperor of Rome, Muhammad ﷺ sent a letter inviting him to Islam. Heraclius summoned Abu Sufyan, who was trading in Syria, and questioned him closely: is his family noble among you? Has any man before him claimed this? Was any ancestor of his a king? Do the rich follow him or the poor? Are his followers growing or shrinking? Does any man leave his religion after entering it? Was he ever accused of lying before his claim? Does he break his promises? Abu Sufyan, who hated Muhammad ﷺ in those days, could only answer: a noble family, no, no, the poor follow him, they increase, none leave, he never lied, he never betrays. Heraclius said: if what you say is true, he will soon hold the ground beneath my feet. I knew from the scriptures that a prophet was to come, though I did not know he would come from among you. If I could reach him, I would wash his feet."
+        },
+        {
+          "t": "p",
+          "html": "To Chosroes, the king of Persia, the letter met a very different hand. He tore it to pieces and drove the envoy from his presence in contempt. When the news reached Muhammad ﷺ, he said calmly: thus will the empire of Chosroes be torn to pieces. The king who tore the letter did not know he was pronouncing the verdict on his own throne."
+        },
+        {
+          "t": "p",
+          "html": "When Quraysh's allies broke the treaty by attacking Khuza'ah, the allies of the Muslims, Muhammad ﷺ marched on Makkah with ten thousand men. At Marr az-Zahran, a day's march from the city, the campfires of the army lit the night like the fires of Arafat. Abu Sufyan came out to look and was brought before Muhammad ﷺ, and there, seeing the end of everything he had fought for, he pronounced the testimony and entered Islam. In the morning the army moved in its tribes, and Muhammad ﷺ said: today Allah will give honour to the Kaaba, and today the Kaaba will be clothed. He entered with his head bowed low on his camel, reciting the opening of Surah al-Fath."
+        },
+        {
+          "t": "p",
+          "html": "The city that had boycotted him, driven him out, and hunted him now lay open before him, and the old persecutors waited to learn their fate. He granted them a general amnesty. Then he turned to the idols. Three hundred and fifty figures stood in and around the House, and they were brought down one by one while he said: truth has come and falsehood has vanished, for falsehood is ever vanishing. He spoke to the people of the brotherhood of mankind from the Quran: O mankind, We created you from male and female and made you nations and tribes that you may know one another; the noblest of you with Allah is the most conscious of Him."
+        },
+        {
+          "t": "p",
+          "html": "After Makkah came Hunayn, where the Hawazin and Thaqif gathered against him and were defeated. Their families and flocks were taken, and a deputation came begging for their return. Muhammad ﷺ gave back his own share and the share of his clan, and said he could not force his companions to give up theirs. His companions, seeing his example, gave back theirs too, and men who had come as enemies left as Muslims. Even Taif, the city that had stoned him, later sent men asking to enter Islam. They begged to keep their idol al-Lat for a while, even for a single month. He refused: Islam and the idols cannot stand together. They submitted, and the idol was destroyed."
+        },
+        {
+          "t": "p",
+          "html": "The ninth year after the Hijrah was called the Year of Embassies, for the tribes of Arabia came to Madinah in delegation after delegation to pledge allegiance. Among them came the daughter of Hatim at-Ta'i, the chief famous through Arabia for generosity. Her brother had fled; she stood captive and asked for her freedom, speaking of her father's honour to prisoners, his feeding of the poor, his open ear to every appeal. Muhammad ﷺ said: your father had the character of a true Muslim. The daughter of Hatim is free, for her father was generous and humane, and Allah loves the merciful. He freed her and her people with her, and she went and brought her brother, and the whole tribe entered Islam. He sent teachers back with the returning tribes, and his instruction to them was always the same: deal gently with people and do not be harsh; give them good news and do not drive them away."
+        },
+        {
+          "t": "p",
           "html": "The conquest of Makkah gathered all the earlier scenes into one test. The orphan who had left in the night now returned with an army. The clan that had boycotted him waited inside the city he had been forced to leave. The sanctuary filled with idols stood before the man who had prayed in a cave because those idols offended the truth. Customs of Arabia would have understood revenge. Muhammad ﷺ chose pardon for the general people, purification of the House, and gratitude to Allah. At the Farewell Pilgrimage he then fixed the moral order for those who would remain after him: blood and property are sacred, trusts must be returned, women are a trust to be treated with good, and nobility is by righteousness rather than descent."
         },
         {
@@ -591,6 +751,10 @@ export const chapter = {
         },
         {
           "t": "p",
+          "html": "Until three days before his death he still led the public prayers when strength allowed. When the illness confined him, he asked his wives for leave to be nursed in the room of Aisha, close to the mosque, and they all agreed. He appointed Abu Bakr to lead the people in his place. The community that had once hidden to pray in Makkah now prayed behind the man the Prophet himself had chosen, in the mosque the Prophet himself had built with his own hands."
+        },
+        {
+          "t": "p",
           "html": "Allah had also addressed the end plainly to Muhammad ﷺ himself: indeed, you will die, and indeed, they will die. Prophethood did not remove him from the human road. It made his trust, patience, and obedience a pattern for everyone who must walk the same road after him, from the cave of Hira to the room in Madinah where the final words were heard."
         },
         {
@@ -621,6 +785,22 @@ export const chapter = {
           "arabic": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
           "translation": "Indeed, Allāh confers blessing upon the Prophet, and His angels [ask Him to do so]. O you who have believed, ask [Allāh to confer] blessing upon him and ask [Allāh to grant him] peace.",
           "citation": "Surah 33 &middot; Verse 56 &middot; Saheeh International"
+        },
+        {
+          "t": "p",
+          "html": "Before the end, he stood on Arafat before more than a hundred thousand pilgrims and spoke the farewell sermon. He began: O people, listen to my words, for I do not know whether I shall meet you again in this place after this year. Your lives and your property are sacred among you until you meet your Lord, as this day and this month are sacred. You have rights over your wives and they have rights over you. Feed your servants as you feed yourselves and clothe them as you clothe yourselves. All Muslims are brothers; no man may take his brother's wealth except with his willing consent. Keep yourselves from injustice. Let those present convey it to those absent, for the one who hears it later may understand it better than the one who hears it now. Then he lifted his face and said: O Lord, have I conveyed the message? The multitude cried with one voice: yes, you have. He said: O Lord, bear witness."
+        },
+        {
+          "t": "p",
+          "html": "In his last days he asked to be nursed in the room of Aisha, close to the mosque, and while strength remained he still came out to lead the prayer. The last time he addressed the people he said: O Muslims, if I have wronged any one of you, here I am, let him claim his right. If I owe anything to anyone, all I possess is at your service. A man stood and claimed three dirhams he had once given to a poor man at the Prophet's request. The coins were paid on the spot, and Muhammad ﷺ said: better to face it in this world than in the next. Then he reminded them of prayer and of kindness to those under their care, and went back into the house."
+        },
+        {
+          "t": "p",
+          "html": "When he died with his head resting against Aisha, the news broke over Madinah like a storm. Umar stood in the mosque and refused it: he is not dead, he will return to us. Then Abu Bakr came, went into the house, and stood over the body of his friend with profound affection. He came out to the people with the words that steadied the community: whoever worshipped Muhammad, let him know that Muhammad is dead; whoever worshipped Allah, let him know that Allah lives and never dies. And he recited the verse: Muhammad is only a messenger; messengers have passed away before him. If he dies or is killed, will you turn back on your heels? Umar later said it was as if he had never heard the verse until Abu Bakr recited it that day."
+        },
+        {
+          "t": "p",
+          "html": "They buried him where he had died, in the room of Aisha, for Abu Bakr recalled that he had heard the Prophet say that a prophet is buried at the spot where Allah takes his soul. Al-Abbas oversaw the washing and perfuming, and the companions performed the rites over him, and he was laid in the earth beneath the very bed on which he had died. The orphan of Banu Hashim, the shepherd, the merchant, the husband of Khadijah, the man of the cave, the fugitive of Thawr, the lawgiver of Madinah, the conqueror who forgave: the earth of Madinah received him, and the message remained."
         },
         {
           "t": "p",
