@@ -60,6 +60,55 @@ function fjStar(cx, cy, r) {
   return pts.join(' ');
 }
 
+/* Small four-point sparkle shape */
+function fjSparkle(cx, cy, r) {
+  const k = r * 0.26;
+  return (
+    cx + ',' + (cy - r) + ' ' + (cx + k) + ',' + (cy - k) + ' ' + (cx + r) + ',' + cy + ' ' +
+    (cx + k) + ',' + (cy + k) + ' ' + cx + ',' + (cy + r) + ' ' + (cx - k) + ',' + (cy + k) + ' ' +
+    (cx - r) + ',' + cy + ' ' + (cx - k) + ',' + (cy - k)
+  );
+}
+
+/* Deterministic twinkling stars in the sky band, kept clear of the station medallions */
+const FJ_SKY_STARS = (() => {
+  let s = 42;
+  const rnd = () => {
+    s = (s * 1664525 + 1013904223) >>> 0;
+    return s / 4294967296;
+  };
+  const pts = [];
+  let guard = 0;
+  while (pts.length < 26 && guard++ < 400) {
+    const x = 30 + rnd() * 1140;
+    const y = 62 + rnd() * 165;
+    const nearStation =
+      (x > 150 && x < 310 && y < 210) || (x > 570 && x < 730 && y < 210) || (x > 930 && x < 1090 && y < 210);
+    if (nearStation) continue;
+    pts.push({
+      x: Math.round(x),
+      y: Math.round(y),
+      r: (1 + rnd() * 1.7).toFixed(1),
+      delay: (rnd() * 6).toFixed(2),
+      dur: (2.4 + rnd() * 3.2).toFixed(2),
+    });
+  }
+  return pts;
+})();
+
+/* Sparkles hovering just above the winding path */
+const FJ_SPARKS = [
+  { x: 162, y: 366, r: 7 }, { x: 287, y: 366, r: 5 }, { x: 412, y: 366, r: 7 },
+  { x: 537, y: 366, r: 5 }, { x: 662, y: 366, r: 7 }, { x: 787, y: 366, r: 5 },
+  { x: 912, y: 366, r: 7 }, { x: 1037, y: 366, r: 5 },
+];
+
+/* Slow-drifting firefly motes */
+const FJ_MOTES = [
+  { x: 200, y: 480, r: 3, delay: 0 }, { x: 520, y: 300, r: 2.5, delay: 2.4 },
+  { x: 880, y: 480, r: 3, delay: 4.1 }, { x: 1080, y: 300, r: 2.5, delay: 1.2 },
+];
+
 function FoundationsJourney() {
   const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
   const stops = foundationOrder.map((slug, i) => ({
@@ -86,6 +135,7 @@ function FoundationsJourney() {
   ];
   return (
     <div className="fj reveal" data-delay="3">
+      <div className="fj-inner">
       <svg className="fj-svg" viewBox="0 0 1200 580" role="list" aria-label="Foundations articles along the journey path">
         <defs>
           <filter id="fj-glow" x="-60%" y="-60%" width="220%" height="220%">
@@ -96,8 +146,33 @@ function FoundationsJourney() {
             </feMerge>
           </filter>
         </defs>
+        <g aria-hidden="true">
+          {FJ_SKY_STARS.map((t, i) => (
+            <circle
+              key={i}
+              cx={t.x}
+              cy={t.y}
+              r={t.r}
+              className="fj-tw"
+              style={{ animationDelay: t.delay + 's', animationDuration: t.dur + 's' }}
+            />
+          ))}
+        </g>
         <path className="fj-path-under" d={d} aria-hidden="true" />
         <path className="fj-path" d={d} aria-hidden="true" filter="url(#fj-glow)" />
+        <path className="fj-shimmer" d={d} aria-hidden="true" />
+        <g aria-hidden="true">
+          {FJ_MOTES.map((m, i) => (
+            <circle
+              key={i}
+              cx={m.x}
+              cy={m.y}
+              r={m.r}
+              className="fj-mote"
+              style={{ animationDelay: m.delay + 's' }}
+            />
+          ))}
+        </g>
         {stations.map((s) => (
           <g key={s.name} aria-hidden="true">
             <line x1={s.x} y1={172} x2={s.x} y2={248} className="fj-link" />
@@ -140,6 +215,16 @@ function FoundationsJourney() {
             ))}
           </a>
         ))}
+        <g aria-hidden="true">
+          {FJ_SPARKS.map((sp, i) => (
+            <polygon
+              key={i}
+              points={fjSparkle(sp.x, sp.y, sp.r)}
+              className="fj-spark"
+              style={{ animationDelay: (i * 0.7).toFixed(2) + 's' }}
+            />
+          ))}
+        </g>
       </svg>
       <div className="fj-list">
         {groups.map((group) => (
@@ -166,6 +251,7 @@ function FoundationsJourney() {
         ))}
       </div>
       <p className="fj-cap">Nine articles in three families</p>
+      </div>
     </div>
   );
 }
@@ -314,8 +400,8 @@ export function HomePage() {
               Short articles on the essentials every story stands on, each one verified from the Quran and authentic
               hadith before it is set down.
             </p>
-            <FoundationsJourney />
           </div>
+          <FoundationsJourney />
         </section>
 
         <section className="section" id="caliphs">
