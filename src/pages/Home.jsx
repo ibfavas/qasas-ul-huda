@@ -1,5 +1,4 @@
 /* Homepage v4: original illuminated cover. All artwork generated for Qasas ul-Huda. */
-import { useState } from 'react';
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { foundations, foundationOrder } from '../data/foundations.js';
@@ -36,41 +35,126 @@ function ProphetItem({ p }) {
   );
 }
 
-function FoundationsTabs() {
+/* Foundations as a journey path: nine articles as stops along a winding
+   road, grouped under three family stations. All nine articles are shown;
+   on small screens it falls back to a grouped list. */
+const FJ_TITLE_LINES = {
+  iman: ['The Six Articles', 'of Faith'],
+  pillars: ['The Five Pillars', 'of Islam'],
+  oneness: ['Why Muslims Say:', 'God Is One'],
+  night: ['The Night the', 'Quran Began'],
+  quran: ['The Standardization', 'of the Quran'],
+  recitation: ['How the Quran', 'Is Recited'],
+  ijaz: ['The Quran That', 'Cannot Be Imitated'],
+  'no-compulsion': ['No Compulsion:', 'Faith, War and Peace'],
+  women: ['Women in Islam'],
+};
+
+function fjStar(cx, cy, r) {
+  const pts = [];
+  for (let k = 0; k < 16; k++) {
+    const rad = k % 2 === 0 ? r : r * 0.45;
+    const a = (Math.PI / 8) * k - Math.PI / 2;
+    pts.push((cx + rad * Math.cos(a)).toFixed(1) + ',' + (cy + rad * Math.sin(a)).toFixed(1));
+  }
+  return pts.join(' ');
+}
+
+function FoundationsJourney() {
   const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
-  const [active, setActive] = useState(groups[0]);
-  const articles = foundationOrder.filter((slug) => foundations[slug].group === active);
+  const stops = foundationOrder.map((slug, i) => ({
+    slug,
+    title: foundations[slug].hero.title,
+    group: foundations[slug].group,
+    x: 110 + i * 120,
+    y: i % 2 === 0 ? 250 : 170,
+    lines: FJ_TITLE_LINES[slug],
+    n: i + 1,
+    above: i % 2 === 1,
+  }));
+  let d = 'M 40 250 L 110 250 ';
+  for (let i = 0; i < stops.length - 1; i++) {
+    const a = stops[i];
+    const b = stops[i + 1];
+    d += 'Q ' + (a.x + b.x) / 2 + ' 210 ' + b.x + ' ' + b.y + ' ';
+  }
+  d += 'L 1160 250';
+  const stations = [
+    { name: 'Belief and Practice', x: 230 },
+    { name: 'The Quran', x: 650 },
+    { name: 'Faith Among People', x: 1010 },
+  ];
   return (
-    <div className="fct reveal" data-delay="3">
-      <div className="fct-tabs" role="tablist" aria-label="Foundations article groups">
-        {groups.map((group) => (
-          <button
-            key={group}
-            role="tab"
-            aria-selected={active === group}
-            className={'fct-tab' + (active === group ? ' active' : '')}
-            onClick={() => setActive(group)}
-          >
-            {group}
-          </button>
+    <div className="fj reveal" data-delay="3">
+      <svg className="fj-svg" viewBox="0 0 1200 560" role="list" aria-label="Foundations articles along the journey path">
+        <path className="fj-path" d={d} aria-hidden="true" />
+        {stations.map((s) => (
+          <g key={s.name} aria-hidden="true">
+            <line x1={s.x} y1={380} x2={s.x} y2={426} className="fj-link" />
+            <circle cx={s.x} cy={468} r={40} className="fj-station-ring" />
+            <circle cx={s.x} cy={468} r={31} className="fj-station-ring inner" />
+            <polygon points={fjStar(s.x, 468, 15)} className="fj-star" />
+            <text x={s.x} y={540} className="fj-station-name">
+              {s.name}
+            </text>
+          </g>
         ))}
-      </div>
-      <p className="fct-meta">
-        Articles · {articles.length} {articles.length === 1 ? 'resource' : 'resources'}
-      </p>
-      <div className="fct-grid" role="tabpanel" key={active}>
-        {articles.map((slug, i) => (
-          <a className="fct-card" href={'foundations/?p=' + slug} key={slug}>
-            <span className="fct-badge" aria-hidden="true">
-              {String(i + 1).padStart(2, '0')}
-            </span>
-            <span className="fct-title">{foundations[slug].hero.title}</span>
-            <span className="fct-arrow" aria-hidden="true">
-              &rarr;
-            </span>
+        {stops.map((s) => (
+          <a
+            key={s.slug}
+            className="fj-stop"
+            role="listitem"
+            href={'foundations/?p=' + s.slug}
+            aria-label={s.title + ', ' + s.group}
+          >
+            {s.above ? (
+              <line x1={s.x} y1={s.y - 17} x2={s.x} y2={112} className="fj-tick" />
+            ) : (
+              <line x1={s.x} y1={s.y + 17} x2={s.x} y2={318} className="fj-tick" />
+            )}
+            <circle cx={s.x} cy={s.y} r={21} className="fj-halo" />
+            <circle cx={s.x} cy={s.y} r={15} className="fj-dot" />
+            <text x={s.x} y={s.y + 5.5} className="fj-num" aria-hidden="true">
+              {s.n}
+            </text>
+            {s.lines.map((line, li) => (
+              <text
+                key={li}
+                x={s.x}
+                y={s.above ? 100 + li * 22 : 330 + li * 22}
+                className="fj-title"
+              >
+                {line}
+              </text>
+            ))}
           </a>
         ))}
+      </svg>
+      <div className="fj-list">
+        {groups.map((group) => (
+          <div className="fj-group" key={group}>
+            <h3 className="fj-group-name">{group}</h3>
+            <ul>
+              {foundationOrder
+                .filter((slug) => foundations[slug].group === group)
+                .map((slug, i) => (
+                  <li key={slug}>
+                    <a className="fj-row" href={'foundations/?p=' + slug}>
+                      <span className="fj-badge" aria-hidden="true">
+                        {String(foundationOrder.indexOf(slug) + 1).padStart(2, '0')}
+                      </span>
+                      <span className="fj-row-title">{foundations[slug].hero.title}</span>
+                      <span className="fj-row-arrow" aria-hidden="true">
+                        &rarr;
+                      </span>
+                    </a>
+                  </li>
+                ))}
+            </ul>
+          </div>
+        ))}
       </div>
+      <p className="fj-cap">Nine articles in three families</p>
     </div>
   );
 }
@@ -219,7 +303,7 @@ export function HomePage() {
               Short articles on the essentials every story stands on, each one verified from the Quran and authentic
               hadith before it is set down.
             </p>
-            <FoundationsTabs />
+            <FoundationsJourney />
           </div>
         </section>
 
