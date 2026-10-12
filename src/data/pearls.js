@@ -24,7 +24,7 @@ export const pearls = [
       'He said no. I hope, he said, that Allah will bring from their descendants those who worship Allah alone. Bleeding and rejected, he chose their children\u2019s future over his revenge.',
     ],
     lesson:
-      'He was offered revenge and chose mercy instead, hoping for children not yet born. That is the heart of the Prophet ﷺ.',
+      'He was offered revenge and chose mercy, hoping for children not yet born.',
   },
   {
     slug: 'day-of-badr',
@@ -45,7 +45,7 @@ export const pearls = [
       'Allah answered with a thousand angels, rank upon rank. And the small band stood firm.',
     ],
     lesson:
-      'The battle was won before it began, by raised hands. No odds are final while dua is still possible.',
+      'No odds are final while dua is still possible.',
   },
   {
     slug: 'dua-aisha',
@@ -114,7 +114,6 @@ export const pearls = [
       'In the morning they gathered, all of them hoping. \u201cWhere is Ali ibn Abi Talib?\u201d the Prophet ﷺ asked. \u201cHis eyes are troubling him,\u201d they said. \u201cSend for him.\u201d',
       'When Ali (RA) came, the Prophet ﷺ touched his eyes and made dua, and the pain left as if it had never been there. Then he placed the flag in his hand.',
       'Ali said, \u201cO Messenger of Allah, I will fight them until they become like us.\u201d And the Prophet ﷺ said, \u201cGo gently. Invite them to Islam. For by Allah, if one man is guided through you, it is better for you than red camels.\u201d',
-      'Even on the morning of battle, what he wanted most was a guided heart.',
     ],
     lesson:
       'The flag went to the one loved by Allah and His Messenger. And one guided heart is worth more than the world.',
@@ -136,10 +135,9 @@ export const pearls = [
       'One day the Prophet ﷺ noticed the absence. \u201cWhere is the one who swept?\u201d They told him: that person had died, and they had buried him at night without telling him.',
       '\u201cWhy didn\u2019t you tell me?\u201d he said. \u201cShow me the grave.\u201d',
       'They took him there. And the Prophet ﷺ stood at the grave of the one who swept his mosque, and prayed the funeral prayer.',
-      'No one is small in his eyes. No one.',
     ],
     lesson:
-      'In his eyes, the one who swept the mosque mattered enough for him to stand at a grave and pray. No one is small.',
+      'When the one who swept the mosque died, he went to the grave and prayed there himself.',
   },
   {
     slug: 'anas-ten-years',
@@ -157,10 +155,10 @@ export const pearls = [
       'Anas ibn Malik (RA) served the Prophet ﷺ for ten years. He was a boy when he started. Ten years of fetching water, running errands, living in the Prophet\u2019s ﷺ household.',
       'And this is what Anas said about all ten of those years: he never once said \u201cuff\u201d to me. Not once did he say, \u201cWhy did you do that?\u201d Not once, \u201cWhy didn\u2019t you do that?\u201d',
       'Ten years. A child in his house. And not a single harsh word.',
-      'Some people are remembered for what they built. He is remembered for how he treated a boy.',
+      'This is how Anas (RA) remembered him.',
     ],
     lesson:
-      'Ten years, and not one harsh word to a boy. That is what greatness looks like up close.',
+      'Ten years of service, and Anas (RA) never heard one harsh word from him.',
   },
   {
     slug: 'with-those-you-love',
@@ -183,7 +181,7 @@ export const pearls = [
       'Anas (RA) said: nothing ever made us as happy as that day. Not wealth. Not victory. Just those words. Because they loved the Prophet ﷺ, and now they knew that love itself was enough to be with him.',
     ],
     lesson:
-      'You will be with those you love. For everyone who loves the Prophet ﷺ, those words are enough.',
+      'You will be with those you love. The companions never heard happier words.',
   },
 ];
 
