@@ -217,13 +217,13 @@ export const pearls = [
       narrator: 'Aisha (RA)',
     },
     body: [
-      'Aisha (RA) never met Khadijah (RA). Khadijah died before Aisha married the Prophet ﷺ. And yet Aisha said she was jealous of none of his wives the way she was jealous of Khadijah.',
-      'Why? Because he mentioned her very often. Whenever he slaughtered a sheep, he would cut it into portions and send them to Khadijah\u2019s women friends. Her friends, eating from his table, years after she was gone.',
-      'Once Aisha said to him, almost exasperated: it is as if there is no woman on earth except Khadijah! He answered quietly: Khadijah was such-and-such, and from her I had children.',
-      'He did not argue. He did not apologize for loving her. He simply kept her name alive, and kept honoring the people she had loved.',
+      'Aisha (RA) never even met Khadijah (RA). And yet she said she was jealous of none of his wives the way she was jealous of Khadijah.',
+      'Why? Because he mentioned her very often. Whenever he slaughtered a sheep, he would cut it into parts and send them to the women friends of Khadijah.',
+      'Once she said to him: it is as if there is no woman on earth except Khadijah! He answered: Khadijah was such-and-such, and from her I had children.',
+      'He did not argue. He simply kept her name alive, and kept honoring the people she had loved.',
     ],
     lesson:
-      'Long after she was gone, he still spoke her name and fed her friends. True love does not end at the grave.',
+      'Long after she was gone, he still spoke her name and sent meat to her friends. True love does not end at the grave.',
   },
 
   {
@@ -241,10 +241,10 @@ export const pearls = [
     body: [
       'Aisha (RA) tells us something so small it would be easy to miss, and so tender it is impossible to forget. When she was menstruating, she would drink from a vessel and hand it to the Prophet ﷺ. He would place his mouth exactly where hers had been, and drink.',
       'She would eat meat from a bone and hand it to him, and he would put his mouth where hers had been.',
-      'In a state where others kept their distance, he drew closer. No disgust. No distance. Just a husband who wanted even his drink to touch the place her lips had touched.',
+      'Twice she tells it: the drink, and the bone. Each time, his mouth where hers had been.',
     ],
     lesson:
-      'She handed him the cup, and he drank from where her lips had been. Love does not keep its distance.',
+      'She handed him the cup, and he drank from where her lips had been. Some love is loud. His was in the small things.',
   },
 
   {
@@ -260,9 +260,8 @@ export const pearls = [
       narrator: 'Al-Miswar bin Makhrama (RA)',
     },
     body: [
-      'The Prophet ﷺ said it plainly, for everyone to hear: Fatimah is a part of me. Whoever angers her, angers me.',
-      'His daughter was not only beloved to him. She was part of him. Her hurt was his hurt. Her honor was his honor.',
-      'Ali (RA), who had married into this love, lived inside it. The man who held Fatimah\u2019s hand was holding a part of the Prophet ﷺ himself.',
+      'Al-Miswar bin Makhrama (RA) narrates that the Prophet ﷺ said: Fatimah is a part of me, and whoever makes her angry, makes me angry.',
+      'To anger her was to anger him. Her feelings were not separate from his.',
     ],
     lesson:
       'She was a part of him. To love someone that deeply is to feel their hurt as your own.',
@@ -283,11 +282,96 @@ export const pearls = [
     body: [
       'One morning the Prophet ﷺ went out wearing a striped cloak of black camel hair. Hasan (RA) came to him, and he wrapped him under it. Then Husayn (RA) came, and he wrapped him under it too.',
       'Then Fatimah (RA) came, and he took her under it. Then Ali (RA) came, and he took him under it as well.',
-      'Four beloved people, gathered one by one under his own cloak. Then he said: O Allah, these are my household. And he recited the verse: Allah only wishes to remove all impurity from you, O people of the household, and to purify you completely.',
-      'He did not just pray for them from afar. He pulled them close first.',
+      'Four people, gathered one by one under his own cloak. Then he said over them: Allah only desires to take away any uncleanliness from you, O people of the household, and purify you completely.',
+      'He did not say it from afar. He pulled them close first.',
     ],
     lesson:
-      'He gathered them under his own cloak, Ali among them, and asked Allah to purify them. Family, held close.',
+      'He gathered them under his own cloak, Ali among them, and said: Allah only desires to purify you completely. Family, held close.',
+  },
+
+  {
+    slug: 'hunayn-stand',
+    title: 'The Stand at Hunayn',
+    teaser: 'When the army fell back, he stayed on his mule and called out his name.',
+    category: 'Valor',
+    era: 'Madinan Years',
+    order: 14,
+    source: {
+      label: 'Sahih al-Bukhari 2930',
+      url: 'https://sunnah.com/bukhari:2930',
+      narrator: "Al-Bara' bin Azib (RA)",
+    },
+    body: [
+      'A man once asked Al-Bara\u2019 (RA): did you all flee on the day of Hunayn? He answered: No, by Allah. The Messenger of Allah ﷺ did not flee.',
+      'What happened was this. Some young companions, unarmed, had gone ahead and come upon the archers of Hawazin and Bani Nasr, whose arrows hardly missed their mark. The Muslims fell back toward the Prophet ﷺ.',
+      'He was on his white mule, his cousin Abu Sufyan bin Al-Harith leading it. He dismounted, invoked Allah for victory, and called out: I am the Prophet, without a lie; I am the son of Abdul Muttalib. Then he arranged his companions in rows.',
+    ],
+    lesson:
+      'When everyone fell back, he stepped forward and said his name out loud. Courage is standing where you are needed.',
+  },
+
+  {
+    slug: 'bravest-night',
+    title: 'He Rode Out First',
+    teaser: 'An uproar in the night frightened Madinah. He rode toward it alone.',
+    category: 'Valor',
+    era: 'Madinan Years',
+    order: 15,
+    source: {
+      label: 'Sahih al-Bukhari 3040',
+      url: 'https://sunnah.com/bukhari:3040',
+      narrator: 'Anas (RA)',
+    },
+    body: [
+      'Anas (RA) said the Prophet ﷺ was the most generous and the bravest of all people. Then he told the story that proved it.',
+      'One night the people of Madinah were frightened by an uproar in the dark. He rode out toward the sound alone, on an unsaddled horse belonging to Abu Talha, his sword slung over his shoulder.',
+      'He met the people on his way back and said to them: Do not get scared, do not get scared. Then, about the horse: I found it very fast.',
+    ],
+    lesson:
+      'An alarm in the night, and he rode out alone toward it. Courage goes first and calms the rest.',
+  },
+
+  {
+    slug: 'bedouin-mosque',
+    title: 'Make Things Easy',
+    teaser: 'A Bedouin urinated in the mosque. The people rushed at him. The Prophet ﷺ stopped them.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 16,
+    source: {
+      label: 'Sahih al-Bukhari 220',
+      url: 'https://sunnah.com/bukhari:220',
+      narrator: 'Abu Huraira (RA)',
+    },
+    body: [
+      'A Bedouin stood up in the mosque and began to urinate. The people rushed to stop him.',
+      'The Prophet ﷺ told them to leave him alone. Then he ordered a bucket of water to be poured over the place.',
+      'Then he said: You have been sent to make things easy, and not to make them difficult.',
+    ],
+    lesson:
+      'A man dishonored the mosque out of ignorance, and the Prophet ﷺ answered with water and one gentle sentence. Ease, not harshness.',
+  },
+
+  {
+    slug: 'mother-mercy',
+    title: 'Kinder Than a Mother',
+    teaser: 'A captive mother found her lost child and clutched him close. He asked one question about her.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 17,
+    source: {
+      label: 'Sahih Muslim 2754',
+      url: 'https://sunnah.com/muslim:2754',
+      narrator: 'Umar bin Khattab (RA)',
+    },
+    body: [
+      'Prisoners were brought to the Prophet ﷺ, and among them was a woman searching desperately for someone.',
+      'When she found a small child among the prisoners, she grabbed him, pressed him to her chest, and nursed him.',
+      'The Prophet ﷺ said to those around him: Do you think this woman would ever throw her child into the Fire? They said: By Allah, never, as long as she could help it.',
+      'He said: Allah is more kind to His servants than this woman is to her child.',
+    ],
+    lesson:
+      'If a mother\u2019s love cannot imagine the Fire for her child, imagine the mercy of the One who taught her to love.',
   },
 ];
 
