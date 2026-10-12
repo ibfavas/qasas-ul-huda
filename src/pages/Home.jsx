@@ -66,19 +66,19 @@ function FoundationsJourney() {
     slug,
     title: foundations[slug].hero.title,
     group: foundations[slug].group,
-    x: 110 + i * 120,
-    y: i % 2 === 0 ? 250 : 170,
+    x: 100 + i * 125,
+    y: i % 2 === 0 ? 430 : 350,
     lines: FJ_TITLE_LINES[slug],
     n: i + 1,
     above: i % 2 === 1,
   }));
-  let d = 'M 40 250 L 110 250 ';
+  let d = 'M 40 430 L 100 430 ';
   for (let i = 0; i < stops.length - 1; i++) {
     const a = stops[i];
     const b = stops[i + 1];
-    d += 'Q ' + (a.x + b.x) / 2 + ' 210 ' + b.x + ' ' + b.y + ' ';
+    d += 'C ' + (a.x + 62) + ' ' + a.y + ' ' + (b.x - 62) + ' ' + b.y + ' ' + b.x + ' ' + b.y + ' ';
   }
-  d += 'L 1160 250';
+  d += 'L 1160 430';
   const stations = [
     { name: 'Belief and Practice', x: 230 },
     { name: 'The Quran', x: 650 },
@@ -86,15 +86,26 @@ function FoundationsJourney() {
   ];
   return (
     <div className="fj reveal" data-delay="3">
-      <svg className="fj-svg" viewBox="0 0 1200 560" role="list" aria-label="Foundations articles along the journey path">
-        <path className="fj-path" d={d} aria-hidden="true" />
+      <svg className="fj-svg" viewBox="0 0 1200 580" role="list" aria-label="Foundations articles along the journey path">
+        <defs>
+          <filter id="fj-glow" x="-60%" y="-60%" width="220%" height="220%">
+            <feGaussianBlur stdDeviation="7" result="b" />
+            <feMerge>
+              <feMergeNode in="b" />
+              <feMergeNode in="SourceGraphic" />
+            </feMerge>
+          </filter>
+        </defs>
+        <path className="fj-path-under" d={d} aria-hidden="true" />
+        <path className="fj-path" d={d} aria-hidden="true" filter="url(#fj-glow)" />
         {stations.map((s) => (
           <g key={s.name} aria-hidden="true">
-            <line x1={s.x} y1={380} x2={s.x} y2={426} className="fj-link" />
-            <circle cx={s.x} cy={468} r={40} className="fj-station-ring" />
-            <circle cx={s.x} cy={468} r={31} className="fj-station-ring inner" />
-            <polygon points={fjStar(s.x, 468, 15)} className="fj-star" />
-            <text x={s.x} y={540} className="fj-station-name">
+            <line x1={s.x} y1={172} x2={s.x} y2={248} className="fj-link" />
+            <circle cx={s.x} cy={88} r={54} className="fj-station-orn" />
+            <circle cx={s.x} cy={88} r={44} className="fj-station-ring" />
+            <circle cx={s.x} cy={88} r={35} className="fj-station-ring inner" />
+            <polygon points={fjStar(s.x, 88, 17)} className="fj-star" />
+            <text x={s.x} y={162} className="fj-station-name">
               {s.name}
             </text>
           </g>
@@ -108,11 +119,11 @@ function FoundationsJourney() {
             aria-label={s.title + ', ' + s.group}
           >
             {s.above ? (
-              <line x1={s.x} y1={s.y - 17} x2={s.x} y2={112} className="fj-tick" />
+              <line x1={s.x} y1={s.y - 17} x2={s.x} y2={314} className="fj-tick" />
             ) : (
-              <line x1={s.x} y1={s.y + 17} x2={s.x} y2={318} className="fj-tick" />
+              <line x1={s.x} y1={s.y + 17} x2={s.x} y2={493} className="fj-tick" />
             )}
-            <circle cx={s.x} cy={s.y} r={21} className="fj-halo" />
+            <circle cx={s.x} cy={s.y} r={24} className="fj-halo" filter="url(#fj-glow)" />
             <circle cx={s.x} cy={s.y} r={15} className="fj-dot" />
             <text x={s.x} y={s.y + 5.5} className="fj-num" aria-hidden="true">
               {s.n}
@@ -121,7 +132,7 @@ function FoundationsJourney() {
               <text
                 key={li}
                 x={s.x}
-                y={s.above ? 100 + li * 22 : 330 + li * 22}
+                y={s.above ? 280 + li * 22 : 505 + li * 22}
                 className="fj-title"
               >
                 {line}
