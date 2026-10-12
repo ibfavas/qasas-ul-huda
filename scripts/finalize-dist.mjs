@@ -58,5 +58,13 @@ for (const slug of ['abu-bakr', 'umar', 'uthman', 'ali']) {
   await fs.writeFile(path.join(dist, 'caliphs', slug, 'index.html'), html);
 }
 
+// Pearls of the Seerah page: dist/src/templates/pearls/index.html -> dist/pearls/index.html
+// Same depth as the story page: ../../../assets/... becomes ../assets/...
+const pearlsPage = path.join(dist, 'src/templates/pearls/index.html');
+html = await fs.readFile(pearlsPage, 'utf8');
+html = html.split('../../../assets/').join('../assets/');
+await fs.mkdir(path.join(dist, 'pearls'), { recursive: true });
+await fs.writeFile(path.join(dist, 'pearls/index.html'), html);
+
 await fs.rm(path.join(dist, 'src'), { recursive: true, force: true });
 console.log('dist/ finalized for Cloudflare Pages');

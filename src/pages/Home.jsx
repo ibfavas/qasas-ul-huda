@@ -2,7 +2,9 @@
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { foundations, foundationOrder } from '../data/foundations.js';
+import { pearls, pearlOrder, pearlBySlug } from '../data/pearls.js';
 import { useSiteEffects } from '../hooks/effects.js';
+import { useRef, useState, useEffect } from 'react';
 
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI'];
 
@@ -114,6 +116,97 @@ const CALLOUT = {
   en: 'My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous."',
   cite: 'Surah Yusuf · 12:101',
 };
+
+/* Pearls of the Seerah: homepage ribbon carousel (design 1).
+   Reads straight from the pearls data, so new stories appear here
+   automatically the moment they are added. */
+function PearlEmblemSm() {
+  return (
+    <span className="pearl-emblem" aria-hidden="true">
+      <svg viewBox="0 0 32 32" fill="none">
+        <circle cx="16" cy="16" r="11" fill="#f4ead2" stroke="#a8842f" strokeWidth="1.6" />
+        <ellipse cx="12.5" cy="12" rx="4" ry="2.6" fill="#ffffff" opacity="0.75" transform="rotate(-24 12.5 12)" />
+      </svg>
+    </span>
+  );
+}
+
+function PearlRibbon() {
+  const trackRef = useRef(null);
+  const [active, setActive] = useState(0);
+  const items = pearlOrder.map((s) => pearlBySlug[s]);
+
+  const scrollByCard = (dir) => {
+    const el = trackRef.current;
+    if (!el) return;
+    const card = el.querySelector('.pearl-ribbon-card');
+    const w = card ? card.offsetWidth + 18 : 300;
+    el.scrollBy({ left: dir * w, behavior: 'smooth' });
+  };
+
+  useEffect(() => {
+    const el = trackRef.current;
+    if (!el) return;
+    const onScroll = () => {
+      const card = el.querySelector('.pearl-ribbon-card');
+      const w = card ? card.offsetWidth + 18 : 300;
+      setActive(Math.min(items.length - 1, Math.round(el.scrollLeft / w)));
+    };
+    el.addEventListener('scroll', onScroll, { passive: true });
+    return () => el.removeEventListener('scroll', onScroll);
+  }, [items.length]);
+
+  return (
+    <section className="pearl-ribbon-section" aria-label="Pearls of the Seerah">
+      <div className="pearl-ribbon-head">
+        <p className="kicker reveal">Short stories, verified</p>
+        <h2 className="pearl-ribbon-title reveal" data-delay="1">Pearls of the Seerah</h2>
+        <p className="pearl-ribbon-lede reveal" data-delay="2">
+          Short, verified moments from the life of the Prophet Muhammad ﷺ — mercy, courage,
+          and character in stories you can read in minutes.
+        </p>
+      </div>
+      <div className="pearl-ribbon-wrap reveal" data-delay="2">
+        <div className="pearl-ribbon" ref={trackRef}>
+          {items.map((p) => (
+            <a className="pearl-ribbon-card" href={'pearls/?p=' + p.slug} key={p.slug}>
+              <PearlEmblemSm />
+              <span className="pearl-title">{p.title}</span>
+              <span className="pearl-teaser">{p.teaser}</span>
+              <span className="pearl-cat">{p.category}</span>
+            </a>
+          ))}
+        </div>
+        <div className="pearl-ribbon-nav">
+          <button className="pearl-arrow" onClick={() => scrollByCard(-1)} aria-label="Previous stories">
+            <span aria-hidden="true">&larr;</span>
+          </button>
+          <span className="pearl-dots">
+            {items.map((p, i) => (
+              <button
+                key={p.slug}
+                className={'pearl-dot-btn' + (i === active ? ' active' : '')}
+                onClick={() => {
+                  const el = trackRef.current;
+                  const card = el && el.querySelector('.pearl-ribbon-card');
+                  const w = card ? card.offsetWidth + 18 : 300;
+                  if (el) el.scrollTo({ left: i * w, behavior: 'smooth' });
+                }}
+                aria-label={'Go to story ' + (i + 1)}
+              />
+            ))}
+          </span>
+          <button className="pearl-arrow" onClick={() => scrollByCard(1)} aria-label="Next stories">
+            <span aria-hidden="true">&rarr;</span>
+          </button>
+        </div>
+        <a className="pearl-ribbon-all" href="pearls/">
+          View all pearls <span aria-hidden="true">&rarr;</span>
+        </a>
+      </div>
+    </section>
+  );
+}
 
 export function HomePage() {
   useSiteEffects();
@@ -227,6 +320,8 @@ export function HomePage() {
           </div>
           <FoundationsBands />
         </section>
+
+        <PearlRibbon />
 
         <section className="section eras" aria-label="The journey of the prophets">
           <div className="wrap">
