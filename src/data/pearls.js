@@ -9,7 +9,7 @@ export const pearls = [
     slug: 'harder-than-uhud',
     title: 'A Day Harder Than Uhud',
     teaser: 'Aisha asked if any day was harder than Uhud. He said yes, and told her what he did with his pain.',
-    category: 'Mercy',
+    category: 'Boundless Mercy',
     era: 'Makkan Years',
     order: 1,
     source: {
@@ -30,7 +30,7 @@ export const pearls = [
     slug: 'day-of-badr',
     title: 'The Day of Badr',
     teaser: 'Outnumbered three to one, the believers turned to dua before they lifted a sword.',
-    category: 'Battles',
+    category: 'Valor',
     era: 'Madinan Years',
     order: 2,
     source: {
@@ -51,7 +51,7 @@ export const pearls = [
     slug: 'dua-aisha',
     title: 'The Dua Aisha Asked For',
     teaser: 'Aisha (RA) asked the Prophet ﷺ for a supplication, and he gave her one that covered everything.',
-    category: 'At Home',
+    category: 'The Household',
     era: 'Madinan Years',
     order: 3,
     source: {
@@ -78,7 +78,7 @@ export const pearls = [
     slug: 'better-than-a-servant',
     title: 'Better Than a Servant',
     teaser: 'Fatimah (RA) asked for help with her housework. What the Prophet ﷺ gave her instead outlasts every servant.',
-    category: 'At Home',
+    category: 'The Household',
     era: 'Madinan Years',
     order: 4,
     source: {
@@ -100,7 +100,7 @@ export const pearls = [
     slug: 'flag-at-khaybar',
     title: 'The Flag at Khaybar',
     teaser: 'The flag was promised to a man loved by Allah and His Messenger, and Ali (RA) carried it.',
-    category: 'Battles',
+    category: 'Valor',
     era: 'Madinan Years',
     order: 5,
     source: {
@@ -122,7 +122,7 @@ export const pearls = [
     slug: 'swept-the-mosque',
     title: 'The One Who Swept the Mosque',
     teaser: 'The Prophet ﷺ noticed when the mosque sweeper was gone, and went to the grave himself.',
-    category: 'Mercy',
+    category: 'Boundless Mercy',
     era: 'Madinan Years',
     order: 6,
     source: {
@@ -143,7 +143,7 @@ export const pearls = [
     slug: 'anas-ten-years',
     title: 'Ten Years, Never a Harsh Word',
     teaser: 'Anas served him for ten years. He never heard one harsh word.',
-    category: 'Mercy',
+    category: 'Boundless Mercy',
     era: 'Madinan Years',
     order: 7,
     source: {
@@ -164,7 +164,7 @@ export const pearls = [
     slug: 'with-those-you-love',
     title: 'You Will Be With Those You Love',
     teaser: 'A Bedouin asked about the Hour with empty hands but a full heart, and got the happiest answer.',
-    category: 'Mercy',
+    category: 'Boundless Mercy',
     era: 'Madinan Years',
     order: 8,
     source: {
@@ -187,7 +187,7 @@ export const pearls = [
     slug: 'eid-play',
     title: 'Her Cheek on His Cheek',
     teaser: 'On Eid, she watched the spear play with her cheek against his, until she had enough.',
-    category: 'At Home',
+    category: 'The Household',
     era: 'Madinan Years',
     order: 9,
     source: {
@@ -208,7 +208,7 @@ export const pearls = [
     slug: 'khadijah-remembered',
     title: 'He Never Stopped Saying Her Name',
     teaser: 'Years after Khadijah was gone, her name was still on his tongue.',
-    category: 'Love',
+    category: 'Tenderness',
     era: 'Madinan Years',
     order: 10,
     source: {
@@ -230,7 +230,7 @@ export const pearls = [
     slug: 'same-cup',
     title: 'Where Her Lips Had Been',
     teaser: 'She handed him the cup, and he drank from where her lips had been.',
-    category: 'Love',
+    category: 'Tenderness',
     era: 'Madinan Years',
     order: 11,
     source: {
@@ -251,7 +251,7 @@ export const pearls = [
     slug: 'part-of-me',
     title: 'A Part of Me',
     teaser: 'Fatimah is a part of me, he said. Whoever angers her, angers me.',
-    category: 'Love',
+    category: 'Tenderness',
     era: 'Madinan Years',
     order: 12,
     source: {
@@ -272,7 +272,7 @@ export const pearls = [
     slug: 'under-one-cloak',
     title: 'Under One Cloak',
     teaser: 'He wrapped Ali, Fatimah, Hasan and Husayn under his own cloak.',
-    category: 'Love',
+    category: 'Tenderness',
     era: 'Madinan Years',
     order: 13,
     source: {

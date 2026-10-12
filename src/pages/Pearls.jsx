@@ -1,6 +1,9 @@
-/* Pearls of the Seerah: timeline index + individual story pages. */
+/* Pearls of the Seerah: searchable story index + individual story pages. */
+import { useMemo, useState } from 'react';
 import { pearls, pearlOrder, pearlBySlug } from '../data/pearls.js';
 import { Headpiece, RuleStar } from '../components/chrome.jsx';
+
+const PAGE_SIZE = 9;
 
 function PearlEmblem() {
   return (
@@ -14,8 +17,42 @@ function PearlEmblem() {
 }
 
 export function PearlsIndex() {
-  const ordered = pearlOrder.map((s) => pearlBySlug[s]);
-  let lastEra = null;
+  const ordered = useMemo(() => pearlOrder.map((s) => pearlBySlug[s]), []);
+  const categories = useMemo(() => {
+    const seen = [];
+    ordered.forEach((p) => {
+      if (!seen.includes(p.category)) seen.push(p.category);
+    });
+    return seen;
+  }, [ordered]);
+  const spotlight = useMemo(() => {
+    const day = Math.floor(Date.now() / 86400000);
+    return ordered[day % ordered.length];
+  }, [ordered]);
+
+  const [query, setQuery] = useState('');
+  const [cat, setCat] = useState('All');
+  const [shown, setShown] = useState(PAGE_SIZE);
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    return ordered.filter((p) => {
+      if (cat !== 'All' && p.category !== cat) return false;
+      if (!q) return true;
+      return (p.title + ' ' + p.teaser + ' ' + p.category).toLowerCase().includes(q);
+    });
+  }, [ordered, query, cat]);
+  const visible = filtered.slice(0, shown);
+
+  const pickCat = (c) => {
+    setCat(c);
+    setShown(PAGE_SIZE);
+  };
+  const typeQuery = (v) => {
+    setQuery(v);
+    setShown(PAGE_SIZE);
+  };
+
   return (
     <main className="pearl-index">
       <Headpiece />
@@ -29,34 +66,73 @@ export function PearlsIndex() {
         courage, and character, each one traced to its source before it is set down.
       </p>
       <RuleStar />
-      <div className="pearl-timeline reveal" data-delay="2">
-        {ordered.map((p, i) => {
-          const showEra = p.era !== lastEra;
-          lastEra = p.era;
-          return (
-            <div key={p.slug}>
-              {showEra ? (
-                <p className="pearl-era" aria-label={p.era}>
-                  <span>{p.era}</span>
-                </p>
-              ) : null}
-              <div className={'pearl-node' + (i % 2 ? ' flip' : '')}>
-                <span className="pearl-dot" aria-hidden="true">
-                  <PearlEmblem />
-                </span>
-                <a className="pearl-card" href={'?p=' + p.slug}>
-                  <span className="pearl-cat">{p.category}</span>
-                  <span className="pearl-title">{p.title}</span>
-                  <span className="pearl-teaser">{p.teaser}</span>
-                  <span className="pearl-read">
-                    Read the story <span aria-hidden="true">&rarr;</span>
-                  </span>
-                </a>
-              </div>
-            </div>
-          );
-        })}
+
+      <section className="pearl-spotlight reveal" data-delay="2" aria-label="Pearl of the day">
+        <p className="pearl-spot-kicker">
+          <PearlEmblem /> <span>Pearl of the day</span>
+        </p>
+        <a className="pearl-spot-card" href={'?p=' + spotlight.slug}>
+          <span className="pearl-title">{spotlight.title}</span>
+          <span className="pearl-teaser">{spotlight.teaser}</span>
+          <span className="pearl-read">
+            Read today&apos;s pearl <span aria-hidden="true">&rarr;</span>
+          </span>
+        </a>
+      </section>
+
+      <div className="pearl-controls reveal" data-delay="2">
+        <label className="pearl-search">
+          <span className="visually-hidden">Search stories</span>
+          <input
+            type="search"
+            placeholder="Search stories..."
+            value={query}
+            onChange={(e) => typeQuery(e.target.value)}
+          />
+        </label>
+        <div className="pearl-pills" role="group" aria-label="Filter by theme">
+          {['All'].concat(categories).map((c) => (
+            <button
+              key={c}
+              type="button"
+              className={'pearl-pill' + (cat === c ? ' active' : '')}
+              aria-pressed={cat === c}
+              onClick={() => pickCat(c)}
+            >
+              {c}
+            </button>
+          ))}
+        </div>
       </div>
+
+      <p className="pearl-count" aria-live="polite">
+        {filtered.length === 0
+          ? 'No stories found. Try another search.'
+          : 'Showing ' +
+            visible.length +
+            ' of ' +
+            filtered.length +
+            (filtered.length === 1 ? ' story' : ' stories')}
+      </p>
+
+      <div className="pearl-grid">
+        {visible.map((p) => (
+          <a className="pearl-grid-card" href={'?p=' + p.slug} key={p.slug}>
+            <PearlEmblem />
+            <span className="pearl-title">{p.title}</span>
+            <span className="pearl-teaser">{p.teaser}</span>
+            <span className="pearl-cat">{p.category}</span>
+          </a>
+        ))}
+      </div>
+
+      {visible.length < filtered.length ? (
+        <p className="pearl-more-row">
+          <button type="button" className="pearl-more" onClick={() => setShown((n) => n + PAGE_SIZE)}>
+            Load more
+          </button>
+        </p>
+      ) : null}
     </main>
   );
 }
