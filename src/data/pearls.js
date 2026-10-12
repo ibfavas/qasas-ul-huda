@@ -24,7 +24,7 @@ export const pearls = [
       'He said no. I hope, he said, that Allah will bring from their descendants those who worship Allah alone. Bleeding and rejected, he chose their children\u2019s future over his revenge.',
     ],
     lesson:
-      'He was offered revenge and chose mercy, hoping for children not yet born.',
+      'The deepest pain can become the widest mercy, if you let it. He was bleeding, and he spent his one wish on children he would never meet.',
   },
   {
     slug: 'day-of-badr',
@@ -45,7 +45,7 @@ export const pearls = [
       'Allah answered with a thousand angels, rank upon rank. And the small band stood firm.',
     ],
     lesson:
-      'No odds are final while dua is still possible.',
+      'They prepared, they marched, they fought, but first they raised their hands. Do your part, then ask the One who owns the outcome.',
   },
   {
     slug: 'dua-aisha',
@@ -72,7 +72,7 @@ export const pearls = [
       'In every prayer, the Prophet ﷺ asks Allah to forgive his Ummah the way he asked for Aisha. Past and future. Hidden and open. That includes you.',
     ],
     lesson:
-      'The dua he made for his wife is the dua he makes for his Ummah in every prayer. That includes you.',
+      'You never met him, yet he asks for your forgiveness every single day. Love like that does not wait to be earned.',
   },
   {
     slug: 'better-than-a-servant',
@@ -94,7 +94,7 @@ export const pearls = [
       'He did not send his daughter away empty-handed. He gave her words that no one can take away, and that lighten every burden they are said with.',
     ],
     lesson:
-      'He gave his tired daughter words instead of a servant, and those words still lighten tired hearts today.',
+      'Sometimes the kindest answer to what you asked for is something better than what you asked for. He gave his daughter words for every night of her life.',
   },
   {
     slug: 'flag-at-khaybar',
@@ -116,7 +116,7 @@ export const pearls = [
       'Ali said, \u201cO Messenger of Allah, I will fight them until they become like us.\u201d And the Prophet ﷺ said, \u201cGo gently. Invite them to Islam. For by Allah, if one man is guided through you, it is better for you than red camels.\u201d',
     ],
     lesson:
-      'The flag went to the one loved by Allah and His Messenger. And one guided heart is worth more than the world.',
+      'The flag did not go to the strongest arm. It went to the most beloved heart. And he taught us to measure wealth in guided souls, not in camels.',
   },
   {
     slug: 'swept-the-mosque',
@@ -137,7 +137,7 @@ export const pearls = [
       'They took him there. And the Prophet ﷺ stood at the grave of the one who swept his mosque, and prayed the funeral prayer.',
     ],
     lesson:
-      'When the one who swept the mosque died, he went to the grave and prayed there himself.',
+      'Nobody noticed the sweeper except him. No deed done quietly for Allah goes unseen, and no person is too small to be missed.',
   },
   {
     slug: 'anas-ten-years',
@@ -158,7 +158,7 @@ export const pearls = [
       'This is how Anas (RA) remembered him.',
     ],
     lesson:
-      'Ten years of service, and Anas (RA) never heard one harsh word from him.',
+      'Anyone can be kind for a day. Ten years with a boy who served him, without one harsh word, that is who he was when no one was watching.',
   },
   {
     slug: 'with-those-you-love',
@@ -181,7 +181,7 @@ export const pearls = [
       'Anas (RA) said: nothing ever made us as happy as that day. Not wealth. Not victory. Just those words. Because they loved the Prophet ﷺ, and now they knew that love itself was enough to be with him.',
     ],
     lesson:
-      'You will be with those you love. The companions never heard happier words.',
+      'The Bedouin brought almost no deeds, only love, and it was enough. Love of Allah and His Messenger is not a small thing. It decides where you end up.',
   },
 ];
 
