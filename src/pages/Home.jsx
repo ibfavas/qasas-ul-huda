@@ -145,6 +145,22 @@ function FoundationsJourney() {
               <feMergeNode in="SourceGraphic" />
             </feMerge>
           </filter>
+          <filter id="fj-ds" x="-80%" y="-80%" width="260%" height="260%">
+            <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000000" flood-opacity="0.55" />
+          </filter>
+          <filter id="fj-soft" x="-60%" y="-60%" width="220%" height="220%">
+            <feGaussianBlur stdDeviation="5" />
+          </filter>
+          <radialGradient id="fj-coin" cx="35%" cy="30%" r="80%">
+            <stop offset="0%" stopColor="#f9ecc8" />
+            <stop offset="55%" stopColor="#e3c37c" />
+            <stop offset="100%" stopColor="#9a742a" />
+          </radialGradient>
+          <radialGradient id="fj-medal" cx="35%" cy="30%" r="85%">
+            <stop offset="0%" stopColor="#17443d" />
+            <stop offset="70%" stopColor="#0b2421" />
+            <stop offset="100%" stopColor="#061312" />
+          </radialGradient>
         </defs>
         <g aria-hidden="true">
           {FJ_SKY_STARS.map((t, i) => (
@@ -158,8 +174,9 @@ function FoundationsJourney() {
             />
           ))}
         </g>
-        <path className="fj-path-under" d={d} aria-hidden="true" />
-        <path className="fj-path" d={d} aria-hidden="true" filter="url(#fj-glow)" />
+        <path d={d} aria-hidden="true" transform="translate(0 7)" className="fj-path-shadow" filter="url(#fj-soft)" />
+        <path className="fj-path" d={d} aria-hidden="true" filter="url(#fj-ds)" />
+        <path className="fj-path-hi" d={d} aria-hidden="true" transform="translate(0 -1.5)" />
         <path className="fj-shimmer" d={d} aria-hidden="true" />
         <g aria-hidden="true">
           {FJ_MOTES.map((m, i) => (
@@ -177,7 +194,7 @@ function FoundationsJourney() {
           <g key={s.name} aria-hidden="true">
             <line x1={s.x} y1={172} x2={s.x} y2={248} className="fj-link" />
             <circle cx={s.x} cy={88} r={54} className="fj-station-orn" />
-            <circle cx={s.x} cy={88} r={44} className="fj-station-ring" />
+            <circle cx={s.x} cy={88} r={44} fill="url(#fj-medal)" stroke="#d9bd76" strokeWidth={2} filter="url(#fj-ds)" />
             <circle cx={s.x} cy={88} r={35} className="fj-station-ring inner" />
             <polygon points={fjStar(s.x, 88, 17)} className="fj-star" />
             <text x={s.x} y={162} className="fj-station-name">
@@ -198,8 +215,8 @@ function FoundationsJourney() {
             ) : (
               <line x1={s.x} y1={s.y + 17} x2={s.x} y2={493} className="fj-tick" />
             )}
-            <circle cx={s.x} cy={s.y} r={24} className="fj-halo" filter="url(#fj-glow)" />
-            <circle cx={s.x} cy={s.y} r={15} className="fj-dot" />
+            <circle cx={s.x} cy={s.y} r={19} className="fj-coin-ring" />
+            <circle cx={s.x} cy={s.y} r={15} className="fj-coin" fill="url(#fj-coin)" filter="url(#fj-ds)" />
             <text x={s.x} y={s.y + 5.5} className="fj-num" aria-hidden="true">
               {s.n}
             </text>
