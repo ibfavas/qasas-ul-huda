@@ -35,9 +35,10 @@ function ProphetItem({ p }) {
   );
 }
 
-/* Foundations as a journey path: nine articles as stops along a winding
-   road, grouped under three family stations. All nine articles are shown;
-   on small screens it falls back to a grouped list. */
+/* Foundations as an unfolding scroll (design 2): nine articles as chapters
+   along a hand-built parchment scroll, grouped under three family
+   cartouches. All ornament is drawn in SVG/CSS, no generated imagery.
+   On small screens it falls back to a grouped list. */
 const FJ_TITLE_LINES = {
   iman: ['The Six Articles', 'of Faith'],
   pillars: ['The Five Pillars', 'of Islam'],
@@ -50,224 +51,147 @@ const FJ_TITLE_LINES = {
   women: ['Women in Islam'],
 };
 
-function fjStar(cx, cy, r) {
-  const pts = [];
-  for (let k = 0; k < 16; k++) {
-    const rad = k % 2 === 0 ? r : r * 0.45;
-    const a = (Math.PI / 8) * k - Math.PI / 2;
-    pts.push((cx + rad * Math.cos(a)).toFixed(1) + ',' + (cy + rad * Math.sin(a)).toFixed(1));
-  }
-  return pts.join(' ');
-}
+const FJ_ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'];
 
-/* Small four-point sparkle shape */
-function fjSparkle(cx, cy, r) {
-  const k = r * 0.26;
+/* Eight-petal rosette ornament */
+function fsRosette() {
+  const petals = [];
+  for (let k = 0; k < 8; k++) {
+    petals.push(
+      <ellipse
+        key={k}
+        cx="13"
+        cy="6.5"
+        rx="2.6"
+        ry="5"
+        transform={'rotate(' + k * 45 + ' 13 13)'}
+      />
+    );
+  }
   return (
-    cx + ',' + (cy - r) + ' ' + (cx + k) + ',' + (cy - k) + ' ' + (cx + r) + ',' + cy + ' ' +
-    (cx + k) + ',' + (cy + k) + ' ' + cx + ',' + (cy + r) + ' ' + (cx - k) + ',' + (cy + k) + ' ' +
-    (cx - r) + ',' + cy + ' ' + (cx - k) + ',' + (cy - k)
+    <svg viewBox="0 0 26 26" className="fs-rosette" aria-hidden="true">
+      <g fill="#b3924d">{petals}</g>
+      <circle cx="13" cy="13" r="3.6" fill="#8a6a24" />
+      <circle cx="13" cy="13" r="1.5" fill="#f3e9cf" />
+    </svg>
   );
 }
 
-/* Deterministic twinkling stars in the sky band, kept clear of the station medallions */
-const FJ_SKY_STARS = (() => {
-  let s = 42;
-  const rnd = () => {
-    s = (s * 1664525 + 1013904223) >>> 0;
-    return s / 4294967296;
-  };
-  const pts = [];
-  let guard = 0;
-  while (pts.length < 26 && guard++ < 400) {
-    const x = 30 + rnd() * 1140;
-    const y = 62 + rnd() * 165;
-    const nearStation =
-      (x > 150 && x < 310 && y < 210) || (x > 570 && x < 730 && y < 210) || (x > 930 && x < 1090 && y < 210);
-    if (nearStation) continue;
-    pts.push({
-      x: Math.round(x),
-      y: Math.round(y),
-      r: (1 + rnd() * 1.7).toFixed(1),
-      delay: (rnd() * 6).toFixed(2),
-      dur: (2.4 + rnd() * 3.2).toFixed(2),
-    });
-  }
-  return pts;
-})();
-
-/* Sparkles hovering just above the winding path */
-const FJ_SPARKS = [
-  { x: 162, y: 366, r: 7 }, { x: 287, y: 366, r: 5 }, { x: 412, y: 366, r: 7 },
-  { x: 537, y: 366, r: 5 }, { x: 662, y: 366, r: 7 }, { x: 787, y: 366, r: 5 },
-  { x: 912, y: 366, r: 7 }, { x: 1037, y: 366, r: 5 },
-];
-
-/* Slow-drifting firefly motes */
-const FJ_MOTES = [
-  { x: 200, y: 480, r: 3, delay: 0 }, { x: 520, y: 300, r: 2.5, delay: 2.4 },
-  { x: 880, y: 480, r: 3, delay: 4.1 }, { x: 1080, y: 300, r: 2.5, delay: 1.2 },
-];
-
-function FoundationsJourney() {
-  const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
-  const stops = foundationOrder.map((slug, i) => ({
-    slug,
-    title: foundations[slug].hero.title,
-    group: foundations[slug].group,
-    x: 100 + i * 125,
-    y: i % 2 === 0 ? 430 : 350,
-    lines: FJ_TITLE_LINES[slug],
-    n: i + 1,
-    above: i % 2 === 1,
-  }));
-  let d = 'M 40 430 L 100 430 ';
-  for (let i = 0; i < stops.length - 1; i++) {
-    const a = stops[i];
-    const b = stops[i + 1];
-    d += 'C ' + (a.x + 62) + ' ' + a.y + ' ' + (b.x - 62) + ' ' + b.y + ' ' + b.x + ' ' + b.y + ' ';
-  }
-  d += 'L 1160 430';
-  const stations = [
-    { name: 'Belief and Practice', x: 230 },
-    { name: 'The Quran', x: 650 },
-    { name: 'Faith Among People', x: 1010 },
-  ];
+/* Rolled end of the scroll; `right` picks the mirrored gradient id */
+function fsRoll(right) {
+  const gid = right ? 'fs-rollb' : 'fs-rolla';
   return (
-    <div className="fj reveal" data-delay="3">
-      <div className="fj-inner">
-      <svg className="fj-svg" viewBox="0 0 1200 580" role="list" aria-label="Foundations articles along the journey path">
-        <defs>
-          <filter id="fj-glow" x="-60%" y="-60%" width="220%" height="220%">
-            <feGaussianBlur stdDeviation="7" result="b" />
-            <feMerge>
-              <feMergeNode in="b" />
-              <feMergeNode in="SourceGraphic" />
-            </feMerge>
-          </filter>
-          <filter id="fj-ds" x="-80%" y="-80%" width="260%" height="260%">
-            <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000000" flood-opacity="0.55" />
-          </filter>
-          <filter id="fj-soft" x="-60%" y="-60%" width="220%" height="220%">
-            <feGaussianBlur stdDeviation="5" />
-          </filter>
-          <radialGradient id="fj-coin" cx="35%" cy="30%" r="80%">
-            <stop offset="0%" stopColor="#f9ecc8" />
-            <stop offset="55%" stopColor="#e3c37c" />
-            <stop offset="100%" stopColor="#9a742a" />
-          </radialGradient>
-          <radialGradient id="fj-medal" cx="35%" cy="30%" r="85%">
-            <stop offset="0%" stopColor="#17443d" />
-            <stop offset="70%" stopColor="#0b2421" />
-            <stop offset="100%" stopColor="#061312" />
-          </radialGradient>
-        </defs>
-        <g aria-hidden="true">
-          {FJ_SKY_STARS.map((t, i) => (
-            <circle
-              key={i}
-              cx={t.x}
-              cy={t.y}
-              r={t.r}
-              className="fj-tw"
-              style={{ animationDelay: t.delay + 's', animationDuration: t.dur + 's' }}
-            />
+    <svg viewBox="0 0 76 260" preserveAspectRatio="none" className="fs-rollsvg" aria-hidden="true">
+      <defs>
+        <linearGradient id={gid} x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0" stopColor="#8a6f3e" />
+          <stop offset="0.3" stopColor="#f4e8c8" />
+          <stop offset="0.55" stopColor="#e2cb94" />
+          <stop offset="0.8" stopColor="#c8a869" />
+          <stop offset="1" stopColor="#7d6335" />
+        </linearGradient>
+      </defs>
+      <rect x="14" y="8" width="48" height="244" rx="24" fill={'url(#' + gid + ')'} stroke="#6d5527" strokeWidth="1.5" />
+      <line x1="17" y1="70" x2="59" y2="70" stroke="#6d5527" strokeWidth="1" opacity="0.35" />
+      <line x1="17" y1="130" x2="59" y2="130" stroke="#6d5527" strokeWidth="1" opacity="0.35" />
+      <line x1="17" y1="190" x2="59" y2="190" stroke="#6d5527" strokeWidth="1" opacity="0.35" />
+      <ellipse cx="38" cy="13" rx="22" ry="9" fill="#f6eed6" stroke="#6d5527" strokeWidth="2" />
+      <ellipse cx="38" cy="13" rx="13" ry="5" fill="none" stroke="#6d5527" strokeWidth="1.4" />
+      <ellipse cx="38" cy="13" rx="6" ry="2.4" fill="none" stroke="#6d5527" strokeWidth="1.2" />
+      <ellipse cx="38" cy="247" rx="22" ry="9" fill="#e9d9ae" stroke="#6d5527" strokeWidth="2" />
+      <ellipse cx="38" cy="247" rx="13" ry="5" fill="none" stroke="#6d5527" strokeWidth="1.4" />
+      <ellipse cx="38" cy="247" rx="6" ry="2.4" fill="none" stroke="#6d5527" strokeWidth="1.2" />
+    </svg>
+  );
+}
+
+/* Small centered flourish divider */
+function fsFlourish() {
+  return (
+    <svg viewBox="0 0 320 22" className="fs-flourish" aria-hidden="true">
+      <line x1="0" y1="11" x2="128" y2="11" stroke="#d9bd76" strokeWidth="1" opacity="0.7" />
+      <line x1="192" y1="11" x2="320" y2="11" stroke="#d9bd76" strokeWidth="1" opacity="0.7" />
+      <g fill="#d9bd76">
+        <ellipse cx="160" cy="11" rx="3" ry="5" />
+        <ellipse cx="160" cy="11" rx="3" ry="5" transform="rotate(60 160 11)" />
+        <ellipse cx="160" cy="11" rx="3" ry="5" transform="rotate(120 160 11)" />
+      </g>
+      <circle cx="160" cy="11" r="2.4" fill="#0d3b34" stroke="#d9bd76" strokeWidth="1" />
+      <rect x="135" y="8.5" width="5" height="5" transform="rotate(45 137.5 11)" fill="#d9bd76" />
+      <rect x="180" y="8.5" width="5" height="5" transform="rotate(45 182.5 11)" fill="#d9bd76" />
+    </svg>
+  );
+}
+
+function FoundationsScroll() {
+  const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
+  return (
+    <div className="fs reveal" data-delay="3">
+      <div className="fs-inner">
+        <div className="fs-cartouches" aria-label="Article families">
+          {groups.map((group) => (
+            <div className="fs-cartouche" key={group}>
+              <span>{group}</span>
+            </div>
           ))}
-        </g>
-        <path d={d} aria-hidden="true" transform="translate(0 7)" className="fj-path-shadow" filter="url(#fj-soft)" />
-        <path className="fj-path" d={d} aria-hidden="true" filter="url(#fj-ds)" />
-        <path className="fj-path-hi" d={d} aria-hidden="true" transform="translate(0 -1.5)" />
-        <path className="fj-shimmer" d={d} aria-hidden="true" />
-        <g aria-hidden="true">
-          {FJ_MOTES.map((m, i) => (
-            <circle
-              key={i}
-              cx={m.x}
-              cy={m.y}
-              r={m.r}
-              className="fj-mote"
-              style={{ animationDelay: m.delay + 's' }}
-            />
-          ))}
-        </g>
-        {stations.map((s) => (
-          <g key={s.name} aria-hidden="true">
-            <line x1={s.x} y1={172} x2={s.x} y2={248} className="fj-link" />
-            <circle cx={s.x} cy={88} r={54} className="fj-station-orn" />
-            <circle cx={s.x} cy={88} r={44} fill="url(#fj-medal)" stroke="#d9bd76" strokeWidth={2} filter="url(#fj-ds)" />
-            <circle cx={s.x} cy={88} r={35} className="fj-station-ring inner" />
-            <polygon points={fjStar(s.x, 88, 17)} className="fj-star" />
-            <text x={s.x} y={162} className="fj-station-name">
-              {s.name}
-            </text>
-          </g>
-        ))}
-        {stops.map((s) => (
-          <a
-            key={s.slug}
-            className="fj-stop"
-            role="listitem"
-            href={'foundations/?p=' + s.slug}
-            aria-label={s.title + ', ' + s.group}
-          >
-            {s.above ? (
-              <line x1={s.x} y1={s.y - 17} x2={s.x} y2={314} className="fj-tick" />
-            ) : (
-              <line x1={s.x} y1={s.y + 17} x2={s.x} y2={493} className="fj-tick" />
-            )}
-            <circle cx={s.x} cy={s.y} r={19} className="fj-coin-ring" />
-            <circle cx={s.x} cy={s.y} r={15} className="fj-coin" fill="url(#fj-coin)" filter="url(#fj-ds)" />
-            <text x={s.x} y={s.y + 5.5} className="fj-num" aria-hidden="true">
-              {s.n}
-            </text>
-            {s.lines.map((line, li) => (
-              <text
-                key={li}
-                x={s.x}
-                y={s.above ? 280 + li * 22 : 505 + li * 22}
-                className="fj-title"
-              >
-                {line}
-              </text>
-            ))}
-          </a>
-        ))}
-        <g aria-hidden="true">
-          {FJ_SPARKS.map((sp, i) => (
-            <polygon
-              key={i}
-              points={fjSparkle(sp.x, sp.y, sp.r)}
-              className="fj-spark"
-              style={{ animationDelay: (i * 0.7).toFixed(2) + 's' }}
-            />
-          ))}
-        </g>
-      </svg>
-      <div className="fj-list">
-        {groups.map((group) => (
-          <div className="fj-group" key={group}>
-            <h3 className="fj-group-name">{group}</h3>
-            <ul>
-              {foundationOrder
-                .filter((slug) => foundations[slug].group === group)
-                .map((slug, i) => (
-                  <li key={slug}>
-                    <a className="fj-row" href={'foundations/?p=' + slug}>
-                      <span className="fj-badge" aria-hidden="true">
-                        {String(foundationOrder.indexOf(slug) + 1).padStart(2, '0')}
+        </div>
+        <div className="fs-scrollwrap">
+          <div className="fs-roll">{fsRoll(false)}</div>
+          <div className="fs-scroll" role="list" aria-label="Foundations articles">
+            <div className="fs-ornament" aria-hidden="true" />
+            <div className="fs-chapters">
+              {foundationOrder.map((slug, i) => (
+                <a
+                  key={slug}
+                  className="fs-chapter"
+                  role="listitem"
+                  href={'foundations/?p=' + slug}
+                  aria-label={foundations[slug].hero.title + ', ' + foundations[slug].group}
+                >
+                  {fsRosette()}
+                  <span className="fs-numeral" aria-hidden="true">
+                    {FJ_ROMAN[i]}
+                  </span>
+                  <span className="fs-chtitle">
+                    {FJ_TITLE_LINES[slug].map((line, li) => (
+                      <span key={li} className="fs-chline">
+                        {line}
                       </span>
-                      <span className="fj-row-title">{foundations[slug].hero.title}</span>
-                      <span className="fj-row-arrow" aria-hidden="true">
-                        &rarr;
-                      </span>
-                    </a>
-                  </li>
-                ))}
-            </ul>
+                    ))}
+                  </span>
+                </a>
+              ))}
+            </div>
+            <div className="fs-ornament" aria-hidden="true" />
           </div>
-        ))}
-      </div>
-      <p className="fj-cap">Nine articles in three families</p>
+          <div className="fs-roll">{fsRoll(true)}</div>
+        </div>
+        <div className="fs-list">
+          {groups.map((group) => (
+            <div className="fs-group" key={group}>
+              <h3 className="fs-group-name">{group}</h3>
+              <ul>
+                {foundationOrder
+                  .filter((s) => foundations[s].group === group)
+                  .map((slug) => (
+                    <li key={slug}>
+                      <a className="fs-row" href={'foundations/?p=' + slug}>
+                        <span className="fs-badge" aria-hidden="true">
+                          {FJ_ROMAN[foundationOrder.indexOf(slug)]}
+                        </span>
+                        <span className="fs-row-title">{foundations[slug].hero.title}</span>
+                        <span className="fs-row-arrow" aria-hidden="true">
+                          &rarr;
+                        </span>
+                      </a>
+                    </li>
+                  ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+        {fsFlourish()}
+        <p className="fs-cap">Nine articles in three families</p>
       </div>
     </div>
   );
@@ -418,7 +342,7 @@ export function HomePage() {
               hadith before it is set down.
             </p>
           </div>
-          <FoundationsJourney />
+          <FoundationsScroll />
         </section>
 
         <section className="section" id="caliphs">
