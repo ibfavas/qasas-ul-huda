@@ -1281,7 +1281,7 @@ body::after {
     inset 0 30px 50px -28px rgba(0, 0, 0, 0.7),
     inset 0 -30px 50px -28px rgba(0, 0, 0, 0.7);
 }
-.fs-inner { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+.fs-inner { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
 
 /* Family cartouches */
 .fs-cartouches {
@@ -1389,11 +1389,11 @@ body::after {
 }
 .fs-chtitle {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 15.5px;
+  font-size: 15px;
   line-height: 1.35;
   color: #2b2117;
   text-align: center;
-  min-height: 42px;
+  min-height: 62px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
