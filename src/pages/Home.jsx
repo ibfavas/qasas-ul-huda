@@ -35,139 +35,47 @@ function ProphetItem({ p }) {
   );
 }
 
-/* Foundations as bookmark tabs (design 3): nine index-divider tabs fanned
-   across the page, colored by family. Every tab is a hand-drawn SVG
-   bookmark; no generated imagery. Falls back to a grouped list on small
-   screens. */
-const FJ_TITLE_LINES = {
-  iman: ['The Six Articles', 'of Faith'],
-  pillars: ['The Five Pillars', 'of Islam'],
-  oneness: ['Why Muslims Say:', 'God Is One'],
-  night: ['The Night the', 'Quran Began'],
-  quran: ['The Standardization', 'of the Quran'],
-  recitation: ['How the Quran', 'Is Recited'],
-  ijaz: ['The Quran That', 'Cannot Be Imitated'],
-  'no-compulsion': ['No Compulsion:', 'Faith, War and Peace'],
-  women: ['Women in Islam'],
-};
+/* Foundations as family bands (design 4): three bold bands, one per
+   family, each with the family name large in serif and its articles as
+   refined rows. Pure CSS; no generated imagery. */
+const FS4_BAND_CLASS = ['teal', 'gold', 'ink'];
 
-const FS3_FAMILIES = [
-  { name: 'Belief and Practice', bg: '#0e4a42', fg: '#f3e6c3', edge: '#d9bd76', frame: 'rgba(217,189,118,0.5)' },
-  { name: 'The Quran', bg: '#c19a2e', fg: '#2b2117', edge: '#8a6a24', frame: 'rgba(43,33,23,0.45)' },
-  { name: 'Faith Among People', bg: '#1c2433', fg: '#f3e6c3', edge: '#d9bd76', frame: 'rgba(217,189,118,0.5)' },
-];
-
-/* Greedy word-wrap for tab titles */
-function fs3Wrap(text, max) {
-  const words = text.split(' ');
-  const lines = [];
-  let cur = '';
-  for (const w of words) {
-    const next = (cur + ' ' + w).trim();
-    if (next.length > max && cur) {
-      lines.push(cur.trim());
-      cur = w;
-    } else {
-      cur = next;
-    }
-  }
-  if (cur.trim()) lines.push(cur.trim());
-  return lines;
-}
-
-function fs3Tab(slug, n, angle, fam) {
-  const title = foundations[slug].hero.title.toUpperCase();
-  const lines = fs3Wrap(title, 14);
-  return (
-    <a
-      key={slug}
-      href={'foundations/?p=' + slug}
-      className="fs3-tab"
-      style={{ transform: 'rotate(' + angle + 'deg)' }}
-      aria-label={foundations[slug].hero.title + ', ' + fam.name}
-    >
-      <svg viewBox="0 0 150 360" className="fs3-tabsvg" aria-hidden="true">
-        <path
-          d="M14 344 L14 54 Q14 28 40 28 L62 28 A16 16 0 0 1 94 28 L116 28 Q142 28 142 54 L142 344 Q142 348 138 348 L18 348 Q14 348 14 344 Z"
-          fill={fam.bg}
-          stroke={fam.edge}
-          strokeWidth="2"
-        />
-        <path
-          d="M24 334 L24 62 Q24 40 46 40 L68 40 A12 12 0 0 1 92 40 L114 40 Q136 40 136 62 L136 334 Q136 338 132 338 L28 338 Q24 338 24 334 Z"
-          fill="none"
-          stroke={fam.frame}
-          strokeWidth="1"
-        />
-        <text x="78" y="88" className="fs3-num" fill={fam.fg}>
-          {String(n).padStart(2, '0')}
-        </text>
-        <line x1="58" y1="106" x2="98" y2="106" stroke={fam.frame} strokeWidth="1" />
-        {lines.map((line, li) => (
-          <text key={li} x="78" y={132 + li * 18} className="fs3-title" fill={fam.fg}>
-            {line}
-          </text>
-        ))}
-        <rect
-          x="74"
-          y="312"
-          width="8"
-          height="8"
-          transform="rotate(45 78 316)"
-          fill={fam.edge}
-          opacity="0.8"
-        />
-      </svg>
-    </a>
-  );
-}
-
-function FoundationsTabs() {
+function FoundationsBands() {
   const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
-  const famOf = (slug) => FS3_FAMILIES[groups.indexOf(foundations[slug].group)];
   return (
-    <div className="fs3 reveal" data-delay="3">
-      <div className="fs3-inner">
-        <div className="fs3-fan" role="list" aria-label="Foundations articles">
-          {foundationOrder.map((slug, i) => (
-            <div key={slug} role="listitem" className="fs3-slot">
-              {fs3Tab(slug, i + 1, (i - 4) * 2.5, famOf(slug))}
-            </div>
-          ))}
-        </div>
-        <div className="fs3-legend" aria-label="Article families">
-          {FS3_FAMILIES.map((fam) => (
-            <span className="fs3-key" key={fam.name}>
-              <span className="fs3-chip" style={{ background: fam.bg, borderColor: fam.edge }} />
-              <span className="fs3-keyname">{fam.name}</span>
-            </span>
-          ))}
-        </div>
-        <div className="fs-list">
-          {groups.map((group) => (
-            <div className="fs-group" key={group}>
-              <h3 className="fs-group-name">{group}</h3>
-              <ul>
-                {foundationOrder
-                  .filter((s) => foundations[s].group === group)
-                  .map((slug, i) => (
-                    <li key={slug}>
-                      <a className="fs-row" href={'foundations/?p=' + slug}>
-                        <span className="fs-badge" aria-hidden="true">
-                          {String(foundationOrder.indexOf(slug) + 1).padStart(2, '0')}
-                        </span>
-                        <span className="fs-row-title">{foundations[slug].hero.title}</span>
-                        <span className="fs-row-arrow" aria-hidden="true">
-                          &rarr;
-                        </span>
-                      </a>
-                    </li>
-                  ))}
-              </ul>
-            </div>
-          ))}
-        </div>
-        <p className="fs3-cap">Nine articles in three families</p>
+    <div className="fs4 reveal" data-delay="3">
+      <div className="fs4-inner">
+        {groups.map((group, gi) => (
+          <section
+            key={group}
+            className={'fs4-band ' + FS4_BAND_CLASS[gi % FS4_BAND_CLASS.length]}
+            aria-label={group}
+          >
+            <h3 className="fs4-famname">{group}</h3>
+            <ul className="fs4-articles">
+              {foundationOrder
+                .filter((s) => foundations[s].group === group)
+                .map((slug) => (
+                  <li key={slug}>
+                    <a
+                      className="fs4-row"
+                      href={'foundations/?p=' + slug}
+                      aria-label={foundations[slug].hero.title}
+                    >
+                      <span className="fs4-num" aria-hidden="true">
+                        {String(foundationOrder.indexOf(slug) + 1).padStart(2, '0')}
+                      </span>
+                      <span className="fs4-title">{foundations[slug].hero.title}</span>
+                      <span className="fs4-arrow" aria-hidden="true">
+                        &rarr;
+                      </span>
+                    </a>
+                  </li>
+                ))}
+            </ul>
+          </section>
+        ))}
+        <p className="fs4-cap">Nine articles in three families</p>
       </div>
     </div>
   );
@@ -318,7 +226,7 @@ export function HomePage() {
               hadith before it is set down.
             </p>
           </div>
-          <FoundationsTabs />
+          <FoundationsBands />
         </section>
 
         <section className="section" id="caliphs">
