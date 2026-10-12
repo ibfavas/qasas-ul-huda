@@ -1435,6 +1435,8 @@ body::after {
 
 /* Pearls of the Seerah: timeline index */
 .pearl-index { max-width: 860px; margin: 0 auto; padding: 40px 22px 80px; }
+.pearl-index > p:first-child { text-align: center; }
+.pearl-index h1 { text-align: center; }
 .pearl-timeline { position: relative; margin-top: 44px; padding: 10px 0 30px; }
 .pearl-timeline::before { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 2px; margin-left: -1px; background: linear-gradient(var(--gold-light), var(--gold), var(--gold-light)); opacity: 0.7; }
 .pearl-era { text-align: center; margin: 34px 0 6px; position: relative; z-index: 1; }
@@ -1456,6 +1458,7 @@ body::after {
 
 /* Pearl story page */
 .pearl-story { max-width: 760px; margin: 0 auto; padding: 40px 22px 80px; }
+.pearl-story h1 { text-align: center; }
 .pearl-back { color: var(--gold-deep); text-decoration: none; font-size: 0.95rem; letter-spacing: 0.05em; }
 .pearl-back:hover { text-decoration: underline; }
 .pearl-body { margin-top: 26px; }
