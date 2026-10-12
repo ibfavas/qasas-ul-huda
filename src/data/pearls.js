@@ -183,6 +183,27 @@ export const pearls = [
     lesson:
       'The Bedouin brought almost no deeds, only love, and it was enough. Love of Allah and His Messenger is not a small thing. It decides where you end up.',
   },
+  {
+    slug: 'eid-play',
+    title: 'Her Cheek on His Cheek',
+    teaser: 'On Eid, she watched the spear play with her cheek against his, until she had enough.',
+    category: 'At Home',
+    era: 'Madinan Years',
+    order: 9,
+    source: {
+      label: 'Sahih al-Bukhari 949, 950',
+      url: 'https://sunnah.com/bukhari:950',
+      narrator: 'Aisha (RA)',
+    },
+    body: [
+      'It was Eid day. The Prophet ﷺ came to Aisha\u2019s house and found two girls singing the old songs of Bu\u2018ath. He lay down on the bed and turned his face to the other side, letting them sing. Then Abu Bakr (RA) walked in and scolded her: the instruments of Satan, in the Prophet\u2019s house? The Prophet ﷺ turned to him and said, \u201cLeave them.\u201d When Abu Bakr looked away, Aisha signaled to the girls and they slipped out.',
+      'Outside in the mosque, the Abyssinians were playing with shields and spears. Either she asked, or he asked her: would you like to watch? She said yes.',
+      'He stood her behind him, her cheek touching his cheek, and she watched the play over his shoulder. He even cheered the players on: \u201cCarry on, O Bani Arfida!\u201d He stayed like that, a screen between her and the crowd, letting her watch as long as she wished.',
+      'Until she grew tired. \u201cAre you satisfied?\u201d he asked. She said yes. \u201cThen go,\u201d he said. He never rushed her. She left when she was ready.',
+    ],
+    lesson:
+      'She watched until she had enough, and he never hurried her. That is what it looks like when someone loves your happiness as their own.',
+  },
 ];
 
 export const pearlOrder = pearls
