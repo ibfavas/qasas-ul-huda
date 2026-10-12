@@ -35,10 +35,10 @@ function ProphetItem({ p }) {
   );
 }
 
-/* Foundations as an unfolding scroll (design 2): nine articles as chapters
-   along a hand-built parchment scroll, grouped under three family
-   cartouches. All ornament is drawn in SVG/CSS, no generated imagery.
-   On small screens it falls back to a grouped list. */
+/* Foundations as bookmark tabs (design 3): nine index-divider tabs fanned
+   across the page, colored by family. Every tab is a hand-drawn SVG
+   bookmark; no generated imagery. Falls back to a grouped list on small
+   screens. */
 const FJ_TITLE_LINES = {
   iman: ['The Six Articles', 'of Faith'],
   pillars: ['The Five Pillars', 'of Islam'],
@@ -51,120 +51,97 @@ const FJ_TITLE_LINES = {
   women: ['Women in Islam'],
 };
 
-const FJ_ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'];
+const FS3_FAMILIES = [
+  { name: 'Belief and Practice', bg: '#0e4a42', fg: '#f3e6c3', edge: '#d9bd76', frame: 'rgba(217,189,118,0.5)' },
+  { name: 'The Quran', bg: '#c19a2e', fg: '#2b2117', edge: '#8a6a24', frame: 'rgba(43,33,23,0.45)' },
+  { name: 'Faith Among People', bg: '#1c2433', fg: '#f3e6c3', edge: '#d9bd76', frame: 'rgba(217,189,118,0.5)' },
+];
 
-/* Eight-petal rosette ornament */
-function fsRosette() {
-  const petals = [];
-  for (let k = 0; k < 8; k++) {
-    petals.push(
-      <ellipse
-        key={k}
-        cx="13"
-        cy="6.5"
-        rx="2.6"
-        ry="5"
-        transform={'rotate(' + k * 45 + ' 13 13)'}
-      />
-    );
+/* Greedy word-wrap for tab titles */
+function fs3Wrap(text, max) {
+  const words = text.split(' ');
+  const lines = [];
+  let cur = '';
+  for (const w of words) {
+    const next = (cur + ' ' + w).trim();
+    if (next.length > max && cur) {
+      lines.push(cur.trim());
+      cur = w;
+    } else {
+      cur = next;
+    }
   }
+  if (cur.trim()) lines.push(cur.trim());
+  return lines;
+}
+
+function fs3Tab(slug, n, angle, fam) {
+  const title = foundations[slug].hero.title.toUpperCase();
+  const lines = fs3Wrap(title, 14);
   return (
-    <svg viewBox="0 0 26 26" className="fs-rosette" aria-hidden="true">
-      <g fill="#b3924d">{petals}</g>
-      <circle cx="13" cy="13" r="3.6" fill="#8a6a24" />
-      <circle cx="13" cy="13" r="1.5" fill="#f3e9cf" />
-    </svg>
+    <a
+      key={slug}
+      href={'foundations/?p=' + slug}
+      className="fs3-tab"
+      style={{ transform: 'rotate(' + angle + 'deg)' }}
+      aria-label={foundations[slug].hero.title + ', ' + fam.name}
+    >
+      <svg viewBox="0 0 150 360" className="fs3-tabsvg" aria-hidden="true">
+        <path
+          d="M14 344 L14 54 Q14 28 40 28 L62 28 A16 16 0 0 1 94 28 L116 28 Q142 28 142 54 L142 344 Q142 348 138 348 L18 348 Q14 348 14 344 Z"
+          fill={fam.bg}
+          stroke={fam.edge}
+          strokeWidth="2"
+        />
+        <path
+          d="M24 334 L24 62 Q24 40 46 40 L68 40 A12 12 0 0 1 92 40 L114 40 Q136 40 136 62 L136 334 Q136 338 132 338 L28 338 Q24 338 24 334 Z"
+          fill="none"
+          stroke={fam.frame}
+          strokeWidth="1"
+        />
+        <text x="78" y="88" className="fs3-num" fill={fam.fg}>
+          {String(n).padStart(2, '0')}
+        </text>
+        <line x1="58" y1="106" x2="98" y2="106" stroke={fam.frame} strokeWidth="1" />
+        {lines.map((line, li) => (
+          <text key={li} x="78" y={132 + li * 18} className="fs3-title" fill={fam.fg}>
+            {line}
+          </text>
+        ))}
+        <rect
+          x="74"
+          y="312"
+          width="8"
+          height="8"
+          transform="rotate(45 78 316)"
+          fill={fam.edge}
+          opacity="0.8"
+        />
+      </svg>
+    </a>
   );
 }
 
-/* Rolled end of the scroll; `right` picks the mirrored gradient id */
-function fsRoll(right) {
-  const gid = right ? 'fs-rollb' : 'fs-rolla';
-  return (
-    <svg viewBox="0 0 76 260" preserveAspectRatio="none" className="fs-rollsvg" aria-hidden="true">
-      <defs>
-        <linearGradient id={gid} x1="0" y1="0" x2="1" y2="0">
-          <stop offset="0" stopColor="#8a6f3e" />
-          <stop offset="0.3" stopColor="#f4e8c8" />
-          <stop offset="0.55" stopColor="#e2cb94" />
-          <stop offset="0.8" stopColor="#c8a869" />
-          <stop offset="1" stopColor="#7d6335" />
-        </linearGradient>
-      </defs>
-      <rect x="14" y="8" width="48" height="244" rx="24" fill={'url(#' + gid + ')'} stroke="#6d5527" strokeWidth="1.5" />
-      <line x1="17" y1="70" x2="59" y2="70" stroke="#6d5527" strokeWidth="1" opacity="0.35" />
-      <line x1="17" y1="130" x2="59" y2="130" stroke="#6d5527" strokeWidth="1" opacity="0.35" />
-      <line x1="17" y1="190" x2="59" y2="190" stroke="#6d5527" strokeWidth="1" opacity="0.35" />
-      <ellipse cx="38" cy="13" rx="22" ry="9" fill="#f6eed6" stroke="#6d5527" strokeWidth="2" />
-      <ellipse cx="38" cy="13" rx="13" ry="5" fill="none" stroke="#6d5527" strokeWidth="1.4" />
-      <ellipse cx="38" cy="13" rx="6" ry="2.4" fill="none" stroke="#6d5527" strokeWidth="1.2" />
-      <ellipse cx="38" cy="247" rx="22" ry="9" fill="#e9d9ae" stroke="#6d5527" strokeWidth="2" />
-      <ellipse cx="38" cy="247" rx="13" ry="5" fill="none" stroke="#6d5527" strokeWidth="1.4" />
-      <ellipse cx="38" cy="247" rx="6" ry="2.4" fill="none" stroke="#6d5527" strokeWidth="1.2" />
-    </svg>
-  );
-}
-
-/* Small centered flourish divider */
-function fsFlourish() {
-  return (
-    <svg viewBox="0 0 320 22" className="fs-flourish" aria-hidden="true">
-      <line x1="0" y1="11" x2="128" y2="11" stroke="#d9bd76" strokeWidth="1" opacity="0.7" />
-      <line x1="192" y1="11" x2="320" y2="11" stroke="#d9bd76" strokeWidth="1" opacity="0.7" />
-      <g fill="#d9bd76">
-        <ellipse cx="160" cy="11" rx="3" ry="5" />
-        <ellipse cx="160" cy="11" rx="3" ry="5" transform="rotate(60 160 11)" />
-        <ellipse cx="160" cy="11" rx="3" ry="5" transform="rotate(120 160 11)" />
-      </g>
-      <circle cx="160" cy="11" r="2.4" fill="#0d3b34" stroke="#d9bd76" strokeWidth="1" />
-      <rect x="135" y="8.5" width="5" height="5" transform="rotate(45 137.5 11)" fill="#d9bd76" />
-      <rect x="180" y="8.5" width="5" height="5" transform="rotate(45 182.5 11)" fill="#d9bd76" />
-    </svg>
-  );
-}
-
-function FoundationsScroll() {
+function FoundationsTabs() {
   const groups = [...new Set(foundationOrder.map((slug) => foundations[slug].group))];
+  const famOf = (slug) => FS3_FAMILIES[groups.indexOf(foundations[slug].group)];
   return (
-    <div className="fs reveal" data-delay="3">
-      <div className="fs-inner">
-        <div className="fs-cartouches" aria-label="Article families">
-          {groups.map((group) => (
-            <div className="fs-cartouche" key={group}>
-              <span>{group}</span>
+    <div className="fs3 reveal" data-delay="3">
+      <div className="fs3-inner">
+        <div className="fs3-fan" role="list" aria-label="Foundations articles">
+          {foundationOrder.map((slug, i) => (
+            <div key={slug} role="listitem" className="fs3-slot">
+              {fs3Tab(slug, i + 1, (i - 4) * 2.5, famOf(slug))}
             </div>
           ))}
         </div>
-        <div className="fs-scrollwrap">
-          <div className="fs-roll">{fsRoll(false)}</div>
-          <div className="fs-scroll" role="list" aria-label="Foundations articles">
-            <div className="fs-ornament" aria-hidden="true" />
-            <div className="fs-chapters">
-              {foundationOrder.map((slug, i) => (
-                <a
-                  key={slug}
-                  className="fs-chapter"
-                  role="listitem"
-                  href={'foundations/?p=' + slug}
-                  aria-label={foundations[slug].hero.title + ', ' + foundations[slug].group}
-                >
-                  {fsRosette()}
-                  <span className="fs-numeral" aria-hidden="true">
-                    {FJ_ROMAN[i]}
-                  </span>
-                  <span className="fs-chtitle">
-                    {FJ_TITLE_LINES[slug].map((line, li) => (
-                      <span key={li} className="fs-chline">
-                        {line}
-                      </span>
-                    ))}
-                  </span>
-                </a>
-              ))}
-            </div>
-            <div className="fs-ornament" aria-hidden="true" />
-          </div>
-          <div className="fs-roll">{fsRoll(true)}</div>
+        <div className="fs3-legend" aria-label="Article families">
+          {FS3_FAMILIES.map((fam) => (
+            <span className="fs3-key" key={fam.name}>
+              <span className="fs3-chip" style={{ background: fam.bg, borderColor: fam.edge }} />
+              <span className="fs3-keyname">{fam.name}</span>
+            </span>
+          ))}
         </div>
         <div className="fs-list">
           {groups.map((group) => (
@@ -173,11 +150,11 @@ function FoundationsScroll() {
               <ul>
                 {foundationOrder
                   .filter((s) => foundations[s].group === group)
-                  .map((slug) => (
+                  .map((slug, i) => (
                     <li key={slug}>
                       <a className="fs-row" href={'foundations/?p=' + slug}>
                         <span className="fs-badge" aria-hidden="true">
-                          {FJ_ROMAN[foundationOrder.indexOf(slug)]}
+                          {String(foundationOrder.indexOf(slug) + 1).padStart(2, '0')}
                         </span>
                         <span className="fs-row-title">{foundations[slug].hero.title}</span>
                         <span className="fs-row-arrow" aria-hidden="true">
@@ -190,8 +167,7 @@ function FoundationsScroll() {
             </div>
           ))}
         </div>
-        {fsFlourish()}
-        <p className="fs-cap">Nine articles in three families</p>
+        <p className="fs3-cap">Nine articles in three families</p>
       </div>
     </div>
   );
@@ -342,7 +318,7 @@ export function HomePage() {
               hadith before it is set down.
             </p>
           </div>
-          <FoundationsScroll />
+          <FoundationsTabs />
         </section>
 
         <section className="section" id="caliphs">
