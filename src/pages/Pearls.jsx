@@ -1,4 +1,4 @@
-/* Pearls of the Seerah: searchable story index + individual story pages. */
+/* Moments: searchable story index + individual story pages. */
 import { useMemo, useState } from 'react';
 import { pearls, pearlOrder, pearlBySlug } from '../data/pearls.js';
 import { Headpiece, RuleStar } from '../components/chrome.jsx';
@@ -60,22 +60,22 @@ export function PearlsIndex() {
         <span className="chapter-plaque">Qasas ul-Huda</span>
       </p>
       <p className="kicker reveal" data-delay="1">Short stories, verified</p>
-      <h1 className="antique-gold reveal" data-delay="1">Pearls of the Seerah</h1>
+      <h1 className="antique-gold reveal" data-delay="1">Moments</h1>
       <p className="lede reveal" data-delay="2">
         Short, verified stories from the life of the Prophet Muhammad ﷺ: moments of mercy,
         courage, and character, each one traced to its source before it is set down.
       </p>
       <RuleStar />
 
-      <section className="pearl-spotlight reveal" data-delay="2" aria-label="Pearl of the day">
+      <section className="pearl-spotlight reveal" data-delay="2" aria-label="Moment of the day">
         <p className="pearl-spot-kicker">
-          <PearlEmblem /> <span>Pearl of the day</span>
+          <PearlEmblem /> <span>Moment of the day</span>
         </p>
         <a className="pearl-spot-card" href={'?p=' + spotlight.slug}>
           <span className="pearl-title">{spotlight.title}</span>
           <span className="pearl-teaser">{spotlight.teaser}</span>
           <span className="pearl-read">
-            Read today&apos;s pearl <span aria-hidden="true">&rarr;</span>
+            Read today&apos;s moment <span aria-hidden="true">&rarr;</span>
           </span>
         </a>
       </section>

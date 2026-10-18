@@ -117,7 +117,7 @@ const CALLOUT = {
   cite: 'Surah Yusuf · 12:101',
 };
 
-/* Pearls of the Seerah: homepage ribbon carousel (design 1).
+/* Moments: homepage ribbon carousel (design 1).
    Reads straight from the pearls data, so new stories appear here
    automatically the moment they are added. */
 function PearlEmblemSm() {
@@ -157,10 +157,10 @@ function PearlRibbon() {
   }, [items.length]);
 
   return (
-    <section className="pearl-ribbon-section" aria-label="Pearls of the Seerah">
+    <section className="pearl-ribbon-section" aria-label="Moments">
       <div className="pearl-ribbon-head">
         <p className="kicker reveal">Short stories, verified</p>
-        <h2 className="pearl-ribbon-title reveal" data-delay="1">Pearls of the Seerah</h2>
+        <h2 className="pearl-ribbon-title reveal" data-delay="1">Moments</h2>
         <p className="pearl-ribbon-lede reveal" data-delay="2">
           Short, verified moments from the life of the Prophet Muhammad ﷺ — mercy, courage,
           and character in stories you can read in minutes.

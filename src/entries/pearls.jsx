@@ -1,4 +1,4 @@
-/* Pearls of the Seerah: one URL, content switches by the story chosen.
+/* Moments: one URL, content switches by the story chosen.
    /pearls/  -> timeline index
    /pearls/?p=day-of-badr  -> the story
    (hash #<slug> also works) */
@@ -26,7 +26,7 @@ function PearlsApp() {
   const pearl = slug ? pearlBySlug[slug] : null;
   useSiteEffects();
   useEffect(() => {
-    document.title = pearl ? pearl.title + ' \u00b7 Pearls of the Seerah' : 'Pearls of the Seerah \u00b7 Qasas ul-Huda';
+    document.title = pearl ? pearl.title + ' \u00b7 Moments' : 'Moments \u00b7 Qasas ul-Huda';
     if (pearl) window.scrollTo(0, 0);
   }, [slug, pearl]);
   return (

@@ -1433,7 +1433,7 @@ body::after {
 .caliph-sub { color: var(--gold-deep); letter-spacing: 0.14em; font-size: 0.95rem; margin: 10px 0 0; }
 .caliph-soon { text-align: center; color: var(--ink-soft); font-style: italic; margin-top: 34px; }
 
-/* Pearls of the Seerah: timeline index */
+/* Moments: timeline index */
 .pearl-index { max-width: 1240px; margin: 0 auto; padding: 40px 22px 80px; }
 .pearl-plaque-row { text-align: center; }
 .pearl-index h1 { text-align: center; }

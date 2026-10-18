@@ -1,4 +1,4 @@
-/* Pearls of the Seerah: short, verified stories from the Seerah.
+/* Moments: short, verified stories from the Seerah.
    Each pearl: slug, title, teaser, category, era, timeline order,
    source attribution, body paragraphs, and a closing lesson.
    The homepage carousel and the pearls index both read from this file,
