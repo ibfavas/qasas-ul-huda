@@ -22,6 +22,7 @@ export default defineConfig({
         foundations: resolve(__dirname, 'src/templates/foundations/index.html'),
         asma: resolve(__dirname, 'src/templates/asma-ul-husna/index.html'),
         pearls: resolve(__dirname, 'src/templates/pearls/index.html'),
+        signs: resolve(__dirname, 'src/templates/signs-of-the-hour/index.html'),
         caliphAbubakr: resolve(__dirname, 'src/templates/caliphs/abu-bakr/index.html'),
         caliphUmar: resolve(__dirname, 'src/templates/caliphs/umar/index.html'),
         caliphUthman: resolve(__dirname, 'src/templates/caliphs/uthman/index.html'),

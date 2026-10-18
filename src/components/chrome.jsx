@@ -32,6 +32,7 @@ export function HomeNav() {
           <li><a href="#timeline" onClick={close}>Stories of Prophets</a></li>
           <li><a href="#foundations" onClick={close}>Foundations</a></li>
           <li><a href="pearls/" onClick={close}>Moments</a></li>
+          <li><a href="signs-of-the-hour/" onClick={close}>Signs of the Hour</a></li>
           <li><a href="#resources" onClick={close}>Sources</a></li>
           <li><a href="#about" onClick={close}>About</a></li>
         </ul>
@@ -55,6 +56,7 @@ export function StoryNav() {
           <li><a href="../index.html#timeline" onClick={close}>Stories of Prophets</a></li>
           <li><a href="../index.html#foundations" onClick={close}>Foundations</a></li>
           <li><a href="../pearls/" onClick={close}>Moments</a></li>
+          <li><a href="../signs-of-the-hour/" onClick={close}>Signs of the Hour</a></li>
           <li><a href="../index.html#resources" onClick={close}>Sources</a></li>
           <li><a href="../index.html#about" onClick={close}>About</a></li>
         </ul>
@@ -80,6 +82,7 @@ export function CaliphNav() {
           <li><a href="../../index.html#timeline" onClick={close}>Stories of Prophets</a></li>
           <li><a href="../../index.html#foundations" onClick={close}>Foundations</a></li>
           <li><a href="../../pearls/" onClick={close}>Moments</a></li>
+          <li><a href="../../signs-of-the-hour/" onClick={close}>Signs of the Hour</a></li>
           <li><a href="../../index.html#resources" onClick={close}>Sources</a></li>
           <li><a href="../../index.html#about" onClick={close}>About</a></li>
         </ul>

@@ -66,5 +66,13 @@ html = html.split('../../../assets/').join('../assets/');
 await fs.mkdir(path.join(dist, 'pearls'), { recursive: true });
 await fs.writeFile(path.join(dist, 'pearls/index.html'), html);
 
+// Signs of the Hour page: dist/src/templates/signs-of-the-hour/index.html -> dist/signs-of-the-hour/index.html
+// Same depth as the story page: ../../../assets/... becomes ../assets/...
+const signsPage = path.join(dist, 'src/templates/signs-of-the-hour/index.html');
+html = await fs.readFile(signsPage, 'utf8');
+html = html.split('../../../assets/').join('../assets/');
+await fs.mkdir(path.join(dist, 'signs-of-the-hour'), { recursive: true });
+await fs.writeFile(path.join(dist, 'signs-of-the-hour/index.html'), html);
+
 await fs.rm(path.join(dist, 'src'), { recursive: true, force: true });
 console.log('dist/ finalized for Cloudflare Pages');
