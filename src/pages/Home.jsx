@@ -201,7 +201,7 @@ function PearlRibbon() {
           </button>
         </div>
         <a className="pearl-ribbon-all" href="pearls/">
-          View all pearls <span aria-hidden="true">&rarr;</span>
+          View all moments <span aria-hidden="true">&rarr;</span>
         </a>
       </div>
     </section>

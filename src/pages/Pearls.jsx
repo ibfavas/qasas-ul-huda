@@ -143,7 +143,7 @@ export function PearlStoryPage({ pearl }) {
       <Headpiece />
       <p className="reveal">
         <a className="pearl-back" href="./">
-          <span aria-hidden="true">&larr;</span> All pearls
+          <span aria-hidden="true">&larr;</span> All moments
         </a>
       </p>
       <p className="kicker reveal" data-delay="1">
@@ -180,7 +180,7 @@ export function PearlStoryPage({ pearl }) {
       ) : null}
       <p className="reveal" style={{ textAlign: 'center', marginTop: 36 }}>
         <a className="pearl-back" href="./">
-          <span aria-hidden="true">&larr;</span> All pearls
+          <span aria-hidden="true">&larr;</span> All moments
         </a>
       </p>
     </main>
