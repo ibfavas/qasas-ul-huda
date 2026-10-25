@@ -121,6 +121,17 @@ const CALLOUT = {
 /* Moments: homepage ribbon carousel (design 1).
    Reads straight from the pearls data, so new stories appear here
    automatically the moment they are added. */
+function PearlEmblemSm() {
+  return (
+    <span className="pearl-emblem" aria-hidden="true">
+      <svg viewBox="0 0 32 32" fill="none">
+        <circle cx="16" cy="16" r="11" fill="#f4ead2" stroke="#a8842f" strokeWidth="1.6" />
+        <ellipse cx="12.5" cy="12" rx="4" ry="2.6" fill="#ffffff" opacity="0.75" transform="rotate(-24 12.5 12)" />
+      </svg>
+    </span>
+  );
+}
+
 function PearlRibbon() {
   const trackRef = useRef<HTMLDivElement | null>(null);
   const [active, setActive] = useState(0);
@@ -160,6 +171,7 @@ function PearlRibbon() {
         <div className="pearl-ribbon" ref={trackRef}>
           {items.map((p) => (
             <a className="pearl-ribbon-card" href={'pearls/?p=' + p.slug} key={p.slug}>
+              <PearlEmblemSm />
               <span className="pearl-title">{p.title}</span>
               <span className="pearl-teaser">{p.teaser}</span>
               <span className="pearl-cat">{p.category}</span>
