@@ -1,0 +1,70 @@
+import type { LineageNode, LineageBranch } from '../types';
+/* Prophetic lineage data: every transmitted name from Adam (AS) to Muhammad ﷺ.
+   The spine is the direct line; branches hold prophets off the direct line.
+   Names follow the transmitted genealogies (Ibn Hisham, Ibn Kathir). */
+
+export const lineageSpine: LineageNode[] = [
+  { n: 'Adam', ar: 'آدم', h: '(AS)', p: 1, num: 1 },
+  { n: 'Shith' },
+  { n: 'Anush' },
+  { n: 'Qaynan' },
+  { n: 'Mahlayil' },
+  { n: 'Yarid' },
+  { n: 'Idris', ar: 'إدريس', h: '(AS)', p: 1, num: 2 },
+  { n: 'Matushalakh' },
+  { n: 'Lamak' },
+  { n: 'Nuh', ar: 'نوح', h: '(AS)', p: 1, num: 3 },
+  { n: 'Sam' },
+  { n: 'Arfakhshad' },
+  { n: 'Shalikh' },
+  { n: 'Abir' },
+  { n: 'Faligh' },
+  { n: "Ra'u" },
+  { n: 'Sarugh' },
+  { n: 'Nahur' },
+  { n: 'Azar (Tarih)' },
+  { n: 'Ibrahim', ar: 'إبراهيم', h: '(AS)', p: 1, num: 5 },
+  { n: 'Ismail', ar: 'إسماعيل', h: '(AS)', p: 1, num: 6 },
+  { n: 'Nabit' },
+  { n: 'Yashjub' },
+  { n: "Ya'rub" },
+  { n: 'Tayrah' },
+  { n: 'Nahur' },
+  { n: 'Muqawwim' },
+  { n: 'Udad' },
+  { n: 'Adnan' },
+  { n: "Ma'add" },
+  { n: 'Nizar' },
+  { n: 'Mudar' },
+  { n: 'Ilyas' },
+  { n: 'Mudrikah' },
+  { n: 'Khuzaymah' },
+  { n: 'Kinana' },
+  { n: 'An-Nadr' },
+  { n: 'Malik' },
+  { n: 'Fihr (Quraysh)' },
+  { n: 'Ghalib' },
+  { n: "Lu'ayy" },
+  { n: "Ka'b" },
+  { n: 'Murrah' },
+  { n: 'Kilab' },
+  { n: 'Qusayy' },
+  { n: 'Abd Manaf' },
+  { n: 'Hashim' },
+  { n: 'Abdul Muttalib' },
+  { n: 'Abdullah' },
+  { n: 'Muhammad', ar: 'محمد', h: 'ﷺ', p: 2, num: 10 },
+];
+
+/* Branches: { from } names a spine node; nodes extend from it in order. */
+export const lineageBranches: LineageBranch[] = [
+  { from: 'Shalikh', nodes: [{ n: 'Hud', ar: 'هود', h: '(AS)', p: 1, num: 4 }] },
+  {
+    from: 'Ibrahim',
+    nodes: [
+      { n: 'Ishaq', ar: 'إسحاق', h: '(AS)', p: 1, num: 7 },
+      { n: 'Yaqub', ar: 'يعقوب', h: '(AS)', p: 1, num: 8 },
+      { n: 'Yusuf', ar: 'يوسف', h: '(AS)', p: 1, num: 9 },
+    ],
+  },
+];

@@ -1,8 +1,8 @@
 import { renderToStaticMarkup } from 'react-dom/server';
-import { HomePage } from '../src/pages/Home.jsx';
-import { ChapterPage } from '../src/pages/Chapter.jsx';
-import { chapter as adam } from '../src/data/adam.js';
-import { chapter as yusuf } from '../src/data/yusuf.js';
+import { HomePage } from '../src/pages/Home';
+import { ChapterPage } from '../src/pages/Chapter';
+import { chapter as adam } from '../src/data/adam';
+import { chapter as yusuf } from '../src/data/yusuf';
 
 const out = {
   home: renderToStaticMarkup(<HomePage />),
