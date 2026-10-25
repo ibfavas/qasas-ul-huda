@@ -672,6 +672,131 @@ export const pearls = [
     lesson:
       'Even the most serious hearts need laughter. He laughed at this prank for a year, and never once made devotion mean gloom.',
   },
+  {
+    slug: 'footrace-aisha',
+    title: 'This Is for That',
+    teaser: 'Two races on two journeys, years apart, and a score settled with a smile.',
+    category: 'Gentle Humor',
+    era: 'Madinan Years',
+    order: 31,
+    source: {
+      label: 'Sunan Abi Dawud 2578 (Sahih)',
+      url: 'https://sunnah.com/abudawud:2578',
+      narrator: 'Aisha (RA)',
+    },
+    body: [
+      'Aisha (RA) was travelling with the Prophet ﷺ on a journey when they raced each other on foot, and she outran him.',
+      'On another journey, when she had become fleshy, they raced again, and this time he outran her.',
+      'He said: \u201cThis is for that outstripping.\u201d',
+    ],
+    lesson:
+      'He kept the score and settled it with a smile. Even the Messenger of Allah ﷺ made room for play, and for the wife he loved.',
+  },
+  {
+    slug: 'camel-complaint',
+    title: 'The Camel That Complained',
+    teaser: 'A camel wept when it saw him, and he took up its complaint.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 32,
+    source: {
+      label: 'Sunan Abi Dawud 2549',
+      url: 'https://sunnah.com/abudawud:2549',
+      narrator: 'Abdullah ibn Ja\u2019far (RA)',
+    },
+    body: [
+      'Abdullah ibn Ja\u2019far (RA) was riding behind the Prophet ﷺ one day when they entered the garden of a man from the Ansar.',
+      'A camel in the garden saw the Prophet ﷺ and began to weep, making a yearning sound, its eyes flowing. The Prophet ﷺ went to it and wiped the temple of its head, and it fell silent.',
+      'He asked: \u201cWho is the master of this camel? Whose camel is this?\u201d A young man from the Ansar came forward and said: \u201cThis is mine, Messenger of Allah.\u201d',
+      'He said to him: \u201cDo you not fear Allah about this beast which Allah has given into your possession? It has complained to me that you keep it hungry and load it heavily, which fatigues it.\u201d',
+    ],
+    lesson:
+      'Mercy did not stop at people. Even a tired animal could bring its complaint to him, and be heard.',
+  },
+  {
+    slug: 'weeping-trunk',
+    title: 'The Trunk That Wept',
+    teaser: 'He left the old palm trunk for a pulpit, and on Friday it cried like a child.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 33,
+    source: {
+      label: 'Sahih al-Bukhari 3584',
+      url: 'https://sunnah.com/bukhari:3584',
+      narrator: 'Jabir ibn Abdullah (RA)',
+    },
+    body: [
+      'The Prophet ﷺ used to stand by a tree or a date palm on Friday to deliver his sermon.',
+      'Then a woman or a man from the Ansar said: \u201cMessenger of Allah, shall we make a pulpit for you?\u201d He replied: \u201cIf you wish.\u201d So they made one for him.',
+      'When Friday came and he proceeded towards the pulpit, the date palm cried like a child. The Prophet ﷺ descended from the pulpit and embraced it while it continued moaning like a child being quietened.',
+      'He said: \u201cIt was crying for missing what it used to hear of religious knowledge given near to it.\u201d',
+    ],
+    lesson:
+      'Even wood missed his voice. What he gave was not only words, but a presence that creation itself felt.',
+  },
+  {
+    slug: 'sick-boy-visit',
+    title: 'The Boy He Visited',
+    teaser: 'A young servant fell ill, and the Prophet ﷺ came to sit by his head.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 34,
+    source: {
+      label: 'Sahih al-Bukhari 1356',
+      url: 'https://sunnah.com/bukhari:1356',
+      narrator: 'Anas ibn Malik (RA)',
+    },
+    body: [
+      'A young Jewish boy used to serve the Prophet ﷺ, and he fell sick.',
+      'The Prophet ﷺ went to visit him. He sat near his head and asked him to embrace Islam.',
+      'The boy looked at his father, who was sitting there. His father told him: \u201cObey Abul-Qasim.\u201d And the boy embraced Islam.',
+      'The Prophet ﷺ came out saying: \u201cPraises be to Allah Who saved the boy from the Hell-fire.\u201d',
+    ],
+    lesson:
+      'He visited the sick without asking who they were first. Mercy went where it was needed, and left praise on its lips.',
+  },
+  {
+    slug: 'bird-chicks',
+    title: 'Who Grieved This Bird?',
+    teaser: 'A mother bird fluttered over her stolen chicks, and he ordered them returned.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 35,
+    source: {
+      label: 'Sunan Abi Dawud 2675',
+      url: 'https://sunnah.com/abudawud:2675',
+      narrator: 'Abdullah ibn Mas\u2019ud (RA)',
+    },
+    body: [
+      'Abdullah ibn Mas\u2019ud (RA) was with the Messenger of Allah ﷺ on a journey when the Prophet ﷺ stepped away to ease himself.',
+      'The companions saw a bird with her two young ones, and they captured the young ones. The mother bird came and began to spread her wings in distress.',
+      'When the Prophet ﷺ returned and saw her, he said: \u201cWho grieved this bird for its young ones? Return its young ones to it.\u201d',
+      'On the same journey he saw an ant village they had burnt, and asked: \u201cWho has burnt this?\u201d When they said it was them, he said: \u201cIt is not proper to punish with fire except the Lord of fire.\u201d',
+    ],
+    lesson:
+      'Nothing was too small for his mercy, not a bird\u2019s grief, not an ant village. He taught them that strength is measured by what you refuse to harm.',
+  },
+  {
+    slug: 'jabir-camel',
+    title: 'Take Your Camel and Its Price',
+    teaser: 'He bought a tired camel from Jabir, then handed it back along with the money.',
+    category: 'Boundless Mercy',
+    era: 'Madinan Years',
+    order: 36,
+    source: {
+      label: 'Sahih al-Bukhari 1991',
+      url: 'https://sunnah.com/bukhari:1991',
+      narrator: 'Jabir ibn Abdullah (RA)',
+    },
+    body: [
+      'Jabir ibn Abdullah (RA) was riding a camel that had grown exhausted, so tired that he wanted to let it go.',
+      'The Prophet ﷺ caught up with him, offered supplication for him, and struck the camel, and it started moving energetically as Jabir had never seen it move before.',
+      'He said: \u201cSell it to me for one uqiyah.\u201d Jabir said no. He said again: \u201cSell it to me.\u201d So Jabir sold it to him for one uqiyah, stipulating that he be allowed to ride it home.',
+      'When Jabir arrived, he brought the camel to the Prophet ﷺ, who gave him its price. Then Jabir left, and the Prophet ﷺ sent someone after him and said: \u201cDid you think I bargained with you in order to take away your camel? Take your camel and its price, they are both yours.\u201d',
+    ],
+    lesson:
+      'He never used a bargain to take from someone he loved. He paid in full, and then gave the whole thing back.',
+  },
 ];
 
 export const pearlOrder = pearls
