@@ -6,17 +6,6 @@ import type { Moment } from '../types';
 
 const PAGE_SIZE = 9;
 
-function PearlEmblem() {
-  return (
-    <span className="pearl-emblem" aria-hidden="true">
-      <svg viewBox="0 0 32 32" fill="none">
-        <circle cx="16" cy="16" r="11" fill="#f4ead2" stroke="#a8842f" strokeWidth="1.6" />
-        <ellipse cx="12.5" cy="12" rx="4" ry="2.6" fill="#ffffff" opacity="0.75" transform="rotate(-24 12.5 12)" />
-      </svg>
-    </span>
-  );
-}
-
 export function PearlsIndex() {
   const ordered = useMemo(() => pearlOrder.map((s) => pearlBySlug[s]), []);
   const categories = useMemo(() => {
@@ -70,7 +59,7 @@ export function PearlsIndex() {
 
       <section className="pearl-spotlight reveal" data-delay="2" aria-label="Moment of the day">
         <p className="pearl-spot-kicker">
-          <PearlEmblem /> <span>Moment of the day</span>
+          <span>Moment of the day</span>
         </p>
         <a className="pearl-spot-card" href={'?p=' + spotlight.slug}>
           <span className="pearl-title">{spotlight.title}</span>
@@ -119,7 +108,6 @@ export function PearlsIndex() {
       <div className="pearl-grid">
         {visible.map((p) => (
           <a className="pearl-grid-card" href={'?p=' + p.slug} key={p.slug}>
-            <PearlEmblem />
             <span className="pearl-title">{p.title}</span>
             <span className="pearl-teaser">{p.teaser}</span>
             <span className="pearl-cat">{p.category}</span>
